@@ -1977,25 +1977,25 @@ ETC_20150317_001976	進行中
 ETC_20150317_001977	完成
 ETC_20150317_001978	成功
 ETC_20150317_001979	{Auto_1} of {Auto_2}
-ETC_20150317_001980	This belongs to another character.
-ETC_20150317_001981	Enter a quantity  ({Auto_1} ~ {Auto_2})
+ETC_20150317_001980	它屬於另外的一個角色
+ETC_20150317_001981	輸入數量  ({Auto_1} ~ {Auto_2})
 ETC_20150317_001982	This combination is not possible.
-ETC_20150317_001983	Deselected
+ETC_20150317_001983	取消選擇
 ETC_20150317_001984	Do you want to use your points to increase the {Auto_1} ability?
 ETC_20150317_001985	Do you want to use your skill points to increase this ability?
 ETC_20150317_001986	Do you want to use your skill points to learn a new skill?
-ETC_20150317_001987	Available Skill Points
+ETC_20150317_001987	可分配技能點
 ETC_20150317_001988	Category
-ETC_20150317_001989	Passive
+ETC_20150317_001989	被動
 ETC_20150317_001990	Enhance Skill
-ETC_20150317_001991	Available
-ETC_20150317_001992	All
+ETC_20150317_001991	可用
+ETC_20150317_001992	全部
 ETC_20150317_001993	Points
 ETC_20150317_001994	You do not have enough slots.
-ETC_20150317_001995	Quest List
-ETC_20150317_001996	Adventure Journal Updated
-ETC_20150317_001997	{#000000} item is not recorded in the journal.
-ETC_20150317_001998	This monster was not recorded in the journal.
+ETC_20150317_001995	任務列表
+ETC_20150317_001996	冒險日誌已更新
+ETC_20150317_001997	{#000000} 道具沒有記錄在日誌中。
+ETC_20150317_001998	這個魔物沒有記錄在日誌中。
 ETC_20150317_001999	Lance Mastery
 ETC_20150317_002000	Marksmanship
 ETC_20150317_002001	Tactical Action
@@ -2003,27 +2003,27 @@ ETC_20150317_002002	Physical Training
 ETC_20150317_002003	None
 ETC_20150317_002004	No increase
 ETC_20150317_002005	Lost
-ETC_20150317_002006	Gloves
-ETC_20150317_002007	Boots
-ETC_20150317_002008	Left Hand
-ETC_20150317_002009	Right
-ETC_20150317_002010	Two Handed
-ETC_20150317_002011	Body
+ETC_20150317_002006	手套
+ETC_20150317_002007	靴子
+ETC_20150317_002008	左手
+ETC_20150317_002009	右
+ETC_20150317_002010	雙手
+ETC_20150317_002011	身體
 ETC_20150317_002012	Belt
 ETC_20150317_002013	Enhance Potential
 ETC_20150317_002014	Cost: {Auto_1}
 ETC_20150317_002015	Time Required
-ETC_20150317_002016	{Auto_1} day(s)
-ETC_20150317_002017	{Auto_1} hour(s)
-ETC_20150317_002018	{Auto_1} minute(s)
-ETC_20150317_002019	{Auto_1} second(s)
-ETC_20150317_002020	{Auto_1} Year {Auto_2} Month {Auto_3} Day {Auto_4} Hr {Auto_5} min {Auto_6} sec
-ETC_20150317_002021	Completed Date
+ETC_20150317_002016	{Auto_1} 天
+ETC_20150317_002017	{Auto_1} 小時
+ETC_20150317_002018	{Auto_1} 分鐘
+ETC_20150317_002019	{Auto_1} 秒
+ETC_20150317_002020	{Auto_1} 年 {Auto_2} 月 {Auto_3} 日 {Auto_4} 小時 {Auto_5} 分鐘 {Auto_6} 秒
+ETC_20150317_002021	完成日期
 ETC_20150317_002022	Receive Back
 ETC_20150317_002023	Refund: {Auto_1}
 ETC_20150317_002024	Time added
 ETC_20150317_002025	I want to import the items
-ETC_20150317_002026	{Auto_1} Month {Auto_2} day
+ETC_20150317_002026	{Auto_1} 月 {Auto_2} 天
 ETC_20150317_002027	Failed to break record
 ETC_20150317_002028	Mercenary Archer
 ETC_20150317_002029	{Auto_1} ea left
@@ -2040,31 +2040,31 @@ ETC_20150317_002039	{Auto_2} {Auto_1}
 ETC_20150317_002040	Hit {Auto_1} time(s)
 ETC_20150317_002041	No attack
 ETC_20150317_002042	Overkill
-ETC_20150317_002043	Main
+ETC_20150317_002043	主頁
 ETC_20150317_002044	Sub
 ETC_20150317_002045	Received reward(s)!
 ETC_20150317_002046	Gift given by {Giver} to {Target}
-ETC_20150317_002047	Number
-ETC_20150317_002048	Receive
-ETC_20150317_002049	Buy
-ETC_20150317_002050	View Market
-ETC_20150317_002051	[Unavailable]
-ETC_20150317_002052	[Available]
-ETC_20150317_002053	[In Progress]
-ETC_20150317_002054	[Incomplete]
-ETC_20150317_002055	[Complete]
+ETC_20150317_002047	數量
+ETC_20150317_002048	接收
+ETC_20150317_002049	購買
+ETC_20150317_002050	查看市場
+ETC_20150317_002051	[不可用]
+ETC_20150317_002052	[可用]
+ETC_20150317_002053	[進行中]
+ETC_20150317_002054	[未完成]
+ETC_20150317_002055	[完成]
 ETC_20150317_002056	Repeatable
 ETC_20150317_002057	Collect Wood Essence
 ETC_20150317_002058	Offering blood of 黑色-Eyed Maize to the altar
 ETC_20150317_002059	Complete sticky dye!
 ETC_20150317_002060	Ritual Completed
-ETC_20150317_002061	{memo X}Copy
-ETC_20150317_002062	{memo X}Quit
+ETC_20150317_002061	{memo X}複製
+ETC_20150317_002062	{memo X}退出
 ETC_20150317_002063	Found the usable Shrine Offering Tools!
 ETC_20150317_002064	{memo X}This sphere would be useful if it wasn't damaged.
 ETC_20150317_002065	Purifying pollutants
 ETC_20150317_002066	{memo X}Pollutants have been purified.
-ETC_20150317_002067	The boss monster will use an AOE explosion in 2 seconds!
+ETC_20150317_002067	BOSS將在2秒內使用AOE爆炸！
 ETC_20150317_002068	HighBube_Spear: High Vubbe: 130
 ETC_20150317_002069	arburn_pokubu_green: 綠色 Pokuborn: 131
 ETC_20150317_002070	Meduja larvae is trying to execute a suicidal explosion!
@@ -2128,9 +2128,9 @@ ETC_20150317_002127	Damn it! Cutting a tree while thinking of a guy is wrong!
 ETC_20150317_002128	Do not come close! You'll get hurt!
 ETC_20150317_002129	Whoa.. That was tiresome ~
 ETC_20150317_002130	Hidden Desk
-ETC_20150317_002131	Zemyna
-ETC_20150317_002132	Ausrine
-ETC_20150317_002133	Vakarine
+ETC_20150317_002131	澤米娜
+ETC_20150317_002132	奧施麗涅
+ETC_20150317_002133	瓦卡麗涅
 ETC_20150317_002134	Correct! Good bye!
 ETC_20150317_002135	Wrong! Try again!
 ETC_20150317_002136	Scharffen Star
@@ -2245,17 +2245,17 @@ ETC_20150317_002244	You have placed the map in the collection tube
 ETC_20150317_002245	Picking up the map
 ETC_20150317_002246	Retrieved the map which was placed into the tube!
 ETC_20150317_002247	{memo X}As the blessing of altar, You can run very fast during 30 sec!
-ETC_20150317_002248	{memo X}I want to make a contribution of 100 silver.
-ETC_20150317_002249	{memo X}I want to make a contribution of 500 silver.
-ETC_20150317_002250	{memo X}I want to make a contribution of 1000 silver.
-ETC_20150317_002251	{memo X}I want to make a contribution of 40 silver.
-ETC_20150317_002252	{memo X}I want to make a contribution of 50 silver.
-ETC_20150317_002253	{memo X}I want to make a contribution of 100 silver.
-ETC_20150317_002254	{memo X}As promised, I donated 100 silver.
-ETC_20150317_002255	{memo X}As promised, I donated 500 silver.
-ETC_20150317_002256	{memo X}As promised, I donated 1000 silver.
-ETC_20150317_002257	{memo X}As promised, I donated 40 silver.
-ETC_20150317_002258	{memo X}As promised, I donated 50 silver.
+ETC_20150317_002248	{memo X}我想要貢獻 100 銀幣.
+ETC_20150317_002249	{memo X}我想要貢獻 500 銀幣.
+ETC_20150317_002250	{memo X}我想要貢獻 1000 銀幣.
+ETC_20150317_002251	{memo X}我想要貢獻 40 銀幣.
+ETC_20150317_002252	{memo X}我想要貢獻 50 銀幣.
+ETC_20150317_002253	{memo X}我想要貢獻 100 銀幣.
+ETC_20150317_002254	{memo X}按照約定，我捐贈 100 銀幣.
+ETC_20150317_002255	{memo X}按照約定，我捐贈 500 銀幣.
+ETC_20150317_002256	{memo X}按照約定，我捐贈 1000 銀幣.
+ETC_20150317_002257	{memo X}按照約定，我捐贈 40 銀幣.
+ETC_20150317_002258	{memo X}按照約定，我捐贈 50 銀幣.
 ETC_20150317_002259	Collecting Dewdrops
 ETC_20150317_002260	You have successfully collected dewdrops!
 ETC_20150317_002261	{memo X}Detected the monster which swallowed the flag to tear around here.{nl}Use V key for faith's mark!
@@ -2263,16 +2263,16 @@ ETC_20150317_002262	{memo X}A lighting fighter curses the sanctum
 ETC_20150317_002263	{memo X}The lighting fighter appeared as the power of faith's mark!
 ETC_20150317_002264	{memo X}Blessed from Sanctum, it is able to make a power attack during 10 sec!
 ETC_20150317_002265	{memo X}Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
-ETC_20150317_002266	Worship the Goddess Statue
-ETC_20150317_002267	Use warp
-ETC_20150317_002268	Worshiping
+ETC_20150317_002266	崇拜女神鵰像
+ETC_20150317_002267	使用傳送
+ETC_20150317_002268	祈禱中
 ETC_20150317_002269	Picking up flowers for offering
 ETC_20150317_002270	Plucked the flower!
 ETC_20150317_002271	{memo X}I lost in the fragrance of flowers.
 ETC_20150317_002272	Purchase
 ETC_20150317_002273	Offer 10 silver
 ETC_20150317_002274	{memo X}Offered 10 silver!
-ETC_20150317_002275	{memo X}As the blessing of sanctum, the recovery time will be increased during 10 sec!
+ETC_20150317_002275	{memo X}作為聖所的祝福，恢復時間將增加10秒！
 ETC_20150317_002276	Collecting dewdrops on the tombstone
 ETC_20150317_002277	Successfully collected the dewdrops!
 ETC_20150317_002278	You collected all the dewdrops in the leather pouch!
@@ -2302,12 +2302,12 @@ ETC_20150317_002301	{memo X}Withus made a sleep!
 ETC_20150317_002302	{memo X}Succeeded in releasing the trapped soul!
 ETC_20150317_002303	{memo X}The soul is going to attack! Defeat them first!
 ETC_20150317_002304	{memo X}Succeeded in hunting the trapped monsters!
-ETC_20150317_002305	Flower
+ETC_20150317_002305	花
 ETC_20150317_002306	Altar-bound Soul
 ETC_20150317_002307	{memo X}Collected the herb!
 ETC_20150317_002308	Bring the jar near the pond!
 ETC_20150317_002309	You have already collected the sap!
-ETC_20150317_002310	What is it?
+ETC_20150317_002310	這是什麼？
 ETC_20150317_002311	Archon seems to have recovered. Try talking to him!
 ETC_20150317_002312	In the description of the area where you picked up the music box
 ETC_20150317_002313	{memo X}The garbage is full.{nl}First to use the garbage and then re collect it.
@@ -2389,17 +2389,17 @@ ETC_20150317_002388	It's not Deadborn.
 ETC_20150317_002389	Why would I have followed it if it is Deadborn?
 ETC_20150317_002390	Deadborn in Saltistter? That doesn't make any sense.
 ETC_20150317_002391	Prerequisite: 
-ETC_20150317_002392	Level or higher
-ETC_20150317_002393	Level or below
-ETC_20150317_002394	Rank
-ETC_20150317_002395	Rank or higher
-ETC_20150317_002396	Rank below
-ETC_20150317_002397	Male characters only
-ETC_20150317_002398	Female characters only
-ETC_20150317_002399	Item
-ETC_20150317_002400	Item needed
-ETC_20150317_002401	 required
-ETC_20150317_002402	Subquest Conditions{nl}
+ETC_20150317_002392	級或以上
+ETC_20150317_002393	級或以下
+ETC_20150317_002394	排行
+ETC_20150317_002395	高階
+ETC_20150317_002396	低階
+ETC_20150317_002397	僅限於男性角色
+ETC_20150317_002398	僅限於女性角色
+ETC_20150317_002399	道具
+ETC_20150317_002400	必備道具
+ETC_20150317_002401	需要
+ETC_20150317_002402	副任務條件{nl}
 ETC_20150317_002403	You have not completed the pre-requisite of this quest. You cannot proceed with the party.
 ETC_20150317_002404	{memo X}Murky energy is flowing out. Run away.
 ETC_20150317_002405	{memo X}Successfully destroyed the Demon Summoner
@@ -2437,17 +2437,17 @@ ETC_20150317_002436	{memo X}You will not be able to put the Holy relics at home.
 ETC_20150317_002437	Insert the Holy Relic of Mercy
 ETC_20150317_002438	Insert the Holy Relic of Salvation
 ETC_20150317_002439	{memo X}Already waiting for the soul of the bishop Aurelius.
-ETC_20150317_002440	Checking
+ETC_20150317_002440	檢查中
 ETC_20150317_002441	You found the item underground
 ETC_20150317_002442	Nothing was found
-ETC_20150317_002443	Type
-ETC_20150317_002444	Attribute
-ETC_20150317_002445	x{Count} obtained
+ETC_20150317_002443	種類
+ETC_20150317_002444	特性
+ETC_20150317_002445	獲得 {Count} 個
 ETC_20150317_002446	{memo X}Found the reference related with Naktis
 ETC_20150317_002447	{memo X}Failed to find the reference related with Naktis
 ETC_20150317_002448	{memo X}Obtained the herb!
 ETC_20150317_002449	Device seems to be open
-ETC_20150317_002450	{memo X}Use a key.
+ETC_20150317_002450	{memo X}使用鑰匙。
 ETC_20150317_002451	{memo X}Just leave it
 ETC_20150317_002452	{memo X}Open the device to use the key.
 ETC_20150317_002453	{memo X}I know the place what you want to find.
@@ -2463,10 +2463,10 @@ ETC_20150317_002462	{memo X}OK..
 ETC_20150317_002463	Unseal device
 ETC_20150317_002464	Unsealing device
 ETC_20150317_002465	I use the 紅色 key
-ETC_20150317_002466	Use a 藍色 key
-ETC_20150317_002467	Use a purple key
-ETC_20150317_002468	Use a 綠色 key
-ETC_20150317_002469	Use a yellow key
+ETC_20150317_002466	使用藍色鑰匙
+ETC_20150317_002467	使用紫色鑰匙
+ETC_20150317_002468	使用綠色鑰匙
+ETC_20150317_002469	使用黃色鑰匙
 ETC_20150317_002470	Beads begin to glow
 ETC_20150317_002471	{memo X}There is no key.
 ETC_20150317_002472	Tips on solving the secret
@@ -2556,7 +2556,7 @@ ETC_20150317_002555	Using the Magic Crystal
 ETC_20150317_002556	Recovering the Holy Relic
 ETC_20150317_002557	Relic not detected
 ETC_20150317_002558	Detecting a Relic
-ETC_20150317_002559	{memo X}Use Magic Scroll
+ETC_20150317_002559	{memo X}使用魔法卷軸
 ETC_20150317_002560	There was no reaction
 ETC_20150317_002561	The monster fainted
 ETC_20150317_002562	The monster exploded
@@ -2568,17 +2568,17 @@ ETC_20150317_002567	{memo X}Feel hunger and have a headache
 ETC_20150317_002568	{memo X}I'm full
 ETC_20150317_002569	Giving the meat to the Pilgrim
 ETC_20150317_002570	{memo X}Running the device
-ETC_20150317_002571	Additional damage {Auto_1}!
-ETC_20150317_002572	Absorption Physical {Auto_1}!
-ETC_20150317_002573	Absorption SP {Auto_1}!
-ETC_20150317_002574	Decreased cooldown by {Auto_1} seconds
-ETC_20150317_002575	Shield Hitter {Auto_1}!
-ETC_20150317_002576	Critical!
+ETC_20150317_002571	附加傷害 {Auto_1}！
+ETC_20150317_002572	吸收物理 {Auto_1}！
+ETC_20150317_002573	吸收SP {Auto_1}！
+ETC_20150317_002574	減少冷卻時間 {Auto_1} 秒
+ETC_20150317_002575	盾牌 Hitter {Auto_1}！
+ETC_20150317_002576	暴擊！
 ETC_20150317_002577	Immunity!
 ETC_20150317_002578	Provoke!
 ETC_20150317_002579	Reflection Damage!
-ETC_20150317_002580	Additional Auto_1} %% damage!
-ETC_20150317_002581	reduce {Auto_1} %% damage!
+ETC_20150317_002580	追加 {Auto_1} %% 傷害！
+ETC_20150317_002581	減少 {Auto_1} %% 傷害！
 ETC_20150317_002582	Remove Shield!
 ETC_20150317_002583	Counter!!
 ETC_20150317_002584	Attribute Weapon Attack + {Auto_1}%
@@ -2588,20 +2588,20 @@ ETC_20150317_002587	Adjust Rim Blow
 ETC_20150317_002588	Close Shot Penalty
 ETC_20150317_002589	Carve
 ETC_20150317_002590	Leave Guild
-ETC_20150317_002591	Party Request
-ETC_20150317_002592	Failed to create a party
-ETC_20150317_002593	The name of the party already exists
-ETC_20150317_002594	Leave the party
+ETC_20150317_002591	組隊邀請
+ETC_20150317_002592	建立組隊失敗
+ETC_20150317_002593	隊伍名已存在
+ETC_20150317_002594	離開隊伍
 ETC_20150317_002595	Questionnaire title is too long
-ETC_20150317_002596	Question
-ETC_20150317_002597	Vote
+ETC_20150317_002596	問題
+ETC_20150317_002597	投票
 ETC_20150317_002598	Set of access rights
 ETC_20150317_002599	Cannot join anymore
 ETC_20150317_002600	The party has acquired {Auto_1} EXP
 ETC_20150317_002601	Party level has increased to {Auto_1}
 ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
-ETC_20150317_002603	Joined {Auto_1}'s party
-ETC_20150317_002604	Created {Auto_1} party
+ETC_20150317_002603	加入 {Auto_1} 的隊伍
+ETC_20150317_002604	已建立 {Auto_1} 隊伍
 ETC_20150317_002605	{Inviter} has invited you to a party.{nl}Would you like to join?
 ETC_20150317_002606	{PC} is already a member of a party
 ETC_20150317_002607	You are not a member of a party
@@ -2610,28 +2610,28 @@ ETC_20150317_002609	Your party leader wants to disband the party {nl} Are you su
 ETC_20150317_002610	The party has been disbanded
 ETC_20150317_002611	{@st41b} If you are not a member of a party, check the information below to create a new one {/}
 ETC_20150317_002612	{@st41} Words of thanks {/}
-ETC_20150317_002613	{@st41} Name {/}
-ETC_20150317_002614	{@st43} Party Settings {/}
-ETC_20150317_002615	{@st41} Member Limit {/}
+ETC_20150317_002613	{@st41} 名稱 {/}
+ETC_20150317_002614	{@st43} 組隊設定 {/}
+ETC_20150317_002615	{@st41} 成員限制 {/}
 ETC_20150317_002616	{@st41b} Max {/}
-ETC_20150317_002617	{@st41} Entry Limit{/}
-ETC_20150317_002618	{@st41} Password {/}
-ETC_20150317_002619	{@st41} Preferred Class {/}
-ETC_20150317_002620	{@st41b} Random {/}
-ETC_20150317_002621	{@st41b} Warrior only {/}
-ETC_20150317_002622	{@st41b} Wizard only {/}
-ETC_20150317_002623	{@st41b} Archer only {/}
-ETC_20150317_002624	{@st41b} Cleric only {/}
-ETC_20150317_002625	{@st41b} Sorcerer only {/}
-ETC_20150317_002626	{@st41b} Public {/}
-ETC_20150317_002627	{@st41b} Private {/}
+ETC_20150317_002617	{@st41} 進入限制{/}
+ETC_20150317_002618	{@st41} 密碼 {/}
+ETC_20150317_002619	{@st41} 優先職業 {/}
+ETC_20150317_002620	{@st41b} 隨機 {/}
+ETC_20150317_002621	{@st41b} 僅戰士 {/}
+ETC_20150317_002622	{@st41b} 僅法師 {/}
+ETC_20150317_002623	{@st41b} 僅弓箭手 {/}
+ETC_20150317_002624	{@st41b} 僅牧師 {/}
+ETC_20150317_002625	{@st41b} 僅巫師 {/}
+ETC_20150317_002626	{@st41b} 公共 {/}
+ETC_20150317_002627	{@st41b} 私人 {/}
 ETC_20150317_002628	My Page
 ETC_20150317_002629	Last Visit
 ETC_20150317_002630	Open board and logout
 ETC_20150317_002631	iCoin cycle
 ETC_20150317_002632	You do not have any iCoin to give.
 ETC_20150317_002633	Enter the amount of iCoin you want to gift.
-ETC_20150317_002634	{Auto_2} ~ {Auto_1} ea
+ETC_20150317_002634	{Auto_2} ~ {Auto_1} 個
 ETC_20150317_002635	You received {Count} iCoin as a gift from {Giver}.
 ETC_20150317_002636	I gifted {Count} iCoin to {Receiver}.
 ETC_20150317_002637	{Giver} has not enough iCoin to gift.
@@ -2641,16 +2641,16 @@ ETC_20150317_002640	You do not have enough iCoin.
 ETC_20150317_002641	The mike cannot exceed {MaxByte} bytes.
 ETC_20150317_002642	This party does not exist.
 ETC_20150317_002643	Expel
-ETC_20150317_002644	Leave
-ETC_20150317_002645	Party Info
-ETC_20150317_002646	Make Party Leader
-ETC_20150317_002647	has declined the party request.
-ETC_20150317_002648	Do you want to join this party?
+ETC_20150317_002644	離開
+ETC_20150317_002645	隊伍信息
+ETC_20150317_002646	設置隊長
+ETC_20150317_002647	拒絕了組隊的邀請
+ETC_20150317_002648	你想要加入組隊？
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
 ETC_20150317_002650	You are already in a party
-ETC_20150317_002651	You are currently not in a party.
-ETC_20150317_002652	All
-ETC_20150317_002653	There are not enough party members.
+ETC_20150317_002651	沒有隊伍可加入
+ETC_20150317_002652	全部
+ETC_20150317_002653	沒有足夠的組隊成員
 ETC_20150317_002654	Available time of next quest
 ETC_20150317_002655	Quest can be progressed.
 ETC_20150317_002656	Reconnection wait time
@@ -2660,13 +2660,13 @@ ETC_20150317_002659	{memo X}All members must come to {MapName} to begin the Ques
 ETC_20150317_002660	Not all members are not together.
 ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
 ETC_20150317_002662	has left.
-ETC_20150317_002663	Normal
-ETC_20150317_002664	Shout
-ETC_20150317_002665	Party
+ETC_20150317_002663	普通
+ETC_20150317_002664	廣播
+ETC_20150317_002665	組隊
 ETC_20150317_002666	To {Who} and {Count} others
-ETC_20150317_002667	Chat Room List
-ETC_20150317_002668	This user does not exist.
-ETC_20150317_002669	Party Quest Area
+ETC_20150317_002667	聊天列表
+ETC_20150317_002668	這個使用者不存在
+ETC_20150317_002669	組隊任務區域
 ETC_20150317_002670	This user does not exist or is offline.
 ETC_20150317_002671	Enter the player's team name to invite.
 ETC_20150317_002672	{TargetName} and {Count} others
@@ -2691,13 +2691,13 @@ ETC_20150317_002690	You are currently the highest bidder of {Auto_1}.{/}
 ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
 ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
-ETC_20150317_002694	Confirm purchase?
-ETC_20150317_002695	Do you want to adopt this 同伴?
-ETC_20150317_002696	Seller
-ETC_20150317_002697	Sell Quantity
-ETC_20150317_002698	Unit Price
-ETC_20150317_002699	Total Price
-ETC_20150317_002700	Quantity
+ETC_20150317_002694	你想要購買?
+ETC_20150317_002695	你想要雇用這隻同伴?
+ETC_20150317_002696	出售人
+ETC_20150317_002697	出售數量
+ETC_20150317_002698	單價
+ETC_20150317_002699	總價
+ETC_20150317_002700	購買數量
 ETC_20150317_002701	Your selling price must be at least 0 Silver.
 ETC_20150317_002702	Your selling quantity must be higher than 0.
 ETC_20150317_002703	Your item has been successfully added on the Market.
@@ -2706,143 +2706,143 @@ ETC_20150317_002705	There are too many search results. Use more detailed search 
 ETC_20150317_002706	Are you sure you want to cancel the item registration?
 ETC_20150317_002707	Your item has been successfully canceled from the Market. {nl} Please check if you've received the item.
 ETC_20150317_002708	This equipped item cannot be added.
-ETC_20150317_002709	Private
-ETC_20150317_002710	Confirm
-ETC_20150317_002711	Price: Low to High
-ETC_20150317_002712	Price: High to Low
-ETC_20150317_002713	Newly Listed
+ETC_20150317_002709	匿名
+ETC_20150317_002710	確認購買
+ETC_20150317_002711	價格: 低到高
+ETC_20150317_002712	價格: 高到低
+ETC_20150317_002713	最新登記
 ETC_20150317_002714	Price entered must be at least 1.
 ETC_20150317_002715	Only skills that consume items are possible.
 ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
-ETC_20150317_002717	Bleeding Arrow
-ETC_20150317_002718	Penetrating Arrow
-ETC_20150317_002719	Explosive Arrow
+ETC_20150317_002717	出血箭
+ETC_20150317_002718	滲透箭
+ETC_20150317_002719	爆炸箭
 ETC_20150317_002720	[Craftable]
-ETC_20150317_002721	Stamina
-ETC_20150317_002722	Attack
-ETC_20150317_002723	Attacking Speed
-ETC_20150317_002724	Critical Rate
-ETC_20150317_002725	Durability
-ETC_20150317_002726	{memo X}Splash
-ETC_20150317_002727	Accuracy
-ETC_20150317_002728	Critical Resistance
-ETC_20150317_002729	{memo X}Splash Defense
-ETC_20150317_002730	INT
-ETC_20150317_002731	SPR
-ETC_20150317_002732	Skill Attack
-ETC_20150317_002733	Magic Resistance
+ETC_20150317_002721	耐力
+ETC_20150317_002722	攻擊力
+ETC_20150317_002723	攻擊速度
+ETC_20150317_002724	暴擊率
+ETC_20150317_002725	耐久
+ETC_20150317_002726	{memo X}濺射
+ETC_20150317_002727	命中率
+ETC_20150317_002728	暴擊抗性
+ETC_20150317_002729	{memo X}濺射防禦
+ETC_20150317_002730	智力
+ETC_20150317_002731	精神
+ETC_20150317_002732	技能攻擊
+ETC_20150317_002733	魔法抗性
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	Magic Attack
-ETC_20150317_002737	Magic Defense
+ETC_20150317_002736	魔法攻擊
+ETC_20150317_002737	魔法防禦
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	Gender
-ETC_20150317_002740	Maximum Socket(s)
+ETC_20150317_002740	最大插槽數
 ETC_20150317_002741	Sell to shop
 ETC_20150317_002742	交易 with player
 ETC_20150317_002743	Enhance Potential
 ETC_20150317_002744	Sell Price to Shop
-ETC_20150317_002745	Equip Level
-ETC_20150317_002746	Equip Class
+ETC_20150317_002745	裝備 等級
+ETC_20150317_002746	裝備 職業
 ETC_20150317_002747	Piercing
 ETC_20150317_002748	Slashing
 ETC_20150317_002749	Striking
 ETC_20150317_002750	Increase Area
 ETC_20150317_002751	Increase area of slash
-ETC_20150317_002752	Attack Range
-ETC_20150317_002753	Attack Angle
-ETC_20150317_002754	Block Rate
+ETC_20150317_002752	攻擊範圍
+ETC_20150317_002753	攻擊角度
+ETC_20150317_002754	格擋率
 ETC_20150317_002755	Repeated Hit
 ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
-ETC_20150317_002758	Possible
-ETC_20150317_002759	Not Available
-ETC_20150317_002760	Critical Attack
-ETC_20150317_002761	Critical Defense
-ETC_20150317_002762	Tradable
-ETC_20150317_002763	Un交易able
+ETC_20150317_002758	可能
+ETC_20150317_002759	不可用
+ETC_20150317_002760	暴擊攻擊
+ETC_20150317_002761	暴擊防禦
+ETC_20150317_002762	可交易
+ETC_20150317_002763	不可交易
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP Recovery
-ETC_20150317_002766	Cannot be sold
-ETC_20150317_002767	Fire Attack
-ETC_20150317_002768	Ice Attack
-ETC_20150317_002769	Poison Attack
-ETC_20150317_002770	Holy Attack
-ETC_20150317_002771	Dark Attack
-ETC_20150317_002772	Movement Speed
-ETC_20150317_002773	HP Recovery
-ETC_20150317_002774	Attack on Plant Type Targets
-ETC_20150317_002775	Attack on Beast Type Targets
-ETC_20150317_002776	Attack on Demon Type Targets
-ETC_20150317_002777	Attack on Mutant Type Targets
-ETC_20150317_002778	Wind Attack
-ETC_20150317_002779	Fire Resistance
-ETC_20150317_002780	Ice Resistance
-ETC_20150317_002781	Poison Resistance
-ETC_20150317_002782	Lightning Resistance
-ETC_20150317_002783	Holy Resistance
-ETC_20150317_002784	Dark Resistance
-ETC_20150317_002785	AoE Attack Ratio
-ETC_20150317_002786	AoE Defense Ratio
-ETC_20150317_002787	2% chance of additional damage by +300 when attacking
+ETC_20150317_002765	SP 回復
+ETC_20150317_002766	不能出售
+ETC_20150317_002767	火屬性攻擊
+ETC_20150317_002768	冰屬性攻擊
+ETC_20150317_002769	毒屬性攻擊
+ETC_20150317_002770	聖屬性攻擊
+ETC_20150317_002771	闇屬性攻擊
+ETC_20150317_002772	移動速度
+ETC_20150317_002773	HP 回復
+ETC_20150317_002774	植物類攻擊
+ETC_20150317_002775	野獸類攻擊
+ETC_20150317_002776	惡魔類攻擊
+ETC_20150317_002777	變異類攻擊
+ETC_20150317_002778	風屬性抗性
+ETC_20150317_002779	火屬性抗性
+ETC_20150317_002780	冰屬性抗性
+ETC_20150317_002781	毒屬性抗性
+ETC_20150317_002782	雷屬性抗性
+ETC_20150317_002783	聖屬性抗性
+ETC_20150317_002784	闇屬性抗性
+ETC_20150317_002785	AoE 攻擊比
+ETC_20150317_002786	AoE 防禦比
+ETC_20150317_002787	2%幾率增加300攻擊時的傷害
 ETC_20150317_002788	3% chance of receiving continuous damage amounting to 20% of max HP when attacked
 ETC_20150317_002789	4% chance of additional resistance +100 of all when attacked by magic
-ETC_20150317_002790	Lightning Attack
-ETC_20150317_002791	Knockback Power
-ETC_20150317_002792	Attack on Small Type Targets
-ETC_20150317_002793	Attack on Medium Type Targets
-ETC_20150317_002794	Attack on Large Type Targets
-ETC_20150317_002795	Block
-ETC_20150317_002796	Block Penetration
-ETC_20150317_002797	Attack on Cloth Armor Type
-ETC_20150317_002798	Attack on Leather Armor Type
-ETC_20150317_002799	Attack on Plate Armor Type
-ETC_20150317_002800	Attack on Fluid Armor Type
-ETC_20150317_002801	{memo X}Magic Penetration
+ETC_20150317_002790	雷屬性攻擊
+ETC_20150317_002791	擊退力
+ETC_20150317_002792	小型攻擊
+ETC_20150317_002793	中型攻擊
+ETC_20150317_002794	大型攻擊
+ETC_20150317_002795	格擋
+ETC_20150317_002796	格擋穿透
+ETC_20150317_002797	布甲類攻擊
+ETC_20150317_002798	皮甲類攻擊
+ETC_20150317_002799	鎧甲類攻擊
+ETC_20150317_002800	輕甲類攻擊
+ETC_20150317_002801	{memo X}魔法穿透
 ETC_20150317_002802	Item EXP
-ETC_20150317_002803	Shooting Distance
-ETC_20150317_002804	Speed
-ETC_20150317_002805	Attack on Insect Type Targets
-ETC_20150317_002806	Earth Attack
-ETC_20150317_002807	Earth Resistance
+ETC_20150317_002803	射擊距離
+ETC_20150317_002804	速度
+ETC_20150317_002805	昆蟲係攻擊
+ETC_20150317_002806	地屬性攻擊
+ETC_20150317_002807	地屬性抗性
 ETC_20150317_002808	Physical damage when mounted
 ETC_20150317_002809	Magic damage when mounted
 ETC_20150317_002810	Pierce Defense
 ETC_20150317_002811	Slash Defense
 ETC_20150317_002812	Strike Defense
-ETC_20150317_002813	Maximum Carry Weight
-ETC_20150317_002814	Very Easy
-ETC_20150317_002815	Easy
-ETC_20150317_002816	Normal
-ETC_20150317_002817	Hard
-ETC_20150317_002818	Very Hard
+ETC_20150317_002813	最大負重
+ETC_20150317_002814	非常簡單
+ETC_20150317_002815	簡單
+ETC_20150317_002816	普通
+ETC_20150317_002817	困難
+ETC_20150317_002818	非常困難
 ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
-ETC_20150317_002820	Area: 
-ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} {/}
+ETC_20150317_002820	地區：
+ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} 個 {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
-ETC_20150317_002824	Space Bar
-ETC_20150317_002825	 to start a conversation
-ETC_20150317_002826	Give up quest
-ETC_20150317_002827	Abandon
-ETC_20150317_002828	Warp to Completion Point
-ETC_20150317_002829	Objective: 
-ETC_20150317_002830	Warrior Type
-ETC_20150317_002831	{memo X}Wizard Type
-ETC_20150317_002832	{memo X}Archer Type
-ETC_20150317_002833	{memo X}Cleric Type
-ETC_20150317_002834	Sorcerer Type
-ETC_20150317_002835	Human Type
-ETC_20150317_002836	Devil Type
-ETC_20150317_002837	Plant Type
-ETC_20150317_002838	Beast Type
-ETC_20150317_002839	Mutant Type
+ETC_20150317_002824	空格
+ETC_20150317_002825	與NPC對話
+ETC_20150317_002826	放棄任務
+ETC_20150317_002827	放棄
+ETC_20150317_002828	傳送到完成區域
+ETC_20150317_002829	目標：
+ETC_20150317_002830	戰士系
+ETC_20150317_002831	{memo X}法師系
+ETC_20150317_002832	{memo X}弓手系
+ETC_20150317_002833	{memo X}牧師系
+ETC_20150317_002834	巫師系
+ETC_20150317_002835	人型
+ETC_20150317_002836	惡魔型
+ETC_20150317_002837	植物型
+ETC_20150317_002838	野獸型
+ETC_20150317_002839	變異型
 ETC_20150317_002840	Object
-ETC_20150317_002841	Insect Type
-ETC_20150317_002842	Cloth
-ETC_20150317_002843	Leather
-ETC_20150317_002844	Metal
-ETC_20150317_002845	Chain
+ETC_20150317_002841	昆蟲型
+ETC_20150317_002842	布衣
+ETC_20150317_002843	皮甲
+ETC_20150317_002844	金屬
+ETC_20150317_002845	鎖鏈
 ETC_20150317_002846	Fluid
 ETC_20150317_002847	{memo X}This mercenary already belongs to somebody else.
 ETC_20150317_002848	{memo X}The mercenary's level is higher than the PC's level.
