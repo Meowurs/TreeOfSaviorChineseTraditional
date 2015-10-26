@@ -1,4 +1,5 @@
-##通知 (2015/10/20 更新) 翻譯 by 喵星人翻譯組
+                     由「喵星人翻譯組」為您獻上 救世主之樹 正體中文翻譯 
+##通知 (2015/10/20 更新)
 <br>
 **WIKI 內的 編輯指南 已經更新！** <br>
 **送出你的 PULL REQUESTS 之前，請見 WIKI 條目 [編輯指南](https://github.com/miau9202/ChineseTraditionalTranslation/wiki/%E7%B7%A8%E8%BC%AF%E6%8C%87%E5%8D%97)。**
