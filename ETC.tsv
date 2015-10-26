@@ -10,7 +10,7 @@ ETC_20150317_000009	Hamming
 ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
 ETC_20150317_000011	奇連西
 ETC_20150317_000012	Originally stalks of plants, the Chinency have since evolved to their current form.
-ETC_20150317_000013	變異 奇連C
+ETC_20150317_000013	變異 奇連西
 ETC_20150317_000014	Jukopus
 ETC_20150317_000015	Very little is known about the Jukopus' internal structure.
 ETC_20150317_000016	藍色 Jukopus
@@ -1323,7 +1323,7 @@ ETC_20150317_001322	{memo X}Field of Ruins 37_2
 ETC_20150317_001323	{memo X}Field of Ruins 37_3
 ETC_20150317_001324	Pilgrimage Trail 48
 ETC_20150317_001325	Pilgrimage Trail 49
-ETC_20150317_001326	East 希奧利艾 Woods -past
+ETC_20150317_001326	East 希奧利艾 Woods -past (沒用的數據-TOS2CN)
 ETC_20150317_001327	{memo X}Forgotten Port -past
 ETC_20150317_001328	Woods of Attached Bridge -past
 ETC_20150317_001329	希奧利艾 50_1
@@ -2854,81 +2854,81 @@ ETC_20150317_002853	You have successfully changed your team name.
 ETC_20150317_002854	You have failed to change your team name.
 ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
 ETC_20150317_002856	This team name already exists.
-ETC_20150317_002857	Collection Effect
+ETC_20150317_002857	收藏品效果
 ETC_20150317_002858	List of acquired
 ETC_20150317_002859	Full list
 ETC_20150317_002860	You already have this collection
-ETC_20150317_002861	Collection
+ETC_20150317_002861	收藏品
 ETC_20150317_002862	A collection has been added.
 ETC_20150317_002863	{memo X}Only through the NPC can be registered.
 ETC_20150317_002864	Obtain {Auto_2} from {Auto_1}
 ETC_20150317_002865	#NAME?
-ETC_20150317_002866	explored
-ETC_20150317_002867	{Auto_1} Quest(s) cleared
-ETC_20150317_002868	{Auto_1} NPC(s) met
-ETC_20150317_002869	Score {Category}
-ETC_20150317_002870	Rank
-ETC_20150317_002871	Adventure
-ETC_20150317_002872	Exploration
-ETC_20150317_002873	Collection acquired {Auto_1}
-ETC_20150317_002874	Achievements earned {Auto_1}
-ETC_20150317_002875	Mission cleared {Auto_1}
-ETC_20150317_002876	Adventure Ranking
-ETC_20150317_002877	Collection completed {Auto_1}
-ETC_20150317_002878	Contents
+ETC_20150317_002866	探索率
+ETC_20150317_002867	{Auto_1} 任務完成
+ETC_20150317_002868	{Auto_1} NPC遇見
+ETC_20150317_002869	分數 {Category}
+ETC_20150317_002870	排行
+ETC_20150317_002871	冒險
+ETC_20150317_002872	探索區域
+ETC_20150317_002873	採集 {Auto_1}
+ETC_20150317_002874	取得成就 {Auto_1}
+ETC_20150317_002875	完成任務 {Auto_1}
+ETC_20150317_002876	冒險排行榜
+ETC_20150317_002877	收集完畢 {Auto_1}
+ETC_20150317_002878	內容
 ETC_20150317_002879	Set items
-ETC_20150317_002880	Acquired
-ETC_20150317_002881	Score earned
+ETC_20150317_002880	獲得
+ETC_20150317_002881	得分
 ETC_20150317_002882	Boss
-ETC_20150317_002883	Date
+ETC_20150317_002883	日期
 ETC_20150317_002884	Click to go to the item page.
 ETC_20150317_002885	Recent
-ETC_20150317_002886	Help
+ETC_20150317_002886	幫助
 ETC_20150317_002887	Enter the team name of your friend
-ETC_20150317_002888	Already in your Friends List
-ETC_20150317_002889	You have a new friend request.
-ETC_20150317_002890	Received requests
-ETC_20150317_002891	Sent requests
-ETC_20150317_002892	Declined requests
+ETC_20150317_002888	已經在你的朋友列表中
+ETC_20150317_002889	你收到一個新的朋友邀請
+ETC_20150317_002890	收到的請求
+ETC_20150317_002891	發出的請求
+ETC_20150317_002892	拒絕的請求
 ETC_20150317_002893	Buddies who are registered to TOS
 ETC_20150317_002894	Buddies who do not play TOS
 ETC_20150317_002895	Someone you may know
 ETC_20150317_002896	were together
 ETC_20150317_002897	Formed party
-ETC_20150317_002898	交易d
-ETC_20150317_002899	Block List
+ETC_20150317_002898	交易
+ETC_20150317_002899	黑名單列表
 ETC_20150317_002900	Played together {Count} time(s)
 ETC_20150317_002901	Formed a party together {Count} time(s)
-ETC_20150317_002902	交易d {Count} time(s)
-ETC_20150317_002903	Already in your block list.
-ETC_20150317_002904	Please enter the team name to block.
-ETC_20150317_002905	The name of your group is too long.
-ETC_20150317_002906	The contents of your memo is too long.
-ETC_20150317_002907	Memo Settings
-ETC_20150317_002908	{memo X}Group Settings ??
-ETC_20150317_002909	Enter Memo
-ETC_20150317_002910	Group Settings
-ETC_20150317_002911	Friend Request
-ETC_20150317_002912	Your friend request has been sent.
-ETC_20150317_002913	New Group
-ETC_20150317_002914	Block
-ETC_20150317_002915	Remove Group
-ETC_20150317_002916	Change Group Name
-ETC_20150317_002917	Are you sure you want to delete?
-ETC_20150317_002918	Unblock
+ETC_20150317_002902	交易 {Count} 次
+ETC_20150317_002903	已經在你的黑名單列表。
+ETC_20150317_002904	請輸入一個名字加入黑名單。
+ETC_20150317_002905	群組名太長了。
+ETC_20150317_002906	備註太長了。
+ETC_20150317_002907	設置備註
+ETC_20150317_002908	{memo X}群組設置 ▶
+ETC_20150317_002909	輸入備註
+ETC_20150317_002910	群組設置
+ETC_20150317_002911	朋友邀請
+ETC_20150317_002912	朋友邀請已經發送。
+ETC_20150317_002913	新建群組
+ETC_20150317_002914	屏蔽
+ETC_20150317_002915	刪除群組
+ETC_20150317_002916	修改群組名
+ETC_20150317_002917	你確定想要刪除？
+ETC_20150317_002918	取消屏蔽
 ETC_20150317_002919	The friend request was not sent.
 ETC_20150317_002920	Initial payment
-ETC_20150317_002921	More Info
+ETC_20150317_002921	更多
 ETC_20150317_002922	Position
-ETC_20150317_002923	Rank
-ETC_20150317_002924	{From} wants to 交易 with you.
-ETC_20150317_002925	The 交易 request was declined.
-ETC_20150317_002926	The 交易 was canceled.
-ETC_20150317_002927	The 交易 was successful. 
-ETC_20150317_002928	Send a 交易 request to {To}.
+ETC_20150317_002923	排行
+ETC_20150317_002924	{From} 想要與你交易
+ETC_20150317_002925	Trade request declined.
+ETC_20150317_002926	交易取消
+ETC_20150317_002927	交易成功
+ETC_20150317_002928	發送一個交易請求 {To}。
 ETC_20150317_002929	No save point specified
 ETC_20150317_002930	You have an item with less than 30% durability remaining.
-ETC_20150317_002931	You have an item with 0 durability.
+ETC_20150317_002931	你有一個道具耐久性等於0。
 ETC_20150317_002932	This equipped item cannot be consumed.
 ETC_20150317_002933	This enhanced item cannot be consumed.
 ETC_20150317_002934	Your enhanced item will be consumed. Are you sure you want to proceed?
@@ -2936,11 +2936,11 @@ ETC_20150317_002935	The field boss will appear in a while
 ETC_20150317_002936	This is a preparation function.
 ETC_20150317_002937	{@st59} Share this quest with your party members
 ETC_20150317_002938	{@st59} This quest is currently shown to party members
-ETC_20150317_002939	{Name}'s Quest
-ETC_20150317_002940	Searching...
-ETC_20150317_002941	Match found.
-ETC_20150317_002942	Waiting for entry
-ETC_20150317_002943	Moving
+ETC_20150317_002939	{Name}的任務
+ETC_20150317_002940	搜索中...
+ETC_20150317_002941	找到對戰。
+ETC_20150317_002942	等待進入
+ETC_20150317_002943	移動中
 ETC_20150317_002944	Game in progress
 ETC_20150317_002945	{memo X}PvP Shop
 ETC_20150317_002946	Size
@@ -2956,33 +2956,33 @@ ETC_20150317_002955	Large
 ETC_20150317_002956	Extra Large
 ETC_20150317_002957	Ghost
 ETC_20150317_002958	No Attribute
-ETC_20150317_002959	Fire
-ETC_20150317_002960	Water
-ETC_20150317_002961	Lightning
-ETC_20150317_002962	Poison
-ETC_20150317_002963	Dark
-ETC_20150317_002964	Holy
-ETC_20150317_002965	Earth
+ETC_20150317_002959	火
+ETC_20150317_002960	水
+ETC_20150317_002961	雷
+ETC_20150317_002962	毒
+ETC_20150317_002963	暗
+ETC_20150317_002964	聖
+ETC_20150317_002965	地
 ETC_20150317_002966	NA
 ETC_20150317_002967	Slash
 ETC_20150317_002968	Pierce
-ETC_20150317_002969	Strike
-ETC_20150317_002970	Magic
-ETC_20150317_002971	Physical
+ETC_20150317_002969	命中
+ETC_20150317_002970	魔法
+ETC_20150317_002971	物理
 ETC_20150317_002972	Distant
 ETC_20150317_002973	Fixation
 ETC_20150317_002974	Ground-based
 ETC_20150317_002975	Airborne Type
 ETC_20150317_002976	Elite
-ETC_20150317_002977	Last login: {Year} year(s) ago
-ETC_20150317_002978	Last login: {Month} month(s) ago
-ETC_20150317_002979	Last login: {Day} day(s) ago
-ETC_20150317_002980	Last login: {Hour} hour(s) ago
-ETC_20150317_002981	Last login: {Min} minute(s) ago
-ETC_20150317_002982	Last login: just now
+ETC_20150317_002977	登出：{Year} 年前
+ETC_20150317_002978	登出：{Month} 月前
+ETC_20150317_002979	登出：{Day} 天前
+ETC_20150317_002980	登出：{Hour} 小時前
+ETC_20150317_002981	登出：{Min} 分鐘前
+ETC_20150317_002982	登出：剛剛
 ETC_20150317_002983	Temporary space
-ETC_20150317_002984	{Auto_1} HP was recovered
-ETC_20150317_002985	{Auto_1} SP was recovered
+ETC_20150317_002984	{Auto_1} HP已經回復
+ETC_20150317_002985	{Auto_1} SP已經回復
 ETC_20150317_002986	Join
 ETC_20150317_002987	... Followed me!?!?
 ETC_20150317_002988	Type is whoever is near me!
@@ -3050,7 +3050,7 @@ ETC_20150317_003049	You already have that item
 ETC_20150317_003050	Obtained Canyon Bomb!
 ETC_20150317_003051	Box is locked!
 ETC_20150317_003052	's
-ETC_20150317_003053	Silver
+ETC_20150317_003053	銀幣
 ETC_20150317_003054	Trying to drop item without monster
 ETC_20150317_003055	Skill is not available
 ETC_20150317_003056	Remove
@@ -3080,10 +3080,10 @@ ETC_20150317_003079	You led the soul to the Owl Sculpture!
 ETC_20150317_003080	Angry Soul
 ETC_20150317_003081	Revived Corpse
 ETC_20150317_003082	The soul made it to the Goddess Statue!
-ETC_20150317_003083	Successfully crafted.
-ETC_20150317_003084	{Auto_1} minutes {Auto_2} seconds remaining to craft the item
-ETC_20150317_003085	{Auto_1} seconds remaining to craft the item
-ETC_20150317_003086	Item successfully crafted
+ETC_20150317_003083	製作成功！
+ETC_20150317_003084	{Auto_1} 分 {Auto_2} 秒 後製作完成道具
+ETC_20150317_003085	{Auto_1} 秒 後製作完成道具
+ETC_20150317_003086	道具製作成功
 ETC_20150317_003087	{Auto_1} times left to create item
 ETC_20150317_003088	Is already generated
 ETC_20150317_003089	No session
@@ -3112,12 +3112,12 @@ ETC_20150317_003111	Give session to PC participant
 ETC_20150317_003112	End It tag
 ETC_20150317_003113	{memo X}A Treasure Vubbe has appeared!
 ETC_20150317_003114	The inhibiting group has been destroyed. Please start the quest again!
-ETC_20150317_003115	Close
+ETC_20150317_003115	關閉
 ETC_20150317_003116	Monument leading to the  second floor appeared
 ETC_20150317_003117	Monument leading to the  second floor appeared {nl}
 ETC_20150317_003118	Protect the group leader!
 ETC_20150317_003119	Stop them!
-ETC_20150317_003120	Help!
+ETC_20150317_003120	幫助！
 ETC_20150317_003121	Where did they come from??
 ETC_20150317_003122	Ugh!
 ETC_20150317_003123	Watch out for the monsters.
@@ -3135,8 +3135,8 @@ ETC_20150317_003134	on loop
 ETC_20150317_003135	owner_ssn not available
 ETC_20150317_003136	no parent PC available
 ETC_20150317_003137	SSN_OBJECT_STORAGE session not given
-ETC_20150317_003138	Accept Mission
-ETC_20150317_003139	Cancel
+ETC_20150317_003138	接受任務
+ETC_20150317_003139	取消
 ETC_20150317_003140	Can be 交易d right away through instant shop
 ETC_20150317_003141	Opening lock
 ETC_20150317_003142	Empty box
@@ -3145,9 +3145,9 @@ ETC_20150317_003144	{memo X}Guardian of the contract emerged!
 ETC_20150317_003145	Guardian of the contract
 ETC_20150317_003146	Box
 ETC_20150317_003147	Ask what's going on
-ETC_20150317_003148	Leave
+ETC_20150317_003148	別介意
 ETC_20150317_003149	I can't you grow something like a garden
-ETC_20150317_003150	Leave
+ETC_20150317_003150	離開
 ETC_20150317_003151	Ask if it wasn't a crush
 ETC_20150317_003152	Give a pat on the shoulder
 ETC_20150317_003153	No
@@ -3206,7 +3206,7 @@ ETC_20150317_003205	You need to go to the Goddess quickly
 ETC_20150317_003206	Why are there so many monsters suddenly?
 ETC_20150317_003207	Help!
 ETC_20150317_003208	I can't get out!
-ETC_20150317_003209	Please destroy this!
+ETC_20150317_003209	請破壞它！
 ETC_20150317_003210	Collecting Flame Vapor
 ETC_20150317_003211	Grita's Reflection
 ETC_20150317_003212	Be careful!
@@ -3215,22 +3215,22 @@ ETC_20150317_003214	What's that?
 ETC_20150317_003215	There's no time to chat!
 ETC_20150317_003216	You need to go fast
 ETC_20150317_003217	You..
-ETC_20150317_003218	Received damage
-ETC_20150317_003219	Dead
-ETC_20150317_003220	Click NPC
+ETC_20150317_003218	受到傷害
+ETC_20150317_003219	死亡
+ETC_20150317_003220	點擊 NPC
 ETC_20150317_003221	Within trigger range
 ETC_20150317_003222	Outside trigger range
 ETC_20150317_003223	I got the item
 ETC_20150317_003224	Item was discarded or stolen
-ETC_20150317_003225	Used item
-ETC_20150317_003226	Equipped item
-ETC_20150317_003227	Removed item
-ETC_20150317_003228	Used skill
-ETC_20150317_003229	Entered zone
-ETC_20150317_003230	Left the zone
-ETC_20150317_003231	Received buff
-ETC_20150317_003232	Removed buff
-ETC_20150317_003233	Removed all buffs
+ETC_20150317_003225	使用道具
+ETC_20150317_003226	裝備道具
+ETC_20150317_003227	刪除道具
+ETC_20150317_003228	使用技能
+ETC_20150317_003229	進入區域
+ETC_20150317_003230	離開區域
+ETC_20150317_003231	獲得 buff
+ETC_20150317_003232	移除 buff
+ETC_20150317_003233	移除所有 buff
 ETC_20150317_003234	BroadMSG reception
 ETC_20150317_003235	Receive UI events
 ETC_20150317_003236	Cast
@@ -3247,7 +3247,7 @@ ETC_20150317_003246	Altar of Magic
 ETC_20150317_003247	Obedient Owl Image
 ETC_20150317_003248	Jalias Truffle
 ETC_20150317_003249	The monster was attacked while comforting the souls!
-ETC_20150317_003250	Owl Statue
+ETC_20150317_003250	貓頭鷹 雕像
 ETC_20150317_003251	Fallen Carved Owl
 ETC_20150317_003252	Fierce Spirit
 ETC_20150317_003253	Grrrr... Grrrr...
@@ -3308,7 +3308,7 @@ ETC_20150317_003307	Putting up
 ETC_20150317_003308	You cannot pass because the monster is blocking the way. {nl}
 ETC_20150317_003309	Go back!
 ETC_20150317_003310	Piece of wood with diving power
-ETC_20150317_003311	ea obtained
+ETC_20150317_003311	個 獲得
 ETC_20150317_003312	Obtained the essence of soul
 ETC_20150317_003313	Are you telling me to die again?!
 ETC_20150317_003314	That's nonsense!
@@ -3346,7 +3346,7 @@ ETC_20150317_003345	And to do now!
 ETC_20150317_003346	Scary...
 ETC_20150317_003347	I want to run away but I can't...
 ETC_20150317_003348	Help me, you fools!
-ETC_20150317_003349	Retrieving
+ETC_20150317_003349	找回中
 ETC_20150317_003350	Empty Owl Sculpture
 ETC_20150317_003351	You took to gather the people!
 ETC_20150317_003352	Found the demonic monsters! {nl} Tell the Weak Owl Sculpture about it.
@@ -3407,11 +3407,11 @@ ETC_20150317_003406	Looks like a pillar that sculptor Hilda would like
 ETC_20150317_003407	Looks ugly
 ETC_20150317_003408	Obtained suspicious digging 裝備
 ETC_20150317_003409	Geppetto v2
-ETC_20150317_003410	] Complete standby can be passed
+ETC_20150317_003410	] 準備完成可以通過
 ETC_20150317_003411	{memo X}Anesthetic experiment successful!
 ETC_20150317_003412	Not the target that anesthetic was used on!
 ETC_20150317_003413	{memo X}Found the monster. Report to Lindt!
-ETC_20150317_003414	Found the monster!
+ETC_20150317_003414	發現魔物！
 ETC_20150317_003415	{memo X}Saugas is headed to camp. {nl} The merchant and historian are in danger!
 ETC_20150317_003416	{memo X}Wendigo appeared!
 ETC_20150317_003417	{memo X}HP Potion (Large) acquired!
@@ -3422,7 +3422,7 @@ ETC_20150317_003421	Large Saurmen Spearman
 ETC_20150317_003422	Company Ullman Axe
 ETC_20150317_003423	Tontulionv2
 ETC_20150317_003424	{memo X}Ask if he has the antidote
-ETC_20150317_003425	Give 100 silver
+ETC_20150317_003425	給100銀幣
 ETC_20150317_003426	{memo X}Ask if he has the medicine
 ETC_20150317_003427	Removing
 ETC_20150317_003428	{memo X}Already released.
@@ -3484,11 +3484,11 @@ ETC_20150317_003483	Griba
 ETC_20150317_003484	Evon
 ETC_20150317_003485	[Lure Sparnas] must be completed to pass through
 ETC_20150317_003486	Gelsbas High Pokubu
-ETC_20150317_003487	WARNING! CAUTION!{nl}Wrong Way!
+ETC_20150317_003487	警告！ 注意安全！ 錯誤的道路！
 ETC_20150317_003488	Sounds like a good song so let's copy it
 ETC_20150317_003489	Defeat the Chupacabras that raided the supply base!
 ETC_20150317_003490	Defeat the monsters!
-ETC_20150317_003491	Retrieved the supplies
+ETC_20150317_003491	找回了物資
 ETC_20150317_003492	{memo X}This box is suspicious. Stay away!
 ETC_20150317_003493	Purchase 裝備
 ETC_20150317_003494	Purchase Tools
@@ -3531,11 +3531,11 @@ ETC_20150317_003530	Get rid of the Kepas charging in!
 ETC_20150317_003531	Get rid of the Chinencys!
 ETC_20150317_003532	Defeat the Chinencys!
 ETC_20150317_003533	Get rid of the Hanamings!
-ETC_20150317_003534	Chase the Hamming!
-ETC_20150317_003535	Defeat the Large Kepa!
+ETC_20150317_003533	除掉 哈那米！
+ETC_20150317_003535	請除掉 巨型 凱帕!
 ETC_20150317_003536	Defeat the sealed 傀儡!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
-ETC_20150317_003538	Ask about the dream
+ETC_20150317_003538	詢問關於女神的夢
 ETC_20150317_003539	{memo X}Ask about the story
 ETC_20150317_003540	{memo X}Pester and ask about the story
 ETC_20150317_003541	{memo X}You must talk with the guards first
@@ -3543,7 +3543,7 @@ ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: T
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003544	{memo X}Seems like there is something below the cliff.
 ETC_20150317_003545	Keep Out{nl} Incinerating Kepas!
-ETC_20150317_003546	West 希奧利艾 Woods Camp
+ETC_20150317_003546	希奧利艾 西側森林 營地
 ETC_20150317_003547	Note! Hamin infested area
 ETC_20150317_003548	CAUTION! Large scale battles in progress
 ETC_20150317_003549	{memo X}It seems like someone has fallen under the cliff
@@ -3561,8 +3561,8 @@ ETC_20150317_003560	Show directions to the West Forest Camp
 ETC_20150317_003561	Company Ullman Warrior
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
-ETC_20150317_003564	Camp Movement : 
-ETC_20150317_003565	 activated
+ETC_20150317_003564	在營地間移動 :
+ETC_20150317_003565	 被啟用
 ETC_20150317_003566	Index UI
 ETC_20150317_003567	Item maintenance
 ETC_20150317_003568	Start it tag
@@ -3579,30 +3579,30 @@ ETC_20150317_003578	Gave {Auto_2} EXP to {Auto_1}.
 ETC_20150317_003579	{S20}{ol}{#ff1100} Received {Auto_2} EXP from {Auto_1}.{/}{/}{/}
 ETC_20150317_003580	You do not have enough EXP
 ETC_20150317_003581	Call session when there is no SessionObject XML. Call value:
-ETC_20150317_003582	Faster Movement Speed
-ETC_20150317_003583	Increase Constitution by +2
-ETC_20150317_003584	Increase Constitution by +5
-ETC_20150317_003585	Increase Constitution by +10
-ETC_20150317_003586	Increase Constitution by +20
-ETC_20150317_003587	Increase Attack by +2
-ETC_20150317_003588	Increase Attack by +5
-ETC_20150317_003589	Increase Attack by +10
-ETC_20150317_003590	Increase Attack by +20
-ETC_20150317_003591	Increase Dexterity by +5
-ETC_20150317_003592	Increase Dexterity by +10
-ETC_20150317_003593	Increase Dexterity by +20
-ETC_20150317_003594	Increase Constitution by +5. Move like a zombie
-ETC_20150317_003595	Increase Spirit by +2
-ETC_20150317_003596	Increase Spirit by +5
-ETC_20150317_003597	Increase Spirit by +10
-ETC_20150317_003598	Increase Spirit by +20
-ETC_20150317_003599	Increase Dark Attack by +10
-ETC_20150317_003600	Increase attack by +5 against Beast types, You can hear what the cat said..
-ETC_20150317_003601	Increase SP recovery by +2
+ETC_20150317_003582	更快的移動速度
+ETC_20150317_003583	增加體質 +2
+ETC_20150317_003584	增加體質 +5
+ETC_20150317_003585	增加體質+10
+ETC_20150317_003586	增加體質 +20
+ETC_20150317_003587	增加攻擊 +2
+ETC_20150317_003588	增加攻擊 +5
+ETC_20150317_003589	增加攻擊 +10
+ETC_20150317_003590	增加攻擊 +20
+ETC_20150317_003591	增加敏捷 +5
+ETC_20150317_003592	增加敏捷 +10
+ETC_20150317_003593	增加敏捷 +20
+ETC_20150317_003594	增加攻擊 +5. 像僵屍一樣移動
+ETC_20150317_003595	增加精神 +2
+ETC_20150317_003596	增加精神 +5
+ETC_20150317_003597	增加精神 +10
+ETC_20150317_003598	增加精神 +20
+ETC_20150317_003599	增加闇屬性攻擊 +10
+ETC_20150317_003600	增加攻擊 +5 against 野獸 types, You can hear what the cat said..
+ETC_20150317_003601	增加 SP 回復 +2
 ETC_20150317_003602	Feels like the chance to acquire item will increase
-ETC_20150317_003603	Increased Critical Chance
-ETC_20150317_003604	Increased Attack
-ETC_20150317_003605	Increased Defense
+ETC_20150317_003603	增加暴擊幾率
+ETC_20150317_003604	增加攻擊
+ETC_20150317_003605	增加防禦
 ETC_20150317_003606	Attack increased significantly
 ETC_20150317_003607	{memo X}Not a registered instant shop{nl}Register instant shop through the Tools Merchant to use
 ETC_20150317_003608	Instant shop (O)
@@ -3617,7 +3617,7 @@ ETC_20150317_003616	Absorbing Gem
 ETC_20150317_003617	Hello? Buy some flowers
 ETC_20150317_003618	Come in
 ETC_20150317_003619	Go out
-ETC_20150317_003620	Destroy
+ETC_20150317_003620	破壞
 ETC_20150317_003621	HP ({Auto_1}/{Auto_2})
 ETC_20150317_003622	Failed to reach goal because the defense has failed
 ETC_20150317_003623	Seconds to return to previous field
@@ -3680,14 +3680,14 @@ ETC_20150317_003679	Times hit
 ETC_20150317_003680	Mastered normal attack
 ETC_20150317_003681	Press and hold the key for continuous attack
 ETC_20150317_003682	Click the mouse for continuous attack
-ETC_20150317_003683	Return
+ETC_20150317_003683	返回
 ETC_20150317_003684	This can be used to return to the NPC quickly.
 ETC_20150317_003685	s HitMe
 ETC_20150317_003686	It tag ended! Achievements Points: {Auto_1}
 ETC_20150317_003687	It tag end!
 ETC_20150317_003688	Freeze: {Auto_1} / Player: {Auto_2} / Self-free: {Auto_3}
 ETC_20150317_003689	Escape tag
-ETC_20150317_003690	Demon
+ETC_20150317_003690	惡魔
 ETC_20150317_003691	No main session object in it tag min trigger
 ETC_20150317_003692	No it tag main trigger
 ETC_20150317_003693	It tag achievement points: {Auto_1} fails accumulated
@@ -3709,8 +3709,8 @@ ETC_20150317_003708	Modem Reflect
 ETC_20150317_003709	The attribute is not defined. Lua code modifications recommended
 ETC_20150317_003710	The attribute is not defined. Lua code modifications recommended
 ETC_20150317_003711	Congrats~ - I want to give you something but I'm to lazy
-ETC_20150317_003712	Level up successful
-ETC_20150317_003713	Level up failed
+ETC_20150317_003712	升級成功
+ETC_20150317_003713	升級失敗
 ETC_20150317_003714	L 3 occur when COMMON_QUEST_HANDLER PC is nil
 ETC_20150317_003715	NPC is not registered in NPCSelectDialog xml
 ETC_20150317_003716	L 251 occurs when SCR_QUEST_POSSIBLE PC is nil
@@ -3740,11 +3740,11 @@ ETC_20150317_003739	There is no function
 ETC_20150317_003740	There is no custom metabolism script function.
 ETC_20150317_003741	There is no specified function.
 ETC_20150317_003742	COMMON_QUEST_HANDLER Dlg UI of the PC which can occur when a nil L 2309
-ETC_20150317_003743	Quest
+ETC_20150317_003743	任務
 ETC_20150317_003744	Column syntax error
 ETC_20150317_003745	The start of the track
 ETC_20150317_003746	{Auto_2} track of {Auto_1} quest does not exist
-ETC_20150317_003747	Character
+ETC_20150317_003747	角色
 ETC_20150317_003748	Quest finished directing 1111111, Layer object:
 ETC_20150317_003749	Quest finished directing 2222222, layer objects EventName:
 ETC_20150317_003750	Quest finished directing 333333, PC Current Layer:
@@ -3770,12 +3770,12 @@ ETC_20150317_003769	wearing at least {/} armor will be of help
 ETC_20150317_003770	Open your inventory and right-click an item to equip
 ETC_20150317_003771	Wear the {@st54}Thick clothes{/} that you have.
 ETC_20150317_003772	There is {@st54} Think clothes {/}in the inventory so wear that
-ETC_20150317_003773	Your character level has increased
+ETC_20150317_003773	你角色等級已提升
 ETC_20150317_003774	Level up tx failure. Request levelup tx until successful
 ETC_20150317_003775	Keyboard
 ETC_20150317_003776	to increase stats
 ETC_20150317_003777	to learn Attributes
-ETC_20150317_003778	Your class level has increased
+ETC_20150317_003778	你的職業等級已提升
 ETC_20150317_003779	to learn skills
 ETC_20150317_003780	Monster regen success:
 ETC_20150317_003781	No monster regens nearby
@@ -3794,9 +3794,9 @@ ETC_20150317_003793	There are no quests available for this level range.
 ETC_20150317_003794	CANCEL selection or nil value
 ETC_20150317_003795	{/} Begin Quest
 ETC_20150317_003796	Quest In Progress NPC Talk
-ETC_20150317_003797	Quest Completed
+ETC_20150317_003797	任務完成
 ETC_20150317_003798	Show quest info in C: \
-ETC_20150317_003799	Give up Quest
+ETC_20150317_003799	放棄任務
 ETC_20150317_003800	Go to Start NPC
 ETC_20150317_003801	Go to In Progress NPC
 ETC_20150317_003802	Go to Completed NPC
