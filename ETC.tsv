@@ -3800,18 +3800,18 @@ ETC_20150317_003799	放棄任務
 ETC_20150317_003800	Go to Start NPC
 ETC_20150317_003801	Go to In Progress NPC
 ETC_20150317_003802	Go to Completed NPC
-ETC_20150317_003803	You do not meet the conditions. 
+ETC_20150317_003803	未能滿足條件。
 ETC_20150317_003804	Force Start
 ETC_20150317_003805	You cannot restart the quest while it is still in progress. You have to complete it first.
 ETC_20150317_003806	If you need to restart quest standby complete, complete the quest first
 ETC_20150317_003807	Can only be used when the quest is still in progress
 ETC_20150317_003808	Transaction error
 ETC_20150317_003809	This can only be used when the quest is progress or in standby mode. Current state:
-ETC_20150317_003810	Quest Starting Map:
+ETC_20150317_003810	任務開始地圖:
 ETC_20150317_003811	Start NPC:
-ETC_20150317_003812	 activated {nl}
-ETC_20150317_003813	 Use this to warp anywhere!
-ETC_20150317_003814	{memo Check if this appears in any other scenario. Don't put a $ here, changes linebreak.}You have not activated any other Goddess Statue, so you cant teleport yet.
+ETC_20150317_003812	啟用 {nl}
+ETC_20150317_003813	使用傳送到任何地方
+ETC_20150317_003814	你不能移動. 這裡沒有女神神像可使用
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
 ETC_20150317_003817	2. Select 希奧利艾 ??Select West 希奧利艾 Woods
@@ -3819,10 +3819,10 @@ ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
 ETC_20150317_003821	Repetitive
-ETC_20150317_003822	Endless loop
+ETC_20150317_003822	死循環
 ETC_20150317_003823	Talk to NPC
 ETC_20150317_003824	Item acquired
-ETC_20150317_003825	Use items
+ETC_20150317_003825	使用道具
 ETC_20150317_003826	of area
 ETC_20150317_003827	enter range
 ETC_20150317_003828	Automatically complete from quest session object when goal is achieved
@@ -3836,7 +3836,7 @@ ETC_20150317_003835	at least
 ETC_20150317_003836	Begin within time
 ETC_20150317_003837	Day checked within
 ETC_20150317_003838	time checked within
-ETC_20150317_003839	Quest completion conditions
+ETC_20150317_003839	任務完成情況
 ETC_20150317_003840	InvItem1 Monster
 ETC_20150317_003841	s ClassID =
 ETC_20150317_003842	(1 = 1/1000 probability)
@@ -3846,14 +3846,14 @@ ETC_20150317_003845	ClassID = of monster InvItem4
 ETC_20150317_003846	When quest starts (Start standby -> In Progress)
 ETC_20150317_003847	Change to the standby complete when talking to NPC
 ETC_20150317_003848	Quest complete at once (receive reward and complete quest)
-ETC_20150317_003849	ea
-ETC_20150317_003850	Quest In Progress
+ETC_20150317_003849	個
+ETC_20150317_003850	任務進行中
 ETC_20150317_003851	when quest (complete standby-> complete)
 ETC_20150317_003852	in QuestProgressCheck XML
 ETC_20150317_003853	ClassName is missing.
 ETC_20150317_003854	in SessionObject XML
-ETC_20150317_003855	 - Repeatable ({Auto_1}/{Auto_2})
-ETC_20150317_003856	 - Repeatable ({Auto_1}/infinite)
+ETC_20150317_003855	 - 重複 ({Auto_1}/{Auto_2})
+ETC_20150317_003856	 - 重複 ({Auto_1}/infinite)
 ETC_20150317_003857	Check how many quests are in progress. You can have up to 10 at once.
 ETC_20150317_003858	There is no quest information. Please try again.
 ETC_20150317_003859	Cannot give up auto start quest
@@ -3876,7 +3876,7 @@ ETC_20150317_003875	No Location
 ETC_20150317_003876	it tag monster does not appear
 ETC_20150317_003877	You have completed a guild request. Go back to receive a reward.
 ETC_20150317_003878	After successfully defeating a monster, move around to automatically obtain items
-ETC_20150317_003879	{Auto_1} players
+ETC_20150317_003879	{Auto_1} 玩家
 ETC_20150317_003880	Mine
 ETC_20150317_003881	Carriage of {Auto_1}
 ETC_20150317_003882	The entrance to the dungeon has opened
@@ -3921,7 +3921,7 @@ ETC_20150317_003920	Found body value
 ETC_20150317_003921	Remove effect
 ETC_20150317_003922	Add knockback +
 ETC_20150317_003923	Please click the desired location to move on the map.
-ETC_20150317_003924	Safe Zone
+ETC_20150317_003924	安全區域
 ETC_20150317_003925	No move
 ETC_20150317_003926	Drop
 ETC_20150317_003927	Shortage
@@ -4106,32 +4106,32 @@ ETC_20150317_004105	The column value must be greater than 0.
 ETC_20150317_004106	{Auto_1} exploration person
 ETC_20150317_004107	{Auto_1} We explored all the areas.
 ETC_20150317_004108	Check whether work or not
-ETC_20150317_004109	{@st59} Click to preview
+ETC_20150317_004109	{@st59} 點擊預覽
 ETC_20150317_004110	{@st41b} Using
 ETC_20150317_004111	Placement
 ETC_20150317_004112	Arrangement ({Auto_1})
-ETC_20150317_004113	{/}{nl}{s22} Do you want to delete this character?
-ETC_20150317_004114	{nl} {nl}{s22} Do you want to delete all your characters?
-ETC_20150317_004115	Enter your account ID
+ETC_20150317_004113	{/}{nl}{s22} 你確定要刪除此角色?
+ETC_20150317_004114	{nl} {nl}{s22} 你確定刪除所有角色?
+ETC_20150317_004115	輸入你的帳戶ID
 ETC_20150317_004116	You cannot set the default value of the slide
 ETC_20150317_004117	The number value of the current table:
 ETC_20150317_004118	Output the control set
 ETC_20150317_004119	Turning the value to original due to an error
 ETC_20150317_004120	You cannot change the value
-ETC_20150317_004121	Delete
+ETC_20150317_004121	刪除
 ETC_20150317_004122	Unlock the window
 ETC_20150317_004123	Creating a new window
 ETC_20150317_004124	Changing the Window Properties
 ETC_20150317_004125	Delete window
-ETC_20150317_004126	Time Left: 
+ETC_20150317_004126	剩餘時間：
 ETC_20150317_004127	I will not restore HP and SP.
 ETC_20150317_004128	Increase the STR and INT.
 ETC_20150317_004129	{@st42b}View Server Location{/}
 ETC_20150317_004130	{@st42b}View Node{/}
 ETC_20150317_004131	{@st42b}XAC Texture Path{/}
 ETC_20150317_004132	{@st42b}View Bounding Box{/}
-ETC_20150317_004133	Visit Lodge
-ETC_20150317_004134	Character Info
+ETC_20150317_004133	參觀房屋
+ETC_20150317_004134	查看
 ETC_20150317_004135	Inspection Component
 ETC_20150317_004136	Check default attributes
 ETC_20150317_004137	Check use skills
@@ -4150,14 +4150,14 @@ ETC_20150317_004149	{memo X}Do you want hire a mercenary? {nl}Consumes iCoin per
 ETC_20150317_004150	Consumable
 ETC_20150317_004151	Potion
 ETC_20150317_004152	Possible
-ETC_20150317_004153	{s18}{Auto_1}{Auto_2} Set Effect:
+ETC_20150317_004153	{s18}{Auto_1}{Auto_2} 件效果：
 ETC_20150317_004154	(Equipped)
 ETC_20150317_004155	(Unequipped)
-ETC_20150317_004156	Weapon
+ETC_20150317_004156	武器
 ETC_20150317_004157	裝備
 ETC_20150317_004158	] The [
 ETC_20150317_004159	Do you want to equip it to ]?
-ETC_20150317_004160	 Level
+ETC_20150317_004160	級
 ETC_20150317_004161	{#FFFF00}[{Auto_1}] achieved the <{Auto_2}> achievement.
 ETC_20150317_004162	{#FFFF00}{a SEARCH_FAME_RANK {Auto_1} {Auto_2}}[{Auto_3}] achieved <{Auto_4}> achievement.
 ETC_20150317_004163	Items cannot be used in the salon.
@@ -4171,15 +4171,15 @@ ETC_20150317_004170	The ClassName does already exist
 ETC_20150317_004171	{ol}{@st41b} Received silver: {Auto_1} {img Zeny 20 20}
 ETC_20150317_004172	{img {Auto_1} 20 20}{ol}{@st45w3}{s18} {Auto_2} Buff
 ETC_20150317_004173	Function is not nagging class:
-ETC_20150317_004174	Your inventory is full. {nl}
+ETC_20150317_004174	你的背包已滿。 {nl}
 ETC_20150317_004175	Enhancement{/}{/} or
 ETC_20150317_004176	Sell{/}{/}to {nl}key instant shops
 ETC_20150317_004177	A lot of enhancement materials. {nl}
 ETC_20150317_004178	Try item enhancement {/} {/}.
 ETC_20150317_004179	Upgradeable{nl}There are items.{nl}
-ETC_20150317_004180	Use a potion to restore your HP.
-ETC_20150317_004181	{nl} Shortcut: {#0000FF}
-ETC_20150317_004182	Use a potion to recover your SP.
+ETC_20150317_004180	你可以使用藥水來恢復HP。
+ETC_20150317_004181	{nl} 快捷鍵： {#0000FF}
+ETC_20150317_004182	你可以使用藥水, 來回復SP。
 ETC_20150317_004183	By using a potion, you will be able to recover Stamina
 ETC_20150317_004184	{s18}{#001100}You can raise your character's stats {nl} by leveling up.
 ETC_20150317_004185	Click apply {nl} after increasing stats by using buttons.
@@ -4196,29 +4196,29 @@ ETC_20150317_004195	{@st42}{b}{#ff9900} Mystagogue:
 ETC_20150317_004196	] Studying attribute.. (
 ETC_20150317_004197	Remaining minutes)
 ETC_20150317_004198	] Attribute will be learned soon! (1 minute)
-ETC_20150317_004199	 minutes required
-ETC_20150317_004200	 seconds required
-ETC_20150317_004201	{@st42b} Silver
-ETC_20150317_004202	{@st42_yellow}{s16} Maximum Level
-ETC_20150317_004203	{@st42_yellow}{s16} Learning attribute...
+ETC_20150317_004199	分鐘 需要
+ETC_20150317_004200	秒 需要
+ETC_20150317_004201	{@st42b} 銀幣
+ETC_20150317_004202	{@st42_yellow}{s16} 最高等級！
+ETC_20150317_004203	{@st42_yellow}{s16} 學習特性中...
 ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
 ETC_20150317_004205	Auction List
 ETC_20150317_004206	Cabinet
 ETC_20150317_004207	Recording Video
 ETC_20150317_004208	Are you sure you want to change your hairstyle? (Requires 100 iCoins)
-ETC_20150317_004209	 day(s)
-ETC_20150317_004210	 hour(s)
-ETC_20150317_004211	 min
-ETC_20150317_004212	 sec
+ETC_20150317_004209	天
+ETC_20150317_004210	小時
+ETC_20150317_004211	分鐘
+ETC_20150317_004212	秒
 ETC_20150317_004213	 selected
-ETC_20150317_004214	{nl}Are you ready to advance your character?{nl}(Cannot be changed until the next advancement.)
-ETC_20150317_004215	{@st44}Next Class Rank Information
+ETC_20150317_004214	{nl}你確定要進階你的角色？{nl}(不能在下個階段前更換。)
+ETC_20150317_004215	{@st44}下一階段信息
 ETC_20150317_004216	Current Job Information
 ETC_20150317_004217	{memo X}{@st43}Date :
 ETC_20150317_004218	{memo X}{@st43}Playtime :
-ETC_20150317_004219	{@st41} Shortcut
-ETC_20150317_004220	{@st41} Gesture
-ETC_20150317_004221	{@st41} Chat
+ETC_20150317_004219	{@st41} 快捷鍵
+ETC_20150317_004220	{@st41} 動作
+ETC_20150317_004221	{@st41} 文字
 ETC_20150317_004222	{@st41} Combo Configuration
 ETC_20150317_004223	{@st41} Battle Cry
 ETC_20150317_004224	{@st41b}Create{/}
@@ -4231,15 +4231,15 @@ ETC_20150317_004230	Run Script
 ETC_20150317_004231	Enter name
 ETC_20150317_004232	Please select at least one
 ETC_20150317_004233	{@st41} Gesture List
-ETC_20150317_004234	 [Main] 
-ETC_20150317_004235	{@st55_b}{b} Reward(s) {/}
-ETC_20150317_004236	{@st55_c} Experience:
+ETC_20150317_004234	[主線]
+ETC_20150317_004235	{@st55_b}{b} 獎勵 {/}
+ETC_20150317_004236	{@st55_c} 經驗：
 ETC_20150317_004237	Waiting for the other player to accept.
 ETC_20150317_004238	You cannot 交易 already equipped items.
 ETC_20150317_004239	You do not have enough funds.
 ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
-ETC_20150317_004241	{@st49} Save
-ETC_20150317_004242	{@st49} Select
+ETC_20150317_004241	{@st49} 保存
+ETC_20150317_004242	{@st49} 選擇
 ETC_20150317_004243	} Hello there
 ETC_20150317_004244	{memo X}{@st41b} Fold ??
 ETC_20150317_004245	{memo X}{@st41b} View details
@@ -4247,9 +4247,9 @@ ETC_20150317_004246	{s22} Do you want to discard?
 ETC_20150317_004247	Are you sure you want to discard [
 ETC_20150317_004248	]?
 ETC_20150317_004249	{#FFFF00}{s20}{ol}{b}Item Acquisition:
-ETC_20150317_004250	{Auto_1} min {Auto_2} seconds
-ETC_20150317_004251	Hit
-ETC_20150317_004252	Death
+ETC_20150317_004250	{Auto_1} 分 {Auto_2} 秒
+ETC_20150317_004251	命中
+ETC_20150317_004252	死亡
 ETC_20150317_004253	Place the material
 ETC_20150317_004254	Reset Selection
 ETC_20150317_004255	Save Group
@@ -4264,15 +4264,15 @@ ETC_20150317_004263	Select Group when you double-click
 ETC_20150317_004264	Fool (haha)
 ETC_20150317_004265	The amount is low.
 ETC_20150317_004266	Moni
-ETC_20150317_004267	 key has been assigned to 
-ETC_20150317_004268	 to your quick slot.
+ETC_20150317_004267	你可以使用
+ETC_20150317_004268	你可以使用自己的技能
 ETC_20150317_004269	Space bar \
-ETC_20150317_004270	{@st41} Key to start a conversation {/}
-ETC_20150317_004271	{@st41} Movement {/}
-ETC_20150317_004272	{@st41} Attack{/}
-ETC_20150317_004273	{@st41} Jump {/}
-ETC_20150317_004274	{@st41} Diagonal Movement {/}
-ETC_20150317_004275	{@st41} = diagonal {/}
+ETC_20150317_004270	{@st41} 對話框開始鍵 {/}
+ETC_20150317_004271	{@st41} 移動 {/}
+ETC_20150317_004272	{@st41} 攻擊{/}
+ETC_20150317_004273	{@st41} 跳躍 {/}
+ETC_20150317_004274	{@st41} 對角運動 {/}
+ETC_20150317_004275	{@st41} = 對角 {/}
 ETC_20150317_004276	{@st59} Even if a party member is far away, it won't disappear from the party list{/}
 ETC_20150317_004277	{@st59}If the state of quest proceeds is same with party, then share the quest{nl} This function will be activated when you check both character options. {/}
 ETC_20150317_004278	{@st59} Experience from killing monsters is shared between party members. {/}To enable this feature, all party members must activate it in the options. {/}
@@ -4289,15 +4289,15 @@ ETC_20150317_004288	{s22} Do you really want to abandon this request?
 ETC_20150317_004289	{s22} This quest is not progress.
 ETC_20150317_004290	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41}[{Auto_1}]{/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest? {nl}The quest can no longer be restarted after abandoning. 
 ETC_20150317_004291	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41} [{Auto_1}] {/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest?
-ETC_20150317_004292	{@st59}This quest will appear in the quest tracker on your right side once it is checked.{nl}You can track up to 5 quests.{/}
+ETC_20150317_004292	{@st59} 一旦被選中，任務跟蹤將出現在右邊{nl} 一次最多啟用5個任務 {/}
 ETC_20150317_004293	Available{/}
 ETC_20150317_004294	In progress {/}
 ETC_20150317_004295	Get rewarded {/}
 ETC_20150317_004296	{@st43} Carry out the mission
-ETC_20150317_004297	{@st41} Reward(s)
-ETC_20150317_004298	{@st41b} Experience:
-ETC_20150317_004299	{@st41} Required Item
-ETC_20150317_004300	{@st45tw} Forfeit
+ETC_20150317_004297	{@st41} 獎勵
+ETC_20150317_004298	{@st41b} 經驗：
+ETC_20150317_004299	{@st41} 所需道具
+ETC_20150317_004300	{@st45tw} 放棄
 ETC_20150317_004301	Do you want to move {nl} to this area?
 ETC_20150317_004302	{Auto_1} buff (completed)
 ETC_20150317_004303	{Auto_1} buff
@@ -4307,19 +4307,19 @@ ETC_20150317_004306	{memo X}{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Navigation R
 ETC_20150317_004307	{Cl}{s16}{ol}{#ffcc33}{Auto_1}{Auto_2} complete
 ETC_20150317_004308	{b} Reward(s)
 ETC_20150317_004309	EXP:
-ETC_20150317_004310	Please select your reward.
+ETC_20150317_004310	請選擇一個獎勵
 ETC_20150317_004311	{@st45w3}{s18}{Auto_1} 1
 ETC_20150317_004312	{@st41} repeat quests finalized {/}
-ETC_20150317_004313	{@st41} Select a reward
+ETC_20150317_004313	{@st41} 選擇一個獎勵
 ETC_20150317_004314	{@st41} Reward(s) {/}
-ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} ea
+ETC_20150317_004315	{s16} {ol} {Auto_1} {Auto_2} 個
 ETC_20150317_004316	{@st41b} Increase selected number
 ETC_20150317_004317	(iCoins {Auto_1} consumption)
-ETC_20150317_004318	Total Price: {Auto_1}
+ETC_20150317_004318	總價： {Auto_1}
 ETC_20150317_004319	Learn
 ETC_20150317_004320	{@st42b} Buy Back
 ETC_20150317_004321	{@st42b} Permanent Removal
-ETC_20150317_004322	{@st42b} Cancel
+ETC_20150317_004322	{@st42b} 取消
 ETC_20150317_004323	Circle
 ETC_20150317_004324	Do you want to level up your class?
 ETC_20150317_004325	Do you want to learn a class?
@@ -4331,21 +4331,21 @@ ETC_20150317_004330	Item Trading
 ETC_20150317_004331	{memo X}Mercenary Contract
 ETC_20150317_004332	Gesture
 ETC_20150317_004333	{s14}{b}{ds} Purchase Quantity
-ETC_20150317_004334	Total Price:
+ETC_20150317_004334	總價：
 ETC_20150317_004335	's Purchase Request
-ETC_20150317_004336	Total Price: {Auto_1}, Amount: {Auto_2} ea
-ETC_20150317_004337	's Bulletin Board
+ETC_20150317_004336	總價： {Auto_1}, 數量: {Auto_2} 個
+ETC_20150317_004337	's 公告板
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
-ETC_20150317_004340	{memo X}{@st59} Increase in Physical Attack and Critical Attack{/}
-ETC_20150317_004341	{@st59} Increases HP, HP Recovery, Critical Resistance, Maximum Carry Weight{/}
-ETC_20150317_004342	{memo X}{@st59} Increase in Magic Damage and Block Penetration{/}
-ETC_20150317_004343	{@st59} Increases Accuracy, Evasion and Critical Rate {/}
-ETC_20150317_004344	] Do you want to use this card?
-ETC_20150317_004345	Distance
-ETC_20150317_004346	{s16}{ol} Defense {/}{/}{/}{nl}{s18}{ol}
+ETC_20150317_004340	{memo X}{@st59} 增加物理攻擊和暴擊攻擊{/}
+ETC_20150317_004341	{@st59} 增加 HP, HP回復率, 暴擊抗性和最大道具欄{/}
+ETC_20150317_004342	{memo X}{@st59} 增加魔法傷害和穿刺格擋{/}
+ETC_20150317_004343	{@st59} 增加命中率，閃避率和暴擊攻擊 {/}
+ETC_20150317_004344	] 你想使用這張卡片嗎？
+ETC_20150317_004345	距離
+ETC_20150317_004346	{s16}{ol} 距離 {/}{/}{/}{nl}{s18}{ol}
 ETC_20150317_004347	{s16}{ol} Race {/}{/}
-ETC_20150317_004348	{s16}{ol} Defense {/}{/}{/}{s16}{ol}
+ETC_20150317_004348	{s16}{ol} 防禦 {/}{/}{/}{s16}{ol}
 ETC_20150317_004349	{@s16}{ol}{Auto_1} and {a VIEW_LIKERS {Auto_2}}{ul}{#8888FF}{Auto_3} {/}{/}{/} like {/}
 ETC_20150317_004350	{a OPEN_ACHIEVE 0}{#050505}{s24}[{Auto_1}]{nl}{s20} achievement obtained.{/}{/}
 ETC_20150317_004351	There is no information.
@@ -4354,9 +4354,9 @@ ETC_20150317_004353	Please enter a log
 ETC_20150317_004354	Please enter a log
 ETC_20150317_004355	Author: {Auto_1}{nl} Date: Value of {Auto_2}{nl} [{Auto_3}{Auto_4}{/}] change to {nl} [{Auto_5}{Auto_6}{/}] -> [{Auto_7}{ Auto_8}{/}] {nl}{nl}{#ffFF00} log {/}{nl}{Auto_9}
 ETC_20150317_004356	The number value was saved.
-ETC_20150317_004357	Walking Speed
-ETC_20150317_004358	Run Speed
-ETC_20150317_004359	Fixed Speed
+ETC_20150317_004357	走路速度
+ETC_20150317_004358	跑步速度
+ETC_20150317_004359	修正速度
 ETC_20150317_004360	{@st42b}{#FFFF00} Left-click to change the angle {/}
 ETC_20150317_004361	{@st42} Move:(Control + Drag), Delete (Right-click){/}
 ETC_20150317_004362	{@st42b} Please enter a location name {/}
@@ -4364,7 +4364,7 @@ ETC_20150317_004363	{@st42b} This name is already taken{/}
 ETC_20150317_004364	{@st42b} Movement {/}
 ETC_20150317_004365	{@st42b} My character's movement {/}
 ETC_20150317_004366	{@st42b} NPC Placement {/}
-ETC_20150317_004367	{@st42b} Cancel {/}
+ETC_20150317_004367	{@st42b} 取消 {/}
 ETC_20150317_004368	{@st42b} Change the angle {/}
 ETC_20150317_004369	{@st42b} Delete Anchor {/}
 ETC_20150317_004370	{@st42b} Appoint Range{/}
@@ -4375,10 +4375,10 @@ ETC_20150317_004374	There is no GenType
 ETC_20150317_004375	Appoint fixed skills
 ETC_20150317_004376	Remove fixed skills
 ETC_20150317_004377	{@st42b} Drag a zen type {/}
-ETC_20150317_004378	Menu
+ETC_20150317_004378	目錄
 ETC_20150317_004379	Change the number
-ETC_20150317_004380	Damage MIN
-ETC_20150317_004381	Damage MAX
+ETC_20150317_004380	最小傷害
+ETC_20150317_004381	最大傷害
 ETC_20150317_004382	The number has now learned abilities
 ETC_20150317_004383	Failed to collect.
 ETC_20150317_004384	Collected successfully.
