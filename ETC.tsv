@@ -6260,74 +6260,74 @@ ETC_20150317_006260	劍盾兵
 ETC_20150317_006261	奇襲以及瓦解敵人的戰鬥專家，可以使用盾牌防禦遠程攻擊。
 ETC_20150317_006262	侍從
 ETC_20150317_006263	忍者
-ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
-ETC_20150317_006265	Pyromancer
-ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
-ETC_20150317_006267	Cryomancer
-ETC_20150317_006268	Cryomancers use ice magic to freeze foes or protect their allies from enemies by using ice walls.
-ETC_20150317_006269	Psychokino
-ETC_20150317_006270	Psychokinos use psychokinesis to control gravity or pull enemies and throw them around.
-ETC_20150317_006271	Alchemist
-ETC_20150317_006272	{memo X}Sorcerers summon devils and control them.
-ETC_20150317_006273	Linker
-ETC_20150317_006274	Linkers link allies together to reduce the damage received or connect enemies to amplify the damage inflicted.
-ETC_20150317_006275	Chronomancer
+ETC_20150317_006264	法師使用魔法來阻止攻擊和保護自己。他們可以施放強大的和集中的法術，對單一或複數敵人造成傷害。
+ETC_20150317_006265	烈焰術士
+ETC_20150317_006266	使用強力的持續火魔法的烈焰術士可以攻擊和壓制很多敵人。
+ETC_20150317_006267	寒冰術士
+ETC_20150317_006268	使用冰的寒冰術士可以使用強力的魔法將敵人凍住或使用冰牆為同伴提供保護。
+ETC_20150317_006269	念力法師
+ETC_20150317_006270	念力法師是使用念力的職業，可以抓取敵人或者將他們扔出去。
+ETC_20150317_006271	煉金術士
+ETC_20150317_006272	{memo X}巫師是召喚惡魔的魔法師，可以操縱或搭乘被召喚的惡魔戰鬥。
+ETC_20150317_006273	鎖鏈法師
+ETC_20150317_006274	鎖鏈法師可以和同伴鏈接，減少傷害，同時也可以增幅敵人受到的傷害。
+ETC_20150317_006275	時空法師
 ETC_20150317_006276	{memo X}Si Mgician
-ETC_20150317_006277	Necromancer
-ETC_20150317_006278	{memo X}This class accumulates the dead parts of monsters. 
-ETC_20150317_006279	Thaumaturge
-ETC_20150317_006280	Thaumaturges use magic that changes the attributes and size of targets. They can shrink enemies or strengthen allies to aid them in battle.
-ETC_20150317_006281	{memo X}Elementalist
-ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
+ETC_20150317_006277	死靈術士
+ETC_20150317_006278	{memo X}死靈術士是使用利用屍體的魔法的魔法師，可以收集屍體攻擊敵人或者製造召喚物。
+ETC_20150317_006279	奇術士
+ETC_20150317_006280	奇術士會使用變換對方的屬性和狀態的魔法，可以使對方變化或者強化同伴的身體來輔助戰鬥。
+ETC_20150317_006281	{memo X}元素使
+ETC_20150317_006282	元素使是使用元素力量的魔法師，雖然擁有著強力的攻擊魔法，但是由於冷卻時間較長的關係，需要和同伴協力合作。
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	Archers use bows and various secondary 裝備.{nl}Their specialties are long range and moving attacks.
-ETC_20150317_006286	Hunter
-ETC_20150317_006287	Hunters are trainers who hunt enemies using 同伴s. 同伴s use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
-ETC_20150317_006288	Quarrel Shooter
-ETC_20150317_006289	Quarrel Shooters use a crossbow and shield for strategic combat. They can defend against long-range attacks and use catapult skills against approaching enemies.
-ETC_20150317_006290	Ranger
-ETC_20150317_006291	Rangers specialize in fighting against multiple enemies with their quick and long-range attacks.
-ETC_20150317_006292	Sapper
-ETC_20150317_006293	Sappers are archers who install traps and lure enemies into them.
-ETC_20150317_006294	Wugushi
-ETC_20150317_006295	Wugushis specialize in using various poisons to attack or bewitch enemies.
-ETC_20150317_006296	Hackapell
-ETC_20150317_006297	Scout
-ETC_20150317_006298	Scouts specialize in reconnaissance and infiltration. They use stealth to hide themselves and convey the enemy's situation to allies for an advantage in battle.
-ETC_20150317_006299	Schwarzer Reiter
-ETC_20150317_006300	Fletcher
+ETC_20150317_006285	弓箭手使用弓箭和各種輔助設備。他們的專長是長距離和移動攻擊。
+ETC_20150317_006286	獵人
+ETC_20150317_006287	獵人可以命令他的寵物攻擊敵人，寵物會盯住敵人或者尋找目標，與主人協力攻擊
+ETC_20150317_006288	弩箭手
+ETC_20150317_006289	使用盾牌和弩的弩箭手可以掩護自己戰鬥，防禦敵人的遠距離攻擊的同時可以用弩來接近和攻擊敵人
+ETC_20150317_006290	游俠
+ETC_20150317_006291	游俠會使用弓箭來遠距離攻擊敵人。
+ETC_20150317_006292	工兵
+ETC_20150317_006293	工兵會以設置陷阱來攻擊敵人。
+ETC_20150317_006294	巫蠱師
+ETC_20150317_006295	使用毒的巫蠱師會使用巫毒攻擊或者蠱惑敵人
+ETC_20150317_006296	重裝步兵
+ETC_20150317_006297	斥侯
+ETC_20150317_006298	偵查和滲透的特殊部隊，可以利用自身的特性為同伴提供情報，以此達到有利的目的。
+ETC_20150317_006299	黑騎士
+ETC_20150317_006300	造箭者
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	Clerics heal and protect allies through the blessings{nl}of the Goddess, while knocking down their enemies {nl}with powerful blows.
-ETC_20150317_006304	Priest
-ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
-ETC_20150317_006306	Krivis
-ETC_20150317_006307	Krivis are priests who use divine fire to help allies recover or to deal massive damage to the enemy.
-ETC_20150317_006308	Bokor
-ETC_20150317_006309	Bokors use voodoo skills to raise the dead or curse their enemies to attack them from afar.
-ETC_20150317_006310	Druid
-ETC_20150317_006311	Sadhu
-ETC_20150317_006312	Sadhu can use their soul to assault enemies with unseen attacks or convey their powers to other players.
-ETC_20150317_006313	Dievdirby
-ETC_20150317_006314	Dievdirbys carve and place holy statues which protect allies or attack enemies.
-ETC_20150317_006315	Oracle
-ETC_20150317_006316	Monk
-ETC_20150317_006317	Monks are clerics who train in martial arts through the blessing of the Goddess.
-ETC_20150317_006318	Pardoner
-ETC_20150317_006319	Pardoners are clerics who don't deny increasing their wealth through the Goddess's blessing.
-ETC_20150317_006320	Paladin 
-ETC_20150317_006321	Paladins use their holy power to protect allies and vanquish enemies through the blessings of the Goddess.
+ETC_20150317_006303	牧師擅長治療和保護盟友並擊倒敵人
+ETC_20150317_006304	聖水祭司
+ETC_20150317_006305	聖水祭司會使用聖水來為同伴恢復，並且可以用神聖的力量復活同伴
+ETC_20150317_006306	聖火祭司
+ETC_20150317_006307	聖火祭司是崇拜火焰的牧師一族，他們可以用聖火來為同伴恢復，同時可以給予敵人強力的傷害
+ETC_20150317_006308	邪靈祭司
+ETC_20150317_006309	使用巫蠱術的邪靈祭司可以召喚死亡的僵屍攻擊或詛咒敵人
+ETC_20150317_006310	德魯伊
+ETC_20150317_006311	聖者
+ETC_20150317_006312	聖者可以將自己的靈魂流體化，可以在讓敵人看不到的情況下活動，同時可以向同伴提供自己的力量
+ETC_20150317_006313	雕刻師
+ETC_20150317_006314	雕刻師會製造神聖的雕像，該雕像會攻擊敵方或者保護隊友
+ETC_20150317_006315	神諭師
+ETC_20150317_006316	武僧
+ETC_20150317_006317	武僧是修煉了武藝的強力的修道僧職業，使用鍛煉過的身體可以進行強力的打擊和防禦技術與敵人戰鬥
+ETC_20150317_006318	寬恕者
+ETC_20150317_006319	寬恕者是製造神聖道具的牧師職業，可以將神聖的技術道具化，或者製造可以抵擋詛咒的聖物提供給同伴
+ETC_20150317_006320	聖騎士
+ETC_20150317_006321	可以發揮強力的戰鬥力，聖騎士可以用聖光的力量保護同伴，是為了神而戰鬥的職業
 ETC_20150317_006322	Chaplain
 ETC_20150317_006323	Shepherd
 ETC_20150317_006324	GM
-ETC_20150317_006325	South Korea
-ETC_20150317_006326	Japan
-ETC_20150317_006327	China
-ETC_20150317_006328	Taiwan
-ETC_20150317_006329	Thailand
-ETC_20150317_006330	Singapore
-ETC_20150317_006331	USA
+ETC_20150317_006325	韓國
+ETC_20150317_006326	日本
+ETC_20150317_006327	中國
+ETC_20150317_006328	台灣
+ETC_20150317_006329	泰國
+ETC_20150317_006330	新加坡
+ETC_20150317_006331	美國
 ETC_20150317_006332	Found the 希奧利艾 Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff

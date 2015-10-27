@@ -2,7 +2,7 @@
 ETC_20150317_004812	棍   // Rod
 ETC_20150317_004813	法杖 // Staff
 ETC_20150317_004817	魔杖 // Wand
-
+ETC_20150317_006019 // 原檔缺失
 
 可改進的部分
 ETC_20150317_000714	黑色 薩滿娃娃
@@ -89,6 +89,19 @@ ETC_20150317_006040	{memo X}後位鍵
 ETC_20150317_006187	一種可以在地牢中找到的寶石. {nl}它裝備在道具插槽中可以強化裝備. {nl}右鍵可將其裝備在選擇的道具中，它可以產生更大的力量
 ETC_20150317_006187	一種可以在地牢中找到的寶石。 {nl} 可以裝備在插槽中來強化裝備。 {nl} 蓄能後寶石將發揮更強大的力量。 右鍵將寶石嵌入在選擇的裝備中。
 ETC_20150317_006251	使用長槍的重裝步兵的攻擊距離很遠，對中型級以上的魔物有額外傷害。
+ETC_20150317_006264	法師使用魔法來阻止攻擊和保護自己。他們可以施放強大的和集中的法術，在範圍內對單一或複數敵人造成傷害
+ETC_20150317_006270	念力法師是使用念力的職業，可以控制重力或者將他們扔出去
+ETC_20150317_006274	鎖鏈法師可以和同伴鏈接，減少傷害，同時也可以透過連結增加敵人受到的傷害
+ETC_20150317_006287	獵人可以命令他的同伴攻擊敵人。同伴會盯住敵人或者尋找隱藏目標，與主人協力攻擊。
+ETC_20150317_006291	游俠擅長使用快速與遠距離的攻擊面對大量的敵人。
+ETC_20150317_006293	工兵會設置並引誘敵人觸發陷阱。
+ETC_20150317_006295	巫蠱師擅長使用各種巫毒來攻擊或蠱惑敵人
+ETC_20150317_006298	偵查和滲透的特殊部隊，他們在戰鬥中隱匿自己的身形為同伴提供敵方情報。
+ETC_20150317_006303	牧師偕以女神的祝福治癒赫保護盟友，並用強大的力量擊倒敵人。
+ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
+ETC_20150317_006312	Sadhu can use their soul to assault enemies with unseen attacks or convey their powers to other players.
+ETC_20150317_006317	Monks are clerics who train in martial arts through the blessing of the Goddess.
+ETC_20150317_006319	Pardoners are clerics who don't deny increasing their wealth through the Goddess's blessing.
 
 
 
