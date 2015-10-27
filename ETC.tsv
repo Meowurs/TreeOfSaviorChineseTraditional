@@ -2263,7 +2263,7 @@ ETC_20150317_002262	{memo X}A lighting fighter curses the sanctum
 ETC_20150317_002263	{memo X}The lighting fighter appeared as the power of faith's mark!
 ETC_20150317_002264	{memo X}Blessed from Sanctum, it is able to make a power attack during 10 sec!
 ETC_20150317_002265	{memo X}Blessed from Sanctum, you will be received the spirit of divine during 10 sec!
-ETC_20150317_002266	崇拜女神鵰像
+ETC_20150317_002266	崇拜女神雕像
 ETC_20150317_002267	使用傳送
 ETC_20150317_002268	祈禱中
 ETC_20150317_002269	Picking up flowers for offering
@@ -4526,7 +4526,7 @@ ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber:
 ETC_20150317_004526	Monsters!
 ETC_20150317_004527	He's persistent!
 ETC_20150317_004528	Hello?
-ETC_20150317_004529	Welcome to Klaipeda.
+ETC_20150317_004529	歡迎來到 克萊佩達。
 ETC_20150317_004530	Knox Su~an
 ETC_20150317_004531	Yanpan
 ETC_20150317_004532	Alpha object
@@ -4658,9 +4658,9 @@ ETC_20150317_004657	Objective 6 = "
 ETC_20150317_004658	Quest Progress = ScpArgMsg ("Auto_NPCwa_DaeHwa_Si_wanLyoDaeKi_SangTaeLo_ByeonKyeong")
 ETC_20150317_004659	Quest Progress = ScpArgMsg("Auto_KweSeuTeu_wanLyo_CheoLiKkaJi_Han_Beone_SiKim(KweSeuTeu_BoSangeul_BatKo_KweSeuTeu_wanLyo)")
 ETC_20150317_004660	All Possession "
-ETC_20150317_004661	ea "
+ETC_20150317_004661	個 "
 ETC_20150317_004662	EXP = "
-ETC_20150317_004663	N/A
+ETC_20150317_004663	空
 ETC_20150317_004664	He
 ETC_20150317_004665	and the {Auto_1} statement is linked 2 Itodan
 ETC_20150317_004666	There is a new argument, make two groups!
@@ -4688,20 +4688,20 @@ ETC_20150317_004687	Please enter accurately:
 ETC_20150317_004688	while you pull out
 ETC_20150317_004689	During knock
 ETC_20150317_004690	{S16}{#f0dcaa} Level {nl}
-ETC_20150317_004691	Sorcerer
+ETC_20150317_004691	巫師
 ETC_20150317_004692	Number of selected items
 ETC_20150317_004693	Default
 ETC_20150317_004694	{nl}{#ff0000} The code is not supported. Please check the Datatree_tooltipset {nl}
-ETC_20150317_004695	{memo X}{#050505}{s18}{b} Socket Effect :
-ETC_20150317_004696	{#050505}{s22}{b} Item Effect :
-ETC_20150317_004697	{@st42} Use
+ETC_20150317_004695	{memo X}{#050505}{s18}{b} 插槽屬性：
+ETC_20150317_004696	{#050505}{s22}{b} 道具屬性：
+ETC_20150317_004697	{@st42} 使用
 ETC_20150317_004698	Shop for sale
 ETC_20150317_004699	Shop not for sale
 ETC_20150317_004700	Individual tradable
 ETC_20150317_004701	Individual transaction impossible
 ETC_20150317_004702	And when attached to the card socket,
 ETC_20150317_004703	This anvil does not match this type of 裝備
-ETC_20150317_004704	Event
+ETC_20150317_004704	活動
 ETC_20150317_004705	Devils
 ETC_20150317_004706	Where are you???
 ETC_20150317_004707	Unconfirmed
@@ -4710,29 +4710,29 @@ ETC_20150317_004709	{@st42b} My Adventure
 ETC_20150317_004710	Special compensation
 ETC_20150317_004711	{S20}{#050505} Attack:
 ETC_20150317_004712	{S20}{#050505} Defense:
-ETC_20150317_004713	You do not have enough silver.
+ETC_20150317_004713	你沒有足夠的銀幣。
 ETC_20150317_004714	This advancement quest has not been implemented yet.
-ETC_20150317_004715	Chat
-ETC_20150317_004716	{@st61} Normal Chat
+ETC_20150317_004715	聊天
+ETC_20150317_004716	{@st61} 普通聊天
 ETC_20150317_004717	And conversation
-ETC_20150317_004718	Normal Chat
-ETC_20150317_004719	Party Chat
-ETC_20150317_004720	Group
+ETC_20150317_004718	普通聊天
+ETC_20150317_004719	組隊聊天
+ETC_20150317_004720	群組
 ETC_20150317_004721	Invite to chat
-ETC_20150317_004722	System
+ETC_20150317_004722	系統
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
-ETC_20150317_004724	Minimum:
-ETC_20150317_004725	Maximum:
-ETC_20150317_004726	{@st43} Silver 0
-ETC_20150317_004727	{@st43} Silver
+ETC_20150317_004724	最小：
+ETC_20150317_004725	最大：
+ETC_20150317_004726	{@st43} 銀幣 0
+ETC_20150317_004727	{@st43} 銀幣
 ETC_20150317_004728	Discarded
-ETC_20150317_004729	{memo X}(Warp Scroll)
-ETC_20150317_004730	{memo X}Silver
-ETC_20150317_004731	{@st41b}Confirm{/}
-ETC_20150317_004732	{@st59} consumes silver to move to the area. {/}
+ETC_20150317_004729	{memo X}(傳送卷軸)
+ETC_20150317_004730	{memo X}銀幣
+ETC_20150317_004731	{@st41b}確認{/}
+ETC_20150317_004732	{@st59} 消耗銀幣移動到地點 {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
-ETC_20150317_004734	Maps
-ETC_20150317_004735	Maps Explored
+ETC_20150317_004734	地圖
+ETC_20150317_004735	地圖探索
 ETC_20150317_004736	{S20}{#00f00F} My Ranking:
 ETC_20150317_004737	Acquisition
 ETC_20150317_004738	No order
@@ -4742,7 +4742,7 @@ ETC_20150317_004741	No data
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
-ETC_20150317_004745	{@st43} Learn the basic controls of the game!
+ETC_20150317_004745	{@st43} 學習基礎操作!
 ETC_20150317_004746	(In the block)
 ETC_20150317_004747	Select your {@st41b} reward: {/}
 ETC_20150317_004748	No items
@@ -4751,17 +4751,17 @@ ETC_20150317_004750	{@st41} Damage Top 100
 ETC_20150317_004751	{@st41} Money Top 100
 ETC_20150317_004752	{@st41} Level-up Top 100
 ETC_20150317_004753	{@st48}{s20} Adventure Journal Top 100
-ETC_20150317_004754	{@st41}{#f0dcaa} Average damage
-ETC_20150317_004755	{@st41b} Ranking
-ETC_20150317_004756	{@st41}{#f0dcaa} Average kills
-ETC_20150317_004757	{@st41}{#f0dcaa} Average level
-ETC_20150317_004758	{@st41}{#f0dcaa} Average silver
+ETC_20150317_004754	{@st41}{#f0dcaa} 平均傷害
+ETC_20150317_004755	{@st41b} 排行
+ETC_20150317_004756	{@st41}{#f0dcaa} 平均殺死
+ETC_20150317_004757	{@st41}{#f0dcaa} 平均等級
+ETC_20150317_004758	{@st41}{#f0dcaa} 平均金錢
 ETC_20150317_004759	 obtained
-ETC_20150317_004760	 (using)
-ETC_20150317_004761	Ice
+ETC_20150317_004760	(激活)
+ETC_20150317_004761	冰
 ETC_20150317_004762	{@st41} icon
-ETC_20150317_004763	{@st41}List
-ETC_20150317_004764	{@st54}{b} Select Reward{/}
+ETC_20150317_004763	{@st41}列表
+ETC_20150317_004764	{@st54}{b} 選擇獎勵{/}
 ETC_20150317_004765	{memo X}Nudoku I was mounting the Son Bol pocket in Kochi.
 ETC_20150317_004766	Nudoku is available in Kochi!
 ETC_20150317_004767	Can be used in the tree Ferri!
@@ -4776,14 +4776,14 @@ ETC_20150317_004775	There is no PC
 ETC_20150317_004776	I drink a visible pollen stimulants
 ETC_20150317_004777	Meshumumaruko was found in the visible flowers!
 ETC_20150317_004778	Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum: Meshumu: 50 / Matsum_Big: Meshumuma: 51
-ETC_20150317_004779	Regarding the five Goddesses
-ETC_20150317_004780	About Goddess Ausrine
-ETC_20150317_004781	About Goddess Laima
-ETC_20150317_004782	About Goddess Gabija
-ETC_20150317_004783	About Goddess Zemyna
-ETC_20150317_004784	About Goddess Vakarine
-ETC_20150317_004785	Ask about Medzio Diena
-ETC_20150317_004786	Ask what happened next
+ETC_20150317_004779	關於五位女神
+ETC_20150317_004780	關於 女神 奧施麗涅
+ETC_20150317_004781	關於 女神 萊瑪
+ETC_20150317_004782	關於 女神 加比婭
+ETC_20150317_004783	關於 女神 澤米娜
+ETC_20150317_004784	關於 女神 瓦卡麗涅
+ETC_20150317_004785	詢問關於聖樹之日
+ETC_20150317_004786	詢問接下來發生了什麼
 ETC_20150317_004787	I found a lever handle latch!
 ETC_20150317_004788	{memo X}I found the information about the flow of horsepower.
 ETC_20150317_004789	{memo X}Special information cannot be found.
@@ -4807,29 +4807,29 @@ ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
 ETC_20150317_004808	Repair
 ETC_20150317_004809	Secondary 裝備
-ETC_20150317_004810	One-handed Sword
-ETC_20150317_004811	Two-handed Sword
-ETC_20150317_004812	Rod
-ETC_20150317_004813	Staff
-ETC_20150317_004814	Bow
-ETC_20150317_004815	Crossbow
-ETC_20150317_004816	Blunt
-ETC_20150317_004817	Wand
-ETC_20150317_004818	One-handed Spear
-ETC_20150317_004819	Two-handed Spear
-ETC_20150317_004820	Shield
-ETC_20150317_004821	Dagger
+ETC_20150317_004810	單手劍
+ETC_20150317_004811	雙手劍
+ETC_20150317_004812	棍
+ETC_20150317_004813	法杖
+ETC_20150317_004814	弓
+ETC_20150317_004815	弩
+ETC_20150317_004816	鈍器
+ETC_20150317_004817	魔杖
+ETC_20150317_004818	單手矛
+ETC_20150317_004819	雙手矛
+ETC_20150317_004820	盾
+ETC_20150317_004821	匕首
 ETC_20150317_004822	Woah, what's this taste?
 ETC_20150317_004823	It's so good!
 ETC_20150317_004824	*munch munch gulp gulp*
 ETC_20150317_004825	You must learn the necessary attribute to equip this item.
-ETC_20150317_004826	Learn immediately
-ETC_20150317_004827	Buy items for 同伴
-ETC_20150317_004828	Adopt 同伴
-ETC_20150317_004829	Train 同伴
-ETC_20150317_004830	Not available in Klaipeda.
+ETC_20150317_004826	立即學習
+ETC_20150317_004827	購買寵物道具
+ETC_20150317_004828	領養寵物
+ETC_20150317_004829	訓練寵物
+ETC_20150317_004830	在克萊佩達不可用。
 ETC_20150317_004831	Tool Shop
-ETC_20150317_004832	Benefits of having a 同伴
+ETC_20150317_004832	同伴的好處
 ETC_20150317_004833	{memo X}Defeat the monsters guarding the Demon magic circle.
 ETC_20150317_004834	Barrier of Pompra Hill activated!{nl}
 ETC_20150317_004835	Collecting Spiritually Enchanted Sap
@@ -4847,8 +4847,8 @@ ETC_20150317_004846	Rubbing
 ETC_20150317_004847	You can use the smoke bombs
 ETC_20150317_004848	{memo X}Did not take more than five!
 ETC_20150317_004849	{memo X}Caught more than five!
-ETC_20150317_004850	Monster [
-ETC_20150317_004851	] was provoked!
+ETC_20150317_004850	魔物 [
+ETC_20150317_004851	] 被激怒！
 ETC_20150317_004852	{memo X}Successful Phalanx field training!
 ETC_20150317_004853	This information has already been collected
 ETC_20150317_004854	Gathering stone rubbings
@@ -4882,14 +4882,14 @@ ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
 ETC_20150317_004883	Session List by made NPC creation without basic session
 ETC_20150317_004884	Please check the details of quest by pressing the key{nl}{@st50}Detailed information can be found through the help
-ETC_20150317_004885	  allows you to teleport back to the Quest NPC.{nl}{@st50}You may also click on the {img questinfo_return 40 40}  button.{/}
+ETC_20150317_004885	可以傳送回任務NPC處。{nl}{@st50}你可以按 {img questinfo_return 40 40} 鍵。{/}
 ETC_20150317_004886	{@st50}Key of the Quest Information{/}
 ETC_20150317_004887	The destroyer shaman doll has destroyed the Panto totem!
 ETC_20150317_004888	{memo X}The holy beads have been charged by attacking the Demon forces.
-ETC_20150317_004889	Status Point Distribution
-ETC_20150317_004890	Skill Point Distribution
-ETC_20150317_004891	Move to Klaipeda Entrance
-ETC_20150317_004892	Complete[300]
+ETC_20150317_004889	素質點分配
+ETC_20150317_004890	技能點分配
+ETC_20150317_004891	移動到 克萊佩達 入口
+ETC_20150317_004892	完成[300]
 ETC_20150317_004893	{memo X}The Gesti is near.{nl}Try to not get detected!
 ETC_20150317_004894	{memo X}Acquired a piece of barrier.{nl}Put into the central pillar
 ETC_20150317_004895	HIDE
@@ -5023,12 +5023,12 @@ ETC_20150317_005022	{memo X}The Mausoleum lanterns are being attacked by the gua
 ETC_20150317_005023	{memo X}Bearkaras' suppressed power has returned.
 ETC_20150317_005024	Panto_Rsword: Hot Panto Fighter: 50/Panto_Rspear: Hot Panto Spearman: 50/Panto_Rhand: Hot Panto: 50/Panto_Rstaff: Hot Panto Wizard: 51
 ETC_20150317_005025	製作
-ETC_20150317_005026	A Revelator?
+ETC_20150317_005026	關於啟示錄
 ETC_20150317_005027	Ask about the current situation
-ETC_20150317_005028	Ask about Medzio Diena
-ETC_20150317_005029	Ask about the disappearance of the Goddess
-ETC_20150317_005030	Ask what happened
-ETC_20150317_005031	I think you forgot to mention the Goddess Laima
+ETC_20150317_005028	詢問關於四年前發生的聖樹之日
+ETC_20150317_005029	詢問關於失蹤的女神
+ETC_20150317_005030	詢問發生了什麼
+ETC_20150317_005031	我想你忘了提到了 女神 萊瑪
 ETC_20150317_005032	You found a map with the King's Seal!
 ETC_20150317_005033	{memo X}The villagers were demons. {nl}Escape through the portal at the Fulgaram field!
 ETC_20150317_005034	About the Mage Tower
@@ -5109,7 +5109,7 @@ ETC_20150317_005108	{memo X}Stop him!
 ETC_20150317_005109	{memo X}Don't get caught while passing
 ETC_20150317_005110	Shall we move then?
 ETC_20150317_005111	{memo X}Defeat Glackuman!
-ETC_20150317_005112	Cryomancer's Magic Circle
+ETC_20150317_005112	寒冰術士的 魔法陣
 ETC_20150317_005113	{memo X}So just cool your head down from there
 ETC_20150317_005114	{memo X}What, what is it?
 ETC_20150317_005115	{memo X}Defeat Bebraspion!
@@ -5184,7 +5184,7 @@ ETC_20150317_005183	Defeat Shadowgaler
 ETC_20150317_005184	Defeat Minotaur!
 ETC_20150317_005185	Minotaur
 ETC_20150317_005186	Remarkable Vubbe Fighter
-ETC_20150317_005187	{memo X}Defeat the Oracle Master!
+ETC_20150317_005187	{memo X}擊敗 神諭師 導師！
 ETC_20150317_005188	Oh, you're here!
 ETC_20150317_005189	What's the occasion?
 ETC_20150317_005190	What?
@@ -5208,7 +5208,7 @@ ETC_20150317_005207	Defeat Deadborn!
 ETC_20150317_005208	Defeat Rajatoad!
 ETC_20150317_005209	{memo X}Monsters have appeared!
 ETC_20150317_005210	Oil Boxes
-ETC_20150317_005211	Broken Owl Statue
+ETC_20150317_005211	破碎的 貓頭鷹 雕像
 ETC_20150317_005212	Tombstone of an unknown soldier
 ETC_20150317_005213	Key Manager Hallowventer
 ETC_20150317_005214	Load of Necroventer
@@ -5222,10 +5222,10 @@ ETC_20150317_005221	Throneweaver has appeared!
 ETC_20150317_005222	Bait in place
 ETC_20150317_005223	Help me!
 ETC_20150317_005224	Skilled Mechanic
-ETC_20150317_005225	Where did the Goddess go..
-ETC_20150317_005226	Give us peace and salvation..
-ETC_20150317_005227	Please listen to our prayers..
-ETC_20150317_005228	For peace and happiness..
+ETC_20150317_005225	女神去哪了...
+ETC_20150317_005226	給我們和平與救贖...
+ETC_20150317_005227	請聽我們的禱告...
+ETC_20150317_005228	為了和平與幸福...
 ETC_20150317_005229	Look over there! The spiders are coming!
 ETC_20150317_005230	Liliya suddenly turned into a Carnivore!
 ETC_20150317_005231	{memo X}Carnivore Liliya
@@ -5316,9 +5316,9 @@ ETC_20150317_005315	Chapparition appeared and destroyed Kuzang's stuff!{nl}Pleas
 ETC_20150317_005316	Your luck ends here!!!!
 ETC_20150317_005317	Begone!!
 ETC_20150317_005318	{memo X}I-It's the 傀儡!
-ETC_20150317_005319	Aras
-ETC_20150317_005320	Now!
-ETC_20150317_005321	Demon
+ETC_20150317_005319	阿拉斯
+ETC_20150317_005320	就是現在！
+ETC_20150317_005321	惡魔
 ETC_20150317_005322	You fool
 ETC_20150317_005323	I will make you feel more pain
 ETC_20150317_005324	Local Herbalist
@@ -5335,7 +5335,7 @@ ETC_20150317_005334	Sounds like this!
 ETC_20150317_005335	 Hey you! Come with me!
 ETC_20150317_005336	Brann
 ETC_20150317_005337	The Herbalist from a while ago?
-ETC_20150317_005338	Spion!!!!!
+ETC_20150317_005338	史拜昂！！！！！
 ETC_20150317_005339	Feet
 ETC_20150317_005340	What do you mean?
 ETC_20150317_005341	For the moment being, from the 傀儡!
@@ -5419,115 +5419,115 @@ ETC_20150317_005418	{memo X}Stop the Royal Mausoleum guards from destroying it!
 ETC_20150317_005419	{memo X}Stop Bearkaras from destroying the Royal Mausoleum
 ETC_20150317_005420	Jar of Soul
 ETC_20150317_005421	{memo X}Intact Jar of Soul
-ETC_20150317_005422	Archer 2nd Circle required
-ETC_20150317_005423	Archer 3rd Circle required
-ETC_20150317_005424	Barbarian 2nd Circle required
-ETC_20150317_005425	Barbarian 3rd Circle required
-ETC_20150317_005426	Bokor 2nd Circle required
-ETC_20150317_005427	Bokor 3rd Circle required
-ETC_20150317_005428	{memo X}Cataphract 2nd Circle required
-ETC_20150317_005429	{memo X}Cataphract 3nd Circle required
-ETC_20150317_005430	Cleric 2nd Circle required
-ETC_20150317_005431	Cleric 3rd Cirlce required
-ETC_20150317_005432	Dievdirbys 2nd Circle required
-ETC_20150317_005433	{memo X}Dievdirbys 3rd Circle required
-ETC_20150317_005434	{memo X}Elementalist 2nd Circle required
-ETC_20150317_005435	{memo X}Elementalist 3rd Circle required
-ETC_20150317_005436	Pyromancer 2nd Circle required
-ETC_20150317_005437	Pyromancer 3rd Circle required
-ETC_20150317_005438	Cryomancer 2nd Circle required
-ETC_20150317_005439	Cryomancer 3rd Circle required
-ETC_20150317_005440	Highlander 2nd Circle required
-ETC_20150317_005441	{memo X}Highlander 3rd Circle required
-ETC_20150317_005442	Hoplite 2nd Circle required
-ETC_20150317_005443	Hoplite 3rd Circle required
-ETC_20150317_005444	Krivis 2nd Circle required
-ETC_20150317_005445	Krivis 3rd Circle required
-ETC_20150317_005446	{memo X}Linker 3rd Circle required
-ETC_20150317_005447	{memo X}Linker 2nd Circle required
-ETC_20150317_005448	Paladin 2nd Circle required
-ETC_20150317_005449	Paladin 3rd Circle required
-ETC_20150317_005450	Peltasta 2nd Circle required
-ETC_20150317_005451	Peltasta 3rd Circle required
-ETC_20150317_005452	Priest 2nd Circle required
-ETC_20150317_005453	Priest 3rd Circle required
-ETC_20150317_005454	{memo X}Psychokino 2nd Circle required
-ETC_20150317_005455	{memo X}Psychokino 3rd Circle required
-ETC_20150317_005456	Quarrel Shooter 2nd Circle required
-ETC_20150317_005457	{memo X}Quarrel Shooter 3rd Circle required
-ETC_20150317_005458	Ranger 2nd Circle required
-ETC_20150317_005459	Ranger 3rd Circle required
-ETC_20150317_005460	Rodelero 2nd Circle required
-ETC_20150317_005461	Rodelero 3rd Circle required
-ETC_20150317_005462	Sadhu 2nd Circle required
-ETC_20150317_005463	{memo X}Sadhu 3rd Circle required
-ETC_20150317_005464	Sapper 2nd Circle required
-ETC_20150317_005465	Sapper 3rd Circle required
-ETC_20150317_005466	Scout 2nd Circle required
-ETC_20150317_005467	Scout 3rd Circle required
-ETC_20150317_005468	Thaumaturge 2nd Circle required
-ETC_20150317_005469	Swordsman 2nd Circle required
-ETC_20150317_005470	Swordsman 3rd Circle required
-ETC_20150317_005471	Wizard 2nd Circle required
-ETC_20150317_005472	{memo X}Wizard 3rd Circle required
-ETC_20150317_005473	Wugushi 2nd Circle required
-ETC_20150317_005474	{memo X}Wugushi 3rd Circle required
+ETC_20150317_005422	弓箭手 2 階要求
+ETC_20150317_005423	弓箭手 3 階要求
+ETC_20150317_005424	野蠻人 2 階要求
+ETC_20150317_005425	野蠻人 3 階要求
+ETC_20150317_005426	邪靈祭司 2 階要求
+ETC_20150317_005427	邪靈祭司 3 階要求
+ETC_20150317_005428	{memo X}裝甲騎兵 2 階要求
+ETC_20150317_005429	{memo X}裝甲騎兵 3 階要求
+ETC_20150317_005430	牧師 2 階要求
+ETC_20150317_005431	牧師 3 階要求
+ETC_20150317_005432	雕刻師 2 階要求
+ETC_20150317_005433	{memo X}雕刻師 3 階要求
+ETC_20150317_005434	{memo X}元素使 2 階要求
+ETC_20150317_005435	{memo X}元素使 3 階要求
+ETC_20150317_005436	烈焰術士 2 階要求
+ETC_20150317_005437	烈焰術士 3 階要求
+ETC_20150317_005438	寒冰術士 2 階要求
+ETC_20150317_005439	寒冰術士 3 階要求
+ETC_20150317_005440	高地戰士 2 階要求
+ETC_20150317_005441	{memo X}高地戰士 3 階要求
+ETC_20150317_005442	重裝步兵 2 階要求
+ETC_20150317_005443	重裝步兵 3 階要求
+ETC_20150317_005444	聖火祭司 2 階要求
+ETC_20150317_005445	聖火祭司 3 階要求
+ETC_20150317_005446	{memo X}鎖鏈法師 3 階要求
+ETC_20150317_005447	{memo X}鎖鏈法師 2 階要求
+ETC_20150317_005448	聖騎士 2 階要求
+ETC_20150317_005449	聖騎士 3 階要求
+ETC_20150317_005450	輕裝盾兵 2 階要求
+ETC_20150317_005451	輕裝盾兵 3 階要求
+ETC_20150317_005452	聖水祭司 2 階要求
+ETC_20150317_005453	聖水祭司 3 階要求
+ETC_20150317_005454	{memo X}念力法師 2 階要求
+ETC_20150317_005455	{memo X}念力法師 3 階要求
+ETC_20150317_005456	弩箭手 2 階要求
+ETC_20150317_005457	{memo X}弩箭手 3 階要求
+ETC_20150317_005458	游俠 2 階要求
+ETC_20150317_005459	游俠 3 階要求
+ETC_20150317_005460	劍盾兵 2 階要求
+ETC_20150317_005461	劍盾兵 3 階要求
+ETC_20150317_005462	聖者 2 階要求
+ETC_20150317_005463	{memo X}聖者 3 階要求
+ETC_20150317_005464	工兵 2 階要求
+ETC_20150317_005465	工兵 3 階要求
+ETC_20150317_005466	斥侯 2 階要求
+ETC_20150317_005467	斥侯 3 階要求
+ETC_20150317_005468	奇術士 2 階要求
+ETC_20150317_005469	劍士 2 階要求
+ETC_20150317_005470	劍士 3 階要求
+ETC_20150317_005471	法師 2 階要求
+ETC_20150317_005472	{memo X}法師 3 階要求
+ETC_20150317_005473	巫蠱師 2 階要求
+ETC_20150317_005474	{memo X}巫蠱師 3 階要求
 ETC_20150317_005475	Ranking Test
 ETC_20150317_005476	Test Ranking
-ETC_20150317_005477	Best Damage
-ETC_20150317_005478	Maximum Damage
-ETC_20150317_005479	Beginning of the Savior
-ETC_20150317_005480	This title is given to players who participated in the CBT.
-ETC_20150317_005481	{memo X}Monster Ruler
-ETC_20150317_005482	{memo X}Defeated 100 monsters.
-ETC_20150317_005483	{memo X}Monster Conqueror
-ETC_20150317_005484	{memo X}Defeated 1,000 monsters.
-ETC_20150317_005485	{memo X}Monster Exterminator
-ETC_20150317_005486	{memo X}Defeated 10,000 monsters.
-ETC_20150317_005487	{memo X}Monster Hunter
-ETC_20150317_005488	{memo X}Defeated 100,000 monsters.
-ETC_20150317_005489	{memo X}The One Who Successfully Overkilled
-ETC_20150317_005490	{memo X}Achieved 100 Overkills
-ETC_20150317_005491	{memo X}Overkill Beginner
-ETC_20150317_005492	{memo X}Achieved 500 Overkills
-ETC_20150317_005493	{memo X}Overkill Master
-ETC_20150317_005494	{memo X}Achieved 1,000 Overkills
-ETC_20150317_005495	{memo X}Overkill God
-ETC_20150317_005496	{memo X}Achieved 3,000 Overkills
-ETC_20150317_005497	{memo X}Boss Ruler
-ETC_20150317_005498	{memo X}Defeated 100 boss monsters.
-ETC_20150317_005499	{memo X}Boss Conqueror
-ETC_20150317_005500	{memo X}Defeated 300 boss monsters.
-ETC_20150317_005501	{memo X}Boss Hunter
-ETC_20150317_005502	{memo X}Defeated 500 boss monsters.
+ETC_20150317_005477	最佳傷害
+ETC_20150317_005478	最大傷害
+ETC_20150317_005479	最初的救世主
+ETC_20150317_005480	這個稱號是給參加CBT的用戶。
+ETC_20150317_005481	{memo X}魔物統治者
+ETC_20150317_005482	{memo X}打敗了100個魔物。
+ETC_20150317_005483	{memo X}魔物征服者
+ETC_20150317_005484	{memo X}打敗了1000個魔物。
+ETC_20150317_005485	{memo X}魔物終結者
+ETC_20150317_005486	{memo X}打敗了10,000個魔物。
+ETC_20150317_005487	{memo X}獵魔人
+ETC_20150317_005488	{memo X}打敗了100,000個魔物。
+ETC_20150317_005489	{memo X}Overkill 成功者
+ETC_20150317_005490	{memo X}發動了 100 次Overkill
+ETC_20150317_005491	{memo X}Overkill 初心者
+ETC_20150317_005492	{memo X}發動了 500 次Overkill
+ETC_20150317_005493	{memo X}Overkill 大師
+ETC_20150317_005494	{memo X}發動了 1,000 次Overkill
+ETC_20150317_005495	{memo X}Overkill 神
+ETC_20150317_005496	{memo X}發動了 3,000 次Overkill
+ETC_20150317_005497	{memo X}Boss 統治者
+ETC_20150317_005498	{memo X}打敗了 100 個BOSS級魔物。
+ETC_20150317_005499	{memo X}Boss 征服者
+ETC_20150317_005500	{memo X}打敗了 300 個BOSS級魔物。
+ETC_20150317_005501	{memo X}Boss 獵人
+ETC_20150317_005502	{memo X}打敗了 500 個BOSS級魔物。
 ETC_20150317_005503	{memo X}Walking Dead
 ETC_20150317_005504	{memo X}Achieved by resurrecting at least 100 times using iCoin.
-ETC_20150317_005505	{memo X}製作 Beginner
-ETC_20150317_005506	{memo X}Succeeded 製作 10 times. Feels pretty good.
-ETC_20150317_005507	{memo X}製作 Apprentice
-ETC_20150317_005508	{memo X}Succeeded 製作 50 times. Getting more used to 製作.
-ETC_20150317_005509	{memo X}製作 Expert
-ETC_20150317_005510	{memo X}Succeeded 製作 100 times. Slowly building up wealth.
-ETC_20150317_005511	{memo X}製作 God
-ETC_20150317_005512	{memo X}Succeeded 製作 300 times. No words can describe this feeling.
-ETC_20150317_005513	{memo X}Challenger
-ETC_20150317_005514	{memo X}Knocked out 3 players.
-ETC_20150317_005515	Gladiator
-ETC_20150317_005516	{memo X}Knocked out 10 players.
-ETC_20150317_005517	{memo X}Commander of War
-ETC_20150317_005518	{memo X}Knocked out 20 players.
-ETC_20150317_005519	{memo X}God of War
-ETC_20150317_005520	{memo X}Knocked out 50 players.
+ETC_20150317_005505	{memo X}鍛造初學者
+ETC_20150317_005506	{memo X}成功製作了 10 次，哦喲~不錯哦！
+ETC_20150317_005507	{memo X}鍛造學徒
+ETC_20150317_005508	{memo X}成功製作了 50 次，開始慢慢做更多。
+ETC_20150317_005509	{memo X}鍛造專家
+ETC_20150317_005510	{memo X}成功製作了 100 次，慢慢累積財富。
+ETC_20150317_005511	{memo X}鍛造之神
+ETC_20150317_005512	{memo X}成功製作了 300 次，無法形容這種感受。
+ETC_20150317_005513	{memo X}高地戰士
+ETC_20150317_005514	{memo X}擊倒了 3 名玩家。
+ETC_20150317_005515	角鬥士
+ETC_20150317_005516	{memo X}擊倒了 10 名玩家。
+ETC_20150317_005517	{memo X}戰爭指揮官
+ETC_20150317_005518	{memo X}擊倒了 20 名玩家。
+ETC_20150317_005519	{memo X}戰爭之神
+ETC_20150317_005520	{memo X}擊倒了 50 名玩家。
 ETC_20150317_005521	Dejected People
 ETC_20150317_005522	{memo X}Monster Energy
-ETC_20150317_005523	{memo X}Been playing for 7 days.
+ETC_20150317_005523	{memo X}已經玩了7天。
 ETC_20150317_005524	Dae-Gil
 ETC_20150317_005525	Dae-Gil Stalker
 ETC_20150317_005526	{memo X}Annoyed Dae-Gil 100 times.
 ETC_20150317_005527	{memo X}Hair
-ETC_20150317_005528	{memo X}$'Cause I'm Special
+ETC_20150317_005528	{memo X}因為我很特別
 ETC_20150317_005529	{memo X}Visited beauty salon 3 times
-ETC_20150317_005530	Treasure Hunter
+ETC_20150317_005530	寶藏獵人
 ETC_20150317_005531	{memo X}Gained 20 treasure boxes from tomb raiding.
 ETC_20150317_005532	Tournament
 ETC_20150317_005533	{memo X}Tournament Fan Club
@@ -5542,16 +5542,16 @@ ETC_20150317_005541	Overkill Count
 ETC_20150317_005542	Player Kill Count
 ETC_20150317_005543	{memo X}Kepha Kill Count
 ETC_20150317_005544	Monster Kill Count
-ETC_20150317_005545	Resurrection Count
+ETC_20150317_005545	復活數
 ETC_20150317_005546	Boss Monster Kill Count
 ETC_20150317_005547	Tournament Gift
 ETC_20150317_005548	Quest Completion Count
 ETC_20150317_005549	Vegetable Cultivation Count
-ETC_20150317_005550	Succeeded Commission Count
+ETC_20150317_005550	任務完成數
 ETC_20150317_005551	Field Event Completion
 ETC_20150317_005552	Dae-Gil Conversation
-ETC_20150317_005553	Treasure Chests
-ETC_20150317_005554	Item 製作
+ETC_20150317_005553	寶藏獵人
+ETC_20150317_005554	道具製作
 ETC_20150317_005555	Beauty Salon
 ETC_20150317_005556	Access Count
 ETC_20150317_005557	World Exploration Score
@@ -5570,9 +5570,9 @@ ETC_20150317_005569	The Line for Fortune Breakfast
 ETC_20150317_005570	N/A
 ETC_20150317_005571	For Testing
 ETC_20150317_005572	Fire Swords Middle Guild
-ETC_20150317_005573	Hotel
+ETC_20150317_005573	旅館
 ETC_20150317_005574	Evaporation Office
-ETC_20150317_005575	Mountain Top
+ETC_20150317_005575	山頂
 ETC_20150317_005576	Baehyeon Moon
 ETC_20150317_005577	Bomung Top
 ETC_20150317_005578	Fire Swords Dock
@@ -5774,11 +5774,11 @@ ETC_20150317_005773	Armor
 ETC_20150317_005774	Temporarily reflects an attack by 20%.
 ETC_20150317_005775	Shock Absorption
 ETC_20150317_005776	Creates a protective barrier that temporarily blocks all incoming damage.
-ETC_20150317_005777	Movement Speed has decreased.
-ETC_20150317_005778	Attack Decrease
+ETC_20150317_005777	移動速度下降。
+ETC_20150317_005778	攻擊減少
 ETC_20150317_005779	Attack has decreased.
 ETC_20150317_005780	Rage of Helgasercle
-ETC_20150317_005781	Defense increased
+ETC_20150317_005781	防禦增加
 ETC_20150317_005782	Rage of Archon
 ETC_20150317_005783	Stickiness
 ETC_20150317_005784	Movement Speed has decreased due to stickiness.
@@ -5790,9 +5790,9 @@ ETC_20150317_005789	Temporarily increases your movement speed.
 ETC_20150317_005790	Return
 ETC_20150317_005791	Crystal Thorn
 ETC_20150317_005792	Continuous Recovery
-ETC_20150317_005793	HP recovers by 20% every 10 seconds.
-ETC_20150317_005794	Max Defense
-ETC_20150317_005795	Max Attack
+ETC_20150317_005793	HP每10秒回復 20%
+ETC_20150317_005794	最大防禦
+ETC_20150317_005795	最大攻擊
 ETC_20150317_005796	Strength Decrease
 ETC_20150317_005797	Your strength has decreased.
 ETC_20150317_005798	Slowed movement and mental strength is reduced.
@@ -5809,11 +5809,11 @@ ETC_20150317_005808	Strength has recovered.
 ETC_20150317_005809	Eye of Death
 ETC_20150317_005810	Death is waiting. You cannot use your skills.
 ETC_20150317_005811	Fury
-ETC_20150317_005812	Attack is increased by 100%.{nl}Immune to knockback and knockdown.
+ETC_20150317_005812	攻擊力增加 100%.{nl}免疫擊退和擊倒。
 ETC_20150317_005813	Revenge
 ETC_20150317_005814	Counter attack is possible.
 ETC_20150317_005815	Movement Speed has decreased by 50%
-ETC_20150317_005816	Cannot Attack
+ETC_20150317_005816	不能攻擊
 ETC_20150317_005817	Shock
 ETC_20150317_005818	Defense and Movement Speed has decreased
 ETC_20150317_005819	Exhaust
@@ -5891,71 +5891,71 @@ ETC_20150317_005890	Description1
 ETC_20150317_005891	{memo X}Simple Description
 ETC_20150317_005892	{memo X}Detailed Description
 ETC_20150317_005893	{memo X}Additional description of the image
-ETC_20150317_005894	Basic Functions
-ETC_20150317_005895	Movement
-ETC_20150317_005896	{memo X}            You can move by using the arrow keys.
-ETC_20150317_005897	Arrow Keys
+ETC_20150317_005894	基礎功能
+ETC_20150317_005895	移動
+ETC_20150317_005896	{memo X}你可以使用方向鍵移動。
+ETC_20150317_005897	方向鍵
 ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
 ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
-ETC_20150317_005900	{nl} {nl}Characters consume Stamina when moving.
-ETC_20150317_005901	{memo X}   Use jump to go over obstacles or climb higher areas.
-ETC_20150317_005902	{memo X}Press {img X 40 40} to make your character jump.
-ETC_20150317_005903	            Attack enemies within your attack range.
-ETC_20150317_005904	{memo X}Press {img Z 40 40} for normal attack.
-ETC_20150317_005905	{memo X}Hold down or keep pressing {img Z 40 40} to continuously attack.
-ETC_20150317_005906	{memo X}{nl} {nl} Press {img Ctrl 40 40} to lock target.
-ETC_20150317_005907	{memo X}{nl} {nl} Press {img Alt 40 40} to stop character movement immediately.
-ETC_20150317_005908	{memo X}Press {img SPACE_BIG 60 40} to face the current target.
-ETC_20150317_005909	{memo X}You can check your current location and important areas using the map.
-ETC_20150317_005910	{memo X}You can check your current location by pressing {img M 40 40}.{nl} {nl}
-ETC_20150317_005911	{memo X}{nl} {nl}The minimap icon displays the information of your current location in the area {nl} Show NPC {nl}{img minimap_leader 25 25}: This icon displays your current location. {nl}{img minimap_1_MAIN 25 25}: It displays the target area of a quest in progress. {nl}{img minimap_0 25 25}: It displays the location of important NPCs in the current area. {nl}{img minimap_goddess 25 25}: It displays the warp device in the current area. {nl}{img minimap_board 25 25}: This bulletin board displays the important information in the current area. {nl}{img minimap_portal 25 25}: It displays the path to move to the other area.{nl} {nl}
-ETC_20150317_005912	Undiscovered areas are not displayed on the map.
-ETC_20150317_005913	Only discovered areas are displayed on the map.
-ETC_20150317_005914	{memo X}You can check the World Map by pressing {img N 40 40}.{nl} Only discovered areas are displayed on the map.
-ETC_20150317_005915	{memo X}You can check the map of relevant area to drag mouse to the activated area.
-ETC_20150317_005916	Basic Info
-ETC_20150317_005917	Inventory
+ETC_20150317_005900	{nl} {nl}角色運動時消耗耐力。
+ETC_20150317_005901	{memo X}使用跳躍跳上障礙或爬上更高的地方。
+ETC_20150317_005902	{memo X}按 {img X 40 40} 使角色跳躍。
+ETC_20150317_005903	在攻擊範圍內攻擊敵人。
+ETC_20150317_005904	{memo X}按 {img Z 40 40} 普通攻擊。
+ETC_20150317_005905	{memo X}按下 {img Z 40 40} 不放連續攻擊。
+ETC_20150317_005906	{memo X}{nl} {nl} 按 {img Ctrl 40 40} 鎖定目標。
+ETC_20150317_005907	{memo X}{nl} {nl} 按 {img Alt 40 40} 使角色立即停止移動。
+ETC_20150317_005908	{memo X}按 {img SPACE_BIG 60 40} 面對當前的目標
+ETC_20150317_005909	{memo X}你可以在地圖上查看你的當前位置和重要區域
+ETC_20150317_005910	{memo X}你可以按 {img M 40 40}來確認當前位置{nl} {nl}
+ETC_20150317_005911	{memo X}{nl} {nl}迷你地圖顯示區域中你的位置信息 {nl} 顯示 NPC {nl}{img minimap_leader 25 25}: 這個圖標顯示你當前的位置. {nl}{img minimap_1_MAIN 25 25}: 這個顯示進行中的任務的目標區域. {nl}{img minimap_0 25 25}: 這個顯示當前區域中重要的NPC位置. {nl}{img minimap_女神 25 25}: 這個顯示當前區域中傳送設備. {nl}{img minimap_board 25 25}: 這個顯示當前區域中重要信息的公告板. {nl}{img minimap_portal 25 25}: 這個顯示移動到其他區域的路徑.{nl} {nl}
+ETC_20150317_005912	未探索區域將不會顯示在地圖中。
+ETC_20150317_005913	只有探索過的區域會顯示在地圖上。
+ETC_20150317_005914	{memo X}你可以按 {img N 40 40}查看世界地圖.{nl} 只有探索過的地方才會被顯示
+ETC_20150317_005915	{memo X}你可以查看相關區域的地圖，拖動滑鼠到探索過的區域
+ETC_20150317_005916	基本信息
+ETC_20150317_005917	背包
 ETC_20150317_005918	{memo X}Your inventory displays items and materials you own, currently equipped items and its weight.
-ETC_20150317_005919	{memo X}You can open the inventory window by pressing {img F2 40 40}.
+ETC_20150317_005919	{memo X}你可以按{img F2 40 40}來打開背包.
 ETC_20150317_005920	{memo X}{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
 ETC_20150317_005921	{memo X}{nl} {nl}The middle row of your inventory displays items.{nl}These items are sorted by category.{nl} {nl}
 ETC_20150317_005922	{memo X}{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current silver.{nl} {nl}
 ETC_20150317_005923	{memo X}You can check the information on your quests through the quest window.
-ETC_20150317_005924	{memo X}Press the {img F5 40 40} key to view the list of quests in progress. {nl} {nl}
-ETC_20150317_005925	{nl} {nl} Quest Progress Indicators{nl} {img minimap_1_MAIN 24 24}: Main Quest Available {nl} {img minimap_2_MAIN 24 24}: Main Quest In Progress {nl} {img minimap_3_MAIN 24 24}: Main Quest Completed {nl} {img minimap_1_SUB 24 24}: Subquest Available {nl} {img minimap_2_SUB 24 24}: Subquest In Progress {nl} {img minimap_3_SUB 24 24}: Subquest Completed{nl}{nl}
+ETC_20150317_005924	{memo X}按 {img F5 40 40} 來查看任務進度 {nl} {nl}
+ETC_20150317_005925	{nl} {nl} 任務狀態 {nl} {img minimap_1_MAIN 24 24}：主線任務 可用 {nl} {img minimap_2_MAIN 24 24}：主線任務進行中 {nl} {img minimap_3_MAIN 24 24}：主線任務完成 {nl} {img minimap_1_SUB 24 24}：支線任務 可用 {nl} {img minimap_2_SUB 24 24}：支線任務進行中 {nl} {img minimap_3_SUB 24 24}：支線任務完成 { nl} {nl}
 ETC_20150317_005926	{memo X}Select the quest to view detailed quest information.
 ETC_20150317_005927	{memo X}If the Abandon button is prompted, you can
 ETC_20150317_005928	{memo X}the quest. {nl} {nl}
 ETC_20150317_005929	{memo X}Abandoned quest can be checked in
 ETC_20150317_005930	{memo X}tab. {nl} {nl}
-ETC_20150317_005931	Restart
+ETC_20150317_005931	重新開始
 ETC_20150317_005932	{memo X}the quest immediately by using the Restart button. {nl} {nl}
-ETC_20150317_005933	{memo X}You can manage the skills of your character through the skill window.
-ETC_20150317_005934	{memo X}You can open the Skill window by pressing {img F3 40 40}.
-ETC_20150317_005935	{memo X}Click the {img skillup 40 40} button to raise the level of a skill.
-ETC_20150317_005936	The skill level will increase after you click 'Apply'.
-ETC_20150317_005937	{memo X}Skills learned are added to the keyboard slot.
-ETC_20150317_005938	{memo X}Learn attributes from Master NPCs to make your character stronger.
-ETC_20150317_005939	{memo X}You can learn the attributes from Master NPC of each class.
-ETC_20150317_005940	{memo X}{nl} {nl} You need silver to learn attributes. Also, each attribute requires time to master. {nl} {nl}
-ETC_20150317_005941	{memo X}Attributes can be used after they have been mastered.
-ETC_20150317_005942	{memo X}{nl} {nl} Attributes are automatically registered when you start learning. Only one attribute can be trained at a time.{nl} {nl}
-ETC_20150317_005943	{memo X}{nl} {nl} Attributes you have already mastered can be found at the bottom of the skill window. {nl} {nl}
-ETC_20150317_005944	{memo X}{nl} {nl} Attributes can be enabled or disabled depending on the situation. {nl} {nl}
-ETC_20150317_005945	Adventure Journal
-ETC_20150317_005946	{memo X}You can check the progress of your game and character rankings through the Adventure Journal.
-ETC_20150317_005947	{memo X}Press {img F4 40 40} to open the Adventure Journal window. 
-ETC_20150317_005948	{memo X}{nl} {nl}You can check the updated score and ranking of each group in the Adventure Journal.{nl} {nl}
-ETC_20150317_005949	{memo X}The achievement of adventure journal is placed at city
+ETC_20150317_005933	{memo X}你可以通過技能視窗管理你的技能
+ETC_20150317_005934	{memo X}你可以按{img F3 40 40}打開技能視窗
+ETC_20150317_005935	{memo X}按{img skillup 40 40} 按鈕來提高技能等級
+ETC_20150317_005936	技能等級增加後請按 '確認'.
+ETC_20150317_005937	{memo X}技能學習被添加到鍵盤空位
+ETC_20150317_005938	{memo X}在導師 NPC處學習特性可以使你的角色更強大
+ETC_20150317_005939	{memo X}你可以在同職業導師 NPC處學習對應特性
+ETC_20150317_005940	{memo X}{nl} {nl} 你需要銀幣來學習特性。而且，每個特性都需要時間來掌握 {nl} {nl}
+ETC_20150317_005941	{memo X}可以使用已掌握的特性
+ETC_20150317_005942	{memo X}{nl} {nl} 當你開始學習時，特性會自動紀錄。同時只能學習一個{nl} {nl}
+ETC_20150317_005943	{memo X}{nl} {nl} 你所學習的特性可以在技能視窗的底部找到{nl} {nl}
+ETC_20150317_005944	{memo X}{nl} {nl} 根據情況，可以啟用或禁用特性{nl} {nl}
+ETC_20150317_005945	冒險日誌
+ETC_20150317_005946	{memo X}你可以通過冒險日誌來檢查你的遊戲和角色排名的進展情況
+ETC_20150317_005947	{memo X}按 {img F4 40 40} 來打開冒險日誌視窗
+ETC_20150317_005948	{memo X}{nl} {nl}你可以在冒險日誌查看已經更新的分數和排行{nl} {nl}
+ETC_20150317_005949	{memo X}該成果的冒險日誌被放置在城市
 ETC_20150317_005950	{memo X}Bybora's Wings
-ETC_20150317_005951	{memo X}You can get this from an NPC.
-ETC_20150317_005952	{memo X}You can create a party to play with other players.
+ETC_20150317_005951	{memo X}你可以從NPC處獲得這個
+ETC_20150317_005952	{memo X}你可以建立組隊與別的玩家一起玩
 ETC_20150317_005953	{memo X}Approach the character to make a party and left click of mouse
-ETC_20150317_005954	{memo X}Party Invite
+ETC_20150317_005954	{memo X}組隊邀請
 ETC_20150317_005955	{memo X}You can create a party to select.
 ETC_20150317_005956	{memo X}Creating a party is only possible when you aren't in a party.{nl} A party will be automatically created after the other player accepts the party invite.
 ETC_20150317_005957	{memo X}Click the party's portrait of the left top in order to see the information of the invited character
-ETC_20150317_005958	{memo X}Party Info
+ETC_20150317_005958	{memo X}組隊信息
 ETC_20150317_005959	{memo X}You can check it with
 ETC_20150317_005960	{memo X}or can check quickly to use shortcut {img F6 25 25} key.
 ETC_20150317_005961	{memo X}Party Info of
@@ -5965,14 +5965,14 @@ ETC_20150317_005964	{memo X}Click on the portrait of your party members to manag
 ETC_20150317_005965	{memo X}If you want to leave a party
 ETC_20150317_005966	{memo X}Can leave the party to select.
 ETC_20150317_005967	Combat
-ETC_20150317_005968	Monster Info
+ETC_20150317_005968	魔物信息
 ETC_20150317_005969	{memo X}Displays a nearby monster's information
 ETC_20150317_005970	{memo X}The monster's level, name and its HP can be viewed through the Monster Info window.
 ETC_20150317_005971	{memo X}Certain classes have access to additional information on monsters.
 ETC_20150317_005972	{memo X}Consumed HP/SP/Stamina can be recovered through the following options.
 ETC_20150317_005973	{memo X}[Spontaneous Recovery]:
 ETC_20150317_005974	{memo X}Based on stat
-ETC_20150317_005975	{memo X}HP Recovery rate
+ETC_20150317_005975	{memo X}HP回復率
 ETC_20150317_005976	{memo X}Proportional recovering
 ETC_20150317_005977	{memo X}Spontaneous Recovery is slow compared to other recovery methods, but it does not require the player to do anything.
 ETC_20150317_005978	{memo X}[Potion Recovery]: Recover HP/SP/Stamina immediately using potions.
@@ -5983,8 +5983,8 @@ ETC_20150317_005982	{memo X}[Rest Mode]: Using the bonfire during Rest Mode spee
 ETC_20150317_005983	{memo X}Recovery during Rest Mode is faster than Spontaneous Recovery, and it is even faster if you use a bonfire during Rest Mode.
 ETC_20150317_005984	Overkill will be activated if you kill the monster with a strong finish.
 ETC_20150317_005985	{memo X}Overkill will be activated if you do more damage with a powerful attack to a monster than its remaining HP.
-ETC_20150317_005986	{memo X}Destroying a Tree Root Crystal recovers your Stamina.
-ETC_20150317_005987	There are many Tree Root Crystals in every field.
+ETC_20150317_005986	{memo X}破壞 樹根水晶 來恢復耐力
+ETC_20150317_005987	每個地區都有很多樹根水晶。
 ETC_20150317_005988	{memo X}The Stamina of all the players around you will be replenished if you destroy the Tree Root Crystals.
 ETC_20150317_005989	{memo X}Overheat
 ETC_20150317_005990	{memo X}Some particular skills may overheat when used over a certain number of times.
@@ -5994,7 +5994,7 @@ ETC_20150317_005993	{memo X}To prevent skills from overheating, you can alternat
 ETC_20150317_005994	{memo X}Overheat can be suppressed to use many skills.
 ETC_20150317_005995	{memo X}Once overheated, you won't be able to use the affected skill for a while.
 ETC_20150317_005996	{memo X}The used number of relevant skill will be initialize after a while.
-ETC_20150317_005997	Item 製作
+ETC_20150317_005997	製作道具
 ETC_20150317_005998	{memo X}You can craft useful items if you have the required recipes.
 ETC_20150317_005999	{memo X}Using a recipe will automatically add it to the list of craftable items.
 ETC_20150317_006000	{memo X}You can acquire recipes by killing monsters, trading with merchants, or completing quests.
@@ -6012,7 +6012,7 @@ ETC_20150317_006011	{memo X}Use the 交易 window at the bottom to 交易 items 
 ETC_20150317_006012	{memo X}Hold down {img Shift 45 45} and right-click to 交易 multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	{memo X}Items sold to the store can be bought back.
 ETC_20150317_006014	{memo X}{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
-ETC_20150317_006015	Status Points
+ETC_20150317_006015	素質點
 ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	{memo X}You can check your character's abilities in the Character Information window ({img F1 40 40}).
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
@@ -6021,7 +6021,7 @@ ETC_20150317_006021	{memo X} in the information tab.
 ETC_20150317_006022	Convenience
 ETC_20150317_006023	{memo X}   Use warp to quickly move to your desired area.
 ETC_20150317_006024	{memo X}Activating 
-ETC_20150317_006025	Goddess Statues
+ETC_20150317_006025	城中的女神雕像
 ETC_20150317_006026	 or activated 
 ETC_20150317_006027	{memo X} enables you to warp to other areas.
 ETC_20150317_006028	{memo X}Approach the Statue to activate it.
@@ -6033,12 +6033,12 @@ ETC_20150317_006033	{memo X}Warp Scrolls can be bought from the shop or acquired
 ETC_20150317_006034	{memo X}You can use the 'Return' button to complete quests more easily and faster.
 ETC_20150317_006035	When you complete quests, in the mission window UI 
 ETC_20150317_006036	 this button will be activated.
-ETC_20150317_006037	Return button
-ETC_20150317_006038	 allows you to teleport to the Quest NPC right away by clicking on the {img questinfo_return 40 40}  button.
-ETC_20150317_006039	{memo X}or you can use the shortcut key
-ETC_20150317_006040	{memo X}Backspace
+ETC_20150317_006037	返回按鈕
+ETC_20150317_006038	你可以按({img questinfo_return 40 40}) 按鈕立即返回到任務NPC處。
+ETC_20150317_006039	{memo X}或者你可以使用快捷鍵
+ETC_20150317_006040	{memo X}後退鍵
 ETC_20150317_006041	{memo X}key
-ETC_20150317_006042	 button to return to the quest NPC.
+ETC_20150317_006042	返回至任務NPC。
 ETC_20150317_006043	Field Events
 ETC_20150317_006044	{memo X}Worshiping a Goddess Statue will benefit you.
 ETC_20150317_006045	{memo X}Each Goddess Statue will give you effects for your benefit.
@@ -6047,15 +6047,15 @@ ETC_20150317_006047	{memo X}is used to warp to other areas.
 ETC_20150317_006048	To use the warp function, the 
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	{memo X}can obtain character's Status Points
-ETC_20150317_006051	Treasure Chest
-ETC_20150317_006052	 contain special items that you can obtain.
+ETC_20150317_006051	寶箱
+ETC_20150317_006052	你可以從寶箱獲得特殊道具。
 ETC_20150317_006053	Hidden in many fields, a 
 ETC_20150317_006054	 can be discovered by your character.
 ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
 ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
 ETC_20150317_006057	Keys are used to open level 2 chests and above.
 ETC_20150317_006058	{memo X}You can obtain the keys through quest progress.
-ETC_20150317_006059	Item Enhancement
+ETC_20150317_006059	道具強化
 ETC_20150317_006060	{memo X}You can enhance your 裝備 through the enhancement system.
 ETC_20150317_006061	{memo X}Use {img F2 40 40} to open your inventory and {img mouseclick_right 40 40} on the 
 ETC_20150317_006062	{memo X} to enhance item.
@@ -6069,9 +6069,9 @@ ETC_20150317_006069	{memo X}
 ETC_20150317_006070	 will not decrease.
 ETC_20150317_006071	{memo X}When the item fails to enhance, its stats will be reset and 
 ETC_20150317_006072	{memo X} will decrease by 1.
-ETC_20150317_006073	Collection
+ETC_20150317_006073	收藏品
 ETC_20150317_006074	Use the Decks to complete Collections that give you beneficial effects. 
-ETC_20150317_006075	About collection 
+ETC_20150317_006073	關於收藏品
 ETC_20150317_006076	Deck
 ETC_20150317_006077	{memo X}Can be activated through the items.
 ETC_20150317_006078	{memo X} can be acquired from various channels. Use it to add new  
@@ -6097,7 +6097,7 @@ ETC_20150317_006097	Element attributes have the following compatibilities
 ETC_20150317_006098	{memo X}type of skills are more effective to attack monsters wearing
 ETC_20150317_006099	Cloth Armor
 ETC_20150317_006100	{memo X}It is effective if you attack monster of type
-ETC_20150317_006101	裝備 Repair
+ETC_20150317_006101	裝備 修理
 ETC_20150317_006102	{memo X}You can ask the 黑色smith to repair items with decreased durability.
 ETC_20150317_006103	{memo X}You can't use an item with 0 durability.
 ETC_20150317_006104	{memo X}You can repair an item with decreased durability through the repair menu.{nl}Select the item you want to repair
@@ -6116,7 +6116,7 @@ ETC_20150317_006116	Socket Management
 ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	{memo X} .
 ETC_20150317_006119	{memo X}Caution: Potential is consumed when you remove Gems.
-ETC_20150317_006120	Resurrection
+ETC_20150317_006120	復活
 ETC_20150317_006121	{memo X}    This spell allows you to revive a dead character. 
 ETC_20150317_006122	{memo X}When you have 0 HP, your character dies and becomes  
 ETC_20150317_006123	{memo X}.
@@ -6131,19 +6131,19 @@ ETC_20150317_006131	{memo X}A Magic Amulet cannot be enhanced.
 ETC_20150317_006132	Magic Amulets can be obtained from monsters.
 ETC_20150317_006133	{memo X}The bonfire can be used to quickly recover HP, craft items, combine gems and other various activities. 
 ETC_20150317_006134	{memo X}During Rest Mode, select
-ETC_20150317_006135	Build Bonfire
+ETC_20150317_006135	建立篝火
 ETC_20150317_006136	{memo X}to install the bonfire.
 ETC_20150317_006137	{memo X}You need items to start the bonfire.{nl} You can choose where to build the fire by using numeric keys {img key1 40 40} ~ {img key9 40 40}. {nl} Items for bonfire can be bought from
 ETC_20150317_006138	{memo X}NPCs in town.
 ETC_20150317_006139	{memo X}You can choose where to install the bonfire.
 ETC_20150317_006140	{memo X}Add Firewood
 ETC_20150317_006141	{memo X}Cooking
-ETC_20150317_006142	Scattered Supplies
+ETC_20150317_006142	散落的物資
 ETC_20150317_006143	{memo X}How to retrieve the Supplies Box
 ETC_20150317_006144	The first supplies boxes are scattered in the Eastern Woods.
 ETC_20150317_006145	{memo X}Press {img SPACE 40 40} in front of the Supplies Box to retrieve it.
 ETC_20150317_006146	同伴
-ETC_20150317_006147	同伴s
+ETC_20150317_006147	使用同伴
 ETC_20150317_006148	{memo X}Adopt and train 同伴s to aid you in combat and transport.
 ETC_20150317_006149	同伴s can be adopted from the 同伴 Merchants in town.
 ETC_20150317_006150	{memo X}同伴 Merchants help you train your 同伴s and sell items for them. {nl}Only one 同伴 can be used at a time.{nl}{nl}
@@ -6171,9 +6171,9 @@ ETC_20150317_006171	Resurrect at the nearest area
 ETC_20150317_006172	{memo X}to move to the dungeon entrance. {nl} Be careful when you're deep inside a dungeon!
 ETC_20150317_006173	{memo X}Gems can be obtained by hunting monsters and bosses in dungeons. {nl} Be careful, as the gems may be lost when you die.
 ETC_20150317_006174	裝備
-ETC_20150317_006175	Sub-Weapon
-ETC_20150317_006176	Consumable
-ETC_20150317_006177	同伴 裝備
+ETC_20150317_006175	副武器
+ETC_20150317_006176	消耗品
+ETC_20150317_006177	同伴裝備
 ETC_20150317_006178	N/A
 ETC_20150317_006179	Spray - 黑色
 ETC_20150317_006180	Combine items into different ones
@@ -6183,13 +6183,13 @@ ETC_20150317_006183	Spray - Orange
 ETC_20150317_006184	Spray - Yellow
 ETC_20150317_006185	Spray - 綠色
 ETC_20150317_006186	紅色 Gem
-ETC_20150317_006187	A gem that can be found in a dungeon. {nl}It is able to enhance 裝備 by equipping it in a socket. {nl}When charged it exerts a stronger power. Right-click to equip it to an 裝備.
-ETC_20150317_006188	藍色 Gem
-ETC_20150317_006189	綠色 Gem
-ETC_20150317_006190	Yellow Gem
+ETC_20150317_006187	一種可以在地牢中找到的寶石. {nl}它裝備在道具插槽中可以強化裝備. {nl}右鍵可將其裝備在選擇的道具中，它可以產生更大的力量
+ETC_20150317_006188	藍寶石
+ETC_20150317_006189	綠寶石
+ETC_20150317_006190	黃寶石
 ETC_20150317_006191	Test Gem
 ETC_20150317_006192	Claw
-ETC_20150317_006193	同伴 Weapons
+ETC_20150317_006193	同伴武器
 ETC_20150317_006194	Creating weapons in this field require one to have both the skills of 黑色smith and farrier. Creating even a simple claw is difficult because of this.
 ETC_20150317_006195	Iron Claw
 ETC_20150317_006196	Some devilish beasts are sensitive to iron, and the secrets to manufacturing it are within this recipe.
@@ -6237,29 +6237,29 @@ ETC_20150317_006237	It's made so it won't obstruct sight or movement.
 ETC_20150317_006238	{memo X}{S18} {#001100} When a quest is complete, click on the Return button to teleport to the quest NPC. {/}
 ETC_20150317_006239	{S18} {#001100} by using the store you can buy the item. {/}
 ETC_20150317_006240	{S18} {#001100} If you head to the shining light, you can earn items through combat or dialogue. {/}
-ETC_20150317_006241	{memo X}{S18} {#001100} Destroy the Tree Root Crystal to restore stamina. {/}
+ETC_20150317_006241	{memo X}{S18} {#001100} 破壞 樹根水晶 來恢復耐力{/}
 ETC_20150317_006242	{S18} and {#001100} attacking you will be able to obtain a large amount of experience. {/}
 ETC_20150317_006243	{memo X}{S18} {#001100} items when you attack the Treasure monster will drop !!! {/}
 ETC_20150317_006244	{S18} {#001100} You can progress the quest by pressing the Space key in the vicinity of the 紅色 flag of NPC. {/}
 ETC_20150317_006245	{S18} {#001100} You can increase the capacity value by collecting items to the collection. {/}
-ETC_20150317_006246	Swordsmen are warriors who have strong physical abilities.{nl}They use various weapons to deal with enemies up close {nl}at the front lines.
-ETC_20150317_006247	Highlander
-ETC_20150317_006248	{memo X}Highlanders are tough fighters and use two-handed swords. They make enemies collide with each other or terrain so they are great for handling multiple enemies.
-ETC_20150317_006249	Peltasta
-ETC_20150317_006250	Peltastas are defensive warriors who use shields to block enemy attacks and provoke the enemy.
-ETC_20150317_006251	Hoplites use spears with a long attack range. They gain a bonus when fighting against strong, large-sized enemies.
-ETC_20150317_006252	Centurion
-ETC_20150317_006253	{memo X}Centurions command the battle with formations.
-ETC_20150317_006254	Barbarian
-ETC_20150317_006255	Barbarians are reckless and aggressive warriors who are not bound to any formats in battle and would do anything to claim victory in their hands.
-ETC_20150317_006256	Cataphract
-ETC_20150317_006257	Cataphracts use two-handed spears. They are the cavalry who break through and scatter the enemy formations.
-ETC_20150317_006258	Corsair
-ETC_20150317_006259	Doppelsoeldner
-ETC_20150317_006260	Rodelero
-ETC_20150317_006261	Rodeleros ambush and disintegrate enemies. Their defensive skills using shields are effective for blocking long range attacks.
-ETC_20150317_006262	Squire
-ETC_20150317_006263	Shinobi
+ETC_20150317_006246	劍士是擁有強大物理能力的戰士，他們在前線使用各種武器來對付敵人
+ETC_20150317_006247	高地戰士
+ETC_20150317_006248	{memo X}使用雙手劍的近戰職業，可以利用地形和敵人進行衝撞，對多數敵人時有利
+ETC_20150317_006249	輕裝盾兵
+ETC_20150317_006250	使用盾牌來格擋敵人攻擊，並挑釁敵人使其攻擊自己的防禦型戰士
+ETC_20150317_006251	使用長槍的重裝步兵的攻擊距離很遠，對中型級以上又強又大魔物有追加補正
+ETC_20150317_006252	百夫長
+ETC_20150317_006253	{memo X}百夫長是指揮隊員使用陣形的職業，根據情況的不同，可以搭配各種各樣的陣形來指揮隊員
+ETC_20150317_006254	野蠻人
+ETC_20150317_006255	為了勝利可以不擇手段，魯莽和好戰性強烈的戰士
+ETC_20150317_006256	裝甲騎兵
+ETC_20150317_006257	專門使用雙手槍的騎兵，可以突破粉碎敵人的防禦線。
+ETC_20150317_006258	海盜
+ETC_20150317_006259	雙酬傭兵
+ETC_20150317_006260	劍盾兵
+ETC_20150317_006261	奇襲以及瓦解敵人的戰鬥專家，可以使用盾牌防禦遠程攻擊。
+ETC_20150317_006262	侍從
+ETC_20150317_006263	忍者
 ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
 ETC_20150317_006265	Pyromancer
 ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
