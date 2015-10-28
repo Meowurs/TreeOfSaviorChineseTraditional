@@ -1,3 +1,4 @@
+
 ETC_20150317_000001	凱帕
 ETC_20150317_000002	凱帕不是一種很強的魔物.但隨意的攻擊它，結果可能會讓你流淚
 ETC_20150317_000003	巨型 凱帕
@@ -6260,74 +6261,74 @@ ETC_20150317_006260	劍盾兵
 ETC_20150317_006261	奇襲以及瓦解敵人的戰鬥專家，可以使用盾牌防禦遠程攻擊。
 ETC_20150317_006262	侍從
 ETC_20150317_006263	忍者
-ETC_20150317_006264	{memo $ shifts linebreak}Wizards use magic to block attacks and protect themselves.{nl}They can cast powerful and concentrated spells, dealing damage to a single target or multiple enemies in an area.
-ETC_20150317_006265	Pyromancer
-ETC_20150317_006266	Pyromancers use continuous fire magic to fight against multiple enemies.
-ETC_20150317_006267	Cryomancer
-ETC_20150317_006268	Cryomancers use ice magic to freeze foes or protect their allies from enemies by using ice walls.
-ETC_20150317_006269	Psychokino
-ETC_20150317_006270	Psychokinos use psychokinesis to control gravity or pull enemies and throw them around.
-ETC_20150317_006271	Alchemist
-ETC_20150317_006272	{memo X}Sorcerers summon devils and control them.
-ETC_20150317_006273	Linker
-ETC_20150317_006274	Linkers link allies together to reduce the damage received or connect enemies to amplify the damage inflicted.
-ETC_20150317_006275	Chronomancer
+ETC_20150317_006264	法師使用魔法來阻止攻擊和保護自己。他們可以施放強大的和集中的法術，對單一或複數敵人造成傷害。
+ETC_20150317_006265	烈焰術士
+ETC_20150317_006266	使用強力的持續火魔法的烈焰術士可以攻擊和壓制很多敵人。
+ETC_20150317_006267	寒冰術士
+ETC_20150317_006268	使用冰的寒冰術士可以使用強力的魔法將敵人凍住或使用冰牆為同伴提供保護。
+ETC_20150317_006269	念力法師
+ETC_20150317_006270	念力法師是使用念力的職業，可以抓取敵人或者將他們扔出去。
+ETC_20150317_006271	煉金術士
+ETC_20150317_006272	{memo X}巫師是召喚惡魔的魔法師，可以操縱或搭乘被召喚的惡魔戰鬥。
+ETC_20150317_006273	鎖鏈法師
+ETC_20150317_006274	鎖鏈法師可以和同伴鏈接，減少傷害，同時也可以增幅敵人受到的傷害。
+ETC_20150317_006275	時空法師
 ETC_20150317_006276	{memo X}Si Mgician
-ETC_20150317_006277	Necromancer
-ETC_20150317_006278	{memo X}This class accumulates the dead parts of monsters. 
-ETC_20150317_006279	Thaumaturge
-ETC_20150317_006280	Thaumaturges use magic that changes the attributes and size of targets. They can shrink enemies or strengthen allies to aid them in battle.
-ETC_20150317_006281	{memo X}Elementalist
-ETC_20150317_006282	Elementalists use the power of elements and can cast powerful magic attacks. However, their spells have a long cooldown time, so it is recommended to cooperate with other players.
+ETC_20150317_006277	死靈術士
+ETC_20150317_006278	{memo X}死靈術士是使用利用屍體的魔法的魔法師，可以收集屍體攻擊敵人或者製造召喚物。
+ETC_20150317_006279	奇術士
+ETC_20150317_006280	奇術士會使用變換對方的屬性和狀態的魔法，可以使對方變化或者強化同伴的身體來輔助戰鬥。
+ETC_20150317_006281	{memo X}元素使
+ETC_20150317_006282	元素使是使用元素力量的魔法師，雖然擁有著強力的攻擊魔法，但是由於冷卻時間較長的關係，需要和同伴協力合作。
 ETC_20150317_006283	Mimic
 ETC_20150317_006284	Taoist Priest
-ETC_20150317_006285	Archers use bows and various secondary 裝備.{nl}Their specialties are long range and moving attacks.
-ETC_20150317_006286	Hunter
-ETC_20150317_006287	Hunters are trainers who hunt enemies using 同伴s. 同伴s use skills which require cooperation with their owners, such as biting and holding onto enemies or finding hidden targets.
-ETC_20150317_006288	Quarrel Shooter
-ETC_20150317_006289	Quarrel Shooters use a crossbow and shield for strategic combat. They can defend against long-range attacks and use catapult skills against approaching enemies.
-ETC_20150317_006290	Ranger
-ETC_20150317_006291	Rangers specialize in fighting against multiple enemies with their quick and long-range attacks.
-ETC_20150317_006292	Sapper
-ETC_20150317_006293	Sappers are archers who install traps and lure enemies into them.
-ETC_20150317_006294	Wugushi
-ETC_20150317_006295	Wugushis specialize in using various poisons to attack or bewitch enemies.
-ETC_20150317_006296	Hackapell
-ETC_20150317_006297	Scout
-ETC_20150317_006298	Scouts specialize in reconnaissance and infiltration. They use stealth to hide themselves and convey the enemy's situation to allies for an advantage in battle.
-ETC_20150317_006299	Schwarzer Reiter
-ETC_20150317_006300	Fletcher
+ETC_20150317_006285	弓箭手使用弓箭和各種輔助設備。他們的專長是長距離和移動攻擊。
+ETC_20150317_006286	獵人
+ETC_20150317_006287	獵人可以命令他的寵物攻擊敵人，寵物會盯住敵人或者尋找目標，與主人協力攻擊
+ETC_20150317_006288	弩箭手
+ETC_20150317_006289	使用盾牌和弩的弩箭手可以掩護自己戰鬥，防禦敵人的遠距離攻擊的同時可以用弩來接近和攻擊敵人
+ETC_20150317_006290	游俠
+ETC_20150317_006291	游俠會使用弓箭來遠距離攻擊敵人。
+ETC_20150317_006292	工兵
+ETC_20150317_006293	工兵會以設置陷阱來攻擊敵人。
+ETC_20150317_006294	巫蠱師
+ETC_20150317_006295	使用毒的巫蠱師會使用巫毒攻擊或者蠱惑敵人
+ETC_20150317_006296	重裝步兵
+ETC_20150317_006297	斥侯
+ETC_20150317_006298	偵查和滲透的特殊部隊，可以利用自身的特性為同伴提供情報，以此達到有利的目的。
+ETC_20150317_006299	黑騎士
+ETC_20150317_006300	造箭者
 ETC_20150317_006301	Pied Piper
 ETC_20150317_006302	Appraiser
-ETC_20150317_006303	Clerics heal and protect allies through the blessings{nl}of the Goddess, while knocking down their enemies {nl}with powerful blows.
-ETC_20150317_006304	Priest
-ETC_20150317_006305	Priests are clerics who give blessings and resurrect the dead with their holy powers.
-ETC_20150317_006306	Krivis
-ETC_20150317_006307	Krivis are priests who use divine fire to help allies recover or to deal massive damage to the enemy.
-ETC_20150317_006308	Bokor
-ETC_20150317_006309	Bokors use voodoo skills to raise the dead or curse their enemies to attack them from afar.
-ETC_20150317_006310	Druid
-ETC_20150317_006311	Sadhu
-ETC_20150317_006312	Sadhu can use their soul to assault enemies with unseen attacks or convey their powers to other players.
-ETC_20150317_006313	Dievdirby
-ETC_20150317_006314	Dievdirbys carve and place holy statues which protect allies or attack enemies.
-ETC_20150317_006315	Oracle
-ETC_20150317_006316	Monk
-ETC_20150317_006317	Monks are clerics who train in martial arts through the blessing of the Goddess.
-ETC_20150317_006318	Pardoner
-ETC_20150317_006319	Pardoners are clerics who don't deny increasing their wealth through the Goddess's blessing.
-ETC_20150317_006320	Paladin 
-ETC_20150317_006321	Paladins use their holy power to protect allies and vanquish enemies through the blessings of the Goddess.
+ETC_20150317_006303	牧師擅長治療和保護盟友並擊倒敵人
+ETC_20150317_006304	聖水祭司
+ETC_20150317_006305	聖水祭司會使用聖水來為同伴恢復，並且可以用神聖的力量復活同伴
+ETC_20150317_006306	聖火祭司
+ETC_20150317_006307	聖火祭司是崇拜火焰的牧師一族，他們可以用聖火來為同伴恢復，同時可以給予敵人強力的傷害
+ETC_20150317_006308	邪靈祭司
+ETC_20150317_006309	使用巫蠱術的邪靈祭司可以召喚死亡的僵屍攻擊或詛咒敵人
+ETC_20150317_006310	德魯伊
+ETC_20150317_006311	聖者
+ETC_20150317_006312	聖者可以將自己的靈魂流體化，可以在讓敵人看不到的情況下活動，同時可以向同伴提供自己的力量
+ETC_20150317_006313	雕刻師
+ETC_20150317_006314	雕刻師會製造神聖的雕像，該雕像會攻擊敵方或者保護隊友
+ETC_20150317_006315	神諭師
+ETC_20150317_006316	武僧
+ETC_20150317_006317	武僧是修煉了武藝的強力的修道僧職業，使用鍛煉過的身體可以進行強力的打擊和防禦技術與敵人戰鬥
+ETC_20150317_006318	寬恕者
+ETC_20150317_006319	寬恕者是製造神聖道具的牧師職業，可以將神聖的技術道具化，或者製造可以抵擋詛咒的聖物提供給同伴
+ETC_20150317_006320	聖騎士
+ETC_20150317_006321	可以發揮強力的戰鬥力，聖騎士可以用聖光的力量保護同伴，是為了神而戰鬥的職業
 ETC_20150317_006322	Chaplain
 ETC_20150317_006323	Shepherd
 ETC_20150317_006324	GM
-ETC_20150317_006325	South Korea
-ETC_20150317_006326	Japan
-ETC_20150317_006327	China
-ETC_20150317_006328	Taiwan
-ETC_20150317_006329	Thailand
-ETC_20150317_006330	Singapore
-ETC_20150317_006331	USA
+ETC_20150317_006325	韓國
+ETC_20150317_006326	日本
+ETC_20150317_006327	中國
+ETC_20150317_006328	台灣
+ETC_20150317_006329	泰國
+ETC_20150317_006330	新加坡
+ETC_20150317_006331	美國
 ETC_20150317_006332	Found the 希奧利艾 Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff
@@ -6415,7 +6416,7 @@ ETC_20150317_006415	Traces of a meeting place
 ETC_20150317_006416	Front Yard
 ETC_20150317_006417	Petrified Garden
 ETC_20150317_006418	Master Craftsman's Street
-ETC_20150317_006419	Commercial District
+ETC_20150317_006419	商業區
 ETC_20150317_006420	Watchtower
 ETC_20150317_006421	Gerove Workshop Site
 ETC_20150317_006422	Parduo Plaza Site
@@ -6431,7 +6432,7 @@ ETC_20150317_006431	Estuary Bank Junction
 ETC_20150317_006432	Zmone Square
 ETC_20150317_006433	{memo X}Destroyed Amosi Dock
 ETC_20150317_006434	Decrepit Watermill
-ETC_20150317_006435	Residential District
+ETC_20150317_006435	居住區
 ETC_20150317_006436	Viska Sanctum Ruins
 ETC_20150317_006437	Vadova Dock
 ETC_20150317_006438	Kovos Hall Site
@@ -6459,18 +6460,18 @@ ETC_20150317_006459	Atidalti Field
 ETC_20150317_006460	Susive Hill Areas
 ETC_20150317_006461	Rodykle Highway
 ETC_20150317_006462	Lowacti Vacant Lot
-ETC_20150317_006463	Crossroad Camp
-ETC_20150317_006464	Uoros Farm
-ETC_20150317_006465	Delon Shelter
-ETC_20150317_006466	Small Robin Bridge
-ETC_20150317_006467	Flude Island
-ETC_20150317_006468	Shadow Forest Road
-ETC_20150317_006469	Eastern Woods Camp
+ETC_20150317_006463	營地岔路
+ETC_20150317_006464	烏羅斯農場
+ETC_20150317_006465	狄龍庇護所
+ETC_20150317_006466	羅賓小橋
+ETC_20150317_006467	芙蓉德島
+ETC_20150317_006468	樹影路
+ETC_20150317_006469	東部森林營地
 ETC_20150317_006470	Camp Sites
-ETC_20150317_006471	Supplies Camp
-ETC_20150317_006472	Bulvjes Farm
+ETC_20150317_006471	供應營地
+ETC_20150317_006472	波菲思農場
 ETC_20150317_006473	Nudegi Felled Area
-ETC_20150317_006474	Crystal Mine Entrance
+ETC_20150317_006474	水晶礦山 入口
 ETC_20150317_006475	Miner's Village Square
 ETC_20150317_006476	Shelter
 ETC_20150317_006477	Twin Bridge
@@ -6509,7 +6510,7 @@ ETC_20150317_006509	Ziedo Pond
 ETC_20150317_006510	Malkos Felled Area
 ETC_20150317_006511	The Fourth Supply Room
 ETC_20150317_006512	The Third Supply Room
-ETC_20150317_006513	Central Plaza
+ETC_20150317_006513	    中心廣場
 ETC_20150317_006514	Kateen Forest Camp
 ETC_20150317_006515	Peljeda Crossroads
 ETC_20150317_006516	Uzesy Hill
@@ -6531,13 +6532,13 @@ ETC_20150317_006531	Sudejeti Valley
 ETC_20150317_006532	Stone Hill
 ETC_20150317_006533	Cradle of Squire
 ETC_20150317_006534	Mine Worker's Resting Place
-ETC_20150317_006535	District 2
-ETC_20150317_006536	District 3
-ETC_20150317_006537	District 4
-ETC_20150317_006538	District 5
-ETC_20150317_006539	District 6
-ETC_20150317_006540	District 1
-ETC_20150317_006541	District 7
+ETC_20150317_006535	2區
+ETC_20150317_006536	3區
+ETC_20150317_006537	4區
+ETC_20150317_006538	5區
+ETC_20150317_006539	6區
+ETC_20150317_006540	1區
+ETC_20150317_006541	7區
 ETC_20150317_006542	Research Camp
 ETC_20150317_006543	Beacon Hill Pass
 ETC_20150317_006544	Dulkiu Hill
@@ -6640,8 +6641,8 @@ ETC_20150317_006640	Narvas Curved Path
 ETC_20150317_006641	Village Entrance Ruins
 ETC_20150317_006642	Saule Grand Shrine
 ETC_20150317_006643	Altar Grand Gallery
-ETC_20150317_006644	Drugys Courtyard
-ETC_20150317_006645	Vapsva Vacant Lot
+ETC_20150317_006644	蝴蝶庭院
+ETC_20150317_006645	黃蜂空地
 ETC_20150317_006646	Ishpirki Access Road
 ETC_20150317_006647	Geisma Access Road
 ETC_20150317_006648	Rustybe Dead Tree Area
@@ -6764,8 +6765,8 @@ ETC_20150317_006764	Wood Watch Tower
 ETC_20150317_006765	Uola Rock
 ETC_20150317_006766	Saldus Bee Farm
 ETC_20150317_006767	Aapkva Winding Hill
-ETC_20150317_006768	Bichiu Altar
-ETC_20150317_006769	Vulvini Farm
+ETC_20150317_006768	碧奇祭壇
+ETC_20150317_006769	布爾比尼農場
 ETC_20150317_006770	Hoga Road
 ETC_20150317_006771	Abandoned Bee Farm
 ETC_20150317_006772	Arkllui Crossroads
@@ -6820,11 +6821,11 @@ ETC_20150317_006820	Dimantel Battleground
 ETC_20150317_006821	Ausura Chapel
 ETC_20150317_006822	Pasaru Isolation District
 ETC_20150317_006823	Gavara Isolation District
-ETC_20150317_006824	Royal Mausoleum 32
-ETC_20150317_006825	Royal Mausoleum 33
-ETC_20150317_006826	Royal Mausoleum 34
-ETC_20150317_006827	Royal Mausoleum 35
-ETC_20150317_006828	Royal Mausoleum 36
+ETC_20150317_006824	皇家陵墓 32
+ETC_20150317_006825	皇家陵墓 33
+ETC_20150317_006826	皇家陵墓 34
+ETC_20150317_006827	皇家陵墓 35
+ETC_20150317_006828	皇家陵墓 36
 ETC_20150317_006829	Catacombs 1
 ETC_20150317_006830	Catacombs 3
 ETC_20150317_006831	Area of Ruins 37
@@ -6847,7 +6848,7 @@ ETC_20150317_006847	Pilgrims of the road 55
 ETC_20150317_006848	Great Cathedral 56
 ETC_20150317_006849	Please enter 123
 ETC_20150317_006850	Please enter abc
-ETC_20150317_006851	Iron Ore
+ETC_20150317_006851	鐵礦石
 ETC_20150317_006852	Recipe - Gladius
 ETC_20150317_006853	Earth Tower Hidden trigger monster
 ETC_20150317_006854	Tower Hidden trigger of the earth
@@ -7020,14 +7021,14 @@ ETC_20150317_007020	Item Combiner
 ETC_20150317_007021	Grill
 ETC_20150317_007022	Guard Fence
 ETC_20150317_007023	Carriage
-ETC_20150317_007024	Bulletin Board
+ETC_20150317_007024	公告板
 ETC_20150317_007025	Lever 1
 ETC_20150317_007026	Lever 2
 ETC_20150317_007027	Gabija's Torch
 ETC_20150317_007028	Writing Table
-ETC_20150317_007029	Statue of Goddess Laima
-ETC_20150317_007030	Statue of Goddess Zemyna
-ETC_20150317_007031	Statue of Goddess Ausrine
+ETC_20150317_007029	女神 萊瑪 雕像
+ETC_20150317_007030	女神 澤米娜 雕像
+ETC_20150317_007031	女神 奧施麗涅 雕像
 ETC_20150317_007032	Kepa Dummy
 ETC_20150317_007033	Casemate
 ETC_20150317_007034	Siege Supporting Arms
@@ -7050,21 +7051,21 @@ ETC_20150317_007050	Empty Wagon
 ETC_20150317_007051	Supplies Wagon
 ETC_20150317_007052	Holy Ark
 ETC_20150317_007053	Altar
-ETC_20150317_007054	紅色 Crystal
-ETC_20150317_007055	Orange Crystal
-ETC_20150317_007056	Yellow Crystal
-ETC_20150317_007057	綠色 Crystal
-ETC_20150317_007058	藍色 Crystal
-ETC_20150317_007059	Navy Crystal
-ETC_20150317_007060	Purple Crystal
-ETC_20150317_007061	Confirm
+ETC_20150317_007054	紅水晶
+ETC_20150317_007055	橙水晶
+ETC_20150317_007056	黃水晶
+ETC_20150317_007057	綠水晶
+ETC_20150317_007058	藍水晶
+ETC_20150317_007059	深藍水晶
+ETC_20150317_007060	紫水晶
+ETC_20150317_007061	確認
 ETC_20150317_007062	Thorn Forest Gateway 1
 ETC_20150317_007063	Thorn Forest Gateway 2
 ETC_20150317_007064	Thorn Forest Gateway 3
 ETC_20150317_007065	Thorn Forest Gateway 4
 ETC_20150317_007066	Thorn Forest Gateway 5
 ETC_20150317_007067	Thorn Forest Gateway 6
-ETC_20150317_007068	Royal Mausoleum Entrance
+ETC_20150317_007068	皇家陵墓 入口
 ETC_20150317_007069	Canyon Area Device 1
 ETC_20150317_007070	Canyon Area Device 2
 ETC_20150317_007071	Canyon Area Device 3
@@ -7196,9 +7197,9 @@ ETC_20150317_007196	Paladin Follower no instrument c2
 ETC_20150317_007197	Paladin Follower no instrument c3
 ETC_20150317_007198	{memo X}Summon Magic Dolls
 ETC_20150317_007199	Florijonas
-ETC_20150317_007200	同伴 交易r
-ETC_20150317_007201	Elementalist Master
-ETC_20150317_007202	Doppelsoeldner Master
+ETC_20150317_007200	同伴商人
+ETC_20150317_007201	元素使 導師
+ETC_20150317_007202	雙酬傭兵 導師
 ETC_20150317_007203	Baby Panto
 ETC_20150317_007204	Crystal Basket
 ETC_20150317_007205	Sleeping Nepenthes
@@ -7265,7 +7266,7 @@ ETC_20150317_007265	Purifier Parts 3
 ETC_20150317_007266	Tree Branch
 ETC_20150317_007267	Bee Hive
 ETC_20150317_007268	Broken Honeycomb
-ETC_20150317_007269	Honeycomb
+ETC_20150317_007269	蜂窩
 ETC_20150317_007270	Ordinary Husband
 ETC_20150317_007271	Ordinary Wife
 ETC_20150317_007272	Old Man
@@ -7297,70 +7298,70 @@ ETC_20150317_007297	Big Bouquet2
 ETC_20150317_007298	Small Treasure Chest
 ETC_20150317_007299	Velheider
 ETC_20150317_007300	Monsters have appeared near Rafflesia.
-ETC_20150317_007301	Hoglan
-ETC_20150317_007302	Accessory Shop
+ETC_20150317_007301	霍格倫
+ETC_20150317_007302	配件商店
 ETC_20150317_007303	Miscellaneous Items
 ETC_20150317_007304	{memo X}Skip Tutorial
-ETC_20150317_007305	Use Druid Attributes
-ETC_20150317_007306	Use Sadhu Attributes
-ETC_20150317_007307	Use Wugushi Attributes
-ETC_20150317_007308	Use Rodelero Attributes
-ETC_20150317_007309	Use Squire Attributes
-ETC_20150317_007310	Use Thaumaturge Attributes
-ETC_20150317_007311	{memo X}Use Elementalist Attributes
-ETC_20150317_007312	Use Scout Attributes
-ETC_20150317_007313	Use Barbarian Attributes
-ETC_20150317_007314	Use Hoplite Attributes
-ETC_20150317_007315	Use Psychokino Attributes
-ETC_20150317_007316	The Linker Attributes
-ETC_20150317_007317	Use Sapper Attributes
-ETC_20150317_007318	Use Hunter Attributes
-ETC_20150317_007319	Use Dievdirbys Attributes
-ETC_20150317_007320	Buy Dievdirbys Items
-ETC_20150317_007321	{memo X}Use Alchemist Attributes
-ETC_20150317_007322	Use Priest Attributes
-ETC_20150317_007323	Buy Priest Items
-ETC_20150317_007324	Use Krivis Attributes
-ETC_20150317_007325	Use Cleric Attributes
-ETC_20150317_007326	Use Paladin Attributes
-ETC_20150317_007327	Use Fletcher Attributes
-ETC_20150317_007328	Use Corsair Attributes
-ETC_20150317_007329	Use Rogue Attributes
-ETC_20150317_007330	Use Schwarzer Reiter Attributes
-ETC_20150317_007331	Use Hackapell Attributes
-ETC_20150317_007332	Use Oracle Attributes
-ETC_20150317_007333	Use Bokor Attributes
-ETC_20150317_007334	Use Peltasta Attributes
-ETC_20150317_007335	Use Highlander Attributes
-ETC_20150317_007336	Use Pyromancer Attributes
-ETC_20150317_007337	Buy Pyromancer Items
-ETC_20150317_007338	Use Cryomancer Attributes
-ETC_20150317_007339	Use Swordsman Attributes
-ETC_20150317_007340	Use Wizard Attributes
-ETC_20150317_007341	Use Archer Attributes
-ETC_20150317_007342	Use Quarrel Shooter Attributes
-ETC_20150317_007343	Use Ranger Attributes
-ETC_20150317_007344	Use Monk Attributes
-ETC_20150317_007345	Use Pardoner Attributes
-ETC_20150317_007346	Buy Pardoner Items
-ETC_20150317_007347	Use Sorcerer Attributes
-ETC_20150317_007348	Use Necromancer Attributes
-ETC_20150317_007349	Use Doppelsoeldner Attributes
-ETC_20150317_007350	Use Chronomancer Attributes
+ETC_20150317_007305	使用 德魯伊 特性
+ETC_20150317_007306	使用 聖者 特性
+ETC_20150317_007307	使用 巫蠱師 特性
+ETC_20150317_007308	使用 劍盾兵 特性
+ETC_20150317_007309	使用 侍從 特性
+ETC_20150317_007310	使用 奇術士 特性
+ETC_20150317_007311	{memo X}使用 元素使 特性
+ETC_20150317_007312	使用 斥侯 特性
+ETC_20150317_007313	使用 野蠻人 特性
+ETC_20150317_007314	使用 重裝步兵 特性
+ETC_20150317_007315	使用 念力法師 特性
+ETC_20150317_007316	使用 鎖鏈法師 特性
+ETC_20150317_007317	使用 工兵 特性
+ETC_20150317_007318	使用 獵人 特性
+ETC_20150317_007319	使用 雕刻師 特性
+ETC_20150317_007320	購買 雕刻師 Items
+ETC_20150317_007321	{memo X}使用 煉金術士 特性
+ETC_20150317_007322	使用 聖水祭司 特性
+ETC_20150317_007323	購買 聖水祭司 道具
+ETC_20150317_007324	使用 聖火祭司 特性
+ETC_20150317_007325	使用 牧師 特性
+ETC_20150317_007326	使用 聖騎士 特性
+ETC_20150317_007327	使用 造箭者 特性
+ETC_20150317_007328	使用 海盜 特性
+ETC_20150317_007329	使用 流氓 特性
+ETC_20150317_007330	使用 黑騎士 特性
+ETC_20150317_007331	使用 重裝步兵 特性
+ETC_20150317_007332	使用 神諭師 特性
+ETC_20150317_007333	使用 邪靈祭司 特性
+ETC_20150317_007334	使用 輕裝盾兵 特性
+ETC_20150317_007335	使用 高地戰士 特性
+ETC_20150317_007336	使用 烈焰術士 特性
+ETC_20150317_007337	購買 烈焰術士 道具
+ETC_20150317_007338	使用 寒冰術士 特性
+ETC_20150317_007339	使用 劍士 特性
+ETC_20150317_007340	使用 法師 特性
+ETC_20150317_007341	使用 弓箭手 特性
+ETC_20150317_007342	使用 弩箭手 特性
+ETC_20150317_007343	使用 游俠 特性
+ETC_20150317_007344	使用 武僧 特性
+ETC_20150317_007345	使用 寬恕者 特性
+ETC_20150317_007346	購買 寬恕者 道具
+ETC_20150317_007347	使用 巫師 特性
+ETC_20150317_007348	使用 死靈術士 特性
+ETC_20150317_007349	使用 雙酬傭兵 特性
+ETC_20150317_007350	使用 時空法師 特性
 ETC_20150317_007351	Attack +%d
 ETC_20150317_007352	Improves Critical Hit Rating by +%d
-ETC_20150317_007353	Strength +%d
-ETC_20150317_007354	Dexterity +%d
-ETC_20150317_007355	Stamina +%d
-ETC_20150317_007356	Intelligence +%d
-ETC_20150317_007357	Critical Damage +%d
-ETC_20150317_007358	Max HP +%d
-ETC_20150317_007359	Max SP +%d
-ETC_20150317_007360	Accuracy +%d
-ETC_20150317_007361	Defense +%d
-ETC_20150317_007362	Defense +%d
-ETC_20150317_007363	Critical Damage Resistance +%d
-ETC_20150317_007364	Evasion +%d
+ETC_20150317_007353	力量 +%d
+ETC_20150317_007354	敏捷 +%d
+ETC_20150317_007355	耐力 +%d
+ETC_20150317_007356	智力 +%d
+ETC_20150317_007357	暴擊攻擊 +%d
+ETC_20150317_007358	最大HP +%d
+ETC_20150317_007359	最大SP +%d
+ETC_20150317_007360	命中率 +%d
+ETC_20150317_007361	防禦 +%d
+ETC_20150317_007362	防禦 +%d
+ETC_20150317_007363	暴擊抗性 +%d
+ETC_20150317_007364	閃避 +%d
 ETC_20150317_007365	Devil-type +%d
 ETC_20150317_007366	Devil-type Resistance +%d
 ETC_20150317_007367	Plant-type +%d
@@ -7412,23 +7413,23 @@ ETC_20150317_007412	Normal attack in front
 ETC_20150317_007413	Give the experience of a certain percentage
 ETC_20150317_007414	%s% of the experience value cycle
 ETC_20150317_007415	Logout
-ETC_20150317_007416	Love
-ETC_20150317_007417	Victory
-ETC_20150317_007418	Best
-ETC_20150317_007419	Follow
-ETC_20150317_007420	Help
-ETC_20150317_007421	Hi
-ETC_20150317_007422	No
-ETC_20150317_007423	Sorry
-ETC_20150317_007424	Thanks
-ETC_20150317_007425	Good
-ETC_20150317_007426	Greetings
-ETC_20150317_007427	Salute
-ETC_20150317_007428	Good Luck
-ETC_20150317_007429	Hearts
-ETC_20150317_007430	Hadouken
-ETC_20150317_007431	Surprise
-ETC_20150317_007432	Sorrow
+ETC_20150317_007416	愛心
+ETC_20150317_007417	勝利
+ETC_20150317_007418	大拇指
+ETC_20150317_007419	跟我來
+ETC_20150317_007420	救命
+ETC_20150317_007421	你好
+ETC_20150317_007422	不
+ETC_20150317_007423	對不起
+ETC_20150317_007424	謝謝
+ETC_20150317_007425	OK
+ETC_20150317_007426	致敬
+ETC_20150317_007427	敬禮
+ETC_20150317_007428	好運
+ETC_20150317_007429	心
+ETC_20150317_007430	龜派氣功
+ETC_20150317_007431	驚訝
+ETC_20150317_007432	傷心
 ETC_20150317_007433	紅色 Tree Rumor
 ETC_20150317_007434	Defeat Giant 紅色 Wood Goblin
 ETC_20150317_007435	According to the travelers who passed through the Starving Demon's Way a few days ago,
@@ -7588,7 +7589,7 @@ ETC_20150317_007588	{memo X}Revealment
 ETC_20150317_007589	First Soldier
 ETC_20150317_007590	Request from Drasius
 ETC_20150317_007591	Second Soldier
-ETC_20150317_007592	Offer worship to the Statue of Goddess Zemyna
+ETC_20150317_007592	對 女神 澤米娜 雕像 祈禱
 ETC_20150317_007593	Advice of Laimonas (4)
 ETC_20150317_007594	To Klaipeda
 ETC_20150317_007595	Third Soldier
@@ -7633,7 +7634,7 @@ ETC_20150317_007633	Second Shield of Fedimian
 ETC_20150317_007634	Third Shield of Fedimian
 ETC_20150317_007635	Treat the injured people
 ETC_20150317_007636	{memo X}Find the document related with Naktis
-ETC_20150317_007637	Bokor Master's Answer
+ETC_20150317_007637	邪靈祭司 導師的回答
 ETC_20150317_007638	Open Pyromancer's Box
 ETC_20150317_007639	Crazy but Faithful Archivist
 ETC_20150317_007640	Request of the Archivist (2)
@@ -7780,8 +7781,8 @@ ETC_20150317_007780	Protect yourself from monsters is attacking
 ETC_20150317_007781	Defeat High Vubbe and get the wooden arrow
 ETC_20150317_007782	Throw the wooden arrow into the fire
 ETC_20150317_007783	{memo X}Steel the booty of Siaulamb
-ETC_20150317_007784	 - press this key to use a Status Point
-ETC_20150317_007785	To Klaipeda (5)
+ETC_20150317_007784	 - 按這個鍵使用素質點數.
+ETC_20150317_007785	到 克萊佩達 (5)
 ETC_20150317_007786	Recapture Eastern Woods (2)
 ETC_20150317_007787	Guard of Royal Path(2)
 ETC_20150317_007788	Secret Place (2)
@@ -7944,9 +7945,9 @@ ETC_20150317_007944	N/A
 ETC_20150317_007945	Roaming AI
 ETC_20150317_007946	Using the EXP Card
 ETC_20150317_007947	N/A
-ETC_20150317_007948	Simple Example (1)
-ETC_20150317_007949	Simple Example (2)
-ETC_20150317_007950	Simple Example (3)
+ETC_20150317_007948	簡單的例子 (1)
+ETC_20150317_007949	簡單的例子 (2)
+ETC_20150317_007950	簡單的例子 (3)
 ETC_20150317_007951	Middle of example (1)
 ETC_20150317_007952	Middle of example (2)
 ETC_20150317_007953	Step of example (1)
@@ -8089,7 +8090,7 @@ ETC_20150317_008089	N/A
 ETC_20150317_008090	Telekinesis Throw Time
 ETC_20150317_008091	N/A
 ETC_20150317_008092	N/A
-ETC_20150317_008093	Pets Cooldown time
+ETC_20150317_008093	寵物冷卻時間
 ETC_20150317_008094	N/A
 ETC_20150317_008095	N/A
 ETC_20150317_008096	N/A
@@ -8125,19 +8126,19 @@ ETC_20150317_008125	Get rid of the summon things
 ETC_20150317_008126	Banish all from you!!
 ETC_20150317_008127	Circle
 ETC_20150317_008128	Square
-ETC_20150317_008129	Diamond
+ETC_20150317_008129	鑽石
 ETC_20150317_008130	Star
-ETC_20150317_008131	Empty
-ETC_20150317_008132	{memo X}Two-Handed Sword Stance
-ETC_20150317_008133	{memo X}One-Handed Sword Stance
-ETC_20150317_008134	{memo X}One-Handed Sword Shield Stance
-ETC_20150317_008135	{memo X}Two-Handed Bow Stance
-ETC_20150317_008136	{memo X}Blunt Shield Stance
-ETC_20150317_008137	{memo X}Blunt Stance
+ETC_20150317_008131	空
+ETC_20150317_008132	{memo X}雙手劍姿態
+ETC_20150317_008133	{memo X}單手劍姿態
+ETC_20150317_008134	{memo X}單手劍盾姿態
+ETC_20150317_008135	{memo X}雙手弓姿態
+ETC_20150317_008136	{memo X}鈍盾姿態
+ETC_20150317_008137	{memo X}鈍器姿態
 ETC_20150317_008138	Wizard One-Handed Staff
 ETC_20150317_008139	{memo X}Sorcerer Stance
 ETC_20150317_008140	{memo X}Archer Bow without Stance
-ETC_20150317_008141	{memo X}Crossbow Stance
+ETC_20150317_008141	{memo X}弩姿態
 ETC_20150317_008142	{memo X}Double Arrow Stance
 ETC_20150317_008143	{memo X}Secondary Bow Stance
 ETC_20150317_008144	{memo X}Bow Shield Stance
@@ -8175,7 +8176,7 @@ ETC_20150317_008175	Session's %sValue + %s  * Damage
 ETC_20150317_008176	Value + Damage *
 ETC_20150317_008177	Move to a certain coordinate after saving
 ETC_20150317_008178	Go to %s at %s% of HP
-ETC_20150317_008179	Resurrection HP %: 
+ETC_20150317_008179	復活 HP %: 
 ETC_20150317_008180	Enter HP
 ETC_20150317_008181	Resurrection coordinates: 
 ETC_20150317_008182	Enter coordinates
@@ -8210,17 +8211,17 @@ ETC_20150317_008210	Recipe - Pine Wood
 ETC_20150317_008211	Recipe - Cedar Wood
 ETC_20150317_008212	Recipe - Drake Epaulet
 ETC_20150317_008213	Recipe for 製作 materials
-ETC_20150317_008214	Recipe - White Mucus
-ETC_20150317_008215	Recipe - Florr
-ETC_20150317_008216	Recipe - Rough Bone Powder
-ETC_20150317_008217	Recipe - Tendon
+ETC_20150317_008214	圖紙 - 白色粘液
+ETC_20150317_008215	圖紙 - 弗洛爾
+ETC_20150317_008216	圖紙 - 粗骨粉
+ETC_20150317_008217	圖紙 - 纖維
 ETC_20150317_008218	Recipe - Spell Device
-ETC_20150317_008219	Recipe - Pyrostone
-ETC_20150317_008220	Recipe - Cryostone
-ETC_20150317_008221	Recipe - Hardener
-ETC_20150317_008222	Recipe - Tough Tendon
-ETC_20150317_008223	Recipe - Resinate
-ETC_20150317_008224	Recipe - Bokor doll
+ETC_20150317_008219	圖紙 - 烈焰石
+ETC_20150317_008220	圖紙 - 寒冰石
+ETC_20150317_008221	圖紙 - 硬化劑
+ETC_20150317_008222	圖紙 - 堅韌的纖維
+ETC_20150317_008223	圖紙 - 成品樹脂
+ETC_20150317_008224	圖紙 - 邪靈祭司娃娃
 ETC_20150317_008225	Recipe for 製作 a Bokor Doll
 ETC_20150317_008226	Recipe for 製作 裝備
 ETC_20150317_008227	{memo X}Recipe - Kaskara
@@ -8262,7 +8263,7 @@ ETC_20150317_008262	Recipe - Didel Colossus
 ETC_20150317_008263	Recipe - Hogma Great Sword
 ETC_20150317_008264	{memo X}Recipe - Primaluce
 ETC_20150317_008265	Recipe - Prieblanda
-ETC_20150317_008266	Recipe - Lapis Katzbalger
+ETC_20150317_008266	圖紙 - 青德式鬥劍
 ETC_20150317_008267	Recipe - Flamini
 ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Luciduce
@@ -8316,7 +8317,7 @@ ETC_20150317_008316	Recipe - Klavis Staff
 ETC_20150317_008317	{memo X}Recipe - Long Bow
 ETC_20150317_008318	{memo X}Recipe - Composite Bow
 ETC_20150317_008319	{memo X}Recipe - Self Bow
-ETC_20150317_008320	{memo X}Recipe - Rokas Bow
+ETC_20150317_008320	{memo X}圖紙 - 羅戈斯之弓
 ETC_20150317_008321	{memo X}Recipe - Goritos
 ETC_20150317_008322	Recipe - Gulail
 ETC_20150317_008323	{memo X}$Recipe - Kaman
@@ -8389,13 +8390,13 @@ ETC_20150317_008389	Recipe - Spontoon
 ETC_20150317_008390	{memo X}$Recipe - Hasta
 ETC_20150317_008391	Recipe - Long Hasta
 ETC_20150317_008392	{memo X}Recipe - Sauroter
-ETC_20150317_008393	Recipe - Dory
+ETC_20150317_008393	圖紙 - 多律
 ETC_20150317_008394	Recipe - Grand Spontoon
 ETC_20150317_008395	Recipe - Zega Spear
 ETC_20150317_008396	{memo X}Recipe - Harl Spear
 ETC_20150317_008397	Recipe - Fedimian Spear
 ETC_20150317_008398	Recipe - Silver Spear
-ETC_20150317_008399	Recipe - Geras Spear
+ETC_20150317_008399	圖紙 - 格拉斯(Geras)
 ETC_20150317_008400	Recipe - Doom Spear
 ETC_20150317_008401	Recipe - Firnas
 ETC_20150317_008402	Recipe - Adatag
@@ -14867,7 +14868,7 @@ ETC_20151001_014868	The error related with redis server happened. Please check t
 ETC_20151001_014869	Failed to the running SP. Please check the SP information and error code.
 ETC_20151001_014870	The command line parameter is incorrect. Please check the information of program bath file.
 ETC_20151001_014871	The client was terminated because of an error due to the display driver. Contact your display manufacturer.
-ETC_20151001_014872	Failed to initialize Nvidia Perf SDK.
+ETC_20151001_014872	Nvidia Perf SDK初始化失敗。
 ETC_20151001_014873	The error from Sign Code module happened. Please refer to the printed error code.
 ETC_20151001_014874	The log is still not declared the error code.
 ETC_20151001_014875	Frame Drop
