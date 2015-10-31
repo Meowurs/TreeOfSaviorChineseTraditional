@@ -6014,9 +6014,10 @@ ETC_20150317_006012	{memo X}Hold down {img Shift 45 45} and right-click to 交�
 ETC_20150317_006013	{memo X}Items sold to the store can be bought back.
 ETC_20150317_006014	{memo X}{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
 ETC_20150317_006015	素質點
-ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006017	{memo X}You can check your character's abilities in the Character Information window ({img F1 40 40}).
+ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
+ETC_20150317_006019	
 ETC_20150317_006020	{memo X}You can preview the effects of a status when you click 
 ETC_20150317_006021	{memo X} in the information tab.
 ETC_20150317_006022	Convenience
@@ -8235,13 +8236,13 @@ ETC_20150317_008234	Recipe - Moplah
 ETC_20150317_008235	{memo X}Recipe - Spatha
 ETC_20150317_008236	Recipe - Panto Sword
 ETC_20150317_008237	{memo X}Recipe - Steel Falchion
-ETC_20150317_008238	Recipe - Silver Falchion
-ETC_20150317_008239	Recipe - Golden Falchion
+ETC_20150317_008238	圖紙 - 銀劍
+ETC_20150317_008239	圖紙 - 黃金彎刀
 ETC_20150317_008240	{memo X}Recipe - Mandrapick
 ETC_20150317_008241	Recipe - Flonas Sabre
 ETC_20150317_008242	Recipe - Wizard Blade
 ETC_20150317_008243	Recipe - Miskas Sabre
-ETC_20150317_008244	Recipe - Trinity Sword
+ETC_20150317_008244	圖紙 - 三體劍(Trinity) 
 ETC_20150317_008245	Recipe - Velniup
 ETC_20150317_008246	Recipe - Fortis
 ETC_20150317_008247	Recipe - Bendras Sword
@@ -8252,23 +8253,23 @@ ETC_20150317_008251	Recipe - Klavis Sword
 ETC_20150317_008252	{memo X}Recipe - Low Bastard Rod
 ETC_20150317_008253	{memo X}Recipe - Flamberge
 ETC_20150317_008254	{memo X}Recipe - Nodachi
-ETC_20150317_008255	{memo X}Recipe - Claymore
+ETC_20150317_008255	{memo X}圖紙 - 闊刃陷阱
 ETC_20150317_008256	{memo X}Recipe - Colossus
-ETC_20150317_008257	Recipe - Caliburn
+ETC_20150317_008257	圖紙 - 石中劍
 ETC_20150317_008258	{memo X}Recipe - Quaddara
 ETC_20150317_008259	Recipe - Ilwoon
 ETC_20150317_008260	{memo X}Recipe - Temsus Flamberge
-ETC_20150317_008261	Recipe - Potentia
+ETC_20150317_008261	圖紙 - 波坦西亞
 ETC_20150317_008262	Recipe - Didel Colossus
 ETC_20150317_008263	Recipe - Hogma Great Sword
 ETC_20150317_008264	{memo X}Recipe - Primaluce
 ETC_20150317_008265	Recipe - Prieblanda
 ETC_20150317_008266	圖紙 - 青德式鬥劍
-ETC_20150317_008267	Recipe - Flamini
+ETC_20150317_008267	圖紙 - 弗拉米尼
 ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Luciduce
-ETC_20150317_008270	Recipe - Hell & Heaven
-ETC_20150317_008271	Recipe - Nulis
+ETC_20150317_008270	圖紙 - 地獄與天堂 
+ETC_20150317_008271	圖紙 - 紐萊斯
 ETC_20150317_008272	Recipe - Smith Two-handed Sword
 ETC_20150317_008273	Recipe - Klavis Two-handed Sword
 ETC_20150317_008274	{memo X}Recipe - Cane Rover
@@ -8282,7 +8283,7 @@ ETC_20150317_008281	Recipe - Battle Rod
 ETC_20150317_008282	Recipe - Ice Rod
 ETC_20150317_008283	Recipe - Fire Rod
 ETC_20150317_008284	{memo X}Recipe - Vasia Rod
-ETC_20150317_008285	Recipe - Magic Rod
+ETC_20150317_008285	圖紙 - 魔棒
 ETC_20150317_008286	Recipe - Arch Rod
 ETC_20150317_008287	Recipe - Ignition
 ETC_20150317_008288	Recipe - Secretum
@@ -8295,21 +8296,21 @@ ETC_20150317_008294	{memo X}Recipe - Staff
 ETC_20150317_008295	{memo X}Recipe - Jus Staff
 ETC_20150317_008296	{memo X}Recipe - Ubuko Staff
 ETC_20150317_008297	{memo X}Recipe - Stag Staff
-ETC_20150317_008298	Recipe - Geometry Staff
+ETC_20150317_008298	圖紙 - 幾何形 法杖
 ETC_20150317_008299	{memo X}Recipe - Demon Staff
-ETC_20150317_008300	Recipe - Storm Staff
+ETC_20150317_008300	圖紙 - 暴風 法杖
 ETC_20150317_008301	{memo X}Recipe - Magic Wooden Staff
 ETC_20150317_008302	{memo X}Recipe - Melinas Staff
 ETC_20150317_008303	{memo X}Recipe - Magi Staff
-ETC_20150317_008304	Recipe - Ludas Staff
+ETC_20150317_008304	圖紙 - 魯達斯法杖
 ETC_20150317_008305	Recipe - Saltas Staff
 ETC_20150317_008306	Recipe - Carstow Staff
 ETC_20150317_008307	Recipe - Expecta Staff
 ETC_20150317_008308	Recipe - Welsh Staff
 ETC_20150317_008309	Recipe - Candle Staff
-ETC_20150317_008310	Recipe - Audra
-ETC_20150317_008311	Recipe - Sunflower
-ETC_20150317_008312	Recipe - Maledoom
+ETC_20150317_008310	圖紙 - 奧德拉
+ETC_20150317_008311	圖紙 - 向日葵
+ETC_20150317_008312	圖紙 - 梅拉度
 ETC_20150317_008313	Recipe - Arca staff
 ETC_20150317_008314	Recipe - Raganos Horn
 ETC_20150317_008315	Recipe - Smith Staff
@@ -8323,12 +8324,12 @@ ETC_20150317_008322	Recipe - Gulail
 ETC_20150317_008323	{memo X}$Recipe - Kaman
 ETC_20150317_008324	Recipe - Gendawa
 ETC_20150317_008325	Recipe - Strong Bow
-ETC_20150317_008326	Recipe - Iron Bow
+ETC_20150317_008326	圖紙 - 鐵弓
 ETC_20150317_008327	Recipe - Hawk Bow
-ETC_20150317_008328	Recipe - Hunting Bow
+ETC_20150317_008328	圖紙 - 獵弓
 ETC_20150317_008329	Recipe - Savage Bow
-ETC_20150317_008330	Recipe - Snake Bow
-ETC_20150317_008331	Recipe - Lethena Bow
+ETC_20150317_008330	圖紙 - 蛇弓
+ETC_20150317_008331	圖紙 - 萊迪娜弓
 ETC_20150317_008332	Recipe - Wildling Bane
 ETC_20150317_008333	Recipe - Equalizer
 ETC_20150317_008334	Recipe - Heart Seeker
