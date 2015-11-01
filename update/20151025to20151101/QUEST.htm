@@ -1,0 +1,605 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>WinMerge File Compare Report</title>
+<style type="text/css">
+<!--
+td,th {word-break: break-all; font-size: 12pt;}
+tr { vertical-align: top; }
+.border { border-radius: 6px; border: 1px #a0a0a0 solid; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15); overflow: hidden; }
+.ln {text-align: right; word-break: normal; background-color: lightgrey; box-shadow: inset 1px 0px 0px rgba(0, 0, 0, 0.10);}
+.title {color: white; background-color: blue; vertical-align: top; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}
+.sf3b2 {color: #000000; background-color: #ffffff; }
+.sf3b5 {color: #000000; background-color: #3399ff; }
+.sf3b14 {color: #000000; background-color: #ffaaaa; }
+.sf3b16 {color: #000000; background-color: #aaffaa; }
+.sf3b18 {color: #000000; background-color: #a0e6a0; }
+.sf3b19 {color: #000000; background-color: #e6968c; }
+.sf6b2 {color: #ffffff; background-color: #ffffff; }
+.sf6b5 {color: #ffffff; background-color: #3399ff; }
+.sf6b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf6b16 {color: #ffffff; background-color: #aaffaa; }
+.sf6b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf6b19 {color: #ffffff; background-color: #e6968c; }
+.sf7b2 {color: #0000ff; background-color: #ffffff; font-weight: bold; }
+.sf7b5 {color: #0000ff; background-color: #3399ff; font-weight: bold; }
+.sf7b14 {color: #0000ff; background-color: #ffaaaa; font-weight: bold; }
+.sf7b16 {color: #0000ff; background-color: #aaffaa; font-weight: bold; }
+.sf7b18 {color: #0000ff; background-color: #a0e6a0; font-weight: bold; }
+.sf7b19 {color: #0000ff; background-color: #e6968c; font-weight: bold; }
+.sf8b2 {color: #800080; background-color: #ffffff; }
+.sf8b5 {color: #800080; background-color: #3399ff; }
+.sf8b14 {color: #800080; background-color: #ffaaaa; }
+.sf8b16 {color: #800080; background-color: #aaffaa; }
+.sf8b18 {color: #800080; background-color: #a0e6a0; }
+.sf8b19 {color: #800080; background-color: #e6968c; }
+.sf9b2 {color: #008000; background-color: #ffffff; }
+.sf9b5 {color: #008000; background-color: #3399ff; }
+.sf9b14 {color: #008000; background-color: #ffaaaa; }
+.sf9b16 {color: #008000; background-color: #aaffaa; }
+.sf9b18 {color: #008000; background-color: #a0e6a0; }
+.sf9b19 {color: #008000; background-color: #e6968c; }
+.sf10b2 {color: #ff0000; background-color: #ffffff; }
+.sf10b5 {color: #ff0000; background-color: #3399ff; }
+.sf10b14 {color: #ff0000; background-color: #ffaaaa; }
+.sf10b16 {color: #ff0000; background-color: #aaffaa; }
+.sf10b18 {color: #ff0000; background-color: #a0e6a0; }
+.sf10b19 {color: #ff0000; background-color: #e6968c; }
+.sf11b2 {color: #606060; background-color: #ffffff; }
+.sf11b5 {color: #606060; background-color: #3399ff; }
+.sf11b14 {color: #606060; background-color: #ffaaaa; }
+.sf11b16 {color: #606060; background-color: #aaffaa; }
+.sf11b18 {color: #606060; background-color: #a0e6a0; }
+.sf11b19 {color: #606060; background-color: #e6968c; }
+.sf12b2 {color: #800000; background-color: #ffffff; }
+.sf12b5 {color: #800000; background-color: #3399ff; }
+.sf12b14 {color: #800000; background-color: #ffaaaa; }
+.sf12b16 {color: #800000; background-color: #aaffaa; }
+.sf12b18 {color: #800000; background-color: #a0e6a0; }
+.sf12b19 {color: #800000; background-color: #e6968c; }
+.sf13b2 {color: #0080c0; background-color: #ffffff; }
+.sf13b5 {color: #0080c0; background-color: #3399ff; }
+.sf13b14 {color: #0080c0; background-color: #ffaaaa; }
+.sf13b16 {color: #0080c0; background-color: #aaffaa; }
+.sf13b18 {color: #0080c0; background-color: #a0e6a0; }
+.sf13b19 {color: #0080c0; background-color: #e6968c; }
+.sf15b2 {color: #ffffff; background-color: #ffffff; }
+.sf15b5 {color: #ffffff; background-color: #3399ff; }
+.sf15b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf15b16 {color: #ffffff; background-color: #aaffaa; }
+.sf15b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf15b19 {color: #ffffff; background-color: #e6968c; }
+.sf17b2 {color: #ffffff; background-color: #ffffff; }
+.sf17b5 {color: #ffffff; background-color: #3399ff; }
+.sf17b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf17b16 {color: #ffffff; background-color: #aaffaa; }
+.sf17b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf17b19 {color: #ffffff; background-color: #e6968c; }
+.sf20b2 {color: #000080; background-color: #ffffff; }
+.sf20b5 {color: #000080; background-color: #3399ff; }
+.sf20b14 {color: #000080; background-color: #ffaaaa; }
+.sf20b16 {color: #000080; background-color: #aaffaa; }
+.sf20b18 {color: #000080; background-color: #a0e6a0; }
+.sf20b19 {color: #000080; background-color: #e6968c; }
+.sf21b2 {color: #0080c0; background-color: #ffffff; }
+.sf21b5 {color: #0080c0; background-color: #3399ff; }
+.sf21b14 {color: #0080c0; background-color: #ffaaaa; }
+.sf21b16 {color: #0080c0; background-color: #aaffaa; }
+.sf21b18 {color: #0080c0; background-color: #a0e6a0; }
+.sf21b19 {color: #0080c0; background-color: #e6968c; }
+-->
+</style>
+</head>
+<body>
+<div class="border"><table cellspacing="0" cellpadding="0" style="width: 100%; margin: 0; border: none;">
+<thead>
+<tr>
+<th class="title" style="width:1%"></th><th class="title" style="width:49.000000%">2015/10/25</th>
+<th class="title" style="width:1%"></th><th class="title" style="width:49.000000%">2015/11/01</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ln"><a name="d1" href="#d1">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000013 &nbsp; </span><span class="sf3b16">So</span><span style="color: #000000; background-color: #ddffdd; "> you want to learn more about this stone slate. {nl}If you wish, I shall show you the will of its creator.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000013 &nbsp; </span><span class="sf3b16">So,</span><span style="color: #000000; background-color: #ddffdd; "> you want to learn more about this stone slate. {nl}If you wish, I shall show you the will of its creator.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d2" href="#d2">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000017 &nbsp; The demons have started the first of the cataclysms, and all the Goddesses have vanished. {nl}I knew this would happen and did all I could to change this fate, </span><span class="sf3b16">but</span><span style="color: #000000; background-color: #ddffdd; "> my power alone was not enough.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000017 &nbsp; The demons have started the first of the cataclysms, and all the Goddesses have vanished. {nl}I knew this would happen and did all I could to change this fate, </span><span class="sf3b16">but,</span><span style="color: #000000; background-color: #ddffdd; "> my power alone was not enough.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d3" href="#d3">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000024 &nbsp; I've passed the next </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> to the first Paladin. {nl}I'll be waiting for you at the highest flower garden.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000024 &nbsp; I've passed the next </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> to the first Paladin. {nl}I'll be waiting for you at the highest flower garden.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d4" href="#d4">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000031 &nbsp; {memo X}That'll be 100 silver coins. {nl}That'll cover operations, </span><span class="sf3b16">labor</span><span style="color: #000000; background-color: #ddffdd; "> and other expenses.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000031 &nbsp; {memo X}That'll be 100 silver coins. {nl}That'll cover operations, </span><span class="sf3b16">labor,</span><span style="color: #000000; background-color: #ddffdd; "> and other expenses.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d5" href="#d5">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000037 &nbsp; Welcome! {nl}You're looking for a travel companion, right? </span><span class="sf3b16">{nl}Then</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">you </span><span style="color: #000000; background-color: #ddffdd; ">won't find a better place for partners than here!</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000037 &nbsp; Welcome! {nl}You're looking for a travel companion, right? </span><span class="sf3b16">{nl}You</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">won't find a better place for partners than here!</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d6" href="#d6">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000048 &nbsp; $If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an earnest </span><span class="sf3b16">request</span><span style="color: #000000; background-color: #ddffdd; "> that I'd like you to attend to.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000048 &nbsp; $If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an earnest </span><span class="sf3b16">errand</span><span style="color: #000000; background-color: #ddffdd; "> that I'd like you to attend to.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d7" href="#d7">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000159 &nbsp; {memo X}You're gonna need a lot of things when </span><span class="sf3b16">travelling.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Be sure to stock up your provisions in advance.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000159 &nbsp; {memo X}You're gonna need a lot of things when </span><span class="sf3b16">traveling.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Be sure to stock up your provisions in advance.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d8" href="#d8">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000183 &nbsp; The first Paladin received a request from the Goddess, one day, in a divine </span><span class="sf3b16">revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}As he was thinking about how to keep this secret, the nomads appeared with their curse.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000183 &nbsp; The first Paladin received a request from the Goddess, one day, in a divine </span><span class="sf3b16">Revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}As he was thinking about how to keep this secret, the nomads appeared with their curse.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d9" href="#d9">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000186 &nbsp; All this, was to protect the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> hidden in the sanctum of Tenet Chapel.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000186 &nbsp; All this, was to protect the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> hidden in the sanctum of Tenet Chapel.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d10" href="#d10">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000198 &nbsp; {memo X}Shared the details of the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> fragment found in the Crystal Mine.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000198 &nbsp; {memo X}Shared the details of the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> fragment found in the Crystal Mine.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d11" href="#d11">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000270 &nbsp; I hope this </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> reaches you under the blessings of fire. {nl}These are the disasters I've foreseen in your age.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000270 &nbsp; I hope this </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> reaches you under the blessings of fire. {nl}These are the disasters I've foreseen in your age.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d12" href="#d12">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000279 &nbsp; I will end my long story here. The wise Maven will hold the next </span><span class="sf3b16">revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}I quietly await for the day you reach the Great Cathedral.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000279 &nbsp; I will end my long story here. The wise Maven will hold the next </span><span class="sf3b16">Revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}I quietly await for the day you reach the Great Cathedral.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d13" href="#d13">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000282 &nbsp; {memo X}Thanks to you, I have regained my strength, but it has only just begun. {nl}In return, I shall lure away the demons with a false </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> at the tower.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000282 &nbsp; {memo X}Thanks to you, I have regained my strength, but it has only just begun. {nl}In return, I shall lure away the demons with a false </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> at the tower.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d14" href="#d14">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000289 &nbsp; Here's the quiz, so listen up! {nl}What is the name of the group that Lydia Schaffen made to retrieve the Goddess' </span><span class="sf3b16">revelation?</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000289 &nbsp; Here's the quiz, so listen up! {nl}What is the name of the group that Lydia Schaffen made to retrieve the Goddess' </span><span class="sf3b16">Revelation?</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d15" href="#d15">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000352 &nbsp; </span><span class="sf3b16">The</span><span style="color: #000000; background-color: #ddffdd; "> Brave Protector</span><span class="sf3b18"> of Zachariel</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000352 &nbsp; </span><span class="sf3b16">Zachariel's</span><span style="color: #000000; background-color: #ddffdd; "> Brave Protector</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d16" href="#d16">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000355 &nbsp; Zachariel's Faithful </span><span class="sf3b16">Guardian</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000355 &nbsp; Zachariel's Faithful </span><span class="sf3b16">Protector</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d17" href="#d17">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000357 &nbsp; </span><span class="sf3b16">Echo</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">of Liliya</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000357 &nbsp; </span><span class="sf3b16">Liliya's</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Echo</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d18" href="#d18">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000396 &nbsp; </span><span class="sf3b16">$So</span><span style="color: #000000; background-color: #ddffdd; "> you're the one who got the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> from the Crystal Mine, right? {nl}If it's alright with you, I'd like to hear the details.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000396 &nbsp; </span><span class="sf3b16">$So,</span><span style="color: #000000; background-color: #ddffdd; "> you're the one who got the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> from the Crystal Mine, right? {nl}If it's alright with you, I'd like to hear the details.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d19" href="#d19">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000418 &nbsp; </span><span class="sf3b16">Soul</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">of</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Explorer Varkis</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000418 &nbsp; </span><span class="sf3b16">Adventurer</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Varkis'</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Spirit</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d20" href="#d20">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000423 &nbsp; This is where a small chapel was once located. {nl}A Statue of </span><span style="color: #000000; background-color: #ddffdd; ">Goddess Vakarine appears here once a day.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000423 &nbsp; This is where a small chapel was once located. {nl}A Statue of </span><span class="sf3b18">the </span><span style="color: #000000; background-color: #ddffdd; ">Goddess Vakarine appears here once a day.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d21" href="#d21">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000438 &nbsp; The sculptor created us with the Goddess' </span><span class="sf3b16">revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}We comfort the souls like he wants us to.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000438 &nbsp; The sculptor created us with the Goddess' </span><span class="sf3b16">Revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}We comfort the souls like he wants us to.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d22" href="#d22">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000445 &nbsp; There's still so </span><span class="sf3b16">much</span><span style="color: #000000; background-color: #ddffdd; "> more things to research…</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000445 &nbsp; There's still so </span><span class="sf3b16">many</span><span style="color: #000000; background-color: #ddffdd; "> more things to research…</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d23" href="#d23">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000455 &nbsp; You are the chosen one. {nl}Do not forget that. {nl}The </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is prepared for you. {nl}You need to get the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> and carry on the will of Goddess.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000455 &nbsp; You are the chosen one. {nl}Do not forget that. {nl}The </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is prepared for you. {nl}You need to get the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> and carry on the will of Goddess.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d24" href="#d24">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000463 &nbsp; I don't know about the other owls, but I still have hope. {nl}The Goddess will not abandon us. {nl}Looking at the </span><span class="sf3b16">revelations</span><span style="color: #000000; background-color: #ddffdd; "> left in the world, I'm sure she has plans for us. {nl}Please gather the scattered </span><span class="sf3b16">revelations.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000463 &nbsp; I don't know about the other owls, but I still have hope. {nl}The Goddess will not abandon us. {nl}Looking at the </span><span class="sf3b16">Revelations</span><span style="color: #000000; background-color: #ddffdd; "> left in the world, I'm sure she has plans for us. {nl}Please gather the scattered </span><span class="sf3b16">Revelations.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d25" href="#d25">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000475 &nbsp; I sell equipment to soldiers who lack supplies. {nl}Can't </span><span class="sf3b16">sell</span><span style="color: #000000; background-color: #ddffdd; "> them </span><span class="sf3b16">for</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">free </span><span style="color: #000000; background-color: #ddffdd; ">though. I have a family to feed…</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000475 &nbsp; I sell equipment to soldiers who lack supplies. {nl}Can't </span><span class="sf3b16">give</span><span style="color: #000000; background-color: #ddffdd; "> them </span><span class="sf3b16">away,</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">though. I have a family to feed…</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d26" href="#d26">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000501 &nbsp; $If it isn't you, the one who made me release Goddess Saule. </span><span class="sf3b16">{nl}What</span><span style="color: #000000; background-color: #ddffdd; "> are you putting your life on the </span><span class="sf3b16">line for?</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000501 &nbsp; $If it isn't you, the one who made me release Goddess Saule. </span><span class="sf3b16">{nl}Why</span><span style="color: #000000; background-color: #ddffdd; "> are you putting your life on the </span><span class="sf3b16">line?</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d27" href="#d27">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000513 &nbsp; When I thought about humans like you, a promising idea came up.{nl}The demons look down on humans </span><span class="sf3b16">so</span><span style="color: #000000; background-color: #ddffdd; "> {nl}they could not even imagine that I would leave the Revelation to you.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000513 &nbsp; When I thought about humans like you, a promising idea came up.{nl}The demons look down on humans </span><span class="sf3b16">so,</span><span style="color: #000000; background-color: #ddffdd; "> {nl}they could not even imagine that I would leave the Revelation to you.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d28" href="#d28">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000515 &nbsp; The guardian of the next Revelation will be one who unites the </span><span class="sf3b16">Kingdom.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}You can find my next Revelation in the deepest part of the Royal Mausoleum where he rests.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000515 &nbsp; The guardian of the next Revelation will be one who unites the </span><span class="sf3b16">kingdom.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}You can find my next Revelation in the deepest part of the Royal Mausoleum where he rests.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d29" href="#d29">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000543 &nbsp; But after being attacked, </span><span class="sf3b16">I've</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">no more bombs.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000543 &nbsp; But after being attacked, </span><span class="sf3b16">I</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">have </span><span style="color: #000000; background-color: #ddffdd; ">no more bombs.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d30" href="#d30">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000570 &nbsp; $You are entering the Thorn Forest area from here on. {nl}It is very </span><span class="sf3b16">dangerous</span><span style="color: #000000; background-color: #ddffdd; "> so please refrain from passing through. {nl} - Liaison Officer Niels</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000570 &nbsp; $You are entering the Thorn Forest area from here on. {nl}It is very </span><span class="sf3b16">dangerous,</span><span style="color: #000000; background-color: #ddffdd; "> so please refrain from passing through. {nl} - Liaison Officer Niels</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d31" href="#d31">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000631 &nbsp; The rebellion initially favored Ruklys, </span><span class="sf3b16">but</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">tides turned {nl}when the great Premier Eminent and marksman Lydia Schaffen joined the war.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000631 &nbsp; The rebellion initially favored Ruklys, </span><span class="sf3b16">but,</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">the </span><span style="color: #000000; background-color: #ddffdd; ">tides turned {nl}when the great Premier Eminent and marksman Lydia Schaffen joined the war.</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000632 &nbsp; It all ended two years </span><span class="sf3b16">after,</span><span style="color: #000000; background-color: #ddffdd; "> when Ruklys died at the hands of Lydia Schaffen.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000632 &nbsp; It all ended two years </span><span class="sf3b16">later,</span><span style="color: #000000; background-color: #ddffdd; "> when Ruklys died at the hands of Lydia Schaffen.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d32" href="#d32">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000817 &nbsp; Attention to those who come to Klaipeda after having a dream about the </span><span class="sf3b16">revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Knight Uska is waiting for you in the Central Plaza.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000817 &nbsp; Attention to those who come to Klaipeda after having a dream about the </span><span class="sf3b16">Revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Knight Uska is waiting for you in the Central Plaza.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d33" href="#d33">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000837 &nbsp; {memo X}Dear Revelator. {nl}Listen to the interpretations of the </span><span class="sf3b16">revelation.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000837 &nbsp; {memo X}Dear Revelator. {nl}Listen to the interpretations of the </span><span class="sf3b16">Revelation.</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000838 &nbsp; </span><span class="sf3b16">Hahaha</span><span style="color: #000000; background-color: #ddffdd; ">… {nl}Who would've thought that I would be challenged by humans…</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000838 &nbsp; </span><span class="sf3b16">Hmpf</span><span style="color: #000000; background-color: #ddffdd; ">… {nl}Who would've thought that I would be challenged by humans…</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000839 &nbsp; Your death shall be </span><span class="sf3b16">most</span><span style="color: #000000; background-color: #ddffdd; "> painful!</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000839 &nbsp; Your death shall be </span><span class="sf3b16">utmost</span><span style="color: #000000; background-color: #ddffdd; "> painful!</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d34" href="#d34">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000852 &nbsp; The curse of Naktis… Only curses remain where she treads. {nl}And she is now invading the Great Cathedral in search of the </span><span class="sf3b16">revelation.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000852 &nbsp; The curse of Naktis… Only curses remain where she treads. {nl}And she is now invading the Great Cathedral in search of the </span><span class="sf3b16">Revelation.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d35" href="#d35">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000878 &nbsp; {memo X}I won't hand over the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> to petty humans!</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000878 &nbsp; {memo X}I won't hand over the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> to petty humans!</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d36" href="#d36">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000881 &nbsp; $A thousand years ago, before your generation… {nl}This is the story of the time before I left the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> with the Great King Zachariel.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000881 &nbsp; $A thousand years ago, before your generation… {nl}This is the story of the time before I left the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> with the Great King Zachariel.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d37" href="#d37">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000885 &nbsp; $I plan to leave the end of this story in the next </span><span class="sf3b16">revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Find my </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> in the Mage Tower.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000885 &nbsp; $I plan to leave the end of this story in the next </span><span class="sf3b16">Revelation.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}Find my </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> in the Mage Tower.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d38" href="#d38">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000907 &nbsp; It's </span><span class="sf3b16">gushing</span><span style="color: #000000; background-color: #ddffdd; "> red light.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000907 &nbsp; It's </span><span class="sf3b16">emitting</span><span style="color: #000000; background-color: #ddffdd; "> red light.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d39" href="#d39">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000909 &nbsp; It is </span><span class="sf3b16">gushing</span><span style="color: #000000; background-color: #ddffdd; "> blue light.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000909 &nbsp; It is </span><span class="sf3b16">emitting</span><span style="color: #000000; background-color: #ddffdd; "> blue light.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d40" href="#d40">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000911 &nbsp; It's </span><span class="sf3b16">gushing</span><span style="color: #000000; background-color: #ddffdd; "> yellow light.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000911 &nbsp; It's </span><span class="sf3b16">emitting</span><span style="color: #000000; background-color: #ddffdd; "> yellow light.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d41" href="#d41">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000913 &nbsp; It's </span><span class="sf3b16">gushing</span><span style="color: #000000; background-color: #ddffdd; "> green light.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000913 &nbsp; It's </span><span class="sf3b16">emitting</span><span style="color: #000000; background-color: #ddffdd; "> green light.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d42" href="#d42">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000915 &nbsp; It's </span><span class="sf3b16">gushing</span><span style="color: #000000; background-color: #ddffdd; "> purple light.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000915 &nbsp; It's </span><span class="sf3b16">emitting</span><span style="color: #000000; background-color: #ddffdd; "> purple light.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d43" href="#d43">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000928 &nbsp; Take the bombs </span><span class="sf3b16">in</span><span style="color: #000000; background-color: #ddffdd; "> the </span><span class="sf3b16">box.</span><span style="color: #000000; background-color: #ddffdd; "> You must destroy the </span><span class="sf3b16">Mausoleum</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">entrance.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000928 &nbsp; Take the bombs </span><span class="sf3b16">from</span><span style="color: #000000; background-color: #ddffdd; "> the </span><span class="sf3b16">chest.</span><span style="color: #000000; background-color: #ddffdd; "> You must destroy the </span><span class="sf3b16">entrance</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">of the Royal Mausoleum.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d44" href="#d44">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000933 &nbsp; {memo X}What the…! Losing the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> right in front of…! {nl}This isn't the end! Remember that!</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000933 &nbsp; {memo X}What the…! Losing the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> right in front of…! {nl}This isn't the end! Remember that!</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d45" href="#d45">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000943 &nbsp; </span><span class="sf3b16">Seems</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">like it can be used only in the Crystal Mine, 3rd Gallery…</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000943 &nbsp; </span><span class="sf3b16">It</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">seems </span><span style="color: #000000; background-color: #ddffdd; ">like it can be used only in the Crystal Mine, 3rd Gallery…</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d46" href="#d46">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000984 &nbsp; In that case, I shall try to interpret the Goddess' </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> for the rest of my remaining life. {nl}If that goes against her will, the Goddess should punish me right away.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_000984 &nbsp; In that case, I shall try to interpret the Goddess' </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> for the rest of my remaining life. {nl}If that goes against her will, the Goddess should punish me right away.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d47" href="#d47">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001022 &nbsp; {memo X}I guess the real </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is in the chapel? {nl}That Laima could only prepare this much. Such a pity.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001022 &nbsp; {memo X}I guess the real </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is in the chapel? {nl}That Laima could only prepare this much. Such a pity.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d48" href="#d48">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001059 &nbsp; {memo X}There's a dark aura forming at Gate Route. {nl}If we don't get rid of that aura, </span><span class="sf3b16">thorn</span><span style="color: #000000; background-color: #ddffdd; "> vines will cover the forest.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001059 &nbsp; {memo X}There's a dark aura forming at Gate Route. {nl}If we don't get rid of that aura, </span><span class="sf3b16">thorny</span><span style="color: #000000; background-color: #ddffdd; "> vines will cover the forest.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d49" href="#d49">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001245 &nbsp; </span><span class="sf3b16">Explorer's</span><span style="color: #000000; background-color: #ddffdd; "> Favor</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001245 &nbsp; </span><span class="sf3b16">Adventurer's</span><span style="color: #000000; background-color: #ddffdd; "> Favor</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d50" href="#d50">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001270 &nbsp; </span><span class="sf3b16">Eye</span><span style="color: #000000; background-color: #ddffdd; "> of Zachariel</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001270 &nbsp; </span><span class="sf3b16">Eyes</span><span style="color: #000000; background-color: #ddffdd; "> of Zachariel</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d51" href="#d51">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001277 &nbsp; </span><span class="sf3b16">Bothersome</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Disappearance</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001277 &nbsp; </span><span class="sf3b16">Worrisome</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Disappearances</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d52" href="#d52">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001382 &nbsp; </span><span class="sf3b16">Freedom</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">of </span><span style="color: #000000; background-color: #ddffdd; ">Goddess Saule</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001382 &nbsp; </span><span class="sf3b16">Release</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">Goddess Saule</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001383 &nbsp; </span><span style="color: #000000; background-color: #ddffdd; ">Wizard and </span><span class="sf3b16">Maze</span><span style="color: #000000; background-color: #ddffdd; "> Tower</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001383 &nbsp; </span><span class="sf3b18">The </span><span style="color: #000000; background-color: #ddffdd; ">Wizard and </span><span class="sf3b16">Mage</span><span style="color: #000000; background-color: #ddffdd; "> Tower</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d53" href="#d53">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001385 &nbsp; </span><span style="color: #000000; background-color: #ddffdd; ">Guard's Favor</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001385 &nbsp; </span><span class="sf3b18">Security </span><span style="color: #000000; background-color: #ddffdd; ">Guard's Favor</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d54" href="#d54">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001404 &nbsp; </span><span style="color: #000000; background-color: #ddffdd; ">Royal </span><span class="sf3b16">Legacy</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001404 &nbsp; </span><span class="sf3b18">Legacy of the </span><span style="color: #000000; background-color: #ddffdd; ">Royal </span><span class="sf3b16">Family</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d55" href="#d55">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001411 &nbsp; </span><span style="color: #000000; background-color: #ddffdd; ">Bramble</span><span class="sf3b18"> Cheats</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150317_001411 &nbsp; </span><span class="sf3b18">Capturing </span><span style="color: #000000; background-color: #ddffdd; ">Bramble</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d56" href="#d56">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001426 &nbsp; I have no </span><span class="sf3b16">strength</span><span style="color: #000000; background-color: #ddffdd; "> but I write this for anyone who may pass by this area. {nl}Naktis… It's a funny thing to wish a curse on the Monarch of Curses.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001426 &nbsp; I have no </span><span class="sf3b16">strength,</span><span style="color: #000000; background-color: #ddffdd; "> but I write this for anyone who may pass by this area. {nl}Naktis… It's a funny thing to wish a curse on the Monarch of Curses.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d57" href="#d57">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001436 &nbsp; {memo X}Naktis is looking for a clue to enter the Cathedral. {nl}If I'm right, not only has the Forest of Prayer been affected, but all of the Pilgrim Path. {nl}Revelator, if you reach the Cathedral, please defeat Naktis. {nl}You must stop the Goddess' </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> from falling into demon hands.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001436 &nbsp; {memo X}Naktis is looking for a clue to enter the Cathedral. {nl}If I'm right, not only has the Forest of Prayer been affected, but all of the Pilgrim Path. {nl}Revelator, if you reach the Cathedral, please defeat Naktis. {nl}You must stop the Goddess' </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> from falling into demon hands.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d58" href="#d58">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001583 &nbsp; $You will enter a special room once you get all five keys of Maven. {nl}In there, you will be tested to see if you're eligible for the </span><span class="sf3b16">revelation.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001583 &nbsp; $You will enter a special room once you get all five keys of Maven. {nl}In there, you will be tested to see if you're eligible for the </span><span class="sf3b16">Revelation.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d59" href="#d59">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001608 &nbsp; $Even if the Revelator gets the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> in his hands, {nl}it's useless if it can't be protected.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001608 &nbsp; $Even if the Revelator gets the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> in his hands, {nl}it's useless if it can't be protected.</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001609 &nbsp; $The purpose of my secret is not only to protect the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> from evil but also to prevent the greed of weak Revelators.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001609 &nbsp; $The purpose of my secret is not only to protect the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> from evil but also to prevent the greed of weak Revelators.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d60" href="#d60">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001631 &nbsp; $Even if the Goddess condemns me for this… I will hold my head high,{nl} because it was for the protection of the </span><span class="sf3b16">revelation.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001631 &nbsp; $Even if the Goddess condemns me for this… I will hold my head high,{nl} because it was for the protection of the </span><span class="sf3b16">Revelation.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d61" href="#d61">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001633 &nbsp; $This sanctuary is a treasure house of knowledge. {nl}You need to master the fundamentals of everything to protect the kingdom and </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> in the name of the Goddess. </span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150323_001633 &nbsp; $This sanctuary is a treasure house of knowledge. {nl}You need to master the fundamentals of everything to protect the kingdom and </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> in the name of the Goddess. </span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d62" href="#d62">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150414_001818 &nbsp; $The spell device is used to suppress the aura </span><span style="color: #000000; background-color: #ddffdd; ">using the magic </span><span class="sf3b16">circle</span><span style="color: #000000; background-color: #ddffdd; "> to purify the farm. {nl}It's all </span><span class="sf3b16">thanks</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">to</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">Rimas.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150414_001818 &nbsp; $The spell device is used to suppress the aura </span><span class="sf3b18">by </span><span style="color: #000000; background-color: #ddffdd; ">using the magic </span><span class="sf3b16">circles</span><span style="color: #000000; background-color: #ddffdd; "> to purify the farm. {nl}It's all </span><span class="sf3b16">the</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">genius</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">of </span><span style="color: #000000; background-color: #ddffdd; ">Rimas.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d63" href="#d63">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001903 &nbsp; {memo X}$The royal tomb that was mentioned in the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is located too far away from you. {nl}I'll open the portal for you.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001903 &nbsp; {memo X}$The royal tomb that was mentioned in the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is located too far away from you. {nl}I'll open the portal for you.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d64" href="#d64">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001918 &nbsp; </span><span class="sf3b16">$The</span><span style="color: #000000; background-color: #ddffdd; "> Husband</span><span class="sf3b18"> of a Refugee</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001918 &nbsp; </span><span class="sf3b16">$Refugee</span><span style="color: #000000; background-color: #ddffdd; "> Husband</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001919 &nbsp; </span><span class="sf3b16">$The</span><span style="color: #000000; background-color: #ddffdd; "> Wife</span><span class="sf3b18"> of a Refugee</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001919 &nbsp; </span><span class="sf3b16">$Refugee</span><span style="color: #000000; background-color: #ddffdd; "> Wife</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d65" href="#d65">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001969 &nbsp; $The Demon </span><span class="sf3b16">Lord,</span><span style="color: #000000; background-color: #ddffdd; "> Helgasercle, divided the spirit of the Demon </span><span class="sf3b16">Lord,</span><span style="color: #000000; background-color: #ddffdd; "> Hauberk. {nl}This was used to power the barrier that now surrounds the Mage Tower and then was scattered throughout the kingdom.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150428_001969 &nbsp; $The Demon </span><span class="sf3b16">Lord</span><span style="color: #000000; background-color: #ddffdd; "> Helgasercle, divided the spirit of the Demon </span><span class="sf3b16">Lord</span><span style="color: #000000; background-color: #ddffdd; "> Hauberk. {nl}This was used to power the barrier that now surrounds the Mage Tower and then was scattered throughout the kingdom.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d66" href="#d66">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150511_002023 &nbsp; </span><span class="sf3b16">$The</span><span style="color: #000000; background-color: #ddffdd; "> Complete Research Materials</span><span class="sf3b18"> of Varkis</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150511_002023 &nbsp; </span><span class="sf3b16">$Varkis'</span><span style="color: #000000; background-color: #ddffdd; "> Complete Research Materials</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d67" href="#d67">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150714_002087 &nbsp; $You will need various tools when </span><span class="sf3b16">travelling.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}It's better to buy them in advance.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150714_002087 &nbsp; $You will need various tools when </span><span class="sf3b16">traveling.</span><span style="color: #000000; background-color: #ddffdd; "> {nl}It's better to buy them in advance.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d68" href="#d68">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150714_002214 &nbsp; We ran away from Laukyme </span><span class="sf3b16">Swampy</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">Place. </span><span style="color: #000000; background-color: #ddffdd; ">{nl}When you find the pages of the documents from Ershike Path to Dumvala Crossroads, please bring them to me.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150714_002214 &nbsp; We ran away from Laukyme </span><span class="sf3b16">Swamp.</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">{nl}When you find the pages of the documents from Ershike Path to Dumvala Crossroads, please bring them to me.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d69" href="#d69">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150729_002286 &nbsp; $Whether this </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> will become a new beacon of hope or a start of a new disaster, is indeed {nl}difficult to judge… We are thinking of continuing our investigation.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150729_002286 &nbsp; $Whether this </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> will become a new beacon of hope or a start of a new disaster, is indeed {nl}difficult to judge… We are thinking of continuing our investigation.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d70" href="#d70">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150918_002429 &nbsp; Underground Chapel Dungeon (Recommended Lv : </span><span class="sf3b16">40){nl}Only</span><span style="color: #000000; background-color: #ddffdd; "> you and your party members can enter together.{nl}Do you want to enter?</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150918_002429 &nbsp; Underground Chapel Dungeon (Recommended Lv : </span><span class="sf3b16">50){nl}Only</span><span style="color: #000000; background-color: #ddffdd; "> you and your party members can enter together.{nl}Do you want to enter?</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d71" href="#d71">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150918_002435 &nbsp; Catacombs Underground Dungeon (Recommended </span><span class="sf3b16">Lv.</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">200){nl}Only you and your party members can enter together.{nl}Do you want to enter?</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20150918_002435 &nbsp; Catacombs Underground Dungeon (Recommended </span><span class="sf3b16">Lv</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">: </span><span style="color: #000000; background-color: #ddffdd; ">200){nl}Only you and your party members can enter together.{nl}Do you want to enter?</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d72" href="#d72">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002448 &nbsp; But, I don't feel any evil energy nor the determination.{nl}So then, this </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is really of Goddess Laima's... That's right.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002448 &nbsp; But, I don't feel any evil energy nor the determination.{nl}So then, this </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is really of Goddess Laima's... That's right.{nl}</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d73" href="#d73">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002450 &nbsp; Among many Revelators, the one who can save this world and the Goddesses...{nl}The </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> says that you are the savior.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002450 &nbsp; Among many Revelators, the one who can save this world and the Goddesses...{nl}The </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> says that you are the savior.{nl}</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d74" href="#d74">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002452 &nbsp; The </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> doesn't want me to mention about the savior, I guess.{nl}Okay, please go back to meet Uska.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002452 &nbsp; The </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> doesn't want me to mention about the savior, I guess.{nl}Okay, please go back to meet Uska.{nl}</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d75" href="#d75">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002483 &nbsp; It is so good to hear that the Crystal Mine is opening again soon. {nl}I'd thought the world would've collapsed soon. {nl}Let's see, which equipment do you want me to take a </span><span class="sf3b16">look?</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002483 &nbsp; It is so good to hear that the Crystal Mine is opening again soon. {nl}I'd thought the world would've collapsed soon. {nl}Let's see, which equipment do you want me to take a </span><span class="sf3b16">look at?</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002484 &nbsp; </span><span class="sf3b16">$The</span><span style="color: #000000; background-color: #ddffdd; "> Revelator who saved Tenet Chapel... </span><span class="sf3b16">I</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">would</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">fix your equipment for free,{nl}but that is going to be hard due to </span><span style="color: #000000; background-color: #ddffdd; ">current circumstances.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002484 &nbsp; </span><span class="sf3b16">The</span><span style="color: #000000; background-color: #ddffdd; "> Revelator who saved Tenet Chapel... </span><span class="sf3b16">I'd</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">like</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">to </span><span style="color: #000000; background-color: #ddffdd; ">fix your equipment for free,{nl}but that is going to be hard due to </span><span class="sf3b18">the </span><span style="color: #000000; background-color: #ddffdd; ">current circumstances.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d76" href="#d76">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002507 &nbsp; Laima never showed herself in recorded history.{nl}And she was waiting for you while making the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> in that long period.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002507 &nbsp; Laima never showed herself in recorded history.{nl}And she was waiting for you while making the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> in that long period.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d77" href="#d77">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002510 &nbsp; I don't know who the Revelator is, but it's so great to hear that the Demon Lord at </span><span style="color: #000000; background-color: #ddffdd; ">Crystal Mine was defeated.{nl}Now, dreaming for </span><span class="sf3b16">the</span><span style="color: #000000; background-color: #ddffdd; "> hope is not meaningless.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002510 &nbsp; I don't know who the Revelator is, but it's so great to hear that the Demon Lord at </span><span class="sf3b18">the </span><span style="color: #000000; background-color: #ddffdd; ">Crystal Mine was defeated.{nl}Now, dreaming for </span><span class="sf3b16">a</span><span style="color: #000000; background-color: #ddffdd; "> hope is not meaningless.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d78" href="#d78">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002530 &nbsp; I thought the reason why I had to follow the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> on behalf of Agailla Flurry,{nl}was related to her death and the ill-fated relationship with Helgasercle.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002530 &nbsp; I thought the reason why I had to follow the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> on behalf of Agailla Flurry,{nl}was related to her death and the ill-fated relationship with Helgasercle.{nl}</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d79" href="#d79">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002542 &nbsp; The guardian of the Royal Mausoleum where the next </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> awaits is quite far from here.{nl}So I will open a portal for you as a shortcut.{nl}In the name of </span><span style="color: #000000; background-color: #ddffdd; ">the Goddess of the Sun, </span><span class="sf3b18">Saule, </span><span style="color: #000000; background-color: #ddffdd; ">I will pray for your safety.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002542 &nbsp; The guardian of the Royal Mausoleum where the next </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> awaits is quite far from here.{nl}So I will open a portal for you as a shortcut.{nl}In the name of </span><span class="sf3b18">Saule, </span><span style="color: #000000; background-color: #ddffdd; ">the Goddess of the Sun, </span><span style="color: #000000; background-color: #ddffdd; ">I will pray for your safety.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d80" href="#d80">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002582 &nbsp; Hammer, I've already </span><span class="sf3b16">gave</span><span style="color: #000000; background-color: #ddffdd; "> it to you. Why are you asking for it again?</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002582 &nbsp; Hammer, I've already </span><span class="sf3b16">given</span><span style="color: #000000; background-color: #ddffdd; "> it to you. Why are you asking for it again?</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d81" href="#d81">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002585 &nbsp; </span><span class="sf3b16">You</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">have </span><span style="color: #000000; background-color: #ddffdd; ">too </span><span class="sf3b16">much</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">greeds. </span><span style="color: #000000; background-color: #ddffdd; ">One will be enough.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002585 &nbsp; </span><span class="sf3b16">You're</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">too </span><span class="sf3b16">greedy.</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">One will be enough.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d82" href="#d82">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002609 &nbsp; {memo X}The </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> of the Goddesses which we were looking for is near.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002609 &nbsp; {memo X}The </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> of the Goddesses which we were looking for is near.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d83" href="#d83">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002611 &nbsp; {memo X}Even if I die, I will block you from obtaining the </span><span class="sf3b16">revelation!</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002611 &nbsp; {memo X}Even if I die, I will block you from obtaining the </span><span class="sf3b16">Revelation!</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d84" href="#d84">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002615 &nbsp; After I separated from you, I've been </span><span class="sf3b18">keep </span><span style="color: #000000; background-color: #ddffdd; ">searching for Monocle... There were only demons at the place where the special force was detected.{nl}So I thought maybe Monocle can only be seen by the demons...</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002615 &nbsp; After I separated from you, I've been </span><span style="color: #000000; background-color: #ddffdd; ">searching for Monocle... There were only demons at the place where the special force was detected.{nl}So I thought maybe Monocle can only be seen by the demons...</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d85" href="#d85">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002652 &nbsp; $His final battleground...{nl}Laima's </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> at the Fortress of the Great Earth is waiting for you.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002652 &nbsp; $His final battleground...{nl}Laima's </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> at the Fortress of the Great Earth is waiting for you.{nl}</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d86" href="#d86">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002654 &nbsp; After a thousand years </span><span class="sf3b16">in</span><span style="color: #000000; background-color: #ddffdd; "> sleep, I am finally able to meet </span><span class="sf3b16">you</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">who</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">the Goddess </span><span class="sf3b16">foretold</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">me about.{nl}I </span><span style="color: #000000; background-color: #ddffdd; ">am also </span><span class="sf3b16">relieve</span><span style="color: #000000; background-color: #ddffdd; "> to see that the </span><span class="sf3b16">Royal</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Mausoleum</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">which</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">I</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">built</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">during my rule was not futile.{nl}</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002654 &nbsp; After a thousand years </span><span class="sf3b16">of</span><span style="color: #000000; background-color: #ddffdd; "> sleep, I am finally able to meet </span><span class="sf3b16">you,</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">the</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">one whose coming </span><span style="color: #000000; background-color: #ddffdd; ">the Goddess </span><span class="sf3b16">foretold.{nl}I</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">am also </span><span class="sf3b16">relieved</span><span style="color: #000000; background-color: #ddffdd; "> to see that the </span><span class="sf3b16">effort</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">I</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">put</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">into</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">building</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">the Royal Mausoleum </span><span style="color: #000000; background-color: #ddffdd; ">during my rule was not futile.{nl}</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002655 &nbsp; Although I founded the kingdom,{nl}I wish to speak to you as the guardian of the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> rather than as king.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002655 &nbsp; Although I founded the kingdom,{nl}I wish to speak to you as the guardian of the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> rather than as king.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d87" href="#d87">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002657 &nbsp; After spending a thousand years of worshiping the providence of the </span><span class="sf3b16">Goddess...,{nl}I</span><span style="color: #000000; background-color: #ddffdd; "> shall now show you the great will that was left to you in the </span><span class="sf3b16">revelation.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002657 &nbsp; After spending a thousand years of worshiping the providence of the </span><span class="sf3b16">Goddess,{nl}I</span><span style="color: #000000; background-color: #ddffdd; "> shall now show you the great will that was left to you in the </span><span class="sf3b16">Revelation.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d88" href="#d88">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002660 &nbsp; If the demons </span><span class="sf3b16">crosses</span><span style="color: #000000; background-color: #ddffdd; "> the dimensional crack and join hands together with </span><span class="sf3b16">them</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">at the Demon Prison...,{nl}the world will be in for another kind of threat.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002660 &nbsp; If the demons </span><span class="sf3b16">cross</span><span style="color: #000000; background-color: #ddffdd; "> the dimensional crack and join hands together with </span><span class="sf3b16">their</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">brethren </span><span style="color: #000000; background-color: #ddffdd; ">at the Demon Prison...,{nl}the world will be in for another kind of threat.</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002661 &nbsp; I've told sister Vakarine to promise me that she'd prepare for the worst.{nl}But the </span><span class="sf3b16">severed</span><span style="color: #000000; background-color: #ddffdd; "> </span><span style="color: #000000; background-color: #ddffdd; ">demons </span><span class="sf3b16">raised</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">waves</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">which</span><span style="color: #000000; background-color: #ddffdd; "> might </span><span class="sf3b16">have</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">seized</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">her by her leg.</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002661 &nbsp; I've told sister Vakarine to promise me that she'd prepare for the worst.{nl}But the </span><span class="sf3b16">uprising</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b18">of the </span><span style="color: #000000; background-color: #ddffdd; ">demons </span><span class="sf3b16">that</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">broke</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">through</span><span style="color: #000000; background-color: #ddffdd; "> might </span><span class="sf3b16">be</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">hindering</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">her.</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d89" href="#d89">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002693 &nbsp; Ugh, I thought it would die after its throat </span><span class="sf3b16">has</span><span style="color: #000000; background-color: #ddffdd; "> been cut.{nl}I hope it can just behave now and die slowly.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002693 &nbsp; Ugh, I thought it would die after its throat </span><span class="sf3b16">had</span><span style="color: #000000; background-color: #ddffdd; "> been cut.{nl}I hope it can just behave now and die slowly.</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002694 &nbsp; $A false </span><span class="sf3b16">revelation..</span><span style="color: #000000; background-color: #ddffdd; "> all this so you can lure me out to get rid of me?{nl}How disappointing to see that such trickery is the best that Laima can prepare.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002694 &nbsp; $A false </span><span class="sf3b16">Revelation..</span><span style="color: #000000; background-color: #ddffdd; "> all this so you can lure me out to get rid of me?{nl}How disappointing to see that such trickery is the best that Laima can prepare.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d90" href="#d90">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002696 &nbsp; $Right. I can feel where the real </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is located.{nl}Try struggling once more.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002696 &nbsp; $Right. I can feel where the real </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is located.{nl}Try struggling once more.</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002697 &nbsp; </span><span class="sf3b16">So</span><span style="color: #000000; background-color: #ddffdd; "> this is where the </span><span class="sf3b16">revelation</span><span style="color: #000000; background-color: #ddffdd; "> is hidden.</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">QUEST_20151001_002697 &nbsp; </span><span class="sf3b16">So,</span><span style="color: #000000; background-color: #ddffdd; "> this is where the </span><span class="sf3b16">Revelation</span><span style="color: #000000; background-color: #ddffdd; "> is hidden.</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"></td><td></td>
+<td class="ln"></td><td></td>
+</tr>
+</tbody>
+</table>
+</div></body>
+</html>

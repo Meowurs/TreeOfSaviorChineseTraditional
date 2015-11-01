@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+	"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>WinMerge File Compare Report</title>
+<style type="text/css">
+<!--
+td,th {word-break: break-all; font-size: 12pt;}
+tr { vertical-align: top; }
+.border { border-radius: 6px; border: 1px #a0a0a0 solid; box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.15); overflow: hidden; }
+.ln {text-align: right; word-break: normal; background-color: lightgrey; box-shadow: inset 1px 0px 0px rgba(0, 0, 0, 0.10);}
+.title {color: white; background-color: blue; vertical-align: top; padding: 4px 4px; background: linear-gradient(mediumblue, darkblue);}
+.sf3b2 {color: #000000; background-color: #ffffff; }
+.sf3b5 {color: #000000; background-color: #3399ff; }
+.sf3b14 {color: #000000; background-color: #ffaaaa; }
+.sf3b16 {color: #000000; background-color: #aaffaa; }
+.sf3b18 {color: #000000; background-color: #a0e6a0; }
+.sf3b19 {color: #000000; background-color: #e6968c; }
+.sf6b2 {color: #ffffff; background-color: #ffffff; }
+.sf6b5 {color: #ffffff; background-color: #3399ff; }
+.sf6b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf6b16 {color: #ffffff; background-color: #aaffaa; }
+.sf6b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf6b19 {color: #ffffff; background-color: #e6968c; }
+.sf7b2 {color: #0000ff; background-color: #ffffff; font-weight: bold; }
+.sf7b5 {color: #0000ff; background-color: #3399ff; font-weight: bold; }
+.sf7b14 {color: #0000ff; background-color: #ffaaaa; font-weight: bold; }
+.sf7b16 {color: #0000ff; background-color: #aaffaa; font-weight: bold; }
+.sf7b18 {color: #0000ff; background-color: #a0e6a0; font-weight: bold; }
+.sf7b19 {color: #0000ff; background-color: #e6968c; font-weight: bold; }
+.sf8b2 {color: #800080; background-color: #ffffff; }
+.sf8b5 {color: #800080; background-color: #3399ff; }
+.sf8b14 {color: #800080; background-color: #ffaaaa; }
+.sf8b16 {color: #800080; background-color: #aaffaa; }
+.sf8b18 {color: #800080; background-color: #a0e6a0; }
+.sf8b19 {color: #800080; background-color: #e6968c; }
+.sf9b2 {color: #008000; background-color: #ffffff; }
+.sf9b5 {color: #008000; background-color: #3399ff; }
+.sf9b14 {color: #008000; background-color: #ffaaaa; }
+.sf9b16 {color: #008000; background-color: #aaffaa; }
+.sf9b18 {color: #008000; background-color: #a0e6a0; }
+.sf9b19 {color: #008000; background-color: #e6968c; }
+.sf10b2 {color: #ff0000; background-color: #ffffff; }
+.sf10b5 {color: #ff0000; background-color: #3399ff; }
+.sf10b14 {color: #ff0000; background-color: #ffaaaa; }
+.sf10b16 {color: #ff0000; background-color: #aaffaa; }
+.sf10b18 {color: #ff0000; background-color: #a0e6a0; }
+.sf10b19 {color: #ff0000; background-color: #e6968c; }
+.sf11b2 {color: #606060; background-color: #ffffff; }
+.sf11b5 {color: #606060; background-color: #3399ff; }
+.sf11b14 {color: #606060; background-color: #ffaaaa; }
+.sf11b16 {color: #606060; background-color: #aaffaa; }
+.sf11b18 {color: #606060; background-color: #a0e6a0; }
+.sf11b19 {color: #606060; background-color: #e6968c; }
+.sf12b2 {color: #800000; background-color: #ffffff; }
+.sf12b5 {color: #800000; background-color: #3399ff; }
+.sf12b14 {color: #800000; background-color: #ffaaaa; }
+.sf12b16 {color: #800000; background-color: #aaffaa; }
+.sf12b18 {color: #800000; background-color: #a0e6a0; }
+.sf12b19 {color: #800000; background-color: #e6968c; }
+.sf13b2 {color: #0080c0; background-color: #ffffff; }
+.sf13b5 {color: #0080c0; background-color: #3399ff; }
+.sf13b14 {color: #0080c0; background-color: #ffaaaa; }
+.sf13b16 {color: #0080c0; background-color: #aaffaa; }
+.sf13b18 {color: #0080c0; background-color: #a0e6a0; }
+.sf13b19 {color: #0080c0; background-color: #e6968c; }
+.sf15b2 {color: #ffffff; background-color: #ffffff; }
+.sf15b5 {color: #ffffff; background-color: #3399ff; }
+.sf15b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf15b16 {color: #ffffff; background-color: #aaffaa; }
+.sf15b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf15b19 {color: #ffffff; background-color: #e6968c; }
+.sf17b2 {color: #ffffff; background-color: #ffffff; }
+.sf17b5 {color: #ffffff; background-color: #3399ff; }
+.sf17b14 {color: #ffffff; background-color: #ffaaaa; }
+.sf17b16 {color: #ffffff; background-color: #aaffaa; }
+.sf17b18 {color: #ffffff; background-color: #a0e6a0; }
+.sf17b19 {color: #ffffff; background-color: #e6968c; }
+.sf20b2 {color: #000080; background-color: #ffffff; }
+.sf20b5 {color: #000080; background-color: #3399ff; }
+.sf20b14 {color: #000080; background-color: #ffaaaa; }
+.sf20b16 {color: #000080; background-color: #aaffaa; }
+.sf20b18 {color: #000080; background-color: #a0e6a0; }
+.sf20b19 {color: #000080; background-color: #e6968c; }
+.sf21b2 {color: #0080c0; background-color: #ffffff; }
+.sf21b5 {color: #0080c0; background-color: #3399ff; }
+.sf21b14 {color: #0080c0; background-color: #ffaaaa; }
+.sf21b16 {color: #0080c0; background-color: #aaffaa; }
+.sf21b18 {color: #0080c0; background-color: #a0e6a0; }
+.sf21b19 {color: #0080c0; background-color: #e6968c; }
+-->
+</style>
+</head>
+<body>
+<div class="border"><table cellspacing="0" cellpadding="0" style="width: 100%; margin: 0; border: none;">
+<thead>
+<tr>
+<th class="title" style="width:1%"></th><th class="title" style="width:49.000000%">2015/10/25</th>
+<th class="title" style="width:1%"></th><th class="title" style="width:49.000000%">2015/11/01</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td class="ln"><a name="d1" href="#d1">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150317_000656 &nbsp;%s </span><span class="sf3b16">mins</span><span style="color: #000000; background-color: #ddffdd; "> left</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150317_000656 &nbsp;%s </span><span class="sf3b16">minutes</span><span style="color: #000000; background-color: #ddffdd; "> left</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d2" href="#d2">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150406_001468 &nbsp;</span><span class="sf3b16">{@st41b}Offerings</span><span style="color: #000000; background-color: #ddffdd; "> Box Name</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150406_001468 &nbsp;</span><span class="sf3b16">{@st41b}Offering</span><span style="color: #000000; background-color: #ddffdd; "> Box Name</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150406_001469 &nbsp;</span><span class="sf3b16">{@st41b}Details</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">of</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">item offering</span>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20150406_001469 &nbsp;</span><span class="sf3b16">{@st41b}Offering</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Box</span><span style="color: #000000; background-color: #ddffdd; "> </span><span class="sf3b16">Details</span>&nbsp;</code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d3" href="#d3">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001822</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Guild Name and Description</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001822</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Guild Name and Description</span></code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001823</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Team Name</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001823</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Team Name</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d4" href="#d4">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001825</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Notice</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151016_001825</span><span class="sf3b16"> &nbsp; &nbsp;</span><span style="color: #000000; background-color: #ddffdd; ">Notice</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d5" href="#d5">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151022_001828 &nbsp;</span><span class="sf3b16">{@st66b18}Current</span><span style="color: #000000; background-color: #ddffdd; "> Position : %s</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151022_001828 &nbsp;</span><span class="sf3b16">{#000000}{s18}Current</span><span style="color: #000000; background-color: #ddffdd; "> Position : %s</span></code></td>
+</tr>
+<tr height=1><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td><td style="background-color: black"></td></tr>
+<tr>
+<td class="ln"><a name="d6" href="#d6">.</a></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151023_001832 &nbsp;iCoin</span></code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code><span style="color: #000000; background-color: #ddffdd; ">UI_20151023_001832 &nbsp;iCoin</span>&nbsp;</code></td>
+</tr>
+<tr>
+<td class="ln"></td><td style="color: #000000; background-color: #e0e0ff; "><code>&nbsp;</code></td>
+<td class="ln"></td><td style="color: #000000; background-color: #ddffdd; "><code>&nbsp;</code></td>
+</tr>
+</tbody>
+</table>
+</div></body>
+</html>
