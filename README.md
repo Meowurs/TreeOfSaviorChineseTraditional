@@ -1,24 +1,24 @@
-                         由「喵星人翻譯組」為您獻上 救世主之樹 正體中文翻譯 
+                           由「喵星人小隊」為您獻上 救世主之樹 正體中文翻譯 
 ##通知 (2015/10/20 更新)
 <br>
 **WIKI 內的 編輯指南 已經更新！** <br>
-**送出你的 PULL REQUESTS 之前，請見 WIKI 條目 [編輯指南](https://github.com/miau9202/ChineseTraditionalTranslation/wiki/%E7%B7%A8%E8%BC%AF%E6%8C%87%E5%8D%97)。**
+**送出你的 PULL REQUESTS 之前，請見 WIKI 條目 [編輯指南](https://github.com/Meowurs/TreeOfSaviorChineseTraditional/wiki/%E7%B7%A8%E8%BC%AF%E6%8C%87%E5%8D%97)。**
 
-感謝您，且期待您能持續支持救世主之樹。
+感謝您，期待您能持續支持救世主之樹。
 
-1. 最新的翻譯已更新至 2nd iCBT 版本。 (**新的**)
+1. 最新的翻譯已更新至 2nd iCBT 版本。 (**新消息**)
 
-2. {memo X} 標籤已經新增至英文翻譯檔內了。 (**新的**)
+2. {memo X} 標籤已經新增至英文翻譯檔內了。 (**新消息**)
 
 3. 請遵照「一個檔案、一個 Pull Request」的原則送出你的 Pull Request。 
 
 4. 進行翻譯之前，請使用最新的檔案版本。 
 
-5. 你有看過我們國際服的官方論壇了嗎？ 點擊 [**這裏**](https://forum.treeofsavior.com/) 進來論壇討論吧。 你也可以在登入時點擊 github 圖示，連結你的論壇帳號跟 github 帳號。
+5. 你有看過我們國際服的官方論壇了嗎？ 點擊 [**這裏**](https://forum.treeofsavior.com/) 進來論壇討論吧。 你可以在登入時點擊 github 圖示，將 github 帳號連結到你的論壇帳號。
 
-6. 接下來，我們會告訴你 即時翻譯系統 是如何在遊戲裡運作的！
+6. 我們會在後面的章節告訴你 即時翻譯系統 是如何在遊戲裡運作的！
 
-7. 在遞交你的翻譯之前，記得要先看過 [**Wiki**](https://github.com/miau9202/ChineseTraditionalTranslation/wiki/%E9%A6%96%E9%A0%81) 裡的編輯指南跟翻譯提醒。
+7. 在遞交你的翻譯之前，記得要先看過 [**Wiki**](https://github.com/Meowurs/TreeOfSaviorChineseTraditional/wiki) 裡的編輯指南跟翻譯提醒。
 
 
 <center><img src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-xap1/v/t1.0-9/969383_419497041509849_21485321_n.jpg?oh=4f5a38d7c9f8c311b803b4adb80a0a28&oe=56347E65&__gda__=1444560791_5463c6dc462165446fcead1c56bef11d"/></center>
@@ -47,9 +47,9 @@
 
 <img src="https://lh4.googleusercontent.com/YGwDvBpboqxwxWIEibS85PHXcV-wnPQvMMLQC17m3wY=w1028-h478-no"/>
 
-#### 不懂英文仍想要貢獻？
+#### 不懂韓文仍想要貢獻？
 
-你仍然可以幫助我們校對以及修正翻譯錯誤 :)
+你仍然可以幫助我們校對以及修正英文翻譯錯誤 :)
 
 **提醒：** 翻譯應當盡可能的簡短，以免超出遊戲介面。
 
