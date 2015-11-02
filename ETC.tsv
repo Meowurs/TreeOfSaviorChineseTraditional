@@ -1149,9 +1149,9 @@ ETC_20150317_001147	烈焰術士 導師的實驗室
 ETC_20150317_001148	Mercenary Post
 ETC_20150317_001149	皇家領地
 ETC_20150317_001150	Orsha
-ETC_20150317_001151	希奧利艾 西側森林
-ETC_20150317_001152	希奧利艾
-ETC_20150317_001153	希奧利艾 礦工小鎮
+ETC_20150317_001151	希奧莉艾 西側森林
+ETC_20150317_001152	希奧莉艾
+ETC_20150317_001153	希奧莉艾 礦工小鎮
 ETC_20150317_001154	水晶礦山 1層
 ETC_20150317_001155	水晶礦山
 ETC_20150317_001156	水晶礦山 2層
@@ -1228,7 +1228,7 @@ ETC_20150317_001226	春日樹林
 ETC_20150317_001227	{memo X}Swaying Arable Land
 ETC_20150317_001228	{memo X}Three Brooks Woods
 ETC_20150317_001229	{memo X}Water Tree-song Forest
-ETC_20150317_001230	{memo X}希奧利艾 [47_4]
+ETC_20150317_001230	{memo X}希奧莉艾 [47_4]
 ETC_20150317_001231	Kiren Province
 ETC_20150317_001232	Pilgrimage Trail 41_1
 ETC_20150317_001233	Pilgrimage Trail 41_2
@@ -1324,10 +1324,10 @@ ETC_20150317_001322	{memo X}Field of Ruins 37_2
 ETC_20150317_001323	{memo X}Field of Ruins 37_3
 ETC_20150317_001324	Pilgrimage Trail 48
 ETC_20150317_001325	Pilgrimage Trail 49
-ETC_20150317_001326	East 希奧利艾 Woods -past (沒用的數據-TOS2CN)
+ETC_20150317_001326	East 希奧莉艾 Woods -past (沒用的數據-TOS2CN)
 ETC_20150317_001327	{memo X}Forgotten Port -past
 ETC_20150317_001328	Woods of Attached Bridge -past
-ETC_20150317_001329	希奧利艾 50_1
+ETC_20150317_001329	希奧莉艾 50_1
 ETC_20150317_001330	{memo X}Bended Streamlet Location
 ETC_20150317_001331	Secret Room
 ETC_20150317_001332	Arrow Path
@@ -1352,7 +1352,7 @@ ETC_20150317_001350	Mission Test per Hour 1
 ETC_20150317_001351	Test Zone 3
 ETC_20150317_001352	Mission Test 2
 ETC_20150317_001353	Capture Flag
-ETC_20150317_001354	希奧利艾 Raid
+ETC_20150317_001354	希奧莉艾 Raid
 ETC_20150317_001355	水晶礦山 Raid
 ETC_20150317_001356	Catacombs Raid
 ETC_20150317_001357	Thorn Forest Raid
@@ -1412,7 +1412,7 @@ ETC_20150317_001410	32_4 Grand Fruit Forest
 ETC_20150317_001411	34_1 Grand Fruit Forest
 ETC_20150317_001412	{memo X}34_2 Grand Fruit Forest
 ETC_20150317_001413	34_3 Grand Fruit Forest
-ETC_20150317_001414	希奧利艾 35_1
+ETC_20150317_001414	希奧莉艾 35_1
 ETC_20150317_001415	珊瑚平原 35_2
 ETC_20150317_001416	修道院 35_3
 ETC_20150317_001417	修道院 35_4
@@ -3002,7 +3002,7 @@ ETC_20150317_003000	Received
 ETC_20150317_003001	Combining
 ETC_20150317_003002	Write
 ETC_20150317_003003	Already obtained:
-ETC_20150317_003004	You must complete the West 希奧利艾 Woods quest in order to progress
+ETC_20150317_003004	You must complete the West 希奧莉艾 Woods quest in order to progress
 ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	{memo X}Did not find anything.
 ETC_20150317_003007	{memo X}Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
@@ -3012,7 +3012,7 @@ ETC_20150317_003010	{memo X}Tried to open the box but couldn't
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
 ETC_20150317_003013	Current Ice status
-ETC_20150317_003014	Available in West 希奧利艾 Woods
+ETC_20150317_003014	Available in West 希奧莉艾 Woods
 ETC_20150317_003015	There are no [Beast Type] monsters nearby!
 ETC_20150317_003016	Ride on
 ETC_20150317_003017	Using
@@ -3544,14 +3544,14 @@ ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: T
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003544	{memo X}Seems like there is something below the cliff.
 ETC_20150317_003545	Keep Out{nl} Incinerating Kepas!
-ETC_20150317_003546	希奧利艾 西側森林 營地
+ETC_20150317_003546	希奧莉艾 西側森林 營地
 ETC_20150317_003547	Note! Hamin infested area
 ETC_20150317_003548	CAUTION! Large scale battles in progress
 ETC_20150317_003549	{memo X}It seems like someone has fallen under the cliff
 ETC_20150317_003550	{memo X}Seems like you can climb up by jumping along the cliff
 ETC_20150317_003551	Road on left: Large-scale combat zone {nl} Road on righty: Temporary camp
 ETC_20150317_003552	CAUTION! Sunflower Popolion infested area
-ETC_20150317_003553	Guild commission: 希奧利艾 East Branch {nl} Diverse requests, high rewards guaranteed
+ETC_20150317_003553	Guild commission: 希奧莉艾 East Branch {nl} Diverse requests, high rewards guaranteed
 ETC_20150317_003554	30m until West Forest Camp
 ETC_20150317_003555	10m until West Forest Camp
 ETC_20150317_003556	CAUTION! 傀儡s! {nl} Cannot enter without permission
@@ -3815,7 +3815,7 @@ ETC_20150317_003813	使用傳送到任何地方
 ETC_20150317_003814	你不能移動. 這裡沒有女神神像可使用
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
-ETC_20150317_003817	2. Select 希奧利艾 ??Select West 希奧利艾 Woods
+ETC_20150317_003817	2. Select 希奧莉艾 ??Select West 希奧莉艾 Woods
 ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
@@ -4005,7 +4005,7 @@ ETC_20150317_004003	{memo X}It can be only used in Mage Tower 1st Floor.
 ETC_20150317_004004	You will not be able to use it
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
-ETC_20150317_004007	Available only in the West 希奧利艾 Woods
+ETC_20150317_004007	Available only in the West 希奧莉艾 Woods
 ETC_20150317_004008	It cannot be used while directing!
 ETC_20150317_004009	{memo X}The piece of the monument is not enough.
 ETC_20150317_004010	{memo X}The effect of the magic jar has weakened.
@@ -6330,7 +6330,7 @@ ETC_20150317_006328	台灣
 ETC_20150317_006329	泰國
 ETC_20150317_006330	新加坡
 ETC_20150317_006331	美國
-ETC_20150317_006332	Found the 希奧利艾 Field.
+ETC_20150317_006332	Found the 希奧莉艾 Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff
 ETC_20150317_006335	Salavija Hill
@@ -7087,8 +7087,8 @@ ETC_20150317_007085	Steel-barred Window 1
 ETC_20150317_007086	Literature 1
 ETC_20150317_007087	Literature 2
 ETC_20150317_007088	Literature 3
-ETC_20150317_007089	Discolored Grass of 希奧利艾
-ETC_20150317_007090	Large Discolored Grass of 希奧利艾
+ETC_20150317_007089	Discolored Grass of 希奧莉艾
+ETC_20150317_007090	Large Discolored Grass of 希奧莉艾
 ETC_20150317_007091	Petrifaction 1
 ETC_20150317_007092	Petrifaction 2
 ETC_20150317_007093	Petrifaction 3
@@ -7134,7 +7134,7 @@ ETC_20150317_007132	Hogma Stone Statue01
 ETC_20150317_007133	Treasure Chest 3cm
 ETC_20150317_007134	Treasure Chest Kateen
 ETC_20150317_007135	Treasure Chest Area of Ruins
-ETC_20150317_007136	Treasure Chest 希奧利艾
+ETC_20150317_007136	Treasure Chest 希奧莉艾
 ETC_20150317_007137	Treasure Chest Isolation Highland
 ETC_20150317_007138	Broken 裝備
 ETC_20150317_007139	Iron Gates
@@ -7156,8 +7156,8 @@ ETC_20150317_007154	Barrier of Paladin_Temple B
 ETC_20150317_007155	Barrier of Paladin_Galley Plateau
 ETC_20150317_007156	Cathedral Chairs
 ETC_20150317_007157	Empty NPC
-ETC_20150317_007158	希奧利艾 Tent
-ETC_20150317_007159	希奧利艾 Fence
+ETC_20150317_007158	希奧莉艾 Tent
+ETC_20150317_007159	希奧莉艾 Fence
 ETC_20150317_007160	Galley Plateau
 ETC_20150317_007161	Empty NPC 2 times
 ETC_20150317_007162	Giltine
@@ -7499,7 +7499,7 @@ ETC_20150317_007497	Obtain Purified Essence
 ETC_20150317_007498	Attach the Holy Bomb
 ETC_20150317_007499	Collect the Spiritual Stones
 ETC_20150317_007500	{memo X}Information for the barrier (3)
-ETC_20150317_007501	希奧利艾 Miners' Village (1)
+ETC_20150317_007501	希奧莉艾 Miners' Village (1)
 ETC_20150317_007502	Collect the Relief Supplies
 ETC_20150317_007503	Mine Manager's Misunderstanding (1)
 ETC_20150317_007504	Gather stones for reinforcement
@@ -7627,7 +7627,7 @@ ETC_20150317_007625	Recapture the Eastern Woods (1)
 ETC_20150317_007626	1 sheet of Magic Research Reference 
 ETC_20150317_007627	2 sheet of Magic Research Reference 
 ETC_20150317_007628	3 sheet of Magic Research Reference 
-ETC_20150317_007629	Test the bombs on monsters in East 希奧利艾 Woods 
+ETC_20150317_007629	Test the bombs on monsters in East 希奧莉艾 Woods 
 ETC_20150317_007630	Boss Monster Card
 ETC_20150317_007631	{memo X}Put the sun's pot to the center of reading room
 ETC_20150317_007632	First Shield of Fedimian
@@ -8595,11 +8595,11 @@ ETC_20150317_008593	Recipe - Animated Mouse
 ETC_20150317_008594	圖紙 - 塞菲項鏈
 ETC_20150317_008595	Recipe - Necklace of Fury
 ETC_20150317_008596	{memo X}Recipe - Leather Bangle
-ETC_20150317_008597	Recipe - 鋼鐵手鐲
-ETC_20150317_008598	Recipe - 水晶手鐲
-ETC_20150317_008599	Recipe - 閃耀的手鐲
+ETC_20150317_008597	圖紙 - 鋼鐵手鐲
+ETC_20150317_008598	圖紙 - 水晶手鐲
+ETC_20150317_008599	圖紙 - 閃耀的手鐲
 ETC_20150317_008600	{memo X}Recipe - Battle Bracelet
-ETC_20150317_008601	Recipe - Poison Bangle
+ETC_20150317_008601	圖紙 - 毒手鐲
 ETC_20150317_008602	{memo X}Recipe - Plants Bracelet
 ETC_20150317_008603	Recipe - Control Bangle
 ETC_20150317_008604	Recipe - Hunter Bangle
@@ -9890,7 +9890,7 @@ ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	{memo X}Hunt boss monsters with party members.
 ETC_20150323_009892	{memo X}DoTimeAction:Collecting Woods:3#SITGROPESET2:None
-ETC_20150323_009893	{memo X}Property:1/PropertyAdd:1/GiveItem:希奧利艾50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
+ETC_20150323_009893	{memo X}Property:1/PropertyAdd:1/GiveItem:希奧莉艾50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
 ETC_20150323_009894	{memo X}DoTimeAction:Looking through greenery:2:SITGROPE:None
 ETC_20150323_009895	{memo X}Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Found Hardtack!:5
 ETC_20150323_009896	{memo X}NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
@@ -11340,7 +11340,7 @@ ETC_20150428_011339	Practice Polishing Room
 ETC_20150428_011340	Worker's Waiting Room
 ETC_20150428_011341	Inventory Management Office
 ETC_20150428_011342	Wagon Warehouse
-ETC_20150428_011343	希奧利艾 Discolored Grass4
+ETC_20150428_011343	希奧莉艾 Discolored Grass4
 ETC_20150428_011344	Teleport Magic Circle
 ETC_20150428_011345	Vine_For Goddess Statue
 ETC_20150428_011346	Mausoleum Gravestone03 (藍色)
