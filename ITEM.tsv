@@ -94,7 +94,7 @@ ITEM_20150317_000093	這把劍偶爾閃耀著創造者的工藝.
 ITEM_20150317_000094	克萊維斯單手劍 
 ITEM_20150317_000095	拋開它的質量,它賣得相當好. 
 ITEM_20150317_000096	迪奧單手劍
-ITEM_20150317_000097	Thresh Sword 
+ITEM_20150317_000097	多重 Sword 
 ITEM_20150317_000098	賽絲托 Sword 
 ITEM_20150317_000099	Drat Sword 
 ITEM_20150317_000100	亞斯頓 Sword 
@@ -181,7 +181,7 @@ ITEM_20150317_000180	鐵匠雙手劍
 ITEM_20150317_000181	自聖樹之日起，很少人質疑魔法武器的穩定性. 
 ITEM_20150317_000182	克萊維斯雙手劍 
 ITEM_20150317_000183	這把劍的可靠簡直可以說是你雙手的延伸. 
-ITEM_20150317_000184	Thresh 雙手劍 
+ITEM_20150317_000184	多重 雙手劍 
 ITEM_20150317_000185	賽絲托 雙手劍 
 ITEM_20150317_000186	Dratt雙手劍 
 ITEM_20150317_000187	亞斯頓 雙手劍 
@@ -764,7 +764,7 @@ ITEM_20150317_000763	女神長矛(Devi)
 ITEM_20150317_000764	初級長矛 
 ITEM_20150317_000765	崔希亞(Traxia) 
 ITEM_20150317_000766	這把武器最初不是針對人類天敵的. 
-ITEM_20150317_000767	女王荊棘之刺(Biteregina Thorns) 
+ITEM_20150317_000767	女王荊棘之刺(Biteregina 尖刺s) 
 ITEM_20150317_000768	'面對強勁對手如女王一樣的尊貴, 靈活, 勇敢,' 是持有者對這把武器的讚揚. 
 ITEM_20150317_000769	萊德卡(Lydeka) 
 ITEM_20150317_000770	儘管Ruklyss的名稱有問題,但沒人否認他是一名偉大的戰士. 這把矛是他內戰期間私人訂制的偉大武器. 
@@ -871,11 +871,11 @@ ITEM_20150317_000870	魔語掩蓋了這把魔杖冰冷的氣場.
 ITEM_20150317_000871	魯達斯魔杖(Ludas) 
 ITEM_20150317_000872	通過適度的鍛造,這把魔杖能夠與任何魔法契合. 
 ITEM_20150317_000873	薩爾塔斯魔杖(Saltas) 
-ITEM_20150317_000874	The 烈焰術士 Master from a previous generation researched a way to enhance elemental traits of weapons through Alchemy. Whether his research helped in reducing the load on the 女神 加比婭 as he initially wanted is unclear. 
+ITEM_20150317_000874	烈焰術士大師從上一代的研究方式中透過煉金術來提升武器的元素性質，一開始是為了減輕女神Gabija的負擔，但現在則不曉得了. 
 ITEM_20150317_000875	凱米尼斯魔杖 
-ITEM_20150317_000876	The 寒冰術士 Master said he created this 圖紙 based on ancient wisdom he discovered at a secret location in the 鎧甲au. 
+ITEM_20150317_000876	寒冰術士大師說此魔杖是在某個高原的祕密地點中發現並且根據古老的知識，創造了此圖紙. 
 ITEM_20150317_000877	卡魯斯托魔杖 
-ITEM_20150317_000878	According to a rumor, the 時空法師 Master was disappointed after examining the 圖紙 of this weapon once it became publicly available. 
+ITEM_20150317_000878	根據傳言，此武器的配方公開之後，時空術士大師感到非常的失望. 
 ITEM_20150317_000879	預言魔杖 
 ITEM_20150317_000880	Despite all attempts by the purchaser or the crafter to hide its production, the 烈焰術士 Master can sense when this 魔杖 is crafted.  
 ITEM_20150317_000881	軸心魔杖 
@@ -889,7 +889,7 @@ ITEM_20150317_000888	This weapon shows that there are many ways to imbue magic i
 ITEM_20150317_000889	克萊維斯魔杖 
 ITEM_20150317_000890	No one has become famous yet using this weapon. Hopefully you will be the first one. 
 ITEM_20150317_000891	迪奧魔杖 
-ITEM_20150317_000892	Thresh 魔杖 
+ITEM_20150317_000892	多重 魔杖 
 ITEM_20150317_000893	賽絲托 魔杖 
 ITEM_20150317_000894	卓瑞特 魔杖 
 ITEM_20150317_000895	亞斯頓 魔杖 
@@ -984,13 +984,13 @@ ITEM_20150317_000983	弗瑞斯 褲子
 ITEM_20150317_000984	Some warriors believe that the materials used for this item will attract its vengeful kin. 
 ITEM_20150317_000985	弗瑞斯 束腰外衣 
 ITEM_20150317_000986	This equipment offers superior protection to plate armor by strengthening it with the shells of an insectoid monster. 
-ITEM_20150317_000987	Scale 手套 
+ITEM_20150317_000987	鱗片 手套 
 ITEM_20150317_000988	It is believed to provide great camouflage and have agile, evasive properties. 
-ITEM_20150317_000989	Scale 靴子 
+ITEM_20150317_000989	鱗片 靴子 
 ITEM_20150317_000990	Many choose these boots for its magic evasion rather than its defense. 
-ITEM_20150317_000991	Scale 底褲 
+ITEM_20150317_000991	鱗片 底褲 
 ITEM_20150317_000992	One of the benefits of the Great Plant Cataclysm is that crafters have found a way to reuse monsters' remains for stronger armor. 
-ITEM_20150317_000993	Scale 鎖子甲 
+ITEM_20150317_000993	鱗片 鎖子甲 
 ITEM_20150317_000994	Some monster ingredients can be turned into different materials by being heat treated. The comfortable 弗瑞斯 靴子 use such methods. 
 ITEM_20150317_000995	森林 褲子 
 ITEM_20150317_000996	Please examine these for thorns prior to wearing them for the first time. 
@@ -1174,18 +1174,18 @@ ITEM_20150317_001173	迪奧 鎖鏈 護手
 ITEM_20150317_001174	迪奧 鎖鏈 靴子 
 ITEM_20150317_001175	迪奧 鎖鏈 褲子 
 ITEM_20150317_001176	迪奧 鎖甲 
-ITEM_20150317_001177	Thresh 手套 
-ITEM_20150317_001178	Thresh Sandals 
-ITEM_20150317_001179	Thresh 褲子 
-ITEM_20150317_001180	Thresh 長袍 
-ITEM_20150317_001181	Thresh 皮甲 手套 
-ITEM_20150317_001182	Thresh 皮甲 靴子 
-ITEM_20150317_001183	Thresh 皮甲 褲子 
-ITEM_20150317_001184	Thresh 皮甲 護甲 
-ITEM_20150317_001185	Thresh 鎖鏈 手套 
-ITEM_20150317_001186	Thresh 鎖鏈 靴子 
-ITEM_20150317_001187	Thresh 鎖鏈 褲子 
-ITEM_20150317_001188	Thresh 鎖甲 
+ITEM_20150317_001177	多重 手套 
+ITEM_20150317_001178	多重 Sandals 
+ITEM_20150317_001179	多重 褲子 
+ITEM_20150317_001180	多重 長袍 
+ITEM_20150317_001181	多重 皮甲 手套 
+ITEM_20150317_001182	多重 皮甲 靴子 
+ITEM_20150317_001183	多重 皮甲 褲子 
+ITEM_20150317_001184	多重 皮甲 護甲 
+ITEM_20150317_001185	多重 鎖鏈 手套 
+ITEM_20150317_001186	多重 鎖鏈 靴子 
+ITEM_20150317_001187	多重 鎖鏈 褲子 
+ITEM_20150317_001188	多重 鎖甲 
 ITEM_20150317_001189	賽絲托 手套 
 ITEM_20150317_001190	賽絲托 Sandals 
 ITEM_20150317_001191	賽絲托 褲子 
@@ -1286,7 +1286,7 @@ ITEM_20150317_001285	Hydra 束褲
 ITEM_20150317_001286	Banshee Veil 
 ITEM_20150317_001287	Top [Ghost] 
 ITEM_20150317_001288	Empty_Neck 
-ITEM_20150317_001289	Right-click to equip this item. 
+ITEM_20150317_001289	右鍵 to equip this item. 
 ITEM_20150317_001290	HP 項鏈 
 ITEM_20150317_001291	項鏈 
 ITEM_20150317_001292	SP 項鏈 
@@ -1566,7 +1566,7 @@ ITEM_20150317_001565	Ginkgo Leaf
 ITEM_20150317_001566	Easily found during autumn. It may smell like the Ginkgo fruit. 
 ITEM_20150317_001567	Tiger Swallowtail 
 ITEM_20150317_001568	Experience the sensation of Tiger Swallowtail landing on your head. 
-ITEM_20150317_001569	Eagle Feather 
+ITEM_20150317_001569	Eagle 羽毛 
 ITEM_20150317_001570	Can be used as a writing tool if needed. 
 ITEM_20150317_001571	Muscharia Hat 
 ITEM_20150317_001572	A mushroom might grow on your head. 
@@ -1599,7 +1599,7 @@ ITEM_20150317_001598	Very good when you have a fever or for cooling your head.
 ITEM_20150317_001599	Rosa Rugosa 
 ITEM_20150317_001600	Smells very pleasant. 
 ITEM_20150317_001601	羽毛帽 
-ITEM_20150317_001602	Don't mind the feather being larger than the hat. 
+ITEM_20150317_001602	Don't mind the 羽毛 being larger than the hat. 
 ITEM_20150317_001603	Maple Leaf 
 ITEM_20150317_001604	Head decoration made to look like a maple leaf. Keep away from fire. 
 ITEM_20150317_001605	Red Tassel Hat 
@@ -1675,7 +1675,7 @@ ITEM_20150317_001674	Earplugs
 ITEM_20150317_001675	Blocks out noise. 
 ITEM_20150317_001676	It completely cuts you off from any external sound, including Mandragoras' screams. 
 ITEM_20150317_001677	Luxury Hairpin 
-ITEM_20150317_001678	Feather Helmet 
+ITEM_20150317_001678	羽毛 Helmet 
 ITEM_20150317_001679	Shaman Mask 
 ITEM_20150317_001680	Sprout 
 ITEM_20150317_001681	荷包蛋 
@@ -1687,7 +1687,7 @@ ITEM_20150317_001686	Burdensome Ribbon
 ITEM_20150317_001687	Paper Crane 
 ITEM_20150317_001688	Ghost Headband 
 ITEM_20150317_001689	狂歡面具 
-ITEM_20150317_001690	Peacock Feather 
+ITEM_20150317_001690	Peacock 羽毛 
 ITEM_20150317_001691	War Bonnet 
 ITEM_20150317_001692	Pineapple 
 ITEM_20150317_001693	Desert Outlaw 
@@ -1855,7 +1855,7 @@ ITEM_20150317_001854	Crystal Mine Mission Warp Stone
 ITEM_20150317_001855	Lv140 Keepers' Request 
 ITEM_20150317_001856	Lv160 聖騎士 Followers' Request 
 ITEM_20150317_001857	Seven Valley Mission Warp Stone 
-ITEM_20150317_001858	Thorn 森林 Mission Warp Stone 
+ITEM_20150317_001858	尖刺 森林 Mission Warp Stone 
 ITEM_20150317_001859	Canyon Area Mission Warp Stone 
 ITEM_20150317_001860	Royal Tomb Mission Warp Stone 
 ITEM_20150317_001861	Ruins Mission Warp Stone 
@@ -2130,7 +2130,7 @@ ITEM_20150317_002129	Yekubite Feeler
 ITEM_20150317_002130	Thin and sharp feelers. Obtained from Yekubites. 
 ITEM_20150317_002131	Panto 的角
 ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. Obtained from Pantos. 
-ITEM_20150317_002133	Zignuts Stem 
+ITEM_20150317_002133	Zignuts 的莖 
 ITEM_20150317_002134	The stem can be processed into fabric. Not suitable for eating. Obtained from Zignuts. 
 ITEM_20150317_002135	Butterfly Wing 
 ITEM_20150317_002136	Care is required as it's very brittle. 
@@ -2143,13 +2143,13 @@ ITEM_20150317_002142	Yognome 核心
 ITEM_20150317_002143	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Yognomes. 
 ITEM_20150317_002144	Violet Leaf 
 ITEM_20150317_002145	Rafflet Flower 
-ITEM_20150317_002146	Tanu Stem 
+ITEM_20150317_002146	Tanu 的莖 
 ITEM_20150317_002147	Thick, thorny stem. Not suitable for eating. Obtained from Tanus. 
 ITEM_20150317_002148	Beetow Feeler 
 ITEM_20150317_002149	Green monster feeler. Its leatherlike toughness makes it useful as string. Obtained from Beetows. 
 ITEM_20150317_002150	Maize Spore Pocket 
-ITEM_20150317_002151	Ultanun Feather 
-ITEM_20150317_002152	Feather of a common bird. Obtained from Ultanuns. 
+ITEM_20150317_002151	Ultanun 羽毛 
+ITEM_20150317_002152	羽毛 of a common bird. Obtained from Ultanuns. 
 ITEM_20150317_002153	Karkash Mushroom 
 ITEM_20150317_002154	Mushroom that only grows on Karkash. Unpopular due to its nasty taste. Obtained from Karkashs. 
 ITEM_20150317_002155	Elravine 骨頭 
@@ -2157,15 +2157,15 @@ ITEM_20150317_002156	Woopent Bark
 ITEM_20150317_002157	Long wooden bark. It has many uses. Obtained from Woopents. 
 ITEM_20150317_002158	Mantiwood Wing 
 ITEM_20150317_002159	Unlike other insect wings, it is smooth and flexible. Obtained from Mantiwoods. 
-ITEM_20150317_002160	Thornball Thorn 
-ITEM_20150317_002161	It is light and fragile due to its empty 核心. Obtained from Thornballs. 
-ITEM_20150317_002162	Operor Thorn 
+ITEM_20150317_002160	尖刺ball 尖刺 
+ITEM_20150317_002161	It is light and fragile due to its empty 核心. Obtained from 尖刺balls. 
+ITEM_20150317_002162	Operor 尖刺 
 ITEM_20150317_002163	Due to its small size, only experienced crafters are able to use this properly. Obtained from Operors. 
 ITEM_20150317_002164	Bagworm 殼 
 ITEM_20150317_002165	Although too soft to be called a 'shell', a fabric can be made from it. Obtained from Bagworms. 
 ITEM_20150317_002166	Truffle Crystal 
 ITEM_20150317_002167	This crystal was formed by solidification of sap inside the plant comes from the solidification of its sap. Obtained from Truffles. 
-ITEM_20150317_002168	Mesium Stem 
+ITEM_20150317_002168	Mesium 的莖 
 ITEM_20150317_002169	People sometimes boil this stem to make a drink that curbs hunger. Obtained from Mesiums. 
 ITEM_20150317_002170	Merog Heart 
 ITEM_20150317_002171	Not used as a food, but often used for magic research. Obtained from Merogs. 
@@ -2176,11 +2176,11 @@ ITEM_20150317_002175	Thin back shell. A faint pattern is visible. Obtained from 
 ITEM_20150317_002176	Candle 
 ITEM_20150317_002177	A lantern would be nice, but a candle can also be a great source of light. 
 ITEM_20150317_002178	Catacomb Maggot Feeler 
-ITEM_20150317_002179	Tontooth Thorn 
+ITEM_20150317_002179	Tontooth 尖刺 
 ITEM_20150317_002180	Small but enough to inflict pain. Obtained from Tontooths. 
 ITEM_20150317_002181	Pino Leaf 
 ITEM_20150317_002182	A small leaf that looks like a fish scale. Obtained from Pinos. 
-ITEM_20150317_002183	Geppetto Stem 
+ITEM_20150317_002183	Geppetto 的莖 
 ITEM_20150317_002184	Frequently used in bowcrafting due to its flexible properties. Obtained from Geppettos. 
 ITEM_20150317_002185	Zinute Skin 
 ITEM_20150317_002186	It shows a defined geometry. A special process is required before use due to its hardness, which is like metal. Obtained from Zinutes. 
@@ -2234,7 +2234,7 @@ ITEM_20150317_002233	薩滿娃娃 核心
 ITEM_20150317_002234	A mutant variation of the Nucl, the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Shaman Dolls. 
 ITEM_20150317_002235	Slime Piece 
 ITEM_20150317_002236	Due to its soft, spongy texture, it has no use except for magical research. Obtained from Slimes. 
-ITEM_20150317_002237	Arma Thorn 
+ITEM_20150317_002237	Arma 尖刺 
 ITEM_20150317_002238	Very thick and strong. Obtained from Armas. 
 ITEM_20150317_002239	綠幼龍的牙齒
 ITEM_20150317_002240	Handle it with care, as it can drip an acid from the tip. Obtained from 綠幼龍. 
@@ -2268,7 +2268,7 @@ ITEM_20150317_002267	幼龍的角
 ITEM_20150317_002268	The hardness of this horn makes it suitable to be used as a weapon. Obtained from 幼龍. 
 ITEM_20150317_002269	Groll 的角
 ITEM_20150317_002270	This is the main reason people hunt Grolls. Obtained from Grolls. 
-ITEM_20150317_002271	Blue Fragaras Stem 
+ITEM_20150317_002271	Blue Fragaras 的莖 
 ITEM_20150317_002272	It is closer to a 纖維 than a stem. Obtained from Blue Fragarases. 
 ITEM_20150317_002273	Vekarabe 殼 
 ITEM_20150317_002274	Feels as if it is made of rock. Obtained from Vekarabes. 
@@ -2313,7 +2313,7 @@ ITEM_20150317_002312	用於製作材料的加工過的木材
 ITEM_20150317_002313	白蠟木材 
 ITEM_20150317_002314	松木木材 
 ITEM_20150317_002315	雪松木材 
-ITEM_20150317_002316	Cauliflower Stem 
+ITEM_20150317_002316	Cauliflower 的莖 
 ITEM_20150317_002317	Very difficult to process due to abundance of thorns on the stem. Obtained from Cauliflowers. 
 ITEM_20150317_002318	Altered Sauga 核心 
 ITEM_20150317_002319	核心 that has been modified for greater output. Obtained from Saugas. 
@@ -2356,7 +2356,7 @@ ITEM_20150317_002355	波酷巴 的肉
 ITEM_20150317_002356	波酷巴 的角 
 ITEM_20150317_002357	Discolored Leaf 
 ITEM_20150317_002358	Jukopus Rope 
-ITEM_20150317_002359	紅色凱帕 Stem 
+ITEM_20150317_002359	紅色凱帕 的莖 
 ITEM_20150317_002360	瓦布 矛 Head 
 ITEM_20150317_002361	瓦布 Blood 
 ITEM_20150317_002362	Green in color, this blood is obtained from 瓦布. 
@@ -2401,7 +2401,7 @@ ITEM_20150317_002400	Panto Hoof
 ITEM_20150317_002401	Panto Shaman 魔杖 Decoration 
 ITEM_20150317_002402	Mallardu 的肉 
 ITEM_20150317_002403	A good source of protein. Obtained from Mallardus. 
-ITEM_20150317_002404	Mallardu Feather 
+ITEM_20150317_002404	Mallardu 羽毛 
 ITEM_20150317_002405	Mallardu Beak 
 ITEM_20150317_002406	Violet Flower 
 ITEM_20150317_002407	Violet Crystal 
@@ -2419,7 +2419,7 @@ ITEM_20150317_002418	Fondel Shaft
 ITEM_20150317_002419	Because the metal is crafted by magic, it usually disintegrates when the monster dies. Very rarely will it stay intact. Obtained from Fondels. 
 ITEM_20150317_002420	Galok 皮甲 
 ITEM_20150317_002421	The leather of a very strong demon that has very high durability. Obtained from Galoks. 
-ITEM_20150317_002422	Galok Claw 
+ITEM_20150317_002422	Galok 爪 
 ITEM_20150317_002423	Glizardon 骨頭 
 ITEM_20150317_002424	You need to face great danger to obtain this. Obtained from Glizardons. 
 ITEM_20150317_002425	Glizardon Heart 
@@ -2489,7 +2489,7 @@ ITEM_20150317_002488	Desmodus Tooth
 ITEM_20150317_002489	Obtained from Desmoduses. 
 ITEM_20150317_002490	Denden Petal 
 ITEM_20150317_002491	Obtained from Dendens. 
-ITEM_20150317_002492	Doyor Claw 
+ITEM_20150317_002492	Doyor 爪 
 ITEM_20150317_002493	This claw helps Doyors to move faster. Obtained from Doyors. 
 ITEM_20150317_002494	幼龍Film 
 ITEM_20150317_002495	Once ripped, it cannot be repaired. Obtained from 幼龍. 
@@ -2510,11 +2510,11 @@ ITEM_20150317_002509	Lemuria Tail
 ITEM_20150317_002510	Lepus Bunny Hair 
 ITEM_20150317_002511	Luxodon Ivory 
 ITEM_20150317_002512	A very rare material, used often in handicrafts and decorations. Obtained from Luxodons. 
-ITEM_20150317_002513	Luxodon Backbone 
+ITEM_20150317_002513	Luxodon 脊椎 
 ITEM_20150317_002514	A very large 骨頭 from the back of a beast. Obtained from Luxodons. 
 ITEM_20150317_002515	Rubabos 皮甲 
 ITEM_20150317_002516	Obtained from Rubaboses. 
-ITEM_20150317_002517	Lizardman Claw 
+ITEM_20150317_002517	Lizardman 爪 
 ITEM_20150317_002518	This bent claw is useful for climbing trees. Obtained from Lizardmen. 
 ITEM_20150317_002519	Lizardman Fang 
 ITEM_20150317_002520	Obtained from Lizardmen. 
@@ -2536,7 +2536,7 @@ ITEM_20150317_002535	Moyabu 骨頭
 ITEM_20150317_002536	Obtained from Moyabus. 
 ITEM_20150317_002537	Minivern Skin 
 ITEM_20150317_002538	It is strong enough to deflect arrows. Obtained from Miniverns. 
-ITEM_20150317_002539	Bavon Feather 
+ITEM_20150317_002539	Bavon 羽毛 
 ITEM_20150317_002540	Obtained from Bavons. 
 ITEM_20150317_002541	Varv Skin 
 ITEM_20150317_002542	It's very difficult to defeat a Varv while keeping its skin intact. Obtained from Varvs. 
@@ -2544,7 +2544,7 @@ ITEM_20150317_002543	車輪
 ITEM_20150317_002544	可以滾. 從 Wheelens 處獲得 
 ITEM_20150317_002545	Banshee Hood 
 ITEM_20150317_002546	Unbelievably lightweight. Obtained from Banshees. 
-ITEM_20150317_002547	Velwriggler Feather 
+ITEM_20150317_002547	Velwriggler 羽毛 
 ITEM_20150317_002548	Violet Leaf 
 ITEM_20150317_002549	Obtained from Rafflies. 
 ITEM_20150317_002550	Red 瓦布 Token 
@@ -2560,9 +2560,9 @@ ITEM_20150317_002559	You can only obtain this in small quantities but it's very 
 ITEM_20150317_002560	Sauga Power Engine 
 ITEM_20150317_002561	A mechanism that enables easier control over magical power. Obtained from Saugas. 
 ITEM_20150317_002562	Cire Leaf 
-ITEM_20150317_002563	Sakmoli Stem 
+ITEM_20150317_002563	Sakmoli 的莖 
 ITEM_20150317_002564	Obtained from Sakmolis. 
-ITEM_20150317_002565	Shardstatue Claw 
+ITEM_20150317_002565	Shardstatue 爪 
 ITEM_20150317_002566	樹脂 
 ITEM_20150317_002567	A viscous, sticky liquid found in trees. 
 ITEM_20150317_002568	Schtaim Fragment 
@@ -2573,7 +2573,7 @@ ITEM_20150317_002572	Corpse Hand
 ITEM_20150317_002573	It smells extremely foul due to its decay. Obtained from Green Apparitions. 
 ITEM_20150317_002574	護甲y 鎧甲 
 ITEM_20150317_002575	A black metal that can only be processed at extremely high temperature. Obtained from 護甲ies. 
-ITEM_20150317_002576	Ammon Backbone 
+ITEM_20150317_002576	Ammon 脊椎 
 ITEM_20150317_002577	Each spine 骨頭 has a horn. Obtained from Ammons. 
 ITEM_20150317_002578	Glow Spore 
 ITEM_20150317_002579	Obtained from Red Medewsas. 
@@ -2609,8 +2609,8 @@ ITEM_20150317_002608	Corylus 的角
 ITEM_20150317_002609	The main horn has smaller horns around it. Obtained from Coryluses. 
 ITEM_20150317_002610	Cockatrice 皮甲 
 ITEM_20150317_002611	Suitable for crafting armor due to its stiffness. Obtained from Cockatrices. 
-ITEM_20150317_002612	Cockatrice Feather 
-ITEM_20150317_002613	A shiny feather. Obtained from Cockatrices. 
+ITEM_20150317_002612	Cockatrice 羽毛 
+ITEM_20150317_002613	A shiny 羽毛. Obtained from Cockatrices. 
 ITEM_20150317_002614	Colimen Flower 
 ITEM_20150317_002615	Obtained from Colimens. 
 ITEM_20150317_002616	Colitile Feeler 
@@ -2623,35 +2623,35 @@ ITEM_20150317_002622	Tanu Flower
 ITEM_20150317_002623	A white flower with fragrant smell. Obtained from Tanus. 
 ITEM_20150317_002624	Tama Skin 
 ITEM_20150317_002625	Unlike other eggs, it has a very thick shell. Obtained from Tamas. 
-ITEM_20150317_002626	Tontulia Thorn 
-ITEM_20150317_002627	A thorn that widely varies in its size. Obtained from Tontulia. 
-ITEM_20150317_002628	Tuken Skin 
-ITEM_20150317_002629	Due to its shininess and stiffness, people often mistake it for metal. 
+ITEM_20150317_002626	Tontulia 尖刺 
+ITEM_20150317_002627	大小參差不齊的尖刺.{nl}Obtained from Tontulia. 
+ITEM_20150317_002628	Tuken 皮膚 
+ITEM_20150317_002629	由於他的光澤及硬度，人們常誤以為它是金屬 
 ITEM_20150317_002630	Tiken 骨頭 
-ITEM_20150317_002631	Surprisingly, this 骨頭 is very elastic. Obtained from Tikens. 
-ITEM_20150317_002632	Pipe 
+ITEM_20150317_002631	令人驚訝的，這跟骨頭很有彈性. Obtained from Tikens. 
+ITEM_20150317_002632	菸斗 
 ITEM_20150317_002633	Obtained from Hounds. 
 ITEM_20150317_002634	Pokuborn 皮甲 
-ITEM_20150317_002635	Pokuborn Backbone 
+ITEM_20150317_002635	Pokuborn 脊椎 
 ITEM_20150317_002636	藍色瓦布戰士 Token 
-ITEM_20150317_002637	Flibo Stem 
+ITEM_20150317_002637	Flibo 的莖 
 ITEM_20150317_002638	Obtained from Flibos. 
-ITEM_20150317_002639	Pino Stem 
-ITEM_20150317_002640	Not recommended for consumption. Obtained from Pinos. 
+ITEM_20150317_002639	Pino 的莖 
+ITEM_20150317_002640	最好別吃. Obtained from Pinos. 
 ITEM_20150317_002641	Hamming Leaf 
 ITEM_20150317_002642	High 瓦布 Cross Stick 
 ITEM_20150317_002643	High 瓦布 Token 
 ITEM_20150317_002644	Obtained from High 瓦布. 
-ITEM_20150317_002645	Hallowventer Hand 骨頭 
-ITEM_20150317_002646	More like a weapon than a hand 骨頭. Obtained from Hallowventers. 
+ITEM_20150317_002645	Hallowventer 手骨 
+ITEM_20150317_002646	更像武器個手骨. Obtained from Hallowventers. 
 ITEM_20150317_002647	Hogma Battle Boss Fang 
 ITEM_20150317_002648	A lot bigger than other Hogma's fangs. Obtained from Hogma Captains. 
 ITEM_20150317_002649	Gray Yukopus Leaf 
-ITEM_20150317_002650	Fallenlem Fragment 
+ITEM_20150317_002650	Fallenlem 碎片 
 ITEM_20150317_002651	Obtained from Fallenlems. 
-ITEM_20150317_002652	Sliver Bar 
-ITEM_20150317_002653	A bullion made of silver. Clearly worth a lot. 
-ITEM_20150317_002654	Black Market Seal 
+ITEM_20150317_002652	銀條 
+ITEM_20150317_002653	銀製的長方條狀物，看起來很貴. 
+ITEM_20150317_002654	黑市印璽 
 ITEM_20150317_002655	白色粘液 
 ITEM_20150317_002656	弗洛爾 
 ITEM_20150317_002657	用來製作道具的材料. 
@@ -2660,7 +2660,7 @@ ITEM_20150317_002659	纖維
 ITEM_20150317_002660	硬化劑
 ITEM_20150317_002661	堅韌的纖維
 ITEM_20150317_002662	成品樹脂
-ITEM_20150317_002663	Spell Reservoir 
+ITEM_20150317_002663	符文結晶 
 ITEM_20150317_002664	小碎石
 ITEM_20150317_002665	小而圓的石頭
 ITEM_20150317_002666	Chafer Material 
@@ -2669,14 +2669,14 @@ ITEM_20150317_002668	Might fetch a good price from merchants.
 ITEM_20150317_002669	Spell Engineering Engine 
 ITEM_20150317_002670	Tormented Soul 
 ITEM_20150317_002671	Obtained from Deathweaver. 
-ITEM_20150317_002672	Biteregina's Thorn 
+ITEM_20150317_002672	Biteregina's 尖刺 
 ITEM_20150317_002673	Obtained from Biteregina. 
-ITEM_20150317_002674	Cerberus' Canine 
+ITEM_20150317_002674	Cerberus' 尖牙 
 ITEM_20150317_002675	Obtained from Cerberus. 
 ITEM_20150317_002676	Chapparition's Soul Matter 
 ITEM_20150317_002677	Obtained from Chapparition. 
-ITEM_20150317_002678	Siela 
-ITEM_20150317_002679	Obtained from Level 80 missions. 
+ITEM_20150317_002678	魂魄碎片 
+ITEM_20150317_002679	從80級任務中獲得. 
 ITEM_20150317_002680	Vejo 靴子 皮甲 
 ITEM_20150317_002681	쪽빛나무 고원 퀘스트의 콜리멘시아에게서 획득할 수 있습니다.
 ITEM_20150317_002682	Vejo 靴子 String 
@@ -2687,71 +2687,71 @@ ITEM_20150317_002686	Saphie Stone
 ITEM_20150317_002687	사피에 네클리스를 만드는 재료입니다. 가시마음골의 리카우스에게서 획득할 수 있습니다.
 ITEM_20150317_002688	博拉波的刺
 ITEM_20150317_002689	사피에 네클리스를 만드는 재료입니다. 낙우림의 브람블에게서 획득할 수 있습니다.
-ITEM_20150317_002690	Yonazolem Fragment 
+ITEM_20150317_002690	Yonazolem 碎片 
 ITEM_20150317_002691	부러진 기둥 협곡의 요나졸렘에게서 획득할 수 있습니다.
 ITEM_20150317_002692	Denoptic Eye 
 ITEM_20150317_002693	Obtained from Denoptic at Overlong Bridge Valley. 
-ITEM_20150317_002694	Scorpio Hook 
+ITEM_20150317_002694	天蠍彎鉤 
 ITEM_20150317_002695	It can be obtained from Scorpios in Stone Pole Platform. 
 ITEM_20150317_002696	Gem Abrasive Agent 
-ITEM_20150317_002697	Used to enhance gems. Amplifies the EXP of gems. 
-ITEM_20150317_002698	墓穴領主 鎖鏈 
-ITEM_20150317_002699	Obtained from 墓穴領主 at Underground Mausoleum 2nd District. 
-ITEM_20150317_002700	Bearkaras Fragment 
-ITEM_20150317_002701	Obtained from Bearkaras at Underground Mausoleum 4th District. 
-ITEM_20150317_002702	Rexipher's Innocent Evil 
-ITEM_20150317_002703	Obtained from Rexipher at the Underground Mausoleum's 5th District. 
-ITEM_20150317_002704	Aging Relic 
-ITEM_20150317_002705	An old relic found in a well. 右鍵點擊使用. 
-ITEM_20150317_002706	Charcoal Stone 
-ITEM_20150317_002707	Ore 
+ITEM_20150317_002697	用於增強寶石，增加寶石的EXP. 
+ITEM_20150317_002698	Tomblord 鎖鏈 
+ITEM_20150317_002699	在Tomblord的皇陵二樓中發現. 
+ITEM_20150317_002700	Bearkaras 碎片 
+ITEM_20150317_002701	在Bearkaras的皇陵四樓中發現. 
+ITEM_20150317_002702	Rexipher's 純粹之惡 
+ITEM_20150317_002703	在Rexipher的皇陵五樓中發現. 
+ITEM_20150317_002704	古遺物 
+ITEM_20150317_002705	古井中發現了一個遺跡 {nl}右鍵以使用. 
+ITEM_20150317_002706	煤炭 
+ITEM_20150317_002707	礦石 
 ITEM_20150317_002708	獨角獸骨頭 
 ITEM_20150317_002709	머무르는 나뭇골의 유니콘에게서 획득할 수 있습니다.
-ITEM_20150317_002710	Reaverpede 皮甲 
+ITEM_20150317_002710	Reaverpede 皮革 
 ITEM_20150317_002711	머무르는 나뭇골의 리버피드에게서 획득할 수 있습니다.
 ITEM_20150317_002712	Devilglove Fragment 
 ITEM_20150317_002713	수정개울의 데블글로브에게서 획득할 수 있습니다.
-ITEM_20150317_002714	Moa Feather 
+ITEM_20150317_002714	Moa 羽毛 
 ITEM_20150317_002715	수정개울의 모아에게서 획득할 수 있습니다.
 ITEM_20150317_002716	羊皮紙
 ITEM_20150317_002717	豪華的羊皮紙。你可以在上面寫任何東西。從 寬恕者 導師 處購買。
-ITEM_20150317_002718	Synthetic Stone 
-ITEM_20150317_002719	A material used for item synthesis. 
+ITEM_20150317_002718	人造石 
+ITEM_20150317_002719	用於合成的材料. 
 ITEM_20150317_002720	斯特林 護身符 
 ITEM_20150317_002721	魔法 護身符 
 ITEM_20150317_002722	骷髏 護身符
 ITEM_20150317_002723	骨頭 護身符
 ITEM_20150317_002724	克雷芙 護身符
-ITEM_20150317_002725	Emoticon: 凱帕 (Joy) 
-ITEM_20150317_002726	Add this emoticon to the list. 
-ITEM_20150317_002727	You can add chat emoticons to quickslots. 右鍵點擊使用. 
-ITEM_20150317_002728	Emoticon: 凱帕 (Sadness) 
+ITEM_20150317_002725	表情: 凱帕 (喜悅) 
+ITEM_20150317_002726	新增這個表情到巨集中. 
+ITEM_20150317_002727	可以新增表情符號 {nl}右鍵以使用. 
+ITEM_20150317_002728	表情: 凱帕 (哀傷) 
 ITEM_20150317_002729	銅礦石 
 ITEM_20150317_002730	鐵礦石 
 ITEM_20150317_002731	一種非常常見的礦石. 
 ITEM_20150317_002732	鋼鐵礦石 
-ITEM_20150317_002733	An ore harder than 鐵礦石. 
+ITEM_20150317_002733	比鐵礦石更硬. 
 ITEM_20150317_002734	鈦礦石
 ITEM_20150317_002735	一種堅硬卻很輕的礦石. 
 ITEM_20150317_002736	秘銀礦石 
 ITEM_20150317_002737	一個閃亮的銀色礦石，它是用來製作強大的裝備，因為它包含了魔法的力量。
 ITEM_20150317_002738	奧利哈鋼礦石 
-ITEM_20150317_002739	Ithildin 礦石 
+ITEM_20150317_002739	星晶石 
 ITEM_20150317_002740	During the Kingdom's founding period, it used to be an ore mined only with the Goddess' guidance. It is more common, today. 
-ITEM_20150317_002741	Annotation 
+ITEM_20150317_002741	註解 
 ITEM_20150317_002742	Obtainable from Corylus. 
 ITEM_20150317_002743	鈦 
 ITEM_20150317_002744	琥珀 
-ITEM_20150317_002745	Gemstone 
+ITEM_20150317_002745	原石 
 ITEM_20150317_002746	在數年的過程中，一棵樹的汁液硬化成一顆寶石. 
 ITEM_20150317_002747	石化蜥蜴琥珀 
 ITEM_20150317_002748	一種非常罕見的琥珀，裡面有一隻蜥蜴被困在裡面. 
 ITEM_20150317_002749	黃寶石 
-ITEM_20150317_002750	一種黃色的寶石. It is said to contain the power to banish Demons. 
+ITEM_20150317_002750	一種黃色的寶石.據說可以驅魔. 
 ITEM_20150317_002751	蛋白石 
-ITEM_20150317_002752	A gemstone that shines in various colors. 
+ITEM_20150317_002752	閃耀著各種色彩的寶石. 
 ITEM_20150317_002753	石榴石 
-ITEM_20150317_002754	A red colored gemstone similar to a Ruby, however, it is far more common. 
+ITEM_20150317_002754	一種類似紅寶石的彩色寶石，更為常見. 
 ITEM_20150317_002755	黑曜石 
 ITEM_20150317_002756	黑色，不透明的寶石.
 ITEM_20150317_002757	橄欖石
@@ -2773,11 +2773,11 @@ ITEM_20150317_002772	把金屬特性融合進 烈焰石 後產生的石頭。
 ITEM_20150317_002773	寒冰金
 ITEM_20150317_002774	把金屬特性融合進 寒冰石 後產生的石頭。
 ITEM_20150317_002775	鑽石 
-ITEM_20150317_002776	A colorless, transparent gemstone. Harder than any metal, and very rare even amongst gemstones. 
+ITEM_20150317_002776	透明無色的寶石，硬度堪比任何金屬，寶石之王!. 
 ITEM_20150317_002777	藍寶石 
-ITEM_20150317_002778	Beautiful blue gemstone. Its price increases relative to its shade of blue. 
-ITEM_20150317_002779	Book Name 
-ITEM_20150317_002780	Right-click to read 
+ITEM_20150317_002778	華美的藍寶石，價格隨著藍色深淺而上升. 
+ITEM_20150317_002779	書名 
+ITEM_20150317_002780	右鍵以閱讀
 ITEM_20150317_002781	Lydia Schaffen and the 造箭者 
 ITEM_20150317_002782	A story of a legendary archer and a legendary arrow maker 
 ITEM_20150317_002783	Legends of 佩帝米安 Lands 
@@ -2793,87 +2793,87 @@ ITEM_20150317_002792	撕裂的日記 (第二部)
 ITEM_20150317_002793	撕裂的日記 (第三部) 
 ITEM_20150317_002794	撕裂的日記 (第四部) 
 ITEM_20150317_002795	銀幣
-ITEM_20150317_002796	Common Currency 
-ITEM_20150317_002797	Royal Kingdom Common Currency 
-ITEM_20150317_002798	Gold 
-ITEM_20150317_002799	High Currency 
-ITEM_20150317_002800	Royal Kingdom Upper Currency 
+ITEM_20150317_002796	尋常硬幣 
+ITEM_20150317_002797	皇家尋常硬幣 
+ITEM_20150317_002798	金幣 
+ITEM_20150317_002799	高級硬幣
+ITEM_20150317_002800	皇家上級硬幣 
 ITEM_20150317_002801	圖紙
-ITEM_20150317_002802	Right-click to register the 圖紙 
+ITEM_20150317_002802	右鍵註冊這張圖紙 
 ITEM_20150317_002803	包含有關如何製作一個道具。在休息模式查看製作菜單. 
 ITEM_20150317_002804	技能卷軸
-ITEM_20150317_002805	It teleports you to another Goddess Statue. Your current location will be saved. 
-ITEM_20150317_002806	Orb of Nostalgia 
+ITEM_20150317_002805	將你傳送到其他女神雕像之處。現在的位置會被保存. 
+ITEM_20150317_002806	思鄉寶珠
 ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}冷卻: 15 分鐘 
 ITEM_20150317_002808	克萊佩達 傳送石
 ITEM_20150317_002809	一塊可以把你傳送到克萊佩達的石頭. 右鍵點擊使用. 冷卻 : 20 分鐘
-ITEM_20150317_002810	Crystal Mine Unsealing Scroll 1 
+ITEM_20150317_002810	晶礦解封卷軸 1
 ITEM_20150317_002811	Quest Item 
-ITEM_20150317_002812	Crystal Mine Unsealing Scroll 2 
-ITEM_20150317_002813	邪靈祭司 娃娃 
+ITEM_20150317_002812	晶礦解封卷軸 2 
+ITEM_20150317_002813	邪靈祭司娃娃 
 ITEM_20150317_002814	Magic catalyst used by the 邪靈祭司s. 邪靈祭司s craft their own 邪靈祭司 doll for a better spiritual magic effect. 
-ITEM_20150317_002815	烈焰術士's Old Scroll 
+ITEM_20150317_002815	烈焰術士的老舊卷軸 
 ITEM_20150317_002816	An old scroll hidden by the 烈焰術士. Illegible hieroglyphs and symbols are written over it. 
-ITEM_20150317_002817	Messenger Bag 
+ITEM_20150317_002817	郵包 
 ITEM_20150317_002818	A bag that seems to have belonged to a messenger. Contains a few reports and some food supplies. 
-ITEM_20150317_002819	Remains of a Soldier 
+ITEM_20150317_002819	士兵遺骸 
 ITEM_20150317_002820	The remains of a soldier killed by a monster. The person is no longer recognizable. 
-ITEM_20150317_002821	Moss 
+ITEM_20150317_002821	青苔 
 ITEM_20150317_002822	A patch of moss collected to investigate abnormal phenomena. Much can be discovered from investigating it. 
-ITEM_20150317_002823	變色草 
+ITEM_20150317_002823	褪色草 
 ITEM_20150317_002824	Grass which discoloration is presumed to be caused by influence of Demons. 
-ITEM_20150317_002825	Creepy Wood Bark 
+ITEM_20150317_002825	毛骨悚然的樹皮 
 ITEM_20150317_002826	Creepy, disturbing wood bark that has been altered from its original shape. It is presumed to have changed due to influence of the Demons. 
-ITEM_20150317_002827	Blakk's Report 
+ITEM_20150317_002827	Blakk's 報告 
 ITEM_20150317_002828	A report written by Blakk. Contains reconnaissance details of the nearby region. 
-ITEM_20150317_002829	York's Periodic Report 
+ITEM_20150317_002829	York's 定期報告 
 ITEM_20150317_002830	A report written by York. Contains observations on recent monster activity. Let's take this to Commander Volda. 
-ITEM_20150317_002831	瓦布 Raider Pouch 
+ITEM_20150317_002831	瓦布 中藥袋 
 ITEM_20150317_002832	Herb pouch carried by 瓦布. Roughly made but effective enough. 
-ITEM_20150317_002833	Shawlem's Loot Box 
+ITEM_20150317_002833	Shawlem's 的戰利品 
 ITEM_20150317_002834	Booty gathered by 瓦布. As for the sorting?? 
-ITEM_20150317_002835	Supplies Looted by 瓦布 
+ITEM_20150317_002835	瓦布洗劫的支給品 
 ITEM_20150317_002836	Supplies looted and gathered by 瓦布. You can see that some of them have been used. 
 ITEM_20150317_002837	瓦布 弓 
-ITEM_20150317_002838	Feather decorations adorn the 瓦布' arrows. Useful for monster research. 
-ITEM_20150317_002839	Moody's Supplementary Report  
+ITEM_20150317_002838	羽毛 decorations adorn the 瓦布' arrows. Useful for monster research. 
+ITEM_20150317_002839	Moody's 補充報告  
 ITEM_20150317_002840	Report written by Moody. It details the attacks from monsters. 
 ITEM_20150317_002841	Diligent 貓頭鷹 雕像's wing fragment. It is blessed with holy power. 
 ITEM_20150317_002842	Wing fragment the Fearful 貓頭鷹 雕像's friend. It has become an ordinary piece of wood. 
-ITEM_20150317_002843	Crystal Sphere 
+ITEM_20150317_002843	水晶球 
 ITEM_20150317_002844	Unpolished gem ore. The gem within the stone is also dull as it hasn't been polished yet. 
-ITEM_20150317_002845	瓦布 Serum 
+ITEM_20150317_002845	瓦布 血清 
 ITEM_20150317_002846	Serum collected from the blood of 瓦布. Requested of the Commander by Vidotas. 
-ITEM_20150317_002847	Crystal 
+ITEM_20150317_002847	水晶 
 ITEM_20150317_002848	A unequal crystal fragment. A material requested by Vidotas. 
 ITEM_20150317_002849	Serum collected from the blood of dead 瓦布. 
-ITEM_20150317_002850	Native Soldier's Key 
+ITEM_20150317_002850	當地士兵的鑰匙 
 ITEM_20150317_002851	A key to release the seal of the King Tomb 
-ITEM_20150317_002852	King Tomb 2nd Floor Lever 
-ITEM_20150317_002853	Key to King Tomb 33 
-ITEM_20150317_002854	Part of the Slab (1) 
-ITEM_20150317_002855	Part of the Slab (2) 
-ITEM_20150317_002856	Stonemason Pipoti's Treasure Map 
+ITEM_20150317_002852	王陵2樓鑰匙 
+ITEM_20150317_002853	王陵的鑰匙 33 
+ITEM_20150317_002854	石板破片 (1) 
+ITEM_20150317_002855	石板破片 (2) 
+ITEM_20150317_002856	石匠Pipoti的藏寶圖 
 ITEM_20150317_002857	A map showing the location of something. Treasure, maybe? 
 ITEM_20150317_002858	Varkis' Exploration Journal 
 ITEM_20150317_002859	Varkis dedicated his life to writing this journal. It is very important to him. 
-ITEM_20150317_002860	Boulder to be carved into a Memorial Stone 
+ITEM_20150317_002860	一個被雕成紀念石碑的冰礫.
 ITEM_20150317_002861	A material to make a memorial to remember the dead people in this area. 
-ITEM_20150317_002862	Stonemason Tool Kit 
+ITEM_20150317_002862	石匠工具包 
 ITEM_20150317_002863	A tool kit including a chisel, hammer, rope and more. 
-ITEM_20150317_002864	Pipoti's Memorial Stone 
+ITEM_20150317_002864	Pipoti's 紀念石碑 
 ITEM_20150317_002865	A memorial for the people who died in this area is engraved here.  
-ITEM_20150317_002866	Cube of Searching 
+ITEM_20150317_002866	探查之立方 
 ITEM_20150317_002867	This device searches for evil spirits by absorbing energy from soldiers. 
-ITEM_20150317_002868	Old 藥丸ar Sculpture 
+ITEM_20150317_002868	古老雕柱 
 ITEM_20150317_002869	A small piece of rock that broke off from a stone 藥丸ar. Its purpose is not certain, but looks expensive. 
-ITEM_20150317_002870	Powder collected from a stone 藥丸ar's surface 
+ITEM_20150317_002870	石柱結晶體 
 ITEM_20150317_002871	Refined powder collected from a stone 藥丸ar's surface. Its use is unclear. 
-ITEM_20150317_002872	Small Stone Piece 
+ITEM_20150317_002872	小石片 
 ITEM_20150317_002873	A small piece of a stone that was found in the monster's stomach. Seems to be part of a victim's relics. 
-ITEM_20150317_002874	Scroll of Spatial Distortion 
+ITEM_20150317_002874	空間扭曲卷軸 
 ITEM_20150317_002875	A spell scroll that opens a distortion in the spatial fabric. Here you can obtain the key that belonged to the Great King. 
-ITEM_20150317_002876	Great King's Key 
+ITEM_20150317_002876	王之鑰匙 
 ITEM_20150317_002877	A key used for releasing the seal of Great King 澤凱瑞爾. 
 ITEM_20150317_002878	Groll's 皮甲 
 ITEM_20150317_002879	One of the task requirements by the 重裝步兵 Master. Looks extremely sturdy. 
@@ -2881,19 +2881,19 @@ ITEM_20150317_002880	Chafperor's Poison Dart
 ITEM_20150317_002881	One of the task requirements by the 重裝步兵 Master. It would be fatal to be 刺擊bed by it. 
 ITEM_20150317_002882	Jukopus' Black Powder 
 ITEM_20150317_002883	One of the task requirements by the 重裝步兵 Master. It scatters at the slightest breath. 
-ITEM_20150317_002884	Ellum's Sticky Sap 
-ITEM_20150317_002885	Quest item. 
+ITEM_20150317_002884	Ellum's 濕黏黏汁液 
+ITEM_20150317_002885	任務道具. 
 ITEM_20150317_002886	Matsum Flower 
 ITEM_20150317_002887	Material required for 念力法師 Master's research. 
-ITEM_20150317_002888	Sticky 藥劑 
+ITEM_20150317_002888	濕黏黏藥劑 
 ITEM_20150317_002889	A 藥劑 made by the 念力法師 Master. Contains the stamen of Mersium. Looks a little dangerous. 
 ITEM_20150317_002890	Material requested by the 環狀法師 Master. He said he needed it for some sort of experiement. Wonder what it's for? 
-ITEM_20150317_002891	Beliggler's Claw 
-ITEM_20150317_002892	工兵 Master's Hidden Goods 
+ITEM_20150317_002891	Beliggler's 爪 
+ITEM_20150317_002892	工兵大師的隱藏貨物 
 ITEM_20150317_002893	The 工兵 Master requested these goods to be returned to their original owner. Did he steal these? 
 ITEM_20150317_002894	Merog 皮甲 
 ITEM_20150317_002895	皮甲 requested by the 弩箭手 Master. Looks like it will be used for armorcrafting. 
-ITEM_20150317_002896	Boulder for Construction 
+ITEM_20150317_002896	Boulder for Construction(標記) 
 ITEM_20150317_002897	A giant stone used as a replacement on the Klaipda Castle Wall. Now, how to move this... 
 ITEM_20150317_002898	獵人 Master's Pouch 
 ITEM_20150317_002899	Not sure what's inside but it smells foul. 
@@ -2917,31 +2917,31 @@ ITEM_20150317_002916	Holy Water of 牧師 Master
 ITEM_20150317_002917	Holy Water used for treating patients. It has a sterilizing effect. 
 ITEM_20150317_002918	Holy Water of 聖火祭司 Master 
 ITEM_20150317_002919	Holy Water used for treating patients. It has a revitalizing effect. 
-ITEM_20150317_002920	Minotaur's Essence 
+ITEM_20150317_002920	Minotaur's 精華 
 ITEM_20150317_002921	A Demonic essence requested by the 念力法師 Master. It emanates a sinister evil aura. 
-ITEM_20150317_002922	Chapparition's Essence 
+ITEM_20150317_002922	Chapparition's 精華 
 ITEM_20150317_002923	A Demonic essence requested by the 念力法師 Master. If you stare at it for too long you might be possessed. 
-ITEM_20150317_002924	Strange Map 
+ITEM_20150317_002924	奇特的地圖 
 ITEM_20150317_002925	This might be a map marked with the location of the 造箭者's Secret Manual. Why would the 弩箭手 Master want the 造箭者's...? 
 ITEM_20150317_002926	布甲 Piece with a Peculiar Scent 
 ITEM_20150317_002927	A piece of cloth suspected to be from Evoniphon. 
 ITEM_20150317_002928	드레이크의 화염 촉매
 ITEM_20150317_002929	새퍼 마스터의 실험에 필요한 화염 촉매. 쉽게 불이 붙는다.
-ITEM_20150317_002930	工兵 Master's Experimental Bomb 
+ITEM_20150317_002930	工兵大師的實驗炸彈 
 ITEM_20150317_002931	工兵 Master's Bomb produced for testing. 
 ITEM_20150317_002932	布甲 Piece with Needlepoint 
 ITEM_20150317_002933	A piece of cloth probably from the outfit of the Tool Shop Merchant's Father. You can feel great effort from the needlepoints. 
-ITEM_20150317_002934	Box of Food for Stray Cat 
+ITEM_20150317_002934	流浪貓的食品箱子 
 ITEM_20150317_002935	A box containing a delicacy liked by the stray cats. Used to catch stray cats. It has a fishy smell. 
-ITEM_20150317_002936	Sun Essence 
+ITEM_20150317_002936	太陽精華 
 ITEM_20150317_002937	Spirit of fire collected into a pot. 
 ITEM_20150317_002938	Cockatrice Beak 
 ITEM_20150317_002939	Material requested by the 寒冰術士 Master as an alternative payment for his teaching fees. 
-ITEM_20150317_002940	Arma Scale 
+ITEM_20150317_002940	Arma 鱗片 
 ITEM_20150317_002941	Material requested by the 寒冰術士 Master as an alternative payment for his teaching fees. Will this be of any use for a 寒冰術士? 
 ITEM_20150317_002942	Phyracon Fragment 
 ITEM_20150317_002943	A stiff, hard piece from the inner side of Phyracon. Material requested by the Wizard Master. 
-ITEM_20150317_002944	綠幼龍Scale 
+ITEM_20150317_002944	綠幼龍鱗片 
 ITEM_20150317_002945	A smooth scale found below the rougher outer scale of 幼龍. Material requested by the Wizard Master. 
 ITEM_20150317_002946	Scroll made to compare the phenomena in 佩帝米安 and 克萊佩達. 
 ITEM_20150317_002947	Dowsing L-魔杖 
@@ -2949,7 +2949,7 @@ ITEM_20150317_002948	L-shaped 魔杖 used by miners to dowse or divine undergrou
 ITEM_20150317_002949	You can obtain an object hidden on the 3rd floor. 
 ITEM_20150317_002950	Sickening Lump 
 ITEM_20150317_002951	A lump of something that smells terribly foul. You can see a glimpse of a ring-like object inside. 
-ITEM_20150317_002952	Dry Twig from Thorn 森林 
+ITEM_20150317_002952	Dry Twig from 尖刺 森林 
 ITEM_20150317_002953	A completely dried up twig. It has a lot of tiny thorns. 
 ITEM_20150317_002954	Monster Specimen 
 ITEM_20150317_002955	(Temporary) Enlarged Sample 
@@ -2958,8 +2958,8 @@ ITEM_20150317_002957	A detailed tactic is explained alongside the map.
 ITEM_20150317_002958	Mersium Sample 
 ITEM_20150317_002959	Merlog Sample 
 ITEM_20150317_002960	Merleech Sample 
-ITEM_20150317_002961	Mersumma Thorn 
-ITEM_20150317_002962	Thronball Thorn 
+ITEM_20150317_002961	Mersumma 尖刺 
+ITEM_20150317_002962	Thronball 尖刺 
 ITEM_20150317_002963	Cyst leaves 
 ITEM_20150317_002964	(Temporary) Yellow Cyst Leaves 
 ITEM_20150317_002965	Infro Holder 的角
@@ -3035,13 +3035,13 @@ ITEM_20150317_003034	A pouch of coins meant for payment. Graverobber Kujang aske
 ITEM_20150317_003035	Shining Gold Article 
 ITEM_20150317_003036	Treasure that belonged to human victims and was hoarded by the monster. 
 ITEM_20150317_003037	Loose Package 
-ITEM_20150317_003038	Broken 項鏈 from Thorn 森林 
+ITEM_20150317_003038	Broken 項鏈 from 尖刺 森林 
 ITEM_20150317_003039	Bushobell's Bundle 
 ITEM_20150317_003040	士兵的行李
 ITEM_20150317_003041	Belongings from a soldier, stolen by a Leafbug. Looks like it's been stolen many times since then. 
 ITEM_20150317_003042	Piece of 瓦布 布甲  
 ITEM_20150317_003043	A ripped cloth piece from 瓦布. It's from the dirty waist area. 
-ITEM_20150317_003044	蜘蛛 Claw 
+ITEM_20150317_003044	蜘蛛 爪 
 ITEM_20150317_003045	If you gather enough of these, they may have a use. 
 ITEM_20150317_003046	Relief Goods 
 ITEM_20150317_003047	Goods used as a provision for emergencies in the Mining Town. 
@@ -3052,8 +3052,8 @@ ITEM_20150317_003051	A stick used to expel Sequoia. It has a few holy spirits.
 ITEM_20150317_003052	Piece of Wood with Holy Spirit 
 ITEM_20150317_003053	Ingredient for a tool that chases away road-blocking Sequoia. You can feel the faint holy power. 
 ITEM_20150317_003054	Spirit crystals from Owl statues that have been swallowed by monsters. 
-ITEM_20150317_003055	Spirit Essence 
-ITEM_20150317_003056	Warrior's Essence. It is very necessary to give Sequoia the very best bit. 
+ITEM_20150317_003055	Spirit 精華 
+ITEM_20150317_003056	Warrior's 精華. It is very necessary to give Sequoia the very best bit. 
 ITEM_20150317_003057	Blue Soul Stone 
 ITEM_20150317_003058	The first soul stone. It harbors the strong grudge of a corrupt individual. 
 ITEM_20150317_003059	Red Soul Stone 
@@ -3101,7 +3101,7 @@ ITEM_20150317_003100	A hook that soldier Roy has to collect. He can return to hi
 ITEM_20150317_003101	Nagging Owl's Soul 
 ITEM_20150317_003102	A bloodstained page from a report. 
 ITEM_20150317_003103	The contents are illegible. 
-ITEM_20150317_003104	Haming Stem 
+ITEM_20150317_003104	Haming 的莖 
 ITEM_20150317_003105	A material used to fix the wagon. Cut from the the hard part of the stem of a Haming. 
 ITEM_20150317_003106	Tini Fluid 
 ITEM_20150317_003107	Fluid secreted from a Tini's gland. It has a sting to it. 
@@ -3280,7 +3280,7 @@ ITEM_20150317_003279	Flame Crystal
 ITEM_20150317_003280	Needed to 刺擊ilize the Flame Gem. 
 ITEM_20150317_003281	Bagworm's Body Fluid 
 ITEM_20150317_003282	Material needed to make a 邪靈祭司 doll. 
-ITEM_20150317_003283	Thornball's Stem 
+ITEM_20150317_003283	尖刺ball's 的莖 
 ITEM_20150317_003284	Memo Paper of Believer 
 ITEM_20150317_003285	A method for removing thorny vines is written on the paper. 
 ITEM_20150317_003286	Matches 
@@ -3289,8 +3289,8 @@ ITEM_20150317_003288	Acidic Solution
 ITEM_20150317_003289	A strong acidic solution that can melt through thorny vines. 
 ITEM_20150317_003290	Magical Power Crystal  
 ITEM_20150317_003291	A crystal needed to remove thorny vines by holy power. It needs charging and refining to be used. 
-ITEM_20150317_003292	Thornball Wreckage 
-ITEM_20150317_003293	Thornball Wreckage burns well, even in rain. 
+ITEM_20150317_003292	尖刺ball Wreckage 
+ITEM_20150317_003293	尖刺ball Wreckage burns well, even in rain. 
 ITEM_20150317_003294	Some fluid with a sour smell that oozed out from a toenail. 
 ITEM_20150317_003295	Horrible-Smelling Body Fluid 
 ITEM_20150317_003296	A useful fluid for flushing out the mini Griva that has become a parasite on Greepelli's hair. 
@@ -3313,7 +3313,7 @@ ITEM_20150317_003312	Magical Enchantment Crystal
 ITEM_20150317_003313	A crystal filled with enough energy to activate the underground enchantment. 
 ITEM_20150317_003314	Operation Map 
 ITEM_20150317_003315	Visual plans, where you can see the goal area for the operation. It is in the middle. 
-ITEM_20150317_003316	Thorn Pollen 
+ITEM_20150317_003316	尖刺 Pollen 
 ITEM_20150317_003317	Pollen used to exorcise evil spirits. 
 ITEM_20150317_003318	Lever Handle Latch 
 ITEM_20150317_003319	A latch used to tie down the handle of the cable car's lever. 
@@ -3323,7 +3323,7 @@ ITEM_20150317_003322	鎧甲au Sugar Beets
 ITEM_20150317_003323	Sweet tasting 鎧甲au specialty sugar beets. Young animals love them. 
 ITEM_20150317_003324	Cable Car Parts 
 ITEM_20150317_003325	Parts acquired from around the broken cable car 
-ITEM_20150317_003326	Thorn Pollen Stimulant 
+ITEM_20150317_003326	尖刺 Pollen Stimulant 
 ITEM_20150317_003327	Good medicine for when the atmosphere becomes contaminated and hazy. 
 ITEM_20150317_003328	Blue Fragaras Petal 
 ITEM_20150317_003329	A Fragaras' resin is an effective exorcising material. 
@@ -3354,10 +3354,10 @@ ITEM_20150317_003353	An index describing how to obtain the Legendary Key from th
 ITEM_20150317_003354	Spatial Crest 
 ITEM_20150317_003355	A special key for finding revelations and hidden places. 
 ITEM_20150317_003356	Merog Spittle 
-ITEM_20150317_003357	It creates an awakening effect if it is mixed with Thorn Flower Powder Stimulant. 
-ITEM_20150317_003358	Enhanced Thorn Flower Stimulant 
-ITEM_20150317_003359	It has a better effect than the Thorn Flower Powder  
-ITEM_20150317_003360	Thorn Flower Fluid 
+ITEM_20150317_003357	It creates an awakening effect if it is mixed with 尖刺 Flower Powder Stimulant. 
+ITEM_20150317_003358	Enhanced 尖刺 Flower Stimulant 
+ITEM_20150317_003359	It has a better effect than the 尖刺 Flower Powder  
+ITEM_20150317_003360	尖刺 Flower Fluid 
 ITEM_20150317_003361	It has an awakening effect if mixed with a Merog's spit. 
 ITEM_20150317_003362	Slime's Body Liquid 
 ITEM_20150317_003363	Material requested by the 元素使 Master to prove your qualification 
@@ -3374,7 +3374,7 @@ ITEM_20150317_003373	Black Maize Poison
 ITEM_20150317_003374	Ingredient necessary to redecorate the Obelisk. It has a high level of acidity. 
 ITEM_20150317_003375	Paralysis Powder 
 ITEM_20150317_003376	Paralysis Powder that can stun the Black Maize in Rhombuspaving Dale. 
-ITEM_20150317_003377	White Oak Essence  
+ITEM_20150317_003377	White Oak 精華  
 ITEM_20150317_003378	Ingredient necessary for the paint used in painting inscriptions onto the Obelisk. It's black in color. 
 ITEM_20150317_003379	Adhesive Coating  
 ITEM_20150317_003380	Ingredient necessary to redecorate the Obelisk. It's very sticky. 
@@ -3520,7 +3520,7 @@ ITEM_20150317_003519	A trinket belonging to the old 萊格溫家族
 ITEM_20150317_003520	An ingredient of a drug required to cure the patient 
 ITEM_20150317_003521	Holy Relic 
 ITEM_20150317_003522	A holy relic used by 聖火祭司es as a symbol of their faith. Lost in the city by someone. 
-ITEM_20150317_003523	Stone Whale Essence 
+ITEM_20150317_003523	Stone Whale 精華 
 ITEM_20150317_003524	An essence filled with the resentment of many souls. 
 ITEM_20150317_003525	Dense Hardwood  
 ITEM_20150317_003526	Material requested by the 雕塑家 特斯拉 
@@ -3547,10 +3547,10 @@ ITEM_20150317_003546	An enemy killed with this charm attached to them will join 
 ITEM_20150317_003547	First revelation found from the Crystal Mine 
 ITEM_20150317_003548	Eye of Madness 
 ITEM_20150317_003549	Rodelin's eye. It is said to be able to erase an enemy's senses. 
-ITEM_20150317_003550	Wicked Essence  
+ITEM_20150317_003550	Wicked 精華  
 ITEM_20150317_003551	An ingredient necessary to make the Holy Spirit Bomb. It must be purified before it can be used. 
-ITEM_20150317_003552	Purified Essence  
-ITEM_20150317_003553	An ingredient necessary to make the Holy Spirit Bomb. The purified result of Wicked Essence. 
+ITEM_20150317_003552	Purified 精華  
+ITEM_20150317_003553	An ingredient necessary to make the Holy Spirit Bomb. The purified result of Wicked 精華. 
 ITEM_20150317_003554	Romuba Holy Water  
 ITEM_20150317_003555	When consumed it will prevent Demons from detecting your presence! 
 ITEM_20150317_003556	Holy Spirit Bomb 
@@ -3648,7 +3648,7 @@ ITEM_20150317_003647	Brewing Tools
 ITEM_20150317_003648	Tools used for brewing 
 ITEM_20150317_003649	Royal Jelly 
 ITEM_20150317_003650	Highly nutritious Royal Jelly! 
-ITEM_20150317_003651	Monster's Claw (Temporary) 
+ITEM_20150317_003651	Monster's 爪 (Temporary) 
 ITEM_20150317_003652	석화된 도시 통곡의 광장에서만 출몰하는 몬스터의 발톱
 ITEM_20150317_003653	Petrification Stolen Goods 
 ITEM_20150317_003654	석화된 도시 통곡의 광장에서 활동 중인 디코 도굴단이 훔친 장물입니다. 훔쳐온 물건들을 석화된 도시의 물건처럼 만들기 위해 석화서리에 노출시켜두었습니다.
@@ -3752,13 +3752,13 @@ ITEM_20150317_003751	Ashes of Incinerated Demon
 ITEM_20150317_003752	The ashes of a Demon incinerated by Goddess Austeya's power 
 ITEM_20150317_003753	Beads of Residue 
 ITEM_20150317_003754	마족의 결계를 파괴할 수 있는 구슬
-ITEM_20150317_003755	Oak Stem 
+ITEM_20150317_003755	Oak 的莖 
 ITEM_20150317_003756	Scarecrow Building Materials 
 ITEM_20150317_003757	Material for fabricating Scarecrows 
 ITEM_20150317_003758	Wood to be installed on the land as scarecrow 
 ITEM_20150317_003759	Stolen Grain Bag 
 ITEM_20150317_003760	Vomited after the monster died, a half-digested mass of dough. 
-ITEM_20150317_003761	The third revelation found in the Thorny 森林 
+ITEM_20150317_003761	The third revelation found in the 尖刺y 森林 
 ITEM_20150317_003762	The fourth revelation found in the Royal Tombs 
 ITEM_20150317_003763	It cannot be read yet. Take it to 薩勒 for interpretation. 
 ITEM_20150317_003764	Rubbing Tool for Petrified Objects  
@@ -3951,13 +3951,13 @@ ITEM_20150323_003950	A catalyst that promotes magical reactions. Frequently used
 ITEM_20150323_003951	Repair Kit 
 ITEM_20150323_003952	Contains tools to repair weapons. Sold by the 侍從 Master. 
 ITEM_20150323_003953	Glizardon 皮甲 
-ITEM_20150323_003954	Galok Canine 
+ITEM_20150323_003954	Galok 尖牙 
 ITEM_20150323_003955	Black Egnome Powder 
 ITEM_20150323_003956	Tough Glizardon 皮甲 
 ITEM_20150323_003957	Galok Fur 
 ITEM_20150323_003958	Material required for the 工兵 Master's expermients. It burns easily. 
-ITEM_20150323_003959	Hogma Shaman's Canine 
-ITEM_20150323_003960	Hogma Warden's Canine  
+ITEM_20150323_003959	Hogma Shaman's 尖牙 
+ITEM_20150323_003960	Hogma Warden's 尖牙  
 ITEM_20150323_003961	A crystal needed to release the seal of Ramstis Ridge 
 ITEM_20150323_003962	Pondel Soul Crystal 
 ITEM_20150323_003963	Pond Mind Crystal 
@@ -3973,11 +3973,11 @@ ITEM_20150323_003972	A fishing 魔杖 made from a 漁夫's prized wood, from whi
 ITEM_20150323_003973	Blue Pondel 骨頭 
 ITEM_20150323_003974	Black Pond Entrails 
 ITEM_20150323_003975	Report recording the strange phenomena in Paupys Port 
-ITEM_20150323_003976	Giant canine obtained from the Minotaurus of 羅克森 Marketplace 
+ITEM_20150323_003976	Giant 尖牙 obtained from the Minotaurus of 羅克森 Marketplace 
 ITEM_20150323_003977	Flammable Stone 
 ITEM_20150323_003978	A stone that the 造箭者 Master requested in exchange for his teaching. 
 ITEM_20150323_003979	네더보바인의 날카로운 송곳니
-ITEM_20150323_003980	A canine that the 武僧 Master requested as proof of your commitment. 
+ITEM_20150323_003980	A 尖牙 that the 武僧 Master requested as proof of your commitment. 
 ITEM_20150323_003981	Monster's toenail that can only be found from the petrified city of Verkti Square. 
 ITEM_20150323_003982	The goods stolen by the Dico Robbers in the petrified city of Verkti Square. In order to make these like the Verkti Square goods, they have been exposed to the petrified frost. 
 ITEM_20150323_003983	Water bottle engraved with a password to find the robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
@@ -4235,7 +4235,7 @@ ITEM_20150323_004234	Beeteross Leaf
 ITEM_20150323_004235	Leaves that used to be on Beeteros' head. They seem to be convenient to use. 
 ITEM_20150323_004236	Black Ridimed Sap 
 ITEM_20150323_004237	Monster sample requested by Researcher Gareth 
-ITEM_20150323_004238	Tough Vermilion Sharkmolly Stem 
+ITEM_20150323_004238	Tough Vermilion Sharkmolly 的莖 
 ITEM_20150323_004239	Pink Chupaluka Heart 
 ITEM_20150323_004240	烈焰術士's Requested Monster Sample 
 ITEM_20150323_004241	烈焰術士's Research Material 
@@ -4254,8 +4254,8 @@ ITEM_20150323_004253	Small Plant Control Device
 ITEM_20150323_004254	A plant control device given to you by Researcher Gareth 
 ITEM_20150323_004255	解毒劑 Recipes 
 ITEM_20150323_004256	解毒劑 Recipes written by 獵人 Master. 
-ITEM_20150323_004257	Essence of Black Leadmed 
-ITEM_20150323_004258	Vermilion Sharkmolly Essence 
+ITEM_20150323_004257	精華 of Black Leadmed 
+ITEM_20150323_004258	Vermilion Sharkmolly 精華 
 ITEM_20150323_004259	Free Dungeon test item 
 ITEM_20150401_004260	Armband I 
 ITEM_20150401_004261	Old Gladius 
@@ -4336,10 +4336,10 @@ ITEM_20150401_004335	Unfinished tooltip.
 ITEM_20150401_004336	Grima 靴子 
 ITEM_20150401_004337	森林 手套 
 ITEM_20150401_004338	森林 靴子 
-ITEM_20150401_004339	Superior Scale 手套 
-ITEM_20150401_004340	Superior Scale 靴子 
-ITEM_20150401_004341	Superior Scale 底褲 
-ITEM_20150401_004342	Superior Scale 鎖子甲 
+ITEM_20150401_004339	Superior 鱗片 手套 
+ITEM_20150401_004340	Superior 鱗片 靴子 
+ITEM_20150401_004341	Superior 鱗片 底褲 
+ITEM_20150401_004342	Superior 鱗片 鎖子甲 
 ITEM_20150401_004343	Regal 手套 
 ITEM_20150401_004344	Regal 靴子 
 ITEM_20150401_004345	Old Hard 皮甲 手套 
@@ -4466,13 +4466,13 @@ ITEM_20150401_004465	GM 服裝
 ITEM_20150401_004466	項鏈 Collection of 5 Sins 
 ITEM_20150401_004467	A collection of five necklaces. Each necklace is inscribed with one of the five topics of a pilgrim's path. Made by Mayburn, the founder of the Cathedral. You can register them in the Magic Association NPC's Collection Window with a right click. 
 ITEM_20150401_004468	Old 凱帕 殼 
-ITEM_20150401_004469	Ridimed Stem 
+ITEM_20150401_004469	Ridimed 的莖 
 ITEM_20150401_004470	Meduja Tentacle 
 ITEM_20150401_004471	Bite Stinger 
-ITEM_20150401_004472	Griba Stem 
+ITEM_20150401_004472	Griba 的莖 
 ITEM_20150401_004473	Meleech 殼 
-ITEM_20150401_004474	Tsurikaki Stem 
-ITEM_20150401_004475	Treegul Stem 
+ITEM_20150401_004474	Tsurikaki 的莖 
+ITEM_20150401_004475	Treegul 的莖 
 ITEM_20150401_004476	Cronewt Bones 
 ITEM_20150401_004477	霍格倫 Beak 
 ITEM_20150401_004478	Ducky 皮甲 
@@ -4480,13 +4480,13 @@ ITEM_20150401_004479	凱帕 Wings
 ITEM_20150401_004480	Kepo Skin 
 ITEM_20150401_004481	Kepo Downy Fur 
 ITEM_20150401_004482	Rondo 殼 
-ITEM_20150401_004483	Kodomor Thorn 
+ITEM_20150401_004483	Kodomor 尖刺 
 ITEM_20150401_004484	Lomor Leaf 
 ITEM_20150401_004485	Red 鎧甲 
 ITEM_20150401_004486	Moya Fragment  
 ITEM_20150401_004487	Colifly Stamen 
 ITEM_20150401_004488	Loftlem Debris 
-ITEM_20150401_004489	Infro Blood Stem 
+ITEM_20150401_004489	Infro Blood 的莖 
 ITEM_20150401_004490	Chupaluka Fur 
 ITEM_20150401_004491	Pilgrim Dalas' Corpse 
 ITEM_20150401_004492	Faded Starlight crystal 
@@ -4555,7 +4555,7 @@ ITEM_20150406_004554	An arrow with an explosive payload.
 ITEM_20150406_004555	Magic Arrow 
 ITEM_20150406_004556	這些箭包含魔力。
 ITEM_20150406_004557	An experimental bomb created by the 工兵 Master.{nl}The throw distance can be controlled by holding down the key. 
-ITEM_20150406_004558	Sharp Canine 
+ITEM_20150406_004558	Sharp 尖牙 
 ITEM_20150406_004559	An orb that can destroy Demonic enchantments. You can gather energy by using it around Austeja's Altar. 
 ITEM_20150406_004560	霍伯格's Mark 
 ITEM_20150406_004561	It is a mark of proof from 霍伯格 that he handed out to his men. 
@@ -4657,7 +4657,7 @@ ITEM_20150414_004656	Camping Tools
 ITEM_20150414_004657	It contains tools necessary for camping. Purchased from the 侍從 導師. 
 ITEM_20150414_004658	火藥 
 ITEM_20150414_004659	一種用來製造炸藥的黑色粉末. 從 造箭者 導師 處購買。
-ITEM_20150414_004660	Ashrong Stem 
+ITEM_20150414_004660	Ashrong 的莖 
 ITEM_20150414_004661	Yellow Yognome 核心 
 ITEM_20150414_004662	Yellow Egnome 核心 
 ITEM_20150414_004663	Yellow Gorgon 傀儡 核心 
@@ -4665,8 +4665,8 @@ ITEM_20150414_004664	Moyabu 的角
 ITEM_20150414_004665	Lemuria 皮甲 
 ITEM_20150414_004666	Crocoman Bones 
 ITEM_20150414_004667	Socket 殼 
-ITEM_20150414_004668	Mole Claw 
-ITEM_20150414_004669	Mole Claw 
+ITEM_20150414_004668	Mole 爪 
+ITEM_20150414_004669	Mole 爪 
 ITEM_20150414_004670	Luxordon 皮甲 
 ITEM_20150414_004671	Lizard Man Bones 
 ITEM_20150414_004672	Tama Leaf 
@@ -4685,7 +4685,7 @@ ITEM_20150414_004684	Big Siaulamb Sinew
 ITEM_20150414_004685	Blood Eyeball 
 ITEM_20150414_004686	Moyabu Crystal 
 ITEM_20150414_004687	Crocman 皮甲 
-ITEM_20150414_004688	Tripede Thorn 
+ITEM_20150414_004688	Tripede 尖刺 
 ITEM_20150414_004689	Red Infro Rocktor 核心 
 ITEM_20150414_004690	The power source that moves the Red Infro Rockter. Grita, who can't use magic, needs it. 
 ITEM_20150414_004691	Lump of Kowak Meat 
@@ -4794,7 +4794,7 @@ ITEM_20150414_004793	A special 藥劑 that only Charlotte knows how to make. It 
 ITEM_20150428_004794	Equipment that helps one in battle. 
 ITEM_20150428_004795	Yorgis Badelaire 
 ITEM_20150428_004796	Superior 迪奧 Sword 
-ITEM_20150428_004797	Superior Thresh Sword 
+ITEM_20150428_004797	Superior 多重 Sword 
 ITEM_20150428_004798	Superior 賽絲托 Sword 
 ITEM_20150428_004799	Superior Drat Sword 
 ITEM_20150428_004800	Superior 亞斯頓 Sword 
@@ -4803,7 +4803,7 @@ ITEM_20150428_004802	Galatunis Sword
 ITEM_20150428_004803	Eyestra Sword 
 ITEM_20150428_004804	Yorgis Katzbalger 
 ITEM_20150428_004805	Superior 迪奧 雙手劍 
-ITEM_20150428_004806	Superior Thresh 雙手劍 
+ITEM_20150428_004806	Superior 多重 雙手劍 
 ITEM_20150428_004807	Superior 賽絲托 雙手劍 
 ITEM_20150428_004808	Superior Drat 雙手劍 
 ITEM_20150428_004809	Superior 亞斯頓 雙手劍 
@@ -4812,7 +4812,7 @@ ITEM_20150428_004811	Galatunis 雙手劍
 ITEM_20150428_004812	Eyestra 雙手劍 
 ITEM_20150428_004813	Yorgis Alter 魔杖 
 ITEM_20150428_004814	Superior 迪奧 魔杖 
-ITEM_20150428_004815	Superior Thresh 魔杖 
+ITEM_20150428_004815	Superior 多重 魔杖 
 ITEM_20150428_004816	Superior 賽絲托 魔杖 
 ITEM_20150428_004817	Superior Drat 魔杖 
 ITEM_20150428_004818	Superior 亞斯頓 魔杖 
@@ -4820,7 +4820,7 @@ ITEM_20150428_004819	Galatunis 魔杖
 ITEM_20150428_004820	Eyestra 魔杖 
 ITEM_20150428_004821	Yorgis Seize 弓 
 ITEM_20150428_004822	Superior 迪奧 弓 
-ITEM_20150428_004823	Superior Thresh 弓 
+ITEM_20150428_004823	Superior 多重 弓 
 ITEM_20150428_004824	Superior 賽絲托 弓 
 ITEM_20150428_004825	Superior Drat 弓 
 ITEM_20150428_004826	Superior 亞斯頓 弓 
@@ -4830,7 +4830,7 @@ ITEM_20150428_004829	Yorgis 佩帝米安 Turret
 ITEM_20150428_004830	Galatunis 弩 
 ITEM_20150428_004831	Eyestra 弩 
 ITEM_20150428_004832	Superior Did Mace 
-ITEM_20150428_004833	Superior Thresh Mace 
+ITEM_20150428_004833	Superior 多重 Mace 
 ITEM_20150428_004834	Superior 賽絲托 Mace 
 ITEM_20150428_004835	Superior Drat Mace 
 ITEM_20150428_004836	Superiror 亞斯頓 Mace 
@@ -4839,7 +4839,7 @@ ITEM_20150428_004838	Eyestra Mace
 ITEM_20150428_004839	 - Causes an explosion every 10th consecutive attack. 
 ITEM_20150428_004840	Seems weak, but it causes an explosion on the user's 10th attack. 
 ITEM_20150428_004841	Yorgis Alchupiz 
-ITEM_20150428_004842	Superior Thresh 矛 
+ITEM_20150428_004842	Superior 多重 矛 
 ITEM_20150428_004843	賽絲托 矛 
 ITEM_20150428_004844	Superior 賽絲托 矛 
 ITEM_20150428_004845	Superior Drat 矛 
@@ -4857,7 +4857,7 @@ ITEM_20150428_004856	Eyestra Pike
 ITEM_20150428_004857	Yorgis Knife 
 ITEM_20150428_004858	Yorgis 鋼鐵 魔杖 
 ITEM_20150428_004859	Superior 迪奧魔杖 
-ITEM_20150428_004860	Superior Thresh 魔杖 
+ITEM_20150428_004860	Superior 多重 魔杖 
 ITEM_20150428_004861	Superior 賽絲托 魔杖 
 ITEM_20150428_004862	Superior Dart 魔杖 
 ITEM_20150428_004863	Superior 亞斯頓 魔杖 
@@ -5064,7 +5064,7 @@ ITEM_20150428_005063	Pawndel Soul
 ITEM_20150428_005064	The second revelation found in the 泰耐特 Cathedral. Readable. 
 ITEM_20150428_005065	Lump of Kepo Meat 
 ITEM_20150428_005066	Meat Loaf that can be easily obtained from Kepo. However, you can't eat it as is. 
-ITEM_20150428_005067	The third revelation found in the Thorn 森林. Readable. 
+ITEM_20150428_005067	The third revelation found in the 尖刺 森林. Readable. 
 ITEM_20150428_005068	The fourth revelation found in the Royal Tomb. Readable. 
 ITEM_20150428_005069	The sixth revelation found in the Cathedral. Readable. 
 ITEM_20150428_005070	There are claims that the voice of the King can be heard at the Royal Tomb Chapel. 
@@ -5072,7 +5072,7 @@ ITEM_20150428_005071	Experimental soul reagents that Grachius gave to you.
 ITEM_20150428_005072	Experimental Reagent 
 ITEM_20150428_005073	Said to reveal monsters that have killed pilgrims under the Curse of Rage when sprayed on them. However, this is still experimental. 
 ITEM_20150428_005074	The fifth revelation found in the Cathedral. Readable. 
-ITEM_20150511_005075	Featherfoot Costume 
+ITEM_20150511_005075	羽毛foot Costume 
 ITEM_20150511_005076	Llama Costume 
 ITEM_20150511_005077	Resonance Crystal 
 ITEM_20150511_005078	A mysterious crystal dropped by a 瓦布. It resonates when used near a device in the 2nd Mine Lot 2nd Gallery. 
@@ -5438,20 +5438,20 @@ ITEM_20150714_005437	Moa Lump
 ITEM_20150714_005438	A lump from a Moa, a predator of Pantos. It smells awful. 
 ITEM_20150714_005439	漁夫的眼睛
 ITEM_20150714_005440	一個漁夫的眼睛。感覺好像在盯著你. 
-ITEM_20150714_005441	Ellom Essence 
+ITEM_20150714_005441	Ellom 精華 
 ITEM_20150714_005442	A dying esssence found in an Ellom's body. It's sticky. 
 ITEM_20150714_005443	Odd Fish Stringer 
-ITEM_20150714_005444	Made by properly stringing together Ellom Essences and 漁夫的眼睛
+ITEM_20150714_005444	Made by properly stringing together Ellom 精華s and 漁夫的眼睛
 ITEM_20150714_005445	Eye of the Soul 
 ITEM_20150714_005446	An Eye of the Soul that can see hidden souls. It was made by the 邪靈祭司 Master by request from Knight-Commander Oscar, who was investigating the 克萊佩達 Market missing person incident. 
-ITEM_20150714_005447	Tini Essence 
+ITEM_20150714_005447	Tini 精華 
 ITEM_20150714_005448	A necessary ingredient to make the straw doll. 
 ITEM_20150714_005449	Orb of Comfort 
 ITEM_20150714_005450	An orb prepared by the 邪靈祭司 Master in order to soothe the souls of the injustly slain people of the town of Andale. 
 ITEM_20150714_005451	Full Orb of Comfort 
 ITEM_20150714_005452	An Orb of Comfort that has been fully filled. It can soothe the souls of the injustly slain people of the town of Andale. 
 ITEM_20150714_005453	Power Crystal  
-ITEM_20150714_005454	A crystal that 女神 薩勒 filled with her power to purify the Thorny 森林. 
+ITEM_20150714_005454	A crystal that 女神 薩勒 filled with her power to purify the 尖刺y 森林. 
 ITEM_20150714_005455	Frost Crystal 
 ITEM_20150714_005456	A magical tool of the 寒冰術士 Master. It can freeze even the soul of a monster. 
 ITEM_20150714_005457	Frozen Soul Fragment 
@@ -5479,12 +5479,12 @@ ITEM_20150714_005478	Evoniphon's trap. It's in perfect working condition.
 ITEM_20150714_005479	Scripture Sheet 
 ITEM_20150714_005480	武僧 Wiley's treasured sheet of scripture. Looks like they were scattered during the uproar. 
 ITEM_20150714_005481	Tempas Mushroom 
-ITEM_20150714_005482	Mushrooms commonly found in the Thorn 森林. It seems they must be cooked to be edible. 
+ITEM_20150714_005482	Mushrooms commonly found in the 尖刺 森林. It seems they must be cooked to be edible. 
 ITEM_20150714_005483	Rocktor's Stony Leg 
 ITEM_20150714_005484	A piece of a Rocktor's leg. Can be used in weapons due to its shape and hardness. 
-ITEM_20150714_005485	Poisonous Chafperor Thorn 
+ITEM_20150714_005485	Poisonous Chafperor 尖刺 
 ITEM_20150714_005486	A thorn found on the Chafperor's forearm. Venom oozes from it. 
-ITEM_20150714_005487	Concentrated Thorny Tree Stump Poison 
+ITEM_20150714_005487	Concentrated 尖刺y Tree Stump Poison 
 ITEM_20150714_005488	A thorny tree that grows on wicked energies. Its thorns are poisonous. 
 ITEM_20150714_005489	Spring Water Venom 
 ITEM_20150714_005490	Water from the spring. It's been contaminated with poison. 
@@ -5495,7 +5495,7 @@ ITEM_20150714_005494	A leaf attached to the head of a Woodroit. It can be used a
 ITEM_20150714_005495	Chebas's Medicinal Herb 
 ITEM_20150714_005496	A medicinal herb that Chebas from the Bastille Company was looking for. He says it will aid against poisonous attacks. 
 ITEM_20150714_005497	It's an empty beehive without any honey in it. Where is the honey? 
-ITEM_20150714_005498	Woodroit Essence 
+ITEM_20150714_005498	Woodroit 精華 
 ITEM_20150714_005499	A sweet-smelling secretion from a Woodroit. It can soften hardened honeycombs. 
 ITEM_20150714_005500	Liverwort Cap 
 ITEM_20150714_005501	A large cap from the head of a liverwort plant. It exudes a strange smell. 
@@ -6000,7 +6000,7 @@ ITEM_20150804_005999	대왕의 네 번째 시련의 증표
 ITEM_20150918_006000	Wearing it will help you classify your allies. 
 ITEM_20150918_006001	Blood may not flow through if you tie it too tightly.
 ITEM_20150918_006002	Its long length makes it possible to be used as a substitute to bandage at urgent times. 
-ITEM_20150918_006003	Decorated with feather. It is weak and should be handled with attention. 
+ITEM_20150918_006003	Decorated with 羽毛. It is weak and should be handled with attention. 
 ITEM_20150918_006004	It is used for special offers and as a fashion item. 
 ITEM_20150918_006005	An armband for players who participated in the 1st CBT.
 ITEM_20150918_006006	Tenet Sword
@@ -6114,10 +6114,10 @@ ITEM_20150918_006113	Sirdgela 皮革 手套
 ITEM_20150918_006114	Sirdgela 皮革 靴子
 ITEM_20150918_006115	Sirdgela 皮革 褲
 ITEM_20150918_006116	Sirdgela 皮革 束腰外衣
-ITEM_20150918_006117	Sirdgela Scale 手套
-ITEM_20150918_006118	Sirdgela Scale 靴子
-ITEM_20150918_006119	Sirdgela Scale 褲
-ITEM_20150918_006120	Sirdgela Scale 鎖子甲
+ITEM_20150918_006117	Sirdgela 鱗片 手套
+ITEM_20150918_006118	Sirdgela 鱗片 靴子
+ITEM_20150918_006119	Sirdgela 鱗片 褲
+ITEM_20150918_006120	Sirdgela 鱗片 鎖子甲
 ITEM_20150918_006121	Philis 手套
 ITEM_20150918_006122	Philis 靴子
 ITEM_20150918_006123	Philis 褲
@@ -6126,10 +6126,10 @@ ITEM_20150918_006125	Philis 皮革 手套
 ITEM_20150918_006126	Philis 皮革 靴子
 ITEM_20150918_006127	Philis 皮革 褲
 ITEM_20150918_006128	Philis 皮革 束腰外衣
-ITEM_20150918_006129	Philis Scale 手套
-ITEM_20150918_006130	Philis Scale 靴子
-ITEM_20150918_006131	Philis Scale 褲
-ITEM_20150918_006132	Philis Scale 鎖子甲
+ITEM_20150918_006129	Philis 鱗片 手套
+ITEM_20150918_006130	Philis 鱗片 靴子
+ITEM_20150918_006131	Philis 鱗片 褲
+ITEM_20150918_006132	Philis 鱗片 鎖子甲
 ITEM_20150918_006133	Arelno 手套
 ITEM_20150918_006134	Arelno 靴子
 ITEM_20150918_006135	Arelno 褲
@@ -6327,7 +6327,7 @@ ITEM_20150918_006326	York's report. It contains information concerning the recen
 ITEM_20150918_006327	Herb pouch carried by Vubbes. Roughly made but effective enough.
 ITEM_20150918_006328	Booty gathered by Vubbes. As for the sorting??
 ITEM_20150918_006329	Supplies looted and gathered by Vubbes. You can see that some of them have been used.
-ITEM_20150918_006330	Feather decorations adorn the Vubbes' arrows. Useful for monster research.
+ITEM_20150918_006330	羽毛 decorations adorn the Vubbes' arrows. Useful for monster research.
 ITEM_20150918_006331	Report written by Moody. It details the attacks from monsters.
 ITEM_20150918_006332	Diligent Owl Statue's wing fragment. It is blessed with holy power.
 ITEM_20150918_006333	Wing fragment the Fearful Owl Statue's friend. It has become an ordinary piece of wood.
@@ -6425,7 +6425,7 @@ ITEM_20150918_006424	Goods used as a provision for emergencies in the Mining Tow
 ITEM_20150918_006425	Material required for reinforcement of the mine's exterior wall. Collect them before the wall crumbles.
 ITEM_20150918_006426	A stick used to expel Sequoia. It has a few holy spirits.
 ITEM_20150918_006427	Ingredient for a tool that chases away road-blocking Sequoia. You can feel the faint holy power.
-ITEM_20150918_006428	Warrior's Essence. It is very necessary to give Sequoia the very best bit.
+ITEM_20150918_006428	Warrior's 精華. It is very necessary to give Sequoia the very best bit.
 ITEM_20150918_006429	This stick was made by upgrading a Stinging Stick. It is capable of subduing Sequoia.
 ITEM_20150918_006430	The larvae of Meduja are eating away at the memories of life. They're sparkly.
 ITEM_20150918_006431	The luggage of a dead merchant. His spirit is obsessed with it.
@@ -6512,7 +6512,7 @@ ITEM_20150918_006511	The power source that moves the Red Infro Rockter. Grita, w
 ITEM_20150918_006512	Needed to stabilize the Flame Gem.
 ITEM_20150918_006513	Instructions on how to eliminate the thorny vine. Familiarize yourself with it.
 ITEM_20150918_006514	A crystal needed to remove thorny vines by holy power. It needs charging and refining to be used.
-ITEM_20150918_006515	Thornball Wreckage burns well, even in rain.
+ITEM_20150918_006515	尖刺ball Wreckage burns well, even in rain.
 ITEM_20150918_006516	Some fluid with a sour smell that oozed out from a toenail.
 ITEM_20150918_006517	A useful fluid for flushing out the mini Griva that has become a parasite on Greepelli's hair.
 ITEM_20150918_006518	Adele treasures this ring. Let's get it back to Adele.
@@ -6543,8 +6543,8 @@ ITEM_20150918_006542	A piece broken off from the altar on the second floor of th
 ITEM_20150918_006543	When used, you become invisible to Demons for 10 秒. The effect disappears if you attack or take damage.
 ITEM_20150918_006544	When used, a Divine Spirit appears and provokes nearby Demons.
 ITEM_20150918_006545	A special key for finding revelations and hidden places.
-ITEM_20150918_006546	It creates an awakening effect if it is mixed with Thorn Flower Powder Stimulant.
-ITEM_20150918_006547	It has a better effect than the Thorn Flower Powder
+ITEM_20150918_006546	It creates an awakening effect if it is mixed with 尖刺 Flower Powder Stimulant.
+ITEM_20150918_006547	It has a better effect than the 尖刺 Flower Powder
 ITEM_20150918_006548	It has an awakening effect if mixed with a Merog's spit.
 ITEM_20150918_006549	The materials that Elementalist Master requested to you in order to prove
 ITEM_20150918_006550	A vessel to hold water enchanted with spiritual power.
@@ -6610,7 +6610,7 @@ ITEM_20150918_006609	Log required to fix the practice wood carving
 ITEM_20150918_006610	Rope required to fix the scarecrow
 ITEM_20150918_006611	An orb necessary to complete the spell that wakes the Sleeping Owls to aid Gaigalus.
 ITEM_20150918_006612	Unstable Holy Spear. It cannot be used in its current state.
-ITEM_20150918_006613	Giant canine obtained from the Minotaurus of Roxona Marketplace
+ITEM_20150918_006613	Giant 尖牙 obtained from the Minotaurus of Roxona Marketplace
 ITEM_20150918_006614	Parts needed for a new trap devised by the Sapper Master.
 ITEM_20150918_006615	A trinket belonging to the old Legwyn Family
 ITEM_20150918_006616	A holy relic used by Krivises as a symbol of their faith. Lost in the city by someone.
@@ -6627,7 +6627,7 @@ ITEM_20150918_006626	An enemy killed with this charm attached to them will join 
 ITEM_20150918_006627	The first revelation found in the Crystal Mine. Readable.
 ITEM_20150918_006628	Rodelin's eye. It is said to be able to erase an enemy's senses.
 ITEM_20150918_006629	An ingredient necessary to make the Holy Spirit Bomb. It must be purified before it can be used.
-ITEM_20150918_006630	An ingredient necessary to make the Holy Spirit Bomb. The purified result of Wicked Essence.
+ITEM_20150918_006630	An ingredient necessary to make the Holy Spirit Bomb. The purified result of Wicked 精華.
 ITEM_20150918_006631	When consumed it will prevent Demons from detecting your presence!
 ITEM_20150918_006632	The bomb with the sacred power. You can defeat Glizardon at once!
 ITEM_20150918_006633	Once the scroll is used, one can distinguish which Hogmas are wearing necklaces.
@@ -6708,7 +6708,7 @@ ITEM_20150918_006707	An orb that can destroy Demonic enchantments. You can gathe
 ITEM_20150918_006708	Scarecrow Building Materials
 ITEM_20150918_006709	Wood of the appropriate length and width to make a scarecrow. It will make an amazing scarecrow.
 ITEM_20150918_006710	Cursed energy that has been condensed. Spat out from a monster as it died.
-ITEM_20150918_006711	The third revelation found in the Thorn 森林. Readable.
+ITEM_20150918_006711	The third revelation found in the 尖刺 森林. Readable.
 ITEM_20150918_006712	The fourth revelation found in the Mausoleum. Readable.
 ITEM_20150918_006713	It cannot be read yet. Take it to Saule for interpretation.
 ITEM_20150918_006714	Tool used to make a rubbing of the petrified book found on Ruklys Street.
@@ -6949,7 +6949,7 @@ ITEM_20150918_006948	A sample of the poisonous wedge needle used to attack the m
 ITEM_20150918_006949	Antidote that Hunters always have with them. It cures simple poisons immediately.
 ITEM_20150918_006950	Evoniphon's trap. It's in perfect working condition.
 ITEM_20150918_006951	Monk Wiley's treasured sheet of scripture. Looks like they were scattered during the uproar.
-ITEM_20150918_006952	Mushrooms commonly found in the Thorn 森林. It seems they must be cooked to be edible.
+ITEM_20150918_006952	Mushrooms commonly found in the 尖刺 森林. It seems they must be cooked to be edible.
 ITEM_20150918_006953	A piece of a Rocktor's leg. Can be used in weapons due to its shape and hardness.
 ITEM_20150918_006954	A thorn found on the Chafperor's forearm. Venom oozes from it.
 ITEM_20150918_006955	A thorny tree that grows on wicked energies. Its thorns are poisonous.
@@ -7000,7 +7000,7 @@ ITEM_20151001_006999	Locked Box
 ITEM_20151001_007000	A locked box, found while exiting Star Tower, that has several things inside of it.		
 ITEM_20151001_007001	Dark Blue Herb		
 ITEM_20151001_007002	A dark blue herb capable of neutralizing a paralysis-inducing poison.		
-ITEM_20151001_007003	Shadow Essence		
+ITEM_20151001_007003	Shadow 精華		
 ITEM_20151001_007004	Obtained from the demons of Demon Lord Hauberk around the Sutatis Trade Route.		
 ITEM_20151001_007005	Fragmented Soul Piece		
 ITEM_20151001_007006	The soul of Demon Lord Hauberk dwells within this fragment. It can be used to neutralize demons.		
@@ -7014,7 +7014,7 @@ ITEM_20151001_007013	Scroll of Death
 ITEM_20151001_007014	According to Pardoner Erica, this scroll can be used to communicate with the souls of the dead. Use it nearby the tomb of Galius Legwyn.		
 ITEM_20151001_007015	Soul Incense		
 ITEM_20151001_007016	An incense that can lead one to the memories of the soul. Used for the Scroll of Death.		
-ITEM_20151001_007017	Gum Plant Stems		
+ITEM_20151001_007017	Gum Plant 的莖s		
 ITEM_20151001_007018	A pile of gum plant stems. They can be used to recall a soul from beyond the grave.		
 ITEM_20151001_007019	Blessing Crystal		
 ITEM_20151001_007020	A blessed crystal which will allow you to return to Pardoner Erica's forest.		
@@ -7218,7 +7218,7 @@ ITEM_20151016_007217	Supplies for calling someone
 ITEM_20151016_007218	Urbonas' Memo		
 ITEM_20151016_007219	Corrupted Blood		
 ITEM_20151016_007220	Chasers' Pocket		
-ITEM_20151016_007221	Red Essence		
+ITEM_20151016_007221	Red 精華		
 ITEM_20151016_007222	Black Wooden Piece		
 ITEM_20151016_007223	Demon Sack		
 ITEM_20151016_007224	Unstable Demonic Stone		
@@ -7571,7 +7571,7 @@ ITEM_20151022_007570	藍色寶珠: Egnome
 ITEM_20151022_007571	藍色寶珠: Green Apparition		
 ITEM_20151022_007572	藍色寶珠: Colitile		
 ITEM_20151022_007573	藍色寶珠: Infro Holder Archer		
-ITEM_20151022_007574	藍色寶珠: Thornball		
+ITEM_20151022_007574	藍色寶珠: 尖刺ball		
 ITEM_20151022_007575	藍色寶珠: Coliflower		
 ITEM_20151022_007576	藍色寶珠: Velwriggler		
 ITEM_20151022_007577	藍色寶珠: Truffle		
@@ -7949,7 +7949,7 @@ ITEM_20151022_007948	紅色寶珠: Egnome
 ITEM_20151022_007949	紅色寶珠: Green Apparition		
 ITEM_20151022_007950	紅色寶珠: Colitile		
 ITEM_20151022_007951	紅色寶珠: Infro Holder Archer		
-ITEM_20151022_007952	紅色寶珠: Thornball		
+ITEM_20151022_007952	紅色寶珠: 尖刺ball		
 ITEM_20151022_007953	紅色寶珠: Coliflower		
 ITEM_20151022_007954	紅色寶珠: Velwriggler		
 ITEM_20151022_007955	紅色寶珠: Truffle		
