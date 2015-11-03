@@ -58,9 +58,9 @@ ITEM_20150317_000057	賽義夫彎刀
 ITEM_20150317_000058	細身劍 
 ITEM_20150317_000059	佛蘭基騎兵劍 
 ITEM_20150317_000060	刺刀 
-ITEM_20150317_000061	Demion Sword 
+ITEM_20150317_000061	Demion 長劍 
 ITEM_20150317_000062	主宰之劍 
-ITEM_20150317_000063	Panto Sword 
+ITEM_20150317_000063	Panto 長劍 
 ITEM_20150317_000064	Panto製作的粗糙短劍，你可以做一個更好的. 
 ITEM_20150317_000065	弗洛納斯佩劍(Flonas) 
 ITEM_20150317_000066	有人說這把劍釋放了植物對動物的怨氣. 
@@ -86,21 +86,21 @@ ITEM_20150317_000085	Gritas
 ITEM_20150317_000086	A sword used by valiant adventurers. Ironically, it is often found on strong monsters. A person who obtains this sword is unknowingly exacting revenge for its previous owner. 
 ITEM_20150317_000087	羅馬劍 
 ITEM_20150317_000088	一個加長劍長度的改進型短劍. 
-ITEM_20150317_000089	阿拉斯' Falchion 
-ITEM_20150317_000090	This weapon gives you the opportunity to experience the quality of the Falchion. 
+ITEM_20150317_000089	阿拉斯彎刀 
+ITEM_20150317_000090	這把武器會讓你曉得何謂真正的彎刀. 
 ITEM_20150317_000091	鐵匠之劍(Smith) 
 ITEM_20150317_000092	2%機率造成額外的600%傷害. 
 ITEM_20150317_000093	這把劍偶爾閃耀著創造者的工藝. 
 ITEM_20150317_000094	克萊維斯單手劍 
 ITEM_20150317_000095	拋開它的質量,它賣得相當好. 
 ITEM_20150317_000096	迪奧單手劍
-ITEM_20150317_000097	多重 Sword 
-ITEM_20150317_000098	賽絲托 Sword 
-ITEM_20150317_000099	Drat Sword 
-ITEM_20150317_000100	亞斯頓 Sword 
-ITEM_20150317_000101	Devi Sword 
-ITEM_20150317_000102	Prima Sword 
-ITEM_20150317_000103	三體劍(Trinity) 
+ITEM_20150317_000097	多重 長劍 
+ITEM_20150317_000098	賽絲托 長劍 
+ITEM_20150317_000099	Dratt 長劍 
+ITEM_20150317_000100	亞斯頓 長劍 
+ITEM_20150317_000101	Devi 長劍 
+ITEM_20150317_000102	Prima 長劍 
+ITEM_20150317_000103	聖三一長劍 
 ITEM_20150317_000104	如果你不滿意你的劍，這把劍是一種選擇。然後你必須忍受它昂貴的價格. 
 ITEM_20150317_000105	杜蘭達爾(Durandal) 
 ITEM_20150317_000106	許多冒險者將這個名字刻在他們的愛劍上.這個名字是被女神選中的遠古戰士使用劍的名字. 
@@ -110,7 +110,7 @@ ITEM_20150317_000109	福爾蒂斯(Fortis)
 ITEM_20150317_000110	相對於巨型植物災變時的低迷，復甦的強筋裝甲怪物證明了這把刀的價值. 
 ITEM_20150317_000111	斬靈刀(Chapparition C) 
 ITEM_20150317_000112	根據原理,這把刀用來對惡魔的戰鬥. 
-ITEM_20150317_000113	死亡編織之刃 
+ITEM_20150317_000113	死亡編織者 
 ITEM_20150317_000114	揮舞此劍，即為死神. 
 ITEM_20150317_000115	斬靈劍(Chapparition S) 
 ITEM_20150317_000116	這把劍印證了惡魔的內鬥. 
@@ -121,7 +121,7 @@ ITEM_20150317_000120	大多數劍客忽略了這把劍對生命和財產的嚴�
 ITEM_20150317_000121	將刪除 
 ITEM_20150317_000122	雙手劍[斬擊] 
 ITEM_20150317_000123	笨重的變種劍 
-ITEM_20150317_000124	部分大師工匠和劍客為證明自己稱之為"混合式雙手劍". 
+ITEM_20150317_000124	部分大師工匠和劍客為證明自己稱之為"混種雙手劍". 
 ITEM_20150317_000125	焰形巨劍 
 ITEM_20150317_000126	在雙手劍大師的手中手裡,波狀劍刃將會造成巨大殺傷. 
 ITEM_20150317_000127	野太刀 
@@ -132,7 +132,7 @@ ITEM_20150317_000131	巨劍
 ITEM_20150317_000132	特定的刀刃形狀適應多種劍術而且砍殺威力巨大. 
 ITEM_20150317_000133	石中劍 
 ITEM_20150317_000134	通常由高階戰士攜帶. 
-ITEM_20150317_000135	誇達剌(Quaddara) 
+ITEM_20150317_000135	高加索直劍 
 ITEM_20150317_000136	與它的外表相反,追求實用性的劍客經常使用這把雙刃劍. 
 ITEM_20150317_000137	輕型重劍 
 ITEM_20150317_000138	這把劍的結構可以讓使用者有效地進行刺擊. 
@@ -145,7 +145,7 @@ ITEM_20150317_000144	重型焰形巨劍
 ITEM_20150317_000145	重型野太刀 
 ITEM_20150317_000146	重型雙刃闊劍 
 ITEM_20150317_000147	笨重的野太刀 
-ITEM_20150317_000148	笨重的誇達剌(Quaddara) 
+ITEM_20150317_000148	笨重的高加索直劍 
 ITEM_20150317_000149	笨重的焰形巨劍 
 ITEM_20150317_000150	笨重的雙手闊劍 
 ITEM_20150317_000151	大劍 
@@ -174,7 +174,7 @@ ITEM_20150317_000173	人們喜歡鍛造這把劍為自己使用.
 ITEM_20150317_000174	軸心雙手劍 
 ITEM_20150317_000175	如果你通過黑市拿到這把劍，那麼你已經累積一定程度的信任了. 
 ITEM_20150317_000176	普利布蘭達巨劍 
-ITEM_20150317_000177	This sword shares the same inventor with the 'Primaluce' sword. 
+ITEM_20150317_000177	與普萊姆絲巨劍為同一生產者. 
 ITEM_20150317_000178	青金石德式鬥劍 
 ITEM_20150317_000179	德式鬥劍加強的歷史不到100年,所以這把武器與Ruklyss無關. 
 ITEM_20150317_000180	鐵匠雙手劍 
@@ -204,9 +204,9 @@ ITEM_20150317_000203	時而巨象,時而縹緲.
 ITEM_20150317_000204	紐萊斯 
 ITEM_20150317_000205	對抗夜間的怪異生物有奇效. 
 ITEM_20150317_000206	重力(Gravity) 
-ITEM_20150317_000207	無論你是誰或你在哪，都沒有人可以避免重力.但要是有人適應了它,那麼再也沒人可以低估它的力量. 
-ITEM_20150317_000208	粗糙的短棒 
-ITEM_20150317_000209	魔杖 [打擊] 
+ITEM_20150317_000207	無論何時何地，都沒人可以掙脫重力的束縛，但要是有人適應了它,那麼再也沒人可以低估它的力量. 
+ITEM_20150317_000208	粗糙的魔棒 
+ITEM_20150317_000209	魔棒 [打擊] 
 ITEM_20150317_000210	給遲早要規劃學習魔法的人. 
 ITEM_20150317_000211	短魔杖 
 ITEM_20150317_000212	當年輕的魔法學徒畢業時贈予的武器. 
@@ -228,14 +228,14 @@ ITEM_20150317_000227	水晶棒
 ITEM_20150317_000228	珍貴的寶石和魔杖完美結合. 
 ITEM_20150317_000229	粗糙的錫棒 
 ITEM_20150317_000230	粗糙的梟棒 
-ITEM_20150317_000231	軍用短棒 
+ITEM_20150317_000231	軍用魔棒 
 ITEM_20150317_000232	這把魔杖是為軍中法師們準備的.雖然在聖樹之日中遺失了配方,但是存貨依然充足. 
 ITEM_20150317_000233	酋長的魔杖 
 ITEM_20150317_000234	這把魔杖款式曾流行過.雖然是老舊的款式,但依舊優雅得體. 
 ITEM_20150317_000235	粗糙的漫遊手杖 
 ITEM_20150317_000236	戰鬥魔杖 
 ITEM_20150317_000237	除了為施法打造,它也被設計了物理打擊能力. 
-ITEM_20150317_000238	重型短棒 
+ITEM_20150317_000238	重型魔棒 
 ITEM_20150317_000239	長棒 
 ITEM_20150317_000240	重型長棒 
 ITEM_20150317_000241	漫遊手杖 
@@ -485,7 +485,7 @@ ITEM_20150317_000484	伊巴釐緹(Isbality)
 ITEM_20150317_000485	Lydia Schaffen是歷史上最偉大的弓手, 一生都在用它追殺惡魔. 因Schaffenstar未公開圖紙使這把弓很難獲得. 
 ITEM_20150317_000486	逝(Morto) 
 ITEM_20150317_000487	當Evoniphon被菲奧娜 伊娃追捕時扔掉了這把武器,這把武器才被大眾所知 . 然而許多隻依靠這把武器的愚蠢獵人最終成了祭奠品. 
-ITEM_20150317_000488	Empty_weapon_錘 
+ITEM_20150317_000488	Empty_weapon_硬頭槌 
 ITEM_20150317_000489	粗糙的木錘 
 ITEM_20150317_000490	單手鈍器 [打擊] 
 ITEM_20150317_000491	易用的簡易武器. 
@@ -519,13 +519,13 @@ ITEM_20150317_000518	初衷是把多個鈍器打造成一把重武器.
 ITEM_20150317_000519	重型的 木錘 
 ITEM_20150317_000520	鐵錘 
 ITEM_20150317_000521	重型的 鐵錘 
-ITEM_20150317_000522	錘 
+ITEM_20150317_000522	硬頭錘 
 ITEM_20150317_000523	重型的 晨星 
 ITEM_20150317_000524	重型的 大錘 
 ITEM_20150317_000525	重型的 流星錘 
 ITEM_20150317_000526	笨重的 小錘 
 ITEM_20150317_000527	笨重的 戰鬥之錘 
-ITEM_20150317_000528	笨重的 大錘 
+ITEM_20150317_000528	笨重的 硬頭槌 
 ITEM_20150317_000529	笨重的 晨星 
 ITEM_20150317_000530	笨重的 流星錘 
 ITEM_20150317_000531	戰鬥之錘 
@@ -657,7 +657,7 @@ ITEM_20150317_000656	有記載說Mayburn去世界探險之前,在大教堂就用
 ITEM_20150317_000657	熾天覆地之盾(Aias) 
 ITEM_20150317_000658	傳說Ruklyss從惡魔之王手中奪到圖紙後,自己鍛造並使用著它. 
 ITEM_20150317_000659	皇家盾 
-ITEM_20150317_000660	戰鬥中協助你的裝備. 右鍵點擊裝備. 
+ITEM_20150317_000660	戰鬥中協助你的裝備. {nl}右鍵點擊裝備. 
 ITEM_20150317_000661	帝王之盾 
 ITEM_20150317_000662	實驗盾 
 ITEM_20150317_000663	抗高溫型 傭兵盾牌(Jigglebone) 
@@ -764,7 +764,7 @@ ITEM_20150317_000763	女神長矛(Devi)
 ITEM_20150317_000764	初級長矛 
 ITEM_20150317_000765	崔希亞(Traxia) 
 ITEM_20150317_000766	這把武器最初不是針對人類天敵的. 
-ITEM_20150317_000767	女王荊棘之刺(Biteregina 尖刺s) 
+ITEM_20150317_000767	女王荊棘之刺(Biteregina Thorns) 
 ITEM_20150317_000768	'面對強勁對手如女王一樣的尊貴, 靈活, 勇敢,' 是持有者對這把武器的讚揚. 
 ITEM_20150317_000769	萊德卡(Lydeka) 
 ITEM_20150317_000770	儘管Ruklyss的名稱有問題,但沒人否認他是一名偉大的戰士. 這把矛是他內戰期間私人訂制的偉大武器. 
@@ -938,13 +938,13 @@ ITEM_20150317_000937	皮甲 褲子
 ITEM_20150317_000938	Although heavy, these provide 刺擊ility to your lower body. 
 ITEM_20150317_000939	皮甲 護甲 
 ITEM_20150317_000940	Easy to decorate or imbue with elemental magics. 
-ITEM_20150317_000941	Hard 皮甲 手套 
+ITEM_20150317_000941	硬質 皮甲 手套 
 ITEM_20150317_000942	You will need ingredients from monsters if you want to make a harder leather for your equipment. 
-ITEM_20150317_000943	Hard 皮甲 靴子 
+ITEM_20150317_000943	硬質 皮甲 靴子 
 ITEM_20150317_000944	The stiffness of these boots can harm the wearer's feet. 
-ITEM_20150317_000945	Hard 皮甲 褲子 
+ITEM_20150317_000945	硬質 皮甲 褲子 
 ITEM_20150317_000946	These give firm support to your body. 
-ITEM_20150317_000947	Hard 皮甲 護甲 
+ITEM_20150317_000947	硬質 皮甲 護甲 
 ITEM_20150317_000948	Never loses its toughness thanks to the ingredients used in this armor. 
 ITEM_20150317_000949	鎖鏈 手套 
 ITEM_20150317_000950	The good thing about a stronger base material is that it offers a lot of  room for improvement. 
@@ -1028,14 +1028,14 @@ ITEM_20150317_001027	破碎的褲子
 ITEM_20150317_001028	雖說一般感覺穿上這條褲子會增強體力是錯覺，然而這的確是事實. 
 ITEM_20150317_001029	破碎的胸甲
 ITEM_20150317_001030	不要在戰鬥中脫下這胸甲，你的人生並不是只有外形. 
-ITEM_20150317_001031	Minor 手套 
-ITEM_20150317_001032	Minor 靴子 
-ITEM_20150317_001033	Minor 褲子 
-ITEM_20150317_001034	Minor 護甲 
-ITEM_20150317_001035	粗製 Hard 皮甲 手套 
-ITEM_20150317_001036	粗製 Hard 皮甲 靴子 
-ITEM_20150317_001037	粗製 Hard 皮甲 褲子 
-ITEM_20150317_001038	粗製 Hard 皮甲 護甲 
+ITEM_20150317_001031	礦工的 手套 
+ITEM_20150317_001032	礦工的 靴子 
+ITEM_20150317_001033	礦工的 褲子 
+ITEM_20150317_001034	礦工的 護甲 
+ITEM_20150317_001035	粗製 硬質 皮甲 手套 
+ITEM_20150317_001036	粗製 硬質 皮甲 靴子 
+ITEM_20150317_001037	粗製 硬質 皮甲 褲子 
+ITEM_20150317_001038	粗製 硬質 皮甲 護甲 
 ITEM_20150317_001039	粗製 鎖鏈 手套 
 ITEM_20150317_001040	粗製 鎖鏈 靴子 
 ITEM_20150317_001041	粗製 鎖鏈 褲子 
@@ -1044,20 +1044,20 @@ ITEM_20150317_001043	粗製 鋼鐵 手套
 ITEM_20150317_001044	粗製 鋼鐵 靴子 
 ITEM_20150317_001045	粗製 鋼鐵 褲子 
 ITEM_20150317_001046	粗製 鋼鐵 鎖子甲 
-ITEM_20150317_001047	重裝 手套 
-ITEM_20150317_001048	Frequently used by those who want agile and precise maneuverability. 
-ITEM_20150317_001049	重裝 靴子 
-ITEM_20150317_001050	Once you put these on, you can tell that they're a lot quieter than they look. 
-ITEM_20150317_001051	重裝 褲子 
-ITEM_20150317_001052	Easy to enhance and, if you know how to, can be utilized in many ways. 
-ITEM_20150317_001053	重裝 護甲 
-ITEM_20150317_001054	Minivern's high defense becomes a great gift for crafters after it dies, like in this armor. 
+ITEM_20150317_001047	鎖子甲手套 
+ITEM_20150317_001048	那些追求靈巧及精確度的人們經常使用. 
+ITEM_20150317_001049	鎖子甲靴子 
+ITEM_20150317_001050	穿上你會發現它比你想像的還安靜. 
+ITEM_20150317_001051	鎖子甲褲子 
+ITEM_20150317_001052	如果你會使用，它可以輕易地強化你的防禦. 
+ITEM_20150317_001053	鎖子甲護甲 
+ITEM_20150317_001054	Minivern'的高防禦乃是偉大工匠的遺作. 
 ITEM_20150317_001055	鎧甲 護手 
-ITEM_20150317_001056	It is the best equipment from those made with traditional crafting methods. 
+ITEM_20150317_001056	遵循傳統手藝做出的優良品. 
 ITEM_20150317_001057	鎧甲 護脛 
-ITEM_20150317_001058	With the recent discovery of a method to fuse 骨頭 and metal together, the quality of ordinary 鎧甲 護脛 have improved. 
+ITEM_20150317_001058	利用最近發現的骨及金屬的合成製法，大幅度強化了鎧甲的質量. 
 ITEM_20150317_001059	鎧甲 底褲 
-ITEM_20150317_001060	The crafting method for this equipment is not novel. The gathering of the materials for it, however, is very difficult. 
+ITEM_20150317_001060	製法不難，但材料的收集可說是難如登天. 
 ITEM_20150317_001061	鎧甲 護甲 
 ITEM_20150317_001062	Standard armor given to the Royal Guard prior to the Great Plant Cataclysm. 
 ITEM_20150317_001063	Heavy 夾棉 褲子 
@@ -1067,7 +1067,7 @@ ITEM_20150317_001066	瓦布 護甲
 ITEM_20150317_001067	Panto 褲子 
 ITEM_20150317_001068	Panto 護甲 
 ITEM_20150317_001069	寺僧 手套 
-ITEM_20150317_001070	Although not as sturdy as armor, they are light and comfortable. 
+ITEM_20150317_001070	{memo X}算不上堅固的盔甲，但穿起來輕便舒適. 
 ITEM_20150317_001071	寺僧 靴子 
 ITEM_20150317_001072	寺僧 褲子 
 ITEM_20150317_001073	寺僧 長袍 
@@ -1075,22 +1075,22 @@ ITEM_20150317_001074	鋼鐵 鎖鏈 手套
 ITEM_20150317_001075	鋼鐵 鎖鏈 靴子 
 ITEM_20150317_001076	鋼鐵 鎖鏈 褲子 
 ITEM_20150317_001077	鋼鐵 鎖甲 
-ITEM_20150317_001078	Enhanced 皮甲 護甲 
+ITEM_20150317_001078	強化 皮甲 護甲 
 ITEM_20150317_001079	鄧克爾 夾棉 手套 
 ITEM_20150317_001080	鄧克爾 夾棉 靴子 
 ITEM_20150317_001081	鄧克爾 夾棉 褲子 
 ITEM_20150317_001082	鄧克爾 夾棉 護甲 
 ITEM_20150317_001083	鄧克爾 棉手套 
-ITEM_20150317_001084	Spellcasters' favorite equipment. 
+ITEM_20150317_001084	法師們最愛的裝備之一. 
 ITEM_20150317_001085	鄧克爾 棉靴 
 ITEM_20150317_001086	鄧克爾 棉褲
-ITEM_20150317_001087	They are believed to provide exceptional magic defense. 
+ITEM_20150317_001087	被認為有效防禦魔法攻擊. 
 ITEM_20150317_001088	鄧克爾 棉質長袍 
-ITEM_20150317_001089	People still choose this 長袍 for its magic defense. 
-ITEM_20150317_001090	鄧克爾 Hard 皮甲 手套 
-ITEM_20150317_001091	鄧克爾 Hard 皮甲 靴子 
-ITEM_20150317_001092	鄧克爾 Hard 皮甲 褲子 
-ITEM_20150317_001093	鄧克爾 Hard 皮甲 護甲 
+ITEM_20150317_001089	說到防禦魔法攻擊，果然還是非它莫屬. 
+ITEM_20150317_001090	鄧克爾 硬質 皮甲 手套 
+ITEM_20150317_001091	鄧克爾 硬質 皮甲 靴子 
+ITEM_20150317_001092	鄧克爾 硬質 皮甲 褲子 
+ITEM_20150317_001093	鄧克爾 硬質 皮甲 護甲 
 ITEM_20150317_001094	鄧克爾 環狀 手套 
 ITEM_20150317_001095	鄧克爾 環狀 靴子 
 ITEM_20150317_001096	鄧克爾 環狀 褲子 
@@ -1099,7 +1099,7 @@ ITEM_20150317_001098	環狀 手套
 ITEM_20150317_001099	環狀 靴子 
 ITEM_20150317_001100	環狀 褲子 
 ITEM_20150317_001101	環狀 鎖子甲 
-ITEM_20150317_001102	Finger 
+ITEM_20150317_001102	手指(標記) 
 ITEM_20150317_001103	Kabra 靴子 
 ITEM_20150317_001104	Crimson 皮甲 護甲 
 ITEM_20150317_001105	波酷巴 護甲 
@@ -1139,7 +1139,7 @@ ITEM_20150317_001138	銀製 鎧甲 護手
 ITEM_20150317_001139	銀製 鎧甲 護脛 
 ITEM_20150317_001140	銀製 鎧甲 底褲 
 ITEM_20150317_001141	銀製 鎧甲 護甲 
-ITEM_20150317_001142	Wild 皮甲 手套 
+ITEM_20150317_001142	野性皮製手套 
 ITEM_20150317_001143	Heavy 靴子 
 ITEM_20150317_001144	Capria 手套 
 ITEM_20150317_001145	追隨者 皮甲
@@ -1163,7 +1163,7 @@ ITEM_20150317_001162	Please do not intentionally take hits to test the magic def
 ITEM_20150317_001163	Cafrisun 護甲 
 ITEM_20150317_001164	Though the ingredients are unknown, this armor is quite useful. 
 ITEM_20150317_001165	迪奧 手套 
-ITEM_20150317_001166	迪奧 Sandals 
+ITEM_20150317_001166	迪奧 涼鞋 
 ITEM_20150317_001167	迪奧 褲子 
 ITEM_20150317_001168	迪奧 長袍 
 ITEM_20150317_001169	迪奧 皮甲 手套 
@@ -1175,7 +1175,7 @@ ITEM_20150317_001174	迪奧 鎖鏈 靴子
 ITEM_20150317_001175	迪奧 鎖鏈 褲子 
 ITEM_20150317_001176	迪奧 鎖甲 
 ITEM_20150317_001177	多重 手套 
-ITEM_20150317_001178	多重 Sandals 
+ITEM_20150317_001178	多重 涼鞋 
 ITEM_20150317_001179	多重 褲子 
 ITEM_20150317_001180	多重 長袍 
 ITEM_20150317_001181	多重 皮甲 手套 
@@ -1187,7 +1187,7 @@ ITEM_20150317_001186	多重 鎖鏈 靴子
 ITEM_20150317_001187	多重 鎖鏈 褲子 
 ITEM_20150317_001188	多重 鎖甲 
 ITEM_20150317_001189	賽絲托 手套 
-ITEM_20150317_001190	賽絲托 Sandals 
+ITEM_20150317_001190	賽絲托 涼鞋 
 ITEM_20150317_001191	賽絲托 褲子 
 ITEM_20150317_001192	賽絲托 護脛 
 ITEM_20150317_001193	賽絲托 皮甲 手套 
@@ -1198,20 +1198,20 @@ ITEM_20150317_001197	賽絲托 鎖鏈 手套
 ITEM_20150317_001198	賽絲托 鎖鏈 靴子 
 ITEM_20150317_001199	賽絲托 鎖鏈 褲子 
 ITEM_20150317_001200	賽絲托 鎖甲 
-ITEM_20150317_001201	Drat 手套 
-ITEM_20150317_001202	Drat Sandals 
-ITEM_20150317_001203	Drat 褲子 
-ITEM_20150317_001204	Drat 長袍 
-ITEM_20150317_001205	Drat 皮甲 手套 
-ITEM_20150317_001206	Drat 皮甲 靴子 
-ITEM_20150317_001207	Drat 皮甲 褲子 
-ITEM_20150317_001208	Drat 皮甲 護甲 
-ITEM_20150317_001209	Drat 護手 
-ITEM_20150317_001210	Drat 護脛 
-ITEM_20150317_001211	Drat 鎧甲 底褲 
-ITEM_20150317_001212	Drat 鎧甲 護甲 
+ITEM_20150317_001201	Dratt 手套 
+ITEM_20150317_001202	Dratt 涼鞋 
+ITEM_20150317_001203	Dratt 褲子 
+ITEM_20150317_001204	Dratt 長袍 
+ITEM_20150317_001205	Dratt 皮甲 手套 
+ITEM_20150317_001206	Dratt 皮甲 靴子 
+ITEM_20150317_001207	Dratt 皮甲 褲子 
+ITEM_20150317_001208	Dratt 皮甲 護甲 
+ITEM_20150317_001209	Dratt 護手 
+ITEM_20150317_001210	Dratt 護脛 
+ITEM_20150317_001211	Dratt 鎧甲 底褲 
+ITEM_20150317_001212	Dratt 鎧甲 護甲 
 ITEM_20150317_001213	亞斯頓 手套 
-ITEM_20150317_001214	亞斯頓 Sandals 
+ITEM_20150317_001214	亞斯頓 涼鞋 
 ITEM_20150317_001215	亞斯頓 褲子 
 ITEM_20150317_001216	亞斯頓 長袍 
 ITEM_20150317_001217	亞斯頓 皮甲 手套 
@@ -1223,7 +1223,7 @@ ITEM_20150317_001222	亞斯頓 護脛
 ITEM_20150317_001223	亞斯頓 鎧甲 底褲 
 ITEM_20150317_001224	亞斯頓 鎧甲 護甲 
 ITEM_20150317_001225	Devi 手套 
-ITEM_20150317_001226	Devi Sandals 
+ITEM_20150317_001226	Devi 涼鞋 
 ITEM_20150317_001227	Devi 褲子 
 ITEM_20150317_001228	Devi 護脛 
 ITEM_20150317_001229	Devi 皮甲 手套 
@@ -1235,7 +1235,7 @@ ITEM_20150317_001234	Devi 護脛
 ITEM_20150317_001235	Devi 鎧甲 底褲 
 ITEM_20150317_001236	Devi 鎧甲 護甲 
 ITEM_20150317_001237	Prima 手套 
-ITEM_20150317_001238	Prima Sandals 
+ITEM_20150317_001238	Prima 涼鞋 
 ITEM_20150317_001239	Prima 褲子 
 ITEM_20150317_001240	Prima 護脛 
 ITEM_20150317_001241	Prima 皮甲 手套 
@@ -1273,20 +1273,20 @@ ITEM_20150317_001272	骨頭 護手
 ITEM_20150317_001273	骨頭 護脛 
 ITEM_20150317_001274	骨頭 短裙 
 ITEM_20150317_001275	骨頭 護甲 
-ITEM_20150317_001276	Shade 手甲 
-ITEM_20150317_001277	Shade Runner 
-ITEM_20150317_001278	Shade 短裙 
-ITEM_20150317_001279	Shade Dancer 
+ITEM_20150317_001276	暗影 手甲 
+ITEM_20150317_001277	暗影 跑者 
+ITEM_20150317_001278	暗影 短裙 
+ITEM_20150317_001279	暗影 舞者 
 ITEM_20150317_001280	羅戈斯 皮甲 護甲 
 ITEM_20150317_001281	羅戈斯 盔甲
 ITEM_20150317_001282	羅戈斯 長袍 
 ITEM_20150317_001283	風行者 
-ITEM_20150317_001284	澤凱瑞爾's Heart 
+ITEM_20150317_001284	澤凱瑞爾之心
 ITEM_20150317_001285	Hydra 束褲 
-ITEM_20150317_001286	Banshee Veil 
+ITEM_20150317_001286	Banshee 面紗 
 ITEM_20150317_001287	Top [Ghost] 
 ITEM_20150317_001288	Empty_Neck 
-ITEM_20150317_001289	右鍵 to equip this item. 
+ITEM_20150317_001289	右鍵裝備此道具. 
 ITEM_20150317_001290	HP 項鏈 
 ITEM_20150317_001291	項鏈 
 ITEM_20150317_001292	SP 項鏈 
@@ -1294,38 +1294,38 @@ ITEM_20150317_001293	STA 項鏈
 ITEM_20150317_001294	Panto 項鏈 
 ITEM_20150317_001295	骨頭 項鏈 
 ITEM_20150317_001296	Hogma 皮甲 項鏈 
-ITEM_20150317_001297	Strange Charm 
-ITEM_20150317_001298	Defense 項鏈 
+ITEM_20150317_001297	奇異魅力
+ITEM_20150317_001298	防禦 項鏈 
 ITEM_20150317_001299	新手項鏈
-ITEM_20150317_001300	The fact that such equipment is so affordable is a blessing for beginners. 
+ITEM_20150317_001300	此裝備對新手來說可是一大福音. 
 ITEM_20150317_001301	瓦布 護身符 
-ITEM_20150317_001302	This talisman is the reason why attacks sometimes have no effect on 瓦布. 
+ITEM_20150317_001302	這條項鍊就是為什麼有時候攻擊瓦布時沒有影響. 
 ITEM_20150317_001303	卓柏卡布拉 項鏈 
-ITEM_20150317_001304	Rumor says that the teeth of 卓柏卡布拉 whisper to each other while chattering. Regardless, they definitely contain some magic power. 
-ITEM_20150317_001305	Wooden 項鏈 
-ITEM_20150317_001306	It's not recommended to take this off while you're carrying something. 
-ITEM_20150317_001307	Iron 項鏈 
-ITEM_20150317_001308	You might feel like you became lighter, but in reality you will not have become any thinner. 
+ITEM_20150317_001304	傳聞中，卓柏卡布拉的牙會互相耳語且喋喋不休，總之他肯定有些神秘的力量. 
+ITEM_20150317_001305	木質 項鏈 
+ITEM_20150317_001306	不是很推薦你穿戴它. 
+ITEM_20150317_001307	鐵質 項鏈 
+ITEM_20150317_001308	如果你覺得變輕了，那肯定是你的心理作用. 
 ITEM_20150317_001309	鋼鐵 項鏈 
-ITEM_20150317_001310	In battle, a small factor may make the difference between life and death. You certainly won't regret wearing this necklace. 
+ITEM_20150317_001310	生死交關之際，你肯定會感謝它為你帶來的防禦. 
 ITEM_20150317_001311	護身符 
-ITEM_20150317_001312	Sadly it won't help you much when studying. 
+ITEM_20150317_001312	遺憾的是它不會在你學習的時候幫上忙. 
 ITEM_20150317_001313	克萊佩達 鎖鏈 
-ITEM_20150317_001314	This necklace brings out the power of the wearer's soul. 
+ITEM_20150317_001314	這條項鍊會導引出配戴者的靈魂之力. 
 ITEM_20150317_001315	Might 佩帝米安 鎖鏈 
-ITEM_20150317_001316	Handicrafts from 佩帝米安 have had a strong reputation for hundreds of years. You can feel the difference when you compare them to non-佩帝米安 items. 
+ITEM_20150317_001316	佩帝米安的工藝品有百年的良好風評，你甚至可以感覺出你現在所裝備的是否為佩帝米安製作. 
 ITEM_20150317_001317	Dex 佩帝米安 鎖鏈 
 ITEM_20150317_001318	Health 佩帝米安 鎖鏈 
 ITEM_20150317_001319	Intel 佩帝米安 鎖鏈 
 ITEM_20150317_001320	Mind 佩帝米安 鎖鏈 
 ITEM_20150317_001321	Ukopus 項鏈 
-ITEM_20150317_001322	Increases the magic power of the wearer. 
+ITEM_20150317_001322	強化配戴者的魔力. 
 ITEM_20150317_001323	瓦布 項鏈 
-ITEM_20150317_001324	Magic Pendant 
-ITEM_20150317_001325	Ivory Pendant 
-ITEM_20150317_001326	Rune Pendant 
+ITEM_20150317_001324	魔力 綴飾 
+ITEM_20150317_001325	象牙 綴飾 
+ITEM_20150317_001326	符文 綴飾 
 ITEM_20150317_001327	銀質 護身符 
-ITEM_20150317_001328	項鏈 bestowed with the blessings of the Cathedral. 
+ITEM_20150317_001328	賦予了大教堂祝福的戀. 
 ITEM_20150317_001329	項鏈 of Sloth 
 ITEM_20150317_001330	項鏈 of Fury 
 ITEM_20150317_001331	項鏈 of Deceit 
@@ -1333,13 +1333,13 @@ ITEM_20150317_001332	String 項鏈
 ITEM_20150317_001333	According to legend; after learning its secret 圖紙, Lydia Schaffen used to wear this necklace to polish her skills during her initial period as a poor apprentice. 
 ITEM_20150317_001334	Panto 護身符 
 ITEM_20150317_001335	It is said that a human wizard gave the 圖紙 for this necklace to the Pantos a long time ago as a gift when the Pantos and humankind were not hostile to one another. 
-ITEM_20150317_001336	Pyrlight Pendant 
+ITEM_20150317_001336	Pyrlight 綴飾 
 ITEM_20150317_001337	Used to be awarded by the 烈焰術士 Master to beginners. This tradition ceased after the Goddesses disappeared. 
-ITEM_20150317_001338	Cryolight Pendant 
+ITEM_20150317_001338	Cryolight 綴飾 
 ITEM_20150317_001339	Since their assumption of office prior to the Great Plant Cataclysm, the 寒冰術士 Master has stopped the tradition of awarding this pendant to people. Now this pendant must be either obtained or crafted by the users themselves. 
 ITEM_20150317_001340	魔法護身符 
 ITEM_20150317_001341	Fusing two magic objects becomes easy once you find the catalyst. Humans, however, are not the only race who can discover such catalyst. 
-ITEM_20150317_001342	Strength Pendant 
+ITEM_20150317_001342	Strength 綴飾 
 ITEM_20150317_001343	Many new magic items that use the power of monsters have been invented since the Great Plant Cataclysm. 
 ITEM_20150317_001344	Pyluma 鎖鏈 
 ITEM_20150317_001345	The 烈焰術士 Master is unrelated to the creation of this item. 
@@ -1351,7 +1351,7 @@ ITEM_20150317_001350	Lightna 鎖鏈
 ITEM_20150317_001351	According to a legend, Agailla Flurry prepared several dozen copies of this item and fought the Demon King until all of them were destroyed. 
 ITEM_20150317_001352	長生石
 ITEM_20150317_001353	An item crafted by combining and condensing everything known to be good for one's health through magic. 
-ITEM_20150317_001354	Warrior Pendant 
+ITEM_20150317_001354	Warrior 綴飾 
 ITEM_20150317_001355	The 圖紙 for this item has been around for many years in the kingdom, but a theory suggests its origin to be the hometown of the 野蠻人 Master. There is speculation that its crafting method in the two areas are different. 
 ITEM_20150317_001356	Cyclops Eye 
 ITEM_20150317_001357	The darkness of the demon world seen by this eye has turned, and now it serves to protect you. 
@@ -1800,17 +1800,17 @@ ITEM_20150317_001799	SP Recovery 藥劑 (Small)
 ITEM_20150317_001800	HP +5 Increase 藥劑 
 ITEM_20150317_001801	HP +10 Increase 藥劑 
 ITEM_20150317_001802	移動速度提升 藥劑 
-ITEM_20150317_001803	提升移動速度 5 for 180 秒. 右鍵點擊使用. 冷卻 30 秒. 
+ITEM_20150317_001803	提升移動速度 5 for 180 秒.{nl}右鍵點擊使用. 冷卻 30 秒. 
 ITEM_20150317_001804	傳送卷軸
 ITEM_20150317_001805	允許你傳送到任意女神鵰像處，你的當前位置將被保存到女神神像
 ITEM_20150317_001806	寵物食品
 ITEM_20150317_001807	Restores Velhider's STA by 30. 
 ITEM_20150317_001808	牛蒡 
-ITEM_20150317_001809	恢復 32~35 SP. 右鍵點擊使用. 
+ITEM_20150317_001809	恢復 32~35 SP. {nl}右鍵點擊使用. 
 ITEM_20150317_001810	纈草 
 ITEM_20150317_001811	一種可以用作藥草的花. 
 ITEM_20150317_001812	百里香 
-ITEM_20150317_001813	一種紫色的花，有再生的效果，需要煮. 回覆 8 STA.  右鍵點擊使用. 
+ITEM_20150317_001813	一種紫色的花，有再生的效果，需要煮. 回覆 8 STA.{nl}右鍵點擊使用. 
 ITEM_20150317_001814	梣樹 
 ITEM_20150317_001815	一種在陽光充足的地方生長的藥草. 
 ITEM_20150317_001816	槲寄生 
@@ -1832,7 +1832,7 @@ ITEM_20150317_001831	帶有甜味的粘稠液體.
 ITEM_20150317_001832	花生醬
 ITEM_20150317_001833	橡子
 ITEM_20150317_001834	松露
-ITEM_20150317_001835	恢復 350~400 SP. 一種美食鑒定家公認的著名美食. 右鍵點擊使用. 
+ITEM_20150317_001835	恢復 350~400 SP. 一種美食鑒定家公認的著名美食.{nl}右鍵點擊使用. 
 ITEM_20150317_001836	Flower Bun 
 ITEM_20150317_001837	松茸
 ITEM_20150317_001838	牛黃
@@ -1850,7 +1850,7 @@ ITEM_20150317_001849	智慧果實
 ITEM_20150317_001850	檸檬 
 ITEM_20150317_001851	Aggro 藥劑 
 ITEM_20150317_001852	Lv120 克萊佩達 Parish's Request 
-ITEM_20150317_001853	A scroll that will open a mission portal. 右鍵點擊使用. 
+ITEM_20150317_001853	A scroll that will open a mission portal.{nl}右鍵點擊使用. 
 ITEM_20150317_001854	Crystal Mine Mission Warp Stone 
 ITEM_20150317_001855	Lv140 Keepers' Request 
 ITEM_20150317_001856	Lv160 聖騎士 Followers' Request 
@@ -1867,11 +1867,11 @@ ITEM_20150317_001866	祭司施放魔法咒語時所消耗的白色粉末. 據說
 ITEM_20150317_001867	Catacombs Mission Warp Stone 
 ITEM_20150317_001868	大蒜 
 ITEM_20150317_001869	波波獅的肉 
-ITEM_20150317_001870	恢復 40~50 HP. 這肉是很容易獲得，並且可以生吃. 右鍵點擊使用. 
+ITEM_20150317_001870	恢復 40~50 HP. 這肉是很容易獲得，並且可以生吃.{nl}右鍵點擊使用. 
 ITEM_20150317_001871	克萊佩達 傳送卷軸
-ITEM_20150317_001872	傳送至克萊佩達. 右鍵點擊使用. 
+ITEM_20150317_001872	傳送至克萊佩達.{nl}右鍵點擊使用. 
 ITEM_20150317_001873	硬幣盒
-ITEM_20150317_001874	包含一個硬幣. 右鍵點擊使用. 
+ITEM_20150317_001874	包含一個硬幣.{nl}右鍵點擊使用. 
 ITEM_20150317_001875	治療[中毒]異常狀態。
 ITEM_20150317_001876	Velhider的食物
 ITEM_20150317_001877	Velhider 最喜歡的食物. 完全恢復你夥伴的 HP 和 體力 30 點. 
@@ -1895,13 +1895,13 @@ ITEM_20150317_001894	增加 12000 EXP. {nl}概率獲得50%額外的EXP. {nl}右�
 ITEM_20150317_001895	LV7 EXP 卡片  
 ITEM_20150317_001896	增加 24000 EXP. {nl}概率獲得50%額外的EXP. {nl}右鍵點擊使用. 
 ITEM_20150317_001897	HP 提升 藥劑 
-ITEM_20150317_001898	永久提升最大HP 30. 右鍵點擊使用. 
+ITEM_20150317_001898	永久提升最大HP 30.{nl}右鍵點擊使用. 
 ITEM_20150317_001899	SP 提升 藥劑 
-ITEM_20150317_001900	永久提升最大SP 20. 右鍵點擊使用. 
+ITEM_20150317_001900	永久提升最大SP 20.{nl}右鍵點擊使用. 
 ITEM_20150317_001901	STA 提升 藥劑 
-ITEM_20150317_001902	永久提升最大STA 5. 右鍵點擊使用. 
+ITEM_20150317_001902	永久提升最大STA 5.{nl}右鍵點擊使用. 
 ITEM_20150317_001903	負重 提升 藥劑 
-ITEM_20150317_001904	永久提升最大負重 100. 右鍵點擊使用. 
+ITEM_20150317_001904	永久提升最大負重 100.{nl}右鍵點擊使用. 
 ITEM_20150317_001905	基礎 小型 HP 藥劑  
 ITEM_20150317_001906	基礎 HP 藥劑 Supply  
 ITEM_20150317_001907	基礎 Large HP 藥劑  
@@ -1916,42 +1916,42 @@ ITEM_20150317_001915	基礎 Recovery 藥劑
 ITEM_20150317_001916	基礎 Large Recovery 藥劑  
 ITEM_20150317_001917	基礎 移動速度 藥劑  
 ITEM_20150317_001918	STR 提升藥劑 
-ITEM_20150317_001919	永久提升STR 1點. 右鍵點擊使用. 
+ITEM_20150317_001919	永久提升STR 1點.{nl}右鍵點擊使用. 
 ITEM_20150317_001920	DEX 提升藥劑 
-ITEM_20150317_001921	永久提升DEX1點. 右鍵點擊使用. 
+ITEM_20150317_001921	永久提升DEX1點.{nl}右鍵點擊使用. 
 ITEM_20150317_001922	HP 提升藥劑 
-ITEM_20150317_001923	Permanently increases Health by 1. 右鍵點擊使用. 
+ITEM_20150317_001923	Permanently increases Health by 1.{nl}右鍵點擊使用. 
 ITEM_20150317_001924	INT 提升藥劑 
-ITEM_20150317_001925	永久提升INT 1. 右鍵點擊使用. 
+ITEM_20150317_001925	永久提升INT 1.{nl}右鍵點擊使用. 
 ITEM_20150317_001926	SPR 提升藥劑 
-ITEM_20150317_001927	永久提升SPR 1. 右鍵點擊使用. 
+ITEM_20150317_001927	永久提升SPR 1.{nl}右鍵點擊使用. 
 ITEM_20150317_001928	素質 提升藥劑 
-ITEM_20150317_001929	提供 1 點素質點. 右鍵點擊使用. 
-ITEM_20150317_001930	永久提升最大負重 50. 右鍵點擊使用. 
+ITEM_20150317_001929	提供 1 點素質點.{nl}右鍵點擊使用. 
+ITEM_20150317_001930	永久提升最大負重 50.{nl}右鍵點擊使用. 
 ITEM_20150317_001931	冷卻時間 藥劑 (CBT 測試用) 
-ITEM_20150317_001932	10 分鐘內所有技能冷卻時間減少50%. 右鍵點擊使用. 冷卻 10 分鐘. 
+ITEM_20150317_001932	10 分鐘內所有技能冷卻時間減少50%. {nl}右鍵點擊使用. 冷卻 10 分鐘. 
 ITEM_20150317_001933	素質重置卷軸 (CBT 測試用) 
 ITEM_20150317_001934	用來重置角色的素質點數. (CBT 測試者專用) 
 ITEM_20150317_001935	LV8 EXP 卡片  
-ITEM_20150317_001936	增加 36000 EXP. 概率獲得50%額外的EXP. 右鍵點擊使用. 
+ITEM_20150317_001936	增加 36000 EXP. 概率獲得50%額外的EXP. {nl}右鍵點擊使用. 
 ITEM_20150317_001937	LV9 EXP 卡片  
-ITEM_20150317_001938	增加 60000 EXP. 概率獲得50%額外的EXP. 右鍵點擊使用. 
+ITEM_20150317_001938	增加 60000 EXP. 概率獲得50%額外的EXP. {nl}右鍵點擊使用. 
 ITEM_20150317_001939	攻擊力提升 +3 
 ITEM_20150317_001940	提升 +3 damage to a weapon. Can be added and used from the quickslot. 
 ITEM_20150317_001941	攻擊力提升 +5 
 ITEM_20150317_001942	提升 +5 damage to a weapon. Can be added and used from the quickslot. 
 ITEM_20150317_001943	攻擊力提升 +14 
 ITEM_20150317_001944	提升 +14 damage to a weapon. Can be added and used from the quickslot. 
-ITEM_20150317_001945	Defense Booster +4 
+ITEM_20150317_001945	防禦 Booster +4 
 ITEM_20150317_001946	Reduces damage taken by 4. Can be added and used from the quickslot. 
-ITEM_20150317_001947	Defense Booster +8 
+ITEM_20150317_001947	防禦 Booster +8 
 ITEM_20150317_001948	Reduces damage taken by 8. Can be added and used from the quickslot. 
 ITEM_20150317_001949	Condensed HP 藥劑 
 ITEM_20150317_001950	Condensed HP 藥劑 
 ITEM_20150317_001951	Potent STA 藥丸 
 ITEM_20150317_001952	冷卻時間 藥劑 
 ITEM_20150317_001953	Monster Specimen Set 
-ITEM_20150317_001954	An old relic found in a well. 右鍵點擊使用. 
+ITEM_20150317_001954	An old relic found in a well.{nl} 右鍵點擊使用. 
 ITEM_20150317_001955	Ore Collection 
 ITEM_20150317_001956	A collection where you can register your items. You can register an item by right-clicking it. 
 ITEM_20150317_001957	Flower Collection 
@@ -2395,7 +2395,7 @@ ITEM_20150317_002394	Seedmia Pollen
 ITEM_20150317_002395	幼龍Epaulet 
 ITEM_20150317_002396	Firent Skin 
 ITEM_20150317_002397	It looks similar to a normal tree. Obtained from Firents. 
-ITEM_20150317_002398	Broken Panto Sword 
+ITEM_20150317_002398	Broken Panto 長劍 
 ITEM_20150317_002399	It might be usable if repaired. Obtained from Panto Fighters. 
 ITEM_20150317_002400	Panto Hoof 
 ITEM_20150317_002401	Panto Shaman 魔杖 Decoration 
@@ -2806,7 +2806,7 @@ ITEM_20150317_002805	將你傳送到其他女神雕像之處。現在的位置�
 ITEM_20150317_002806	思鄉寶珠
 ITEM_20150317_002807	A jewel that instantly teleports you to a saved location. {nl}冷卻: 15 分鐘 
 ITEM_20150317_002808	克萊佩達 傳送石
-ITEM_20150317_002809	一塊可以把你傳送到克萊佩達的石頭. 右鍵點擊使用. 冷卻 : 20 分鐘
+ITEM_20150317_002809	一塊可以把你傳送到克萊佩達的石頭. {nl}右鍵點擊使用. 冷卻 : 20 分鐘
 ITEM_20150317_002810	晶礦解封卷軸 1
 ITEM_20150317_002811	Quest Item 
 ITEM_20150317_002812	晶礦解封卷軸 2 
@@ -2944,8 +2944,8 @@ ITEM_20150317_002943	A stiff, hard piece from the inner side of Phyracon. Materi
 ITEM_20150317_002944	綠幼龍鱗片 
 ITEM_20150317_002945	A smooth scale found below the rougher outer scale of 幼龍. Material requested by the Wizard Master. 
 ITEM_20150317_002946	Scroll made to compare the phenomena in 佩帝米安 and 克萊佩達. 
-ITEM_20150317_002947	Dowsing L-魔杖 
-ITEM_20150317_002948	L-shaped 魔杖 used by miners to dowse or divine underground veins of mineral or other anomalies. 
+ITEM_20150317_002947	Dowsing L-魔棒 
+ITEM_20150317_002948	L-shaped 魔棒 used by miners to dowse or divine underground veins of mineral or other anomalies. 
 ITEM_20150317_002949	You can obtain an object hidden on the 3rd floor. 
 ITEM_20150317_002950	Sickening Lump 
 ITEM_20150317_002951	A lump of something that smells terribly foul. You can see a glimpse of a ring-like object inside. 
@@ -3172,14 +3172,14 @@ ITEM_20150317_003171	Research material stolen by monsters. It seems that monster
 ITEM_20150317_003172	Pino in a Sack 
 ITEM_20150317_003173	Dry Twigs 
 ITEM_20150317_003174	Useful dry twigs for fire. 
-ITEM_20150317_003175	Hard Lime 
-ITEM_20150317_003176	Hard lime be used to make Knockoff Goods.  
+ITEM_20150317_003175	硬質 Lime 
+ITEM_20150317_003176	硬質 lime be used to make Knockoff Goods.  
 ITEM_20150317_003177	Newly-Made Knockoff Goods 
 ITEM_20150317_003178	Decicive evidence of Knockoff Goods. It isn't finished yet. 
 ITEM_20150317_003179	Building Piece 
 ITEM_20150317_003180	Piece of a building with beautiful pattern on it. It seems that the architect put a lot of work into making it. 
 ITEM_20150317_003181	Bag of Graverobbing Tools 
-ITEM_20150317_003182	There are various tools inside, like a dowsing 魔杖 to check for underground tombs. 
+ITEM_20150317_003182	There are various tools inside, like a dowsing 魔棒 to check for underground tombs. 
 ITEM_20150317_003183	Loot Bag 
 ITEM_20150317_003184	The Saugas store their loot in bags. They share their loot equally. 
 ITEM_20150317_003185	Archaeologist Token 
@@ -3208,7 +3208,7 @@ ITEM_20150317_003207	Second Clue of the Great King
 ITEM_20150317_003208	Third Clue of the Great King 
 ITEM_20150317_003209	Fourth Clue of the Great King 
 ITEM_20150317_003210	Fifth Clue of the Great King 
-ITEM_20150317_003211	Chipped Sword 
+ITEM_20150317_003211	Chipped 長劍 
 ITEM_20150317_003212	A sword with a piece missing from it. 
 ITEM_20150317_003213	Corpse Relics 
 ITEM_20150317_003214	These relics might help identify the dead bodies. 
@@ -3576,11 +3576,11 @@ ITEM_20150317_003575	Light Crystal
 ITEM_20150317_003576	A Power Crystal processed and filled with the strength of light. It can release the enchantment that binds the sealed Cathedral doors. 
 ITEM_20150317_003577	Muddy 項鏈 
 ITEM_20150317_003578	Old and muddy necklace dropped by someone long ago. 
-ITEM_20150317_003579	瓦布's Wooden Arrow 
-ITEM_20150317_003580	Wooden arrow used by High 瓦布 Archers. It might be useful for kindling. 
-ITEM_20150317_003581	Ingredient necessary to make the 粗製 Divining 魔杖 used to search for the First Tombstone Fragment. You need to collect a lot of them. 
-ITEM_20150317_003582	粗製 Divining 魔杖 
-ITEM_20150317_003583	A divining 魔杖 used to search for the First Tombstone Fragment which has been hidden somewhere underground. Looks weak enough to be broken by even the slightest amount of force. 
+ITEM_20150317_003579	瓦布's 木質 Arrow 
+ITEM_20150317_003580	木質 arrow used by High 瓦布 Archers. It might be useful for kindling. 
+ITEM_20150317_003581	Ingredient necessary to make the 粗製 Divining 魔棒 used to search for the First Tombstone Fragment. You need to collect a lot of them. 
+ITEM_20150317_003582	粗製 Divining 魔棒 
+ITEM_20150317_003583	A divining 魔棒 used to search for the First Tombstone Fragment which has been hidden somewhere underground. Looks weak enough to be broken by even the slightest amount of force. 
 ITEM_20150317_003584	Dusty Ruin Rubble 
 ITEM_20150317_003585	Rubble that the epigraphist Raymond ordered you to collect with the suspicion that it might contain a part of the Second Tombstone. A Second Tombstone Fragment may or may not be in here... 
 ITEM_20150317_003586	Stumpy Tree Sap 
@@ -3662,7 +3662,7 @@ ITEM_20150317_003661	Monster 的肉 *
 ITEM_20150317_003662	Chunks of Meat that can easily be obtained from Monsters. But humans can not eat it. 
 ITEM_20150317_003663	갈대의 연한 줄기
 ITEM_20150317_003664	큰아귀 길에서 흔하게 볼 수 있는 갈대의 속 줄기. 겉껍질의 질긴 부분을 제거했다고는 해도 그냥 먹기에는 턱없이 거칠다.
-ITEM_20150317_003665	Soft Wooden Periderm 
+ITEM_20150317_003665	Soft 木質 Periderm 
 ITEM_20150317_003666	The inner layer of bark dug out from a tree on the Way of Big Starving Demon. Don't eat too much of it. 
 ITEM_20150317_003667	Small Music Box 
 ITEM_20150317_003668	An item exchanged between lovers as a symbol of their love. A cute music box that fits into a small pouch. 
@@ -3684,7 +3684,7 @@ ITEM_20150317_003683	Pilgrim's Lost Scripture Page
 ITEM_20150317_003684	A sheet of the Pilgrim's Scripture.  
 ITEM_20150317_003685	Pilgrim's Scripture 
 ITEM_20150317_003686	A Scripture that is necessary for all Pilgrims. 
-ITEM_20150317_003687	Condensed Rage of the Pilgrims that the Fire 魔杖 had.  
+ITEM_20150317_003687	Condensed Rage of the Pilgrims that the Fire 魔棒 had.  
 ITEM_20150317_003688	적갈나무 단층 숲 성소 지도
 ITEM_20150317_003689	적갈나무 단층 숲에 있는 축복의 성소를 모두 표시해 주는 지도. {nl}우클릭하면 지도가 펼쳐 집니다. 다 쓴 뒤에는 적갈나무 단층숲을 지나는 다른 순례자들을 위해 회수함에 넣어 주세요.{nl}회수함의 위치: 가식의 교각로로 가는 길목.
 ITEM_20150317_003690	적갈나무 단층숲의 오염된 성소를 정화하기 위해 프리스트 마스터로부터 얻어온 성수.
@@ -3969,7 +3969,7 @@ ITEM_20150323_003968	Hogma Battle Boss's Blood
 ITEM_20150323_003969	Paralysis powder that can stun the Black Maize in the Vieta Gorge 
 ITEM_20150323_003970	Whistling Wood 
 ITEM_20150323_003971	漁夫的釣魚竿 
-ITEM_20150323_003972	A fishing 魔杖 made from a 漁夫's prized wood, from which you can hear a whistling sound. Check it out by breaking it open. 
+ITEM_20150323_003972	A fishing 魔棒 made from a 漁夫's prized wood, from which you can hear a whistling sound. Check it out by breaking it open. 
 ITEM_20150323_003973	Blue Pondel 骨頭 
 ITEM_20150323_003974	Black Pond Entrails 
 ITEM_20150323_003975	Report recording the strange phenomena in Paupys Port 
@@ -4122,9 +4122,9 @@ ITEM_20150323_004121	小型石雕像 下身
 ITEM_20150323_004122	小型石雕像的下半身.
 ITEM_20150323_004123	小型石雕像 翅膀
 ITEM_20150323_004124	小型石雕像的翅膀
-ITEM_20150323_004125	Blunt Wooden Piece 
+ITEM_20150323_004125	Blunt 木質 Piece 
 ITEM_20150323_004126	A blunt piece of wood that used to be the head of a wood hammer 
-ITEM_20150323_004127	Wooden 魔杖 Piece 
+ITEM_20150323_004127	木質 魔棒 Piece 
 ITEM_20150323_004128	A wooden 魔杖 that used to be part of the shaft of a wood hammer 
 ITEM_20150323_004129	나무 망치★
 ITEM_20150323_004130	A wooden hammer that is used to open kegs. Poorly made, it is not very durable. 
@@ -4217,7 +4217,7 @@ ITEM_20150323_004216	Stolen Grain Bag
 ITEM_20150323_004217	The stolen bag of grain that the mercenaries at Shatunga's Farms took as a bribe. 
 ITEM_20150323_004218	德魯伊's 解毒劑 
 ITEM_20150323_004219	德魯伊's special 解毒劑 to neutralize the poison of grapes 
-ITEM_20150323_004220	Obedience 魔杖 
+ITEM_20150323_004220	Obedience 棍 
 ITEM_20150323_004221	A wooden branch containing 德魯伊ic powers. It is said that it can subdue monsters. 
 ITEM_20150323_004222	德魯伊's Empty Stone 弓l 
 ITEM_20150323_004223	Special Stone 弓l that 德魯伊's primarily use for rituals. It is currently empty. 
@@ -4259,31 +4259,31 @@ ITEM_20150323_004258	Vermilion Sharkmolly 精華
 ITEM_20150323_004259	Free Dungeon test item 
 ITEM_20150401_004260	Armband I 
 ITEM_20150401_004261	Old Gladius 
-ITEM_20150401_004262	粗製 Falchion 
+ITEM_20150401_004262	粗製 彎刀 
 ITEM_20150401_004263	粗製 Kaskara 
 ITEM_20150401_004264	Old Shamshir 
 ITEM_20150401_004265	Old Scimitar 
 ITEM_20150401_004266	Old Kaskara 
-ITEM_20150401_004267	Superior Gladius 
+ITEM_20150401_004267	卓越 Gladius 
 ITEM_20150401_004268	高級短刀
-ITEM_20150401_004269	Superior Cinquedea 
-ITEM_20150401_004270	Superior Sabre 
-ITEM_20150401_004271	Superior Shamshir 
+ITEM_20150401_004269	卓越 Cinquedea 
+ITEM_20150401_004270	卓越 Sabre 
+ITEM_20150401_004271	卓越 Shamshir 
 ITEM_20150401_004272	Old Colossus 
-ITEM_20150401_004273	Superior Flamberge 
-ITEM_20150401_004274	Superior Nodachi 
-ITEM_20150401_004275	Superior 雙刃陷阱 
-ITEM_20150401_004276	Old Short 魔杖 
-ITEM_20150401_004277	粗製 Long 魔杖 
+ITEM_20150401_004273	卓越 Flamberge 
+ITEM_20150401_004274	卓越 Nodachi 
+ITEM_20150401_004275	卓越 雙刃陷阱 
+ITEM_20150401_004276	Old Short 魔棒 
+ITEM_20150401_004277	粗製 Long 魔棒 
 ITEM_20150401_004278	粗製 Cane Rover 
-ITEM_20150401_004279	Old Puter 魔杖 
-ITEM_20150401_004280	Old Owl 魔杖 
+ITEM_20150401_004279	Old Puter 魔棒 
+ITEM_20150401_004280	Old Owl 魔棒 
 ITEM_20150401_004281	Old Cane Rover 
-ITEM_20150401_004282	高級短魔杖 
-ITEM_20150401_004283	Superior Long 魔杖 
-ITEM_20150401_004284	Superior Cane 
-ITEM_20150401_004285	Superior Crook 
-ITEM_20150401_004286	Superior Puter 魔杖 
+ITEM_20150401_004282	高級短魔棒 
+ITEM_20150401_004283	卓越 Long 魔棒 
+ITEM_20150401_004284	卓越 Cane 
+ITEM_20150401_004285	卓越 Crook 
+ITEM_20150401_004286	卓越 Puter 魔棒 
 ITEM_20150401_004287	Old Light 弓 
 ITEM_20150401_004288	粗製 Short 弓 
 ITEM_20150401_004289	粗製 Longbow 
@@ -4293,59 +4293,59 @@ ITEM_20150401_004292	Old Long 弓
 ITEM_20150401_004293	高級輕弓 
 ITEM_20150401_004294	高級短弓 
 ITEM_20150401_004295	高級複合弓 
-ITEM_20150401_004296	Superior Self 弓 
-ITEM_20150401_004297	Superior 羅戈斯 弓 
+ITEM_20150401_004296	卓越 Self 弓 
+ITEM_20150401_004297	卓越 羅戈斯 弓 
 ITEM_20150401_004298	粗製 輕弩 
 ITEM_20150401_004299	粗製 弩 
 ITEM_20150401_004300	Old Oak 弩 
 ITEM_20150401_004301	Old Seal 弩 
-ITEM_20150401_004302	Superior 輕弩 
+ITEM_20150401_004302	卓越 輕弩 
 ITEM_20150401_004303	高級 杜克友 
-ITEM_20150401_004304	Superior Quarrel 弓 
-ITEM_20150401_004305	Superior Oak 弩 
-ITEM_20150401_004306	Superior 弩 
+ITEM_20150401_004304	卓越 Quarrel 弓 
+ITEM_20150401_004305	卓越 Oak 弩 
+ITEM_20150401_004306	卓越 弩 
 ITEM_20150401_004307	老木錘
-ITEM_20150401_004308	粗製 Mace 
+ITEM_20150401_004308	粗製 硬頭槌 
 ITEM_20150401_004309	老舊的 流星錘 
 ITEM_20150401_004310	Old Warpick 
-ITEM_20150401_004311	Old Mace 
+ITEM_20150401_004311	Old 硬頭槌 
 ITEM_20150401_004312	高級木棒
-ITEM_20150401_004313	Superior Iron Club 
-ITEM_20150401_004314	Superior Morningstar 
-ITEM_20150401_004315	Superior Maul 
+ITEM_20150401_004313	卓越 Iron Club 
+ITEM_20150401_004314	卓越 Morningstar 
+ITEM_20150401_004315	卓越 Maul 
 ITEM_20150401_004316	高級 流星錘 
 ITEM_20150401_004317	戰錘
-ITEM_20150401_004318	Old Wooden Buckler 
-ITEM_20150401_004319	Old Wooden Kite shield 
-ITEM_20150401_004320	Superior Kite 盾 
-ITEM_20150401_004321	Superior Short 矛 
-ITEM_20150401_004322	Superior Espontoon 
+ITEM_20150401_004318	Old 木質 Buckler 
+ITEM_20150401_004319	Old 木質 Kite shield 
+ITEM_20150401_004320	卓越 Kite 盾 
+ITEM_20150401_004321	卓越 Short 矛 
+ITEM_20150401_004322	卓越 Espontoon 
 ITEM_20150401_004323	粗製 Uden 魔杖 
 ITEM_20150401_004324	粗製 Oak 魔杖 
-ITEM_20150401_004325	Superior Wooden 魔杖 
-ITEM_20150401_004326	Superior 魔杖 
-ITEM_20150401_004327	Superior Ju 魔杖 
-ITEM_20150401_004328	Superior 烏比克 魔杖 
-ITEM_20150401_004329	Superior 鋼鐵 魔杖 
-ITEM_20150401_004330	Superior Square 魔杖 
-ITEM_20150401_004331	Revolver 
-ITEM_20150401_004332	Snaphance 
-ITEM_20150401_004333	Long 手槍 
+ITEM_20150401_004325	卓越 木質 魔杖 
+ITEM_20150401_004326	卓越 魔杖 
+ITEM_20150401_004327	卓越 Ju 魔杖 
+ITEM_20150401_004328	卓越 烏比克 魔杖 
+ITEM_20150401_004329	卓越 鋼鐵 魔杖 
+ITEM_20150401_004330	卓越 Square 魔杖 
+ITEM_20150401_004331	左輪 
+ITEM_20150401_004332	燧石槍 
+ITEM_20150401_004333	長管手槍 
 ITEM_20150401_004334	Grima 手套 
 ITEM_20150401_004335	Unfinished tooltip. 
 ITEM_20150401_004336	Grima 靴子 
 ITEM_20150401_004337	森林 手套 
 ITEM_20150401_004338	森林 靴子 
-ITEM_20150401_004339	Superior 鱗片 手套 
-ITEM_20150401_004340	Superior 鱗片 靴子 
-ITEM_20150401_004341	Superior 鱗片 底褲 
-ITEM_20150401_004342	Superior 鱗片 鎖子甲 
+ITEM_20150401_004339	卓越 鱗片 手套 
+ITEM_20150401_004340	卓越 鱗片 靴子 
+ITEM_20150401_004341	卓越 鱗片 底褲 
+ITEM_20150401_004342	卓越 鱗片 鎖子甲 
 ITEM_20150401_004343	Regal 手套 
 ITEM_20150401_004344	Regal 靴子 
-ITEM_20150401_004345	Old Hard 皮甲 手套 
-ITEM_20150401_004346	Old Hard 皮甲 靴子 
-ITEM_20150401_004347	Old Hard 皮甲 褲子 
-ITEM_20150401_004348	Old Hard 皮甲 鎧甲
+ITEM_20150401_004345	Old 硬質 皮甲 手套 
+ITEM_20150401_004346	Old 硬質 皮甲 靴子 
+ITEM_20150401_004347	Old 硬質 皮甲 褲子 
+ITEM_20150401_004348	Old 硬質 皮甲 鎧甲
 ITEM_20150401_004349	Old 鎖鏈 手套 
 ITEM_20150401_004350	Old 鎖鏈 靴子 
 ITEM_20150401_004351	Old 鎖鏈 褲子 
@@ -4354,16 +4354,16 @@ ITEM_20150401_004353	Old 鋼鐵 鎖鏈 手套
 ITEM_20150401_004354	Old 鋼鐵 鎖鏈 靴子 
 ITEM_20150401_004355	Old 鋼鐵 鎖鏈 褲子 
 ITEM_20150401_004356	Old 鋼鐵 鎖甲 
-ITEM_20150401_004357	Superior 夾棉 褲子 
-ITEM_20150401_004358	Superior 夾棉 鎧甲
-ITEM_20150401_004359	Superior Regal 手套 
-ITEM_20150401_004360	Superior Regal 靴子 
-ITEM_20150401_004361	Superior Regal 褲子 
-ITEM_20150401_004362	Superior Regal 長袍 
-ITEM_20150401_004363	Superior 重裝 手套 
-ITEM_20150401_004364	Superior 重裝 靴子 
-ITEM_20150401_004365	Superior 重裝 褲子 
-ITEM_20150401_004366	Superior 重裝 鎧甲
+ITEM_20150401_004357	卓越 夾棉 褲子 
+ITEM_20150401_004358	卓越 夾棉 鎧甲
+ITEM_20150401_004359	卓越 Regal 手套 
+ITEM_20150401_004360	卓越 Regal 靴子 
+ITEM_20150401_004361	卓越 Regal 褲子 
+ITEM_20150401_004362	卓越 Regal 長袍 
+ITEM_20150401_004363	卓越 重裝 手套 
+ITEM_20150401_004364	卓越 重裝 靴子 
+ITEM_20150401_004365	卓越 重裝 褲子 
+ITEM_20150401_004366	卓越 重裝 鎧甲
 ITEM_20150401_004367	Full 鎧甲 護手 
 ITEM_20150401_004368	Full 鎧甲 護脛 
 ITEM_20150401_004369	Full 鎧甲 底褲 
@@ -4408,14 +4408,14 @@ ITEM_20150401_004407	Arch Mage 手套
 ITEM_20150401_004408	Arch Mage 靴子 
 ITEM_20150401_004409	Arch Mage 褲子 
 ITEM_20150401_004410	Arch Mage 長袍s 
-ITEM_20150401_004411	Superior Skirmisher 手套 
-ITEM_20150401_004412	Superior Skirmisher 靴子 
-ITEM_20150401_004413	Superior Skirmisher 褲子 
-ITEM_20150401_004414	Superior Skirmisher 束腰外衣 
-ITEM_20150401_004415	Superior Infantry 護手 
-ITEM_20150401_004416	Superior Infantry 護脛 
-ITEM_20150401_004417	Superior Infantry 底褲 
-ITEM_20150401_004418	Superior Infantry 護甲 
+ITEM_20150401_004411	卓越 Skirmisher 手套 
+ITEM_20150401_004412	卓越 Skirmisher 靴子 
+ITEM_20150401_004413	卓越 Skirmisher 褲子 
+ITEM_20150401_004414	卓越 Skirmisher 束腰外衣 
+ITEM_20150401_004415	卓越 Infantry 護手 
+ITEM_20150401_004416	卓越 Infantry 護脛 
+ITEM_20150401_004417	卓越 Infantry 底褲 
+ITEM_20150401_004418	卓越 Infantry 護甲 
 ITEM_20150401_004419	Librarian 手套 
 ITEM_20150401_004420	Librarian 靴子 
 ITEM_20150401_004421	Librarian 褲子 
@@ -4428,38 +4428,38 @@ ITEM_20150401_004427	Knight 護手
 ITEM_20150401_004428	Knight 護脛 
 ITEM_20150401_004429	Knight 底褲 
 ITEM_20150401_004430	Knight 護甲 
-ITEM_20150401_004431	Superior Grima 手套 
-ITEM_20150401_004432	Superior Grima 靴子 
-ITEM_20150401_004433	Superior Grima 褲子 
-ITEM_20150401_004434	Superior Grima 長袍s 
+ITEM_20150401_004431	卓越 Grima 手套 
+ITEM_20150401_004432	卓越 Grima 靴子 
+ITEM_20150401_004433	卓越 Grima 褲子 
+ITEM_20150401_004434	卓越 Grima 長袍s 
 ITEM_20150401_004435	Magnus 手套 
 ITEM_20150401_004436	Magnus 靴子 
 ITEM_20150401_004437	Magnus 長袍s 
-ITEM_20150401_004438	Superior 靴子 
-ITEM_20150401_004439	羅尼薩 Wooden 項鏈 
+ITEM_20150401_004438	卓越 靴子 
+ITEM_20150401_004439	羅尼薩 木質 項鏈 
 ITEM_20150401_004440	羅尼薩 鐵項鏈 
 ITEM_20150401_004441	羅尼薩 鋼項鏈 
 ITEM_20150401_004442	羅尼薩 護身符 
 ITEM_20150401_004443	羅尼薩 克萊佩達 鎖鏈 
 ITEM_20150401_004444	Ritual 項鏈 
-ITEM_20150401_004445	Superior Ritual 項鏈 
-ITEM_20150401_004446	Key Pendant 
-ITEM_20150401_004447	Superior Key Pendant 
+ITEM_20150401_004445	卓越 Ritual 項鏈 
+ITEM_20150401_004446	Key 綴飾 
+ITEM_20150401_004447	卓越 Key 綴飾 
 ITEM_20150401_004448	賢者項鏈 
 ITEM_20150401_004449	Light 羅尼薩 手鐲 
-ITEM_20150401_004450	Superior 羅尼薩 手鐲 
+ITEM_20150401_004450	卓越 羅尼薩 手鐲 
 ITEM_20150401_004451	羅尼薩 環狀 手鐲 
 ITEM_20150401_004452	羅尼薩 Noble 手鐲 
-ITEM_20150401_004453	Superior 手鐲 of Health 
-ITEM_20150401_004454	Superior Magical 手鐲 
-ITEM_20150401_004455	Superior 手鐲 of Accuracy 
-ITEM_20150401_004456	Light Superior 手鐲 
+ITEM_20150401_004453	卓越 手鐲 of Health 
+ITEM_20150401_004454	卓越 Magical 手鐲 
+ITEM_20150401_004455	卓越 手鐲 of Accuracy 
+ITEM_20150401_004456	Light 卓越 手鐲 
 ITEM_20150401_004457	羅尼薩 克萊佩達 手鐲 
-ITEM_20150401_004458	Superior 手鐲 
+ITEM_20150401_004458	卓越 手鐲 
 ITEM_20150401_004459	Gem  手鐲 
 ITEM_20150401_004460	Pearl 手鐲 
 ITEM_20150401_004461	高級珍珠手鐲
-ITEM_20150401_004462	Superior Rune 手鐲 
+ITEM_20150401_004462	卓越 Rune 手鐲 
 ITEM_20150401_004463	Star 手鐲 
 ITEM_20150401_004464	裝甲騎兵 服裝
 ITEM_20150401_004465	GM 服裝
@@ -4507,7 +4507,7 @@ ITEM_20150401_004506	Rotten Snack Bread
 ITEM_20150401_004507	Fresh Bread 
 ITEM_20150401_004508	A loaf of snack bread that is still fresh. 
 ITEM_20150401_004509	Magic doll that Rimas gave to Arunas. It removes unusual energies when burned in a magic circle. 
-ITEM_20150401_004510	Wooden Stick 
+ITEM_20150401_004510	木質 Stick 
 ITEM_20150401_004511	주변의 울타리 등에서 잘라 낸 나무 막대기. 목봉으로 만들 예정이라고 한다.
 ITEM_20150401_004512	Monster 皮甲 
 ITEM_20150401_004513	皮甲 obtained from monsters. It is used as a material to various weapons. 
@@ -4519,7 +4519,7 @@ ITEM_20150401_004518	Magic Control Crystal Fragment
 ITEM_20150401_004519	It can surpress magic when set up in areas where there is strong magic. 
 ITEM_20150401_004520	Red Crystal 
 ITEM_20150401_004521	A crystal that guides the user to mystical places 
-ITEM_20150406_004522	Superior Mallet 
+ITEM_20150406_004522	卓越 Mallet 
 ITEM_20150406_004523	Sprinkler 
 ITEM_20150406_004524	Vuvuzela 
 ITEM_20150406_004525	Snow Flower Spray 
@@ -4568,8 +4568,8 @@ ITEM_20150406_004567	A bottle given to you by Wizard Rimas, who claims it contai
 ITEM_20150406_004568	Sticky Sap 
 ITEM_20150406_004569	Grain Pouch 
 ITEM_20150406_004570	Grain pouch retrieved from monsters. Some of it has been eaten. 
-ITEM_20150406_004571	Wooden 魔杖 
-ITEM_20150406_004572	Wooden 魔杖 cut from nearby fences. There are plans to make it into a weapon. 
+ITEM_20150406_004571	木質 魔棒 
+ITEM_20150406_004572	木質 魔棒 cut from nearby fences. There are plans to make it into a weapon. 
 ITEM_20150406_004573	Soft 皮甲 
 ITEM_20150406_004574	Pot that can collect the poison of monsters. 
 ITEM_20150406_004575	A plow for ploughing fields. It has a keen blade. 
@@ -4605,15 +4605,15 @@ ITEM_20150414_004604	Accuracy 弩
 ITEM_20150414_004605	Toy Hammer 
 ITEM_20150414_004606	Grand Spontoon 
 ITEM_20150414_004607	匕首 (刺擊) 
-ITEM_20150414_004608	Superior Knife 
-ITEM_20150414_004609	Superior Dirk 匕首 
-ITEM_20150414_004610	Superior Main Gauche 
+ITEM_20150414_004608	卓越 Knife 
+ITEM_20150414_004609	卓越 Dirk 匕首 
+ITEM_20150414_004610	卓越 Main Gauche 
 ITEM_20150414_004611	手槍 (Shot) 
 ITEM_20150414_004612	Cotton 手套 
 ITEM_20150414_004613	Cotton 靴子 
 ITEM_20150414_004614	Cotton 褲子 
 ITEM_20150414_004615	Cotton 長袍s 
-ITEM_20150414_004616	Don't test this armor's Magic Defense by intentionally getting hit. 
+ITEM_20150414_004616	Don't test this armor's Magic 防禦 by intentionally getting hit. 
 ITEM_20150414_004617	Watchman 手套 
 ITEM_20150414_004618	Equipment used by watchmen. 
 ITEM_20150414_004619	Watchman 靴子 
@@ -4747,7 +4747,7 @@ ITEM_20150414_004746	The head of a small statue. What kind of statue could it be
 ITEM_20150414_004747	The torso of a small statue. Its hands are clasped together. 
 ITEM_20150414_004748	The lower half of a small statue. It is hard to identify due to its fragmentation. 
 ITEM_20150414_004749	The wings of a small statue. The wings don't seem avian. 
-ITEM_20150414_004750	Wooden Hammer 
+ITEM_20150414_004750	木質 Hammer 
 ITEM_20150414_004751	Mucus that a monster spat out. Seems like it would make a good adhesive base. 
 ITEM_20150414_004752	A bitter drink that imbues its consumer with strength. 
 ITEM_20150414_004753	皮甲 obtained from monsters. It can be used to create a variety of weapons. 
@@ -4793,77 +4793,77 @@ ITEM_20150414_004792	Charlotte's Special 藥劑
 ITEM_20150414_004793	A special 藥劑 that only Charlotte knows how to make. It causes plants to wither die.  
 ITEM_20150428_004794	Equipment that helps one in battle. 
 ITEM_20150428_004795	Yorgis Badelaire 
-ITEM_20150428_004796	Superior 迪奧 Sword 
-ITEM_20150428_004797	Superior 多重 Sword 
-ITEM_20150428_004798	Superior 賽絲托 Sword 
-ITEM_20150428_004799	Superior Drat Sword 
-ITEM_20150428_004800	Superior 亞斯頓 Sword 
+ITEM_20150428_004796	卓越 迪奧 長劍 
+ITEM_20150428_004797	卓越 多重 長劍 
+ITEM_20150428_004798	卓越 賽絲托 長劍 
+ITEM_20150428_004799	卓越 Dratt 長劍 
+ITEM_20150428_004800	卓越 亞斯頓 長劍 
 ITEM_20150428_004801	Flame 
-ITEM_20150428_004802	Galatunis Sword 
-ITEM_20150428_004803	Eyestra Sword 
+ITEM_20150428_004802	Galatunis 長劍 
+ITEM_20150428_004803	Eyestra 長劍 
 ITEM_20150428_004804	Yorgis Katzbalger 
-ITEM_20150428_004805	Superior 迪奧 雙手劍 
-ITEM_20150428_004806	Superior 多重 雙手劍 
-ITEM_20150428_004807	Superior 賽絲托 雙手劍 
-ITEM_20150428_004808	Superior Drat 雙手劍 
-ITEM_20150428_004809	Superior 亞斯頓 雙手劍 
+ITEM_20150428_004805	卓越 迪奧 雙手劍 
+ITEM_20150428_004806	卓越 多重 雙手劍 
+ITEM_20150428_004807	卓越 賽絲托 雙手劍 
+ITEM_20150428_004808	卓越 Dratt 雙手劍 
+ITEM_20150428_004809	卓越 亞斯頓 雙手劍 
 ITEM_20150428_004810	Saw 
 ITEM_20150428_004811	Galatunis 雙手劍 
 ITEM_20150428_004812	Eyestra 雙手劍 
-ITEM_20150428_004813	Yorgis Alter 魔杖 
-ITEM_20150428_004814	Superior 迪奧 魔杖 
-ITEM_20150428_004815	Superior 多重 魔杖 
-ITEM_20150428_004816	Superior 賽絲托 魔杖 
-ITEM_20150428_004817	Superior Drat 魔杖 
-ITEM_20150428_004818	Superior 亞斯頓 魔杖 
-ITEM_20150428_004819	Galatunis 魔杖 
-ITEM_20150428_004820	Eyestra 魔杖 
+ITEM_20150428_004813	Yorgis Alter 魔棒 
+ITEM_20150428_004814	卓越 迪奧 魔棒 
+ITEM_20150428_004815	卓越 多重 魔棒 
+ITEM_20150428_004816	卓越 賽絲托 魔棒 
+ITEM_20150428_004817	卓越 Dratt 魔棒 
+ITEM_20150428_004818	卓越 亞斯頓 魔棒 
+ITEM_20150428_004819	Galatunis 魔棒 
+ITEM_20150428_004820	Eyestra 魔棒 
 ITEM_20150428_004821	Yorgis Seize 弓 
-ITEM_20150428_004822	Superior 迪奧 弓 
-ITEM_20150428_004823	Superior 多重 弓 
-ITEM_20150428_004824	Superior 賽絲托 弓 
-ITEM_20150428_004825	Superior Drat 弓 
-ITEM_20150428_004826	Superior 亞斯頓 弓 
+ITEM_20150428_004822	卓越 迪奧 弓 
+ITEM_20150428_004823	卓越 多重 弓 
+ITEM_20150428_004824	卓越 賽絲托 弓 
+ITEM_20150428_004825	卓越 Dratt 弓 
+ITEM_20150428_004826	卓越 亞斯頓 弓 
 ITEM_20150428_004827	Galatunis 弓 
 ITEM_20150428_004828	Excel 弓 
 ITEM_20150428_004829	Yorgis 佩帝米安 Turret 
 ITEM_20150428_004830	Galatunis 弩 
 ITEM_20150428_004831	Eyestra 弩 
-ITEM_20150428_004832	Superior Did Mace 
-ITEM_20150428_004833	Superior 多重 Mace 
-ITEM_20150428_004834	Superior 賽絲托 Mace 
-ITEM_20150428_004835	Superior Drat Mace 
-ITEM_20150428_004836	Superiror 亞斯頓 Mace 
-ITEM_20150428_004837	Galatunis Mace 
-ITEM_20150428_004838	Eyestra Mace 
+ITEM_20150428_004832	卓越 Did 硬頭槌 
+ITEM_20150428_004833	卓越 多重 硬頭槌 
+ITEM_20150428_004834	卓越 賽絲托 硬頭槌 
+ITEM_20150428_004835	卓越 Dratt 硬頭槌 
+ITEM_20150428_004836	Superiror 亞斯頓 硬頭槌 
+ITEM_20150428_004837	Galatunis 硬頭槌 
+ITEM_20150428_004838	Eyestra 硬頭槌 
 ITEM_20150428_004839	 - Causes an explosion every 10th consecutive attack. 
 ITEM_20150428_004840	Seems weak, but it causes an explosion on the user's 10th attack. 
 ITEM_20150428_004841	Yorgis Alchupiz 
-ITEM_20150428_004842	Superior 多重 矛 
+ITEM_20150428_004842	卓越 多重 矛 
 ITEM_20150428_004843	賽絲托 矛 
-ITEM_20150428_004844	Superior 賽絲托 矛 
-ITEM_20150428_004845	Superior Drat 矛 
-ITEM_20150428_004846	Superior 亞斯頓 矛 
+ITEM_20150428_004844	卓越 賽絲托 矛 
+ITEM_20150428_004845	卓越 Dratt 矛 
+ITEM_20150428_004846	卓越 亞斯頓 矛 
 ITEM_20150428_004847	Galatunis 矛 
 ITEM_20150428_004848	Gamble 
 ITEM_20150428_004849	Yorgis Alchupiz 
-ITEM_20150428_004850	Superior 賽絲托 Pike 
+ITEM_20150428_004850	卓越 賽絲托 Pike 
 ITEM_20150428_004851	卓瑞特 Pike 
-ITEM_20150428_004852	Superior Dart Pike 
+ITEM_20150428_004852	卓越 Dart Pike 
 ITEM_20150428_004853	亞斯頓 Pike 
-ITEM_20150428_004854	Superior 亞斯頓 Pike 
+ITEM_20150428_004854	卓越 亞斯頓 Pike 
 ITEM_20150428_004855	Galatunis Pike 
 ITEM_20150428_004856	Eyestra Pike 
 ITEM_20150428_004857	Yorgis Knife 
 ITEM_20150428_004858	Yorgis 鋼鐵 魔杖 
-ITEM_20150428_004859	Superior 迪奧魔杖 
-ITEM_20150428_004860	Superior 多重 魔杖 
-ITEM_20150428_004861	Superior 賽絲托 魔杖 
-ITEM_20150428_004862	Superior Dart 魔杖 
-ITEM_20150428_004863	Superior 亞斯頓 魔杖 
+ITEM_20150428_004859	卓越 迪奧魔杖 
+ITEM_20150428_004860	卓越 多重 魔杖 
+ITEM_20150428_004861	卓越 賽絲托 魔杖 
+ITEM_20150428_004862	卓越 Dart 魔杖 
+ITEM_20150428_004863	卓越 亞斯頓 魔杖 
 ITEM_20150428_004864	Galatunis 魔杖 
 ITEM_20150428_004865	Eyestra 魔杖 
-ITEM_20150428_004866	Superior 亞斯頓 手槍 
+ITEM_20150428_004866	卓越 亞斯頓 手槍 
 ITEM_20150428_004867	Devi 手槍 
 ITEM_20150428_004868	Earth 手套 
 ITEM_20150428_004869	Earth 靴子 
@@ -5032,7 +5032,7 @@ ITEM_20150428_005031	Templeshooter 卡片
 ITEM_20150428_005032	Panto Magician Cane Decoration 
 ITEM_20150428_005033	如果你忘記了它安裝的方向, 那他有可能是對著你的。 
 ITEM_20150428_005034	Wire 
-ITEM_20150428_005035	Hard to see because it is so thin. 
+ITEM_20150428_005035	硬質 to see because it is so thin. 
 ITEM_20150428_005036	Dimensional Fragment 
 ITEM_20150428_005037	It appears when space-time is distorted. 
 ITEM_20150428_005038	橡木b 
@@ -5164,7 +5164,7 @@ ITEM_20150714_005163	增加 202718 EXP 和156092 職業 EXP. {nl}有機率獲得
 ITEM_20150714_005164	LV13 EXP 卡片 
 ITEM_20150714_005165	增加 448276 EXP 和345172 職業 EXP. {nl}有機率獲得額外的 EXP. {nl}右鍵點擊使用. 
 ITEM_20150714_005166	修理 藥劑 
-ITEM_20150714_005167	修復裝備的耐久度. 右鍵點擊使用. 
+ITEM_20150714_005167	修復裝備的耐久度. {nl}右鍵點擊使用. 
 ITEM_20150714_005168	每 2 秒回覆HP. {nl}1920 HP 在15 秒內恢復. {nl}右鍵點擊使用. 冷卻 45 秒. 
 ITEM_20150714_005169	每 2 秒回覆HP. {nl}2080 HP 在15 秒內恢復. {nl}右鍵點擊使用. 冷卻 45 秒. 
 ITEM_20150714_005170	每 2 秒回覆HP. {nl}2240 HP 在15 秒內恢復. {nl}右鍵點擊使用. 冷卻 45 秒. 
@@ -5284,10 +5284,10 @@ ITEM_20150714_005283	변이형 몬스터의 동력원인 뉴클의 변형핵입�
 ITEM_20150714_005284	A record written by Hones and Liars's teacher. Say that it contains very important information. 
 ITEM_20150714_005285	Carcashu Seeds 
 ITEM_20150714_005286	角of Glee piglets 
-ITEM_20150714_005287	Varb Hard 殼 
+ITEM_20150714_005287	Varb 硬質 殼 
 ITEM_20150714_005288	Zinutekases Strong 的角
 ITEM_20150714_005289	Monster Poison 
-ITEM_20150714_005290	Varb Hard 殼 
+ITEM_20150714_005290	Varb 硬質 殼 
 ITEM_20150714_005291	Zinutekases Tail Fragments 
 ITEM_20150714_005292	Boowook Activiation 核心 
 ITEM_20150714_005293	Scent Stone Powder 
@@ -5377,7 +5377,7 @@ ITEM_20150714_005376	Important Tombstone Rubbing
 ITEM_20150714_005377	A rubbing of a tombstone given to you by the aspiring 神諭師 Adrius at Nuorodin Falls. It says, "After even death fades there will yet be a world". It was written by another 神諭師-in-training a long time ago, so the importance isn't clear yet. 
 ITEM_20150714_005378	Flat Stone 
 ITEM_20150714_005379	A flat piece of stone that might make a good shovel head. 
-ITEM_20150714_005380	Wooden Stick 
+ITEM_20150714_005380	木質 Stick 
 ITEM_20150714_005381	A wooden stick that might serve reasonably well as the handle of a hammer. 
 ITEM_20150714_005382	粗製 Shovel 
 ITEM_20150714_005383	A crudely made shovel. It has poor durability and looks like it will break after a single use. 
@@ -5413,10 +5413,10 @@ ITEM_20150714_005412	Corrosives given to you by Alwida. It can corrode metal pla
 ITEM_20150714_005413	A metal plate that was laid below vines. It's in good condtion. 
 ITEM_20150714_005414	A stick obtained from monsters. It's uniquely metallc. 
 ITEM_20150714_005415	Strangly Energized Stone 
-ITEM_20150714_005416	A stone with an unusual aura. By rubbing it against a stick one can make a Detection 魔杖. 
-ITEM_20150714_005417	Detection 魔杖 
-ITEM_20150714_005418	A Detection 魔杖 that can find metal plates. 粗製ly made, and looks like it won't last long. 
-ITEM_20150714_005419	A metal plate found with a Detection 魔杖. 
+ITEM_20150714_005416	A stone with an unusual aura. By rubbing it against a stick one can make a Detection 魔棒. 
+ITEM_20150714_005417	Detection 魔棒 
+ITEM_20150714_005418	A Detection 魔棒 that can find metal plates. 粗製ly made, and looks like it won't last long. 
+ITEM_20150714_005419	A metal plate found with a Detection 魔棒. 
 ITEM_20150714_005420	Demetrius's research records. 
 ITEM_20150714_005421	Alwida's Research Results 
 ITEM_20150714_005422	The lifelong research of Alwida. 
@@ -5539,7 +5539,7 @@ ITEM_20150717_005538   Don't you feel a foreboding presence from the enemy? It s
 ITEM_20150717_005539   Originally, the practical weapons were manufactured in the form of entry-level weapons. 
 ITEM_20150717_005540   Look forward to the hidden potential bestowed in this weapon by its maker.
 ITEM_20150717_005541   Don't ignore this sword just because of the sales tactics used by the seller. They wouldn't have had to use so much tact if the sword had no disadvantages.
-ITEM_20150717_005542	- After receiving magic damage, 2% chance to increase Magic Defense for 15 seconds
+ITEM_20150717_005542	- After receiving magic damage, 2% chance to increase Magic 防禦 for 15 seconds
 ITEM_20150717_005543	죽음을 자아내는 자가 될 준비가 되어있다면, 이 검을 드십시오. 
 ITEM_20150717_005544	영혼을 벼리어 무기를 만들면 적의 크기는 문제가 되지 않습니다. 큰 적에게는 더 큰 피해를 기대해도 좋습니다.
 ITEM_20150717_005545	어떤 이들은 혼합양식의 양손 기본검이라고 합니다. 주변에서 인정해줄 때까지 주장하기도 합니다.
@@ -5555,7 +5555,7 @@ ITEM_20150717_005554	- All Cryomancer Skill Levels increased by +1
 ITEM_20150717_005555	- 地震等級增加 +3
 ITEM_20150717_005556	이 장비의 돌발적인 효과는 사용자의 능력과는 무관하게 발동된다고 볼 수 있습니다.
 ITEM_20150717_005557	당신이 이것을 사용한 사람 중에 가장 역사적으로 유명한 사람이 되기를 기원합니다.
-ITEM_20150717_005558	- Basic Attacks have 1% chance to decrease Magic Defense and increase Physical Defense for 30 seconds
+ITEM_20150717_005558	- Basic Attacks have 1% chance to decrease Magic 防禦 and increase Physical 防禦 for 30 seconds
 ITEM_20150717_005559	- Basic Attacks have 2% chance to ignite the target for 10 seconds
 ITEM_20150717_005560	죽음은 물불을 가리지 않고 찾아옵니다. 이제 그것을 적에게 적용해야 할 때입니다.
 ITEM_20150717_005561	방황하는 영혼에게서 항상 힘을 끌어낼 수는 없습니다. 하지만 성공하면 이처럼 사용자의 내면 능력을 향상시키는 아이템이 제조됩니다.
@@ -5920,7 +5920,7 @@ ITEM_20150730_005919	迪奧雙手劍
 ITEM_20150730_005920	迪奧十字弓
 ITEM_20150730_005921	Tresh Spear
 ITEM_20150730_005922	賽絲托 Pike
-ITEM_20150803_005923	Krausas Mace
+ITEM_20150803_005923	Krausas 硬頭槌
 ITEM_20150803_005924	- 에피지의 추가대미지 보너스가 2회째 공격에 적용
 ITEM_20150803_005925	보코르의 힘을 강화시켜주기 위해 고안된 무기입니다. 제조방법이 잊혀졌다고하나 노력끝에 통해 복원할 수 있었습니다.
 ITEM_20150803_005926	恢復 30 耐力. {nl}右鍵點擊使用. 冷卻時間 30 秒
@@ -6003,30 +6003,30 @@ ITEM_20150918_006002	Its long length makes it possible to be used as a substitut
 ITEM_20150918_006003	Decorated with 羽毛. It is weak and should be handled with attention. 
 ITEM_20150918_006004	It is used for special offers and as a fashion item. 
 ITEM_20150918_006005	An armband for players who participated in the 1st CBT.
-ITEM_20150918_006006	Tenet Sword
-ITEM_20150918_006007	Patrice Sword
-ITEM_20150918_006008	Lukas Sword
-ITEM_20150918_006009	Philis Sword 
-ITEM_20150918_006010	Escanciu Sword
-ITEM_20150918_006011	Krag Sword 
-ITEM_20150918_006012	Pilgrim Sword 
-ITEM_20150918_006013	Istora Sword 
-ITEM_20150918_006014	Tenet Two-handed Sword
-ITEM_20150918_006015	Patrice Two-handed Sword
-ITEM_20150918_006016	Lukas Two-handed Sword
-ITEM_20150918_006017	Philips Two-handed Sword
-ITEM_20150918_006018	Escanciu Two-handed Sword
-ITEM_20150918_006019	Krag Two-handed Sword
-ITEM_20150918_006020	Pilgrim Two-handed Sword 
-ITEM_20150918_006021	Istora Two-handed Sword 
-ITEM_20150918_006022	Tenet Rod
-ITEM_20150918_006023	Patrice Rod 
-ITEM_20150918_006024	Lukas Rod 
-ITEM_20150918_006025	Philis Rod 
-ITEM_20150918_006026	Escanciu Rod 
-ITEM_20150918_006027	Krag Rod 
-ITEM_20150918_006028	Pilgrim Rod 
-ITEM_20150918_006029	Istora Rod 
+ITEM_20150918_006006	Tenet 長劍
+ITEM_20150918_006007	Patrice 長劍
+ITEM_20150918_006008	Lukas 長劍
+ITEM_20150918_006009	Philis 長劍 
+ITEM_20150918_006010	Escanciu 長劍
+ITEM_20150918_006011	Krag 長劍 
+ITEM_20150918_006012	Pilgrim 長劍 
+ITEM_20150918_006013	Istora 長劍 
+ITEM_20150918_006014	Tenet 雙手劍
+ITEM_20150918_006015	Patrice 雙手劍
+ITEM_20150918_006016	Lukas 雙手劍
+ITEM_20150918_006017	Philips 雙手劍
+ITEM_20150918_006018	Escanciu 雙手劍
+ITEM_20150918_006019	Krag 雙手劍
+ITEM_20150918_006020	Pilgrim 雙手劍 
+ITEM_20150918_006021	Istora 雙手劍 
+ITEM_20150918_006022	Tenet 魔棒
+ITEM_20150918_006023	Patrice 魔棒 
+ITEM_20150918_006024	Lukas 魔棒 
+ITEM_20150918_006025	Philis 魔棒 
+ITEM_20150918_006026	Escanciu 魔棒 
+ITEM_20150918_006027	Krag 魔棒 
+ITEM_20150918_006028	Pilgrim 魔棒 
+ITEM_20150918_006029	Istora 魔棒 
 ITEM_20150918_006030	Tenet Bow 
 ITEM_20150918_006031	Patrice Bow
 ITEM_20150918_006032	Lukas Bow 
@@ -6045,14 +6045,14 @@ ITEM_20150918_006044	Pilgrim Crossbow
 ITEM_20150918_006045	Istora Crossbow
 ITEM_20150918_006046	Karacha Crossbow
 ITEM_20150918_006047	 - 修復花費 +100%
-ITEM_20150918_006048	Tenet Mace
-ITEM_20150918_006049	Patrice Mace
-ITEM_20150918_006050	Lukas Mace
-ITEM_20150918_006051	Philis Mace
-ITEM_20150918_006052	Escanciu Mace
-ITEM_20150918_006053	Krag Mace
-ITEM_20150918_006054	Pilgrim Mace
-ITEM_20150918_006055	Istora Mace
+ITEM_20150918_006048	Tenet 硬頭槌
+ITEM_20150918_006049	Patrice 硬頭槌
+ITEM_20150918_006050	Lukas 硬頭槌
+ITEM_20150918_006051	Philis 硬頭槌
+ITEM_20150918_006052	Escanciu 硬頭槌
+ITEM_20150918_006053	Krag 硬頭槌
+ITEM_20150918_006054	Pilgrim 硬頭槌
+ITEM_20150918_006055	Istora 硬頭槌
 ITEM_20150918_006056	이 방패의 제작법이 알려진 것은 최근의 일입니다. 신수의 날이 그치면 더 이상 제작하지 못할 수도 있습니다.
 ITEM_20150918_006057	Tenet Spear
 ITEM_20150918_006058	Patrice Spear
@@ -6072,15 +6072,15 @@ ITEM_20150918_006071	Arde Dagger
 ITEM_20150918_006072	칼에서 뿜어져 나오는 열기는 사용자에게 화상을 입히기도 하지만 적을 태워버릴 수 있습니다.
 ITEM_20150918_006073	Karacha Dagger
 ITEM_20150918_006072	칼에서 뿜어져 나오는 열기는 사용자에게 화상을 입히기도 하지만 적을 태워버릴 수 있습니다.
-ITEM_20150918_006075	Tenet Staff
-ITEM_20150918_006076	Patrice Staff
-ITEM_20150918_006077	Lukas Staff
-ITEM_20150918_006078	Philis Staff
-ITEM_20150918_006079	Escanciu Staff
-ITEM_20150918_006080	Krag Staff
-ITEM_20150918_006081	Pilgrim Staff
-ITEM_20150918_006082	Istora Staff
-ITEM_20150918_006083	Istora Revolver
+ITEM_20150918_006075	Tenet 長杖
+ITEM_20150918_006076	Patrice 長杖
+ITEM_20150918_006077	Lukas 長杖
+ITEM_20150918_006078	Philis 長杖
+ITEM_20150918_006079	Escanciu 長杖
+ITEM_20150918_006080	Krag 長杖
+ITEM_20150918_006081	Pilgrim 長杖
+ITEM_20150918_006082	Istora 長杖
+ITEM_20150918_006083	Istora 左輪
 ITEM_20150918_006084	Mana-mana
 ITEM_20150918_006085	Ogva 手套
 ITEM_20150918_006086	Ogva 靴子
@@ -6220,10 +6220,10 @@ ITEM_20150918_006219	增加 608155 角色EXP 和 468279 職業EXP.{nl}有幾率�
 ITEM_20150918_006220	增加 1344829 角色EXP 和 1035518 職業EXP.{nl}有幾率獲得額外的 EXP. {nl}右鍵點擊使用. 
 ITEM_20150918_006221	技能重置卷軸
 ITEM_20150918_006222	重置你的技能點數 (限CBT測試者)
-ITEM_20150918_006223	Zombie Capsule1
-ITEM_20150918_006224	You can summon a zombie.
-ITEM_20150918_006225	Zombie Capsule2
-ITEM_20150918_006226	Zombie Capsule3
+ITEM_20150918_006223	殭屍 膠囊1
+ITEM_20150918_006224	招喚 1 隻殭屍.
+ITEM_20150918_006225	殭屍 膠囊2
+ITEM_20150918_006226	殭屍 膠囊3
 ITEM_20150918_006227	Title - Developer
 ITEM_20150918_006228	Developer
 ITEM_20150918_006229	디스펠러
@@ -6465,7 +6465,7 @@ ITEM_20150918_006464	A scroll required to solve the seal of King Zachariel. It i
 ITEM_20150918_006465	Any monster that uses fire abilities has a source. It is used to make Flame Gems.
 ITEM_20150918_006466	Makes finding fire easy but how Grita got it is a mystery.
 ITEM_20150918_006467	Research material stolen by monsters. It seems that monsters like to steal such documents.
-ITEM_20150918_006468	Hard lime be used to make Knockoff Goods.
+ITEM_20150918_006468	硬質 lime be used to make Knockoff Goods.
 ITEM_20150918_006469	위조의 결정적인 증거가 될 위조품. 아직 마무리가 남았습니다.
 ITEM_20150918_006470	Piece of a building with beautiful pattern on it. It seems that the architect put a lot of work into making it.
 ITEM_20150918_006471	There are various tools inside, like a dowsing rod to check for underground tombs.
@@ -6478,7 +6478,7 @@ ITEM_20150918_006477	A soul jar given by the necromancer Drasyus. It will inhale
 ITEM_20150918_006478	The symbol which represents that someone passed the ordeal that was prepared by Zachariel, the great king. It seems to be related to the seal of the royal tomb.
 ITEM_20150918_006479	A sword with a piece missing from it.
 ITEM_20150918_006480	These relics might help identify the dead bodies.
-ITEM_20150918_006481	This piece fits into the Chipped Sword.
+ITEM_20150918_006481	This piece fits into the Chipped 長劍.
 ITEM_20150918_006482	Wood picked from the wood pile by Cahill.
 ITEM_20150918_006483	皮革 that can be used in a variety of ways. The age of the leather means that it can be used immediately.
 ITEM_20150918_006484	A letter containing the heart of Mose Diesel.
@@ -6638,8 +6638,8 @@ ITEM_20150918_006637	A very long rope. Seems like something can be tied to it.
 ITEM_20150918_006638	Use this scroll to transform to Panwndel or Pawnd.
 ITEM_20150918_006639	A Power Crystal processed and filled with the strength of light. It can release the enchantment that binds the sealed Cathedral doors.
 ITEM_20150918_006640	Old and muddy necklace dropped by someone long ago.
-ITEM_20150918_006641	Wooden arrow used by High Vubbe Archers. It might be useful for kindling.
-ITEM_20150918_006642	Ingredient necessary to make the 粗製 Divining Rod used to search for the First Tombstone Fragment. You need to collect a lot of them.
+ITEM_20150918_006641	木質 arrow used by High Vubbe Archers. It might be useful for kindling.
+ITEM_20150918_006642	Ingredient necessary to make the 粗製 Divining 魔棒 used to search for the First Tombstone Fragment. You need to collect a lot of them.
 ITEM_20150918_006643	A divining rod used to search for the First Tombstone Fragment which has been hidden somewhere underground. Looks weak enough to be broken by even the slightest amount of force.
 ITEM_20150918_006644	The sap of a stumpy tree requested by general goods merchant Edang. Its powerful medical properties have made it a highly valued commodity.
 ITEM_20150918_006645	A tool used to collect the sap of a Treearmblow
@@ -6833,7 +6833,7 @@ ITEM_20150918_006832	A wooden hammer that is used to open kegs. Poorly made, it 
 ITEM_20150918_006833	Mucus that a monster spat out. Seems like it would make a good adhesive base.
 ITEM_20150918_006834	Grain pouch retrieved from monsters. Some of it has been eaten.
 ITEM_20150918_006835	A bitter drink that imbues its consumer with strength.
-ITEM_20150918_006836	Wooden Rod cut from nearby fences. There are plans to make it into a weapon.
+ITEM_20150918_006836	木質 魔棒 cut from nearby fences. There are plans to make it into a weapon.
 ITEM_20150918_006837	皮革 obtained from monsters. It can be used to create a variety of weapons.
 ITEM_20150918_006838	The pot that could acumulate the poison from the monsters. It looks really old.
 ITEM_20150918_006839	A plow for ploughing fields. It has a keen blade.
@@ -6871,8 +6871,8 @@ ITEM_20150918_006870	A bubbling liquid. Mix it with an acidic solution to create
 ITEM_20150918_006871	Corrosives given to you by Alwida. It can corrode metal plates.
 ITEM_20150918_006872	A metal plate that was laid below vines. It's in good condtion.
 ITEM_20150918_006873	A stick obtained from monsters. It's uniquely metallc.
-ITEM_20150918_006874	A stone with an unusual aura. By rubbing it against a stick one can make a Detection Rod.
-ITEM_20150918_006875	A Detection Rod that can find metal plates. 粗製ly made, and looks like it won't last long.
+ITEM_20150918_006874	A stone with an unusual aura. By rubbing it against a stick one can make a Detection 魔棒.
+ITEM_20150918_006875	A Detection 魔棒 that can find metal plates. 粗製ly made, and looks like it won't last long.
 ITEM_20150918_006876	영혼 집약 단말기의 핵으로 만든 정수. 영혼 집약 장치를 파괴할 오브를 만드는 재료이면서, 오브를 만들 또 다른 재료인 뇌관을 구할 수 있도록 해 줍니다.
 ITEM_20150918_006877	영혼 집약 장치의 단말기의 핵으로 쉬트리 가일라가 만든 영혼의 정수와 뇌관으로 만들어진 마법 오브. 이것을 영혼 집약 장치에 사용하면 영혼의 과부하가 일어나 영혼집약 장치가 파괴됩니다.
 ITEM_20150918_006878	석화 탐지기를 수리하러 왔던 병사들의 유품.
@@ -7219,7 +7219,7 @@ ITEM_20151016_007218	Urbonas' Memo
 ITEM_20151016_007219	Corrupted Blood		
 ITEM_20151016_007220	Chasers' Pocket		
 ITEM_20151016_007221	Red 精華		
-ITEM_20151016_007222	Black Wooden Piece		
+ITEM_20151016_007222	Black 木質 Piece		
 ITEM_20151016_007223	Demon Sack		
 ITEM_20151016_007224	Unstable Demonic Stone		
 ITEM_20151016_007225	Shining Pearl Powder		
@@ -7261,7 +7261,7 @@ ITEM_20151016_007260	Empty Scroll
 ITEM_20151016_007261	Nothing is written on this scroll. As requested by Benes, you should write the behaviors of Ferrets on it.		
 ITEM_20151016_007262	Ferret Transformation Scroll		
 ITEM_20151016_007263	A Ferret transformation scroll that Benes gave to you. When you use it, you can transform into a Ferret.		
-ITEM_20151016_007264	Mutated Wooden Piece		
+ITEM_20151016_007264	Mutated 木質 Piece		
 ITEM_20151016_007265	A piece of wood that mutated into an appearance of a child due to the spell of Druid Benes.		
 ITEM_20151016_007266	Terrible Scent		
 ITEM_20151016_007267	A terrible scent that was given by Druid Benes. When you spread it, the Ferrets will run away.		
@@ -7498,7 +7498,7 @@ ITEM_20151022_007497	Devilglove Fragment
 ITEM_20151022_007498	Basic Gem Abrasive		
 ITEM_20151022_007499	Intermediate Gem Abrasive		
 ITEM_20151022_007500	Advanced Gem Abrasive		
-ITEM_20151022_007501	Superior Gem Abrasive		
+ITEM_20151022_007501	卓越 Gem Abrasive		
 ITEM_20151022_007502	藍色寶珠: Kepa	凱帕	
 ITEM_20151022_007503	召喚一個魔物. 召喚出的魔物會幫助你戰鬥. 持續180秒. {nl}右鍵點擊使用.		
 ITEM_20151022_007504	藍色寶珠: Leaf Bug	葉蟲	
