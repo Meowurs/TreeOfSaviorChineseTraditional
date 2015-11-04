@@ -8,7 +8,7 @@ ETC_20150317_000006	大多數人都沒有意識到，紅色凱帕其實與凱帕
 ETC_20150317_000007	毒 凱帕
 ETC_20150317_000008	魔物
 ETC_20150317_000009	Hamming
-ETC_20150317_000010	Despite its tough skin, the Hamming is a fairly feeble monster.
+ETC_20150317_000010	雖然有著堅硬的外皮，其實Hamming是相當弱小的魔物。
 ETC_20150317_000011	奇連西
 ETC_20150317_000012	Originally stalks of plants, the Chinency have since evolved to their current form.
 ETC_20150317_000013	變異 奇連西
@@ -183,7 +183,7 @@ ETC_20150317_000181	波波獅
 ETC_20150317_000182	A Popolion's voice is said to break even glass bottles.
 ETC_20150317_000183	Sauga
 ETC_20150317_000184	Saugas
-ETC_20150317_000185	Scorpion
+ETC_20150317_000185	毒蠍
 ETC_20150317_000186	Tontulia
 ETC_20150317_000187	The Tontulia is a more mobile mutation of the Tontus.
 ETC_20150317_000188	Tontus
@@ -296,9 +296,9 @@ ETC_20150317_000294	Follower Ghost Leader
 ETC_20150317_000295	Follower Ghost (Alter Ego)
 ETC_20150317_000296	Three-Eyed Horn
 ETC_20150317_000297	Three-Eyed Wing
-ETC_20150317_000298	Follower
+ETC_20150317_000298	追隨者
 ETC_20150317_000299	Heavy Infantry Zombie
-ETC_20150317_000300	Magic Book
+ETC_20150317_000300	魔法書
 ETC_20150317_000301	Unripe Pumpkin
 ETC_20150317_000302	Well Die Onion
 ETC_20150317_000303	Large HP Onion
@@ -356,7 +356,7 @@ ETC_20150317_000354	High 瓦布戰士
 ETC_20150317_000355	Monster Wizard
 ETC_20150317_000356	Battery (temporary)
 ETC_20150317_000357	Block of Ice
-ETC_20150317_000358	Pillar of Ice
+ETC_20150317_000358	冰柱
 ETC_20150317_000359	篝火
 ETC_20150317_000360	Mine
 ETC_20150317_000361	Pavise
@@ -1149,9 +1149,9 @@ ETC_20150317_001147	烈焰術士 導師的實驗室
 ETC_20150317_001148	Mercenary Post
 ETC_20150317_001149	皇家領地
 ETC_20150317_001150	Orsha
-ETC_20150317_001151	希奧莉艾 西側森林
-ETC_20150317_001152	希奧莉艾
-ETC_20150317_001153	希奧莉艾 礦工小鎮
+ETC_20150317_001151	希奧利艾 西側森林
+ETC_20150317_001152	希奧利艾
+ETC_20150317_001153	希奧利艾 礦工小鎮
 ETC_20150317_001154	水晶礦山 1層
 ETC_20150317_001155	水晶礦山
 ETC_20150317_001156	水晶礦山 2層
@@ -1228,7 +1228,7 @@ ETC_20150317_001226	春日樹林
 ETC_20150317_001227	{memo X}Swaying Arable Land
 ETC_20150317_001228	{memo X}Three Brooks Woods
 ETC_20150317_001229	{memo X}Water Tree-song Forest
-ETC_20150317_001230	{memo X}希奧莉艾 [47_4]
+ETC_20150317_001230	{memo X}希奧利艾 [47_4]
 ETC_20150317_001231	Kiren Province
 ETC_20150317_001232	Pilgrimage Trail 41_1
 ETC_20150317_001233	Pilgrimage Trail 41_2
@@ -1255,7 +1255,7 @@ ETC_20150317_001253	{memo X}Relaxed Penal Colony
 ETC_20150317_001254	{memo X}Skyscraper Cliff
 ETC_20150317_001255	Steel Heights
 ETC_20150317_001256	{memo X}Reception Room of Slaughterer
-ETC_20150317_001257	Prison
+ETC_20150317_001257	監獄
 ETC_20150317_001258	{memo X}Sacristy of Souls
 ETC_20150317_001259	{memo X}Solitary Cells of Soul Fission
 ETC_20150317_001260	{memo X}Workshop of Soul Fusion
@@ -1324,10 +1324,10 @@ ETC_20150317_001322	{memo X}Field of Ruins 37_2
 ETC_20150317_001323	{memo X}Field of Ruins 37_3
 ETC_20150317_001324	Pilgrimage Trail 48
 ETC_20150317_001325	Pilgrimage Trail 49
-ETC_20150317_001326	East 希奧莉艾 Woods -past (沒用的數據-TOS2CN)
+ETC_20150317_001326	East 希奧利艾 Woods -past (沒用的數據-TOS2CN)
 ETC_20150317_001327	{memo X}Forgotten Port -past
 ETC_20150317_001328	Woods of Attached Bridge -past
-ETC_20150317_001329	希奧莉艾 50_1
+ETC_20150317_001329	希奧利艾 50_1
 ETC_20150317_001330	{memo X}Bended Streamlet Location
 ETC_20150317_001331	Secret Room
 ETC_20150317_001332	Arrow Path
@@ -1352,7 +1352,7 @@ ETC_20150317_001350	Mission Test per Hour 1
 ETC_20150317_001351	Test Zone 3
 ETC_20150317_001352	Mission Test 2
 ETC_20150317_001353	Capture Flag
-ETC_20150317_001354	希奧莉艾 Raid
+ETC_20150317_001354	希奧利艾 Raid
 ETC_20150317_001355	水晶礦山 Raid
 ETC_20150317_001356	Catacombs Raid
 ETC_20150317_001357	Thorn Forest Raid
@@ -1412,7 +1412,7 @@ ETC_20150317_001410	32_4 Grand Fruit Forest
 ETC_20150317_001411	34_1 Grand Fruit Forest
 ETC_20150317_001412	{memo X}34_2 Grand Fruit Forest
 ETC_20150317_001413	34_3 Grand Fruit Forest
-ETC_20150317_001414	希奧莉艾 35_1
+ETC_20150317_001414	希奧利艾 35_1
 ETC_20150317_001415	珊瑚平原 35_2
 ETC_20150317_001416	修道院 35_3
 ETC_20150317_001417	修道院 35_4
@@ -1504,25 +1504,25 @@ ETC_20150317_001502	This warp point has already been saved.
 ETC_20150317_001503	The server end is not completed {nl}or you have logged in from another computer. {nl}End the connection.
 ETC_20150317_001504	When you delete the character,{nl} all equipped items will also be deleted.{nl} Are you sure you want to delete?
 ETC_20150317_001505	新職業已經新增。
-ETC_20150317_001506	{Auto_1} {Auto_2} item(s) 已獲得。
+ETC_20150317_001506	{Auto_1} {Auto_2} 物品 已獲得。
 ETC_20150317_001507	從任務伺服器斷線。
 ETC_20150317_001508	無法建立任務房間。{nl}請稍後再試。
 ETC_20150317_001509	你的角色尚未登入
 ETC_20150317_001510	這裡不能當作傳送點。
-ETC_20150317_001511	You have exceeded the number of players for the team.
+ETC_20150317_001511	隊伍成員已達上限。
 ETC_20150317_001512	目前選擇的區域路徑點
 ETC_20150317_001513	當你的等級未達需求時，你不能建立房間。
-ETC_20150317_001514	{memo X}{s18}{ol}{#ffffcc}達到最大角色數量 {nl} 弱要建立新角色，你必須刪除現有的角色。
+ETC_20150317_001514	{memo X}{s18}{ol}{#ffffcc}達到最大角色數量 {nl} 若要建立新角色，你必須刪除現有的角色。
 ETC_20150317_001515	你沒有足夠的角色點數。{nl}你可以透過任務賺取角色點數。
 ETC_20150317_001516	Leader is unable to learn this stance. {nl}Please check available job to obtain the stance in Stance promotion description.
 ETC_20150317_001517	This stance has already been obtained.
 ETC_20150317_001518	You cannot use this stance yet.
 ETC_20150317_001519	You have tried to connect to a server which is not registered.{nl}Please contact the publisher.
-ETC_20150317_001520	Please enter your account ID
-ETC_20150317_001521	{memo X}{S18}{ol}{#ffffcc} Please enter your account password
+ETC_20150317_001520	請輸入帳號ID
+ETC_20150317_001521	{memo X}{S18}{ol}{#ffffcc} 請輸入帳號
 ETC_20150317_001522	你現在不能移動到其他分流。
 ETC_20150317_001523	You cannot build a structure near another structure.
-ETC_20150317_001524	You cannot add a new friend because your Friends List is full.
+ETC_20150317_001524	好友名單已滿，無法再加入好友。
 ETC_20150317_001525	You cannot send a friend request, because the character is waiting for the friend request of another character. {nl} Try again later.
 ETC_20150317_001526	You cannot send a friend request, because the other character is currently already waiting for a friend request.
 ETC_20150317_001527	You cannot send a friend request, because the other player's Friends List is already full.
@@ -1546,25 +1546,25 @@ ETC_20150317_001544	You cannot create anymore
 ETC_20150317_001545	Enchantment error (error code: {Auto_1})
 ETC_20150317_001546	Duel status activated. {nl}The squad will be withdrawn automatically.
 ETC_20150317_001547	The duel status has been canceled.
-ETC_20150317_001548	Cannot request for a duel.
-ETC_20150317_001549	Your request for a duel has been declined.
+ETC_20150317_001548	無法送出決鬥請求。
+ETC_20150317_001549	你的決鬥請求已經被拒絕。
 ETC_20150317_001550	有新的更新。 {nl} 請重新啟動遊戲，進行更新。 CODE ({Auto_1})
 ETC_20150317_001551	Cannot be equipped by your class.
-ETC_20150317_001552	Cannot be used while moving
-ETC_20150317_001553	Outside of the field of view
-ETC_20150317_001554	You don't have sufficient HP
+ETC_20150317_001552	移動時無法使用
+ETC_20150317_001553	超出視線範圍
+ETC_20150317_001554	你沒有足夠的HP
 ETC_20150317_001555	{Auto_1} Buff needed
-ETC_20150317_001556	Can only be used outside of combat. 
-ETC_20150317_001557	Cannot be used in current status
+ETC_20150317_001556	只能在非戰鬥時使用
+ETC_20150317_001557	目前狀態無法使用
 ETC_20150317_001558	{S20}{ol}{#ffffcc}{gr gradation1} You need to get a little closer {/}
-ETC_20150317_001559	Your password exceeds the maximum length allowed
-ETC_20150317_001560	Please enter a name
+ETC_20150317_001559	你的密碼超出字數限制
+ETC_20150317_001560	請輸入名稱
 ETC_20150317_001561	{memo X}Entering the world... {S18}{ol}{#ffffcc}
 ETC_20150317_001562	{Auto_1} {Auto_2} item(s) given to the other party
 ETC_20150317_001563	Used {Auto_1} {Auto_2} item(s)
 ETC_20150317_001564	Equipped with {Auto_1}
 ETC_20150317_001565	Destroyed {Auto_1} {Auto_2} items(s)
-ETC_20150317_001566	Gained {Auto_1} EXP
+ETC_20150317_001566	獲得 {Auto_1} EXP
 ETC_20150317_001567	Herbivorous has been canceled due to movement.
 ETC_20150317_001568	Your strength is insufficient
 ETC_20150317_001569	Starting map not available.
@@ -1594,8 +1594,8 @@ ETC_20150317_001592	無效目標 {/}
 ETC_20150317_001593	{S20}{ol}{#ffffcc}{gr gradation1} 目標超出範圍 {/}
 ETC_20150317_001594	Evil spirit will regenerate after 5 seconds
 ETC_20150317_001595	You cannot ride your own carriage
-ETC_20150317_001596	Evaded boss attack. Bonus points + {Auto_1}
-ETC_20150317_001597	Please select the area
+ETC_20150317_001596	迴避魔王攻擊。 獎勵點數 + {Auto_1}
+ETC_20150317_001597	請選擇一個區域
 ETC_20150317_001598	Please select the angle of rotation and click
 ETC_20150317_001599	Please select a pen and draw a picture.
 ETC_20150317_001600	The remaining amount of spray is missing
@@ -1611,8 +1611,8 @@ ETC_20150317_001609	It is too close to the existing Ice Barrier
 ETC_20150317_001610	你已經學過這個特性了。
 ETC_20150317_001611	{memo X}{S18}{ol}{#ffffcc} 你確認想要學這個特性？
 ETC_20150317_001612	請輸入數量
-ETC_20150317_001613	This item cannot be 交易d
-ETC_20150317_001614	You cannot rest during combat
+ETC_20150317_001613	這個道具無法交易
+ETC_20150317_001614	戰鬥中無法休息
 ETC_20150317_001615	The other player is not logged in
 ETC_20150317_001616	The number of purchasable items is limited
 ETC_20150317_001617	24 hours has not elapsed yet since changing your name
@@ -1620,11 +1620,11 @@ ETC_20150317_001618	Can not be greater than {Auto_1} bytes
 ETC_20150317_001619	角色名稱
 ETC_20150317_001620	你沒有足夠的素材。
 ETC_20150317_001621	{memo X}{S18}{ol}{#ffffcc}連線到伺服器...
-ETC_20150317_001622	This item cannot be discarded.
+ETC_20150317_001622	你不能丟棄這個道具。
 ETC_20150317_001623	{@st46} 恭喜！你的角色等級提升了。
 ETC_20150317_001624	{memo X}{Auto_1} Series
 ETC_20150317_001625	右手 {Auto_1}，左手 {Auto_2} 類型
-ETC_20150317_001626	Or
+ETC_20150317_001626	或者
 ETC_20150317_001627	可組合的裝備:
 ETC_20150317_001628	返回
 ETC_20150317_001629	{@st59} 鎖定快捷欄{/}
@@ -1639,12 +1639,12 @@ ETC_20150317_001637	BOSS級魔物在這個區域出現了。
 ETC_20150317_001638	這個道具不能升級。
 ETC_20150317_001639	{memo X}{Auto_1} Place
 ETC_20150317_001640	在目前的地圖上不可用。
-ETC_20150317_001641	[{The}] feature is enabled.
-ETC_20150317_001642	[{Ability}] triggered!
+ETC_20150317_001641	[{The}] 功能已經開啟。.
+ETC_20150317_001642	觸發 [{Ability}] ！
 ETC_20150317_001643	剩餘時間: {Auto_1}
 ETC_20150317_001644	今天的提示 :
 ETC_20150317_001645	你不能把這個道具裝備到插槽中。
-ETC_20150317_001646	你真的想退出嗎?
+ETC_20150317_001646	你真的想退出嗎？
 ETC_20150317_001647	{S20}{ol}{#ff1100} 無法學習此特性。
 ETC_20150317_001648	你不能裝備 0 耐久度的裝備。
 ETC_20150317_001649	刪除
@@ -1698,7 +1698,7 @@ ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	請放置你想強化的道具。
 ETC_20150317_001698	{memo X}卡片強化
 ETC_20150317_001699	寶石強化
-ETC_20150317_001700	You can no longer equip it. 
+ETC_20150317_001700	你無法再裝備這個道具。 
 ETC_20150317_001701	由於角色死亡，你的裝備已受到損傷。
 ETC_20150317_001702	強化
 ETC_20150317_001703	{memo X}{s18}{ol}如果武器、手環、項鍊強化超過了等級 {#ffffcc}+{Auto_1} 時失敗，將會消耗它的潛力值，當潛力值低於0， 這件道具會被破壞，你真的想要強化？
@@ -1764,7 +1764,7 @@ ETC_20150317_001762	不能在這個類型的道具上使用
 ETC_20150317_001763	可以裝備
 ETC_20150317_001764	你沒有足夠的潛力值來交易。
 ETC_20150317_001765	請選擇一個道具。
-ETC_20150317_001766	Do you want to consume the selected items to create poison?
+ETC_20150317_001766	你確定要消耗已選的材料製作藥水？
 ETC_20150317_001767	不能在同一個區域使用。
 ETC_20150317_001768	{memo X}Item in buff
 ETC_20150317_001769	類型
@@ -1788,27 +1788,27 @@ ETC_20150317_001786	Skill Ability
 ETC_20150317_001787	重量：{All} / {Max}
 ETC_20150317_001788	重量 ({Rate}%)
 ETC_20150317_001789	不能增加插槽
-ETC_20150317_001790	Tournament Champion
-ETC_20150317_001791	Tournament Second Winner
+ETC_20150317_001790	聯賽冠軍
+ETC_20150317_001791	聯賽亞軍
 ETC_20150317_001792	Ranker of Tournament {Auto_1} Round
 ETC_20150317_001793	HP 太低了：快使用 {Auto_1}% 回復道具！
 ETC_20150317_001794	使用一個回復道具。
 ETC_20150317_001795	Max SP {Auto_2} permanently increase when using {Auto_1}
-ETC_20150317_001796	Mount
-ETC_20150317_001797	Dismount
+ETC_20150317_001796	騎乘
+ETC_20150317_001797	下馬
 ETC_20150317_001798	寵物
 ETC_20150317_001799	資訊
-ETC_20150317_001800	You are too far away from the 同伴. 
+ETC_20150317_001800	你離同伴太遠了。 
 ETC_20150317_001801	{memo X}Please select the PC to take the 同伴.
 ETC_20150317_001802	You are together with your 同伴, [{Name}].
 ETC_20150317_001803	成功雇用了同伴。
-ETC_20150317_001804	You can't include spaces in the name.
+ETC_20150317_001804	名稱中不可以有空白。
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your 同伴 to feed it.
 ETC_20150317_001807	物理攻擊
 ETC_20150317_001808	物理防禦
-ETC_20150317_001809	Increased defense when mounted
-ETC_20150317_001810	Increased evasion when mounted
+ETC_20150317_001809	騎乘時防禦力增加
+ETC_20150317_001810	騎乘時迴避率增加
 ETC_20150317_001811	Receive bonus HP when mounted
 ETC_20150317_001812	力量
 ETC_20150317_001813	體質
@@ -1829,15 +1829,15 @@ ETC_20150317_001827	{memo X}Increased 同伴s defense by {Value}
 ETC_20150317_001828	{memo X}Increased 同伴s hit rate by {Value}
 ETC_20150317_001829	沒有可召喚的同伴
 ETC_20150317_001830	Please dismount your 同伴 first.
-ETC_20150317_001831	Standby
+ETC_20150317_001831	待命
 ETC_20150317_001832	Active
-ETC_20150317_001833	You do not have any food.
+ETC_20150317_001833	你沒有食物了。
 ETC_20150317_001834	餵養
 ETC_20150317_001835	This 同伴 does not eat this type of food.
 ETC_20150317_001836	Successfully adopted a 同伴. It is waiting in accommodation for you.
 ETC_20150317_001837	You can not use your skills while riding your 同伴.
 ETC_20150317_001838	讓我們點亮篝火？
-ETC_20150317_001839	There is no firewood.
+ETC_20150317_001839	沒有柴火了。
 ETC_20150317_001840	OK
 ETC_20150317_001841	確認
 ETC_20150317_001842	取消
@@ -1855,8 +1855,8 @@ ETC_20150317_001853	{Ul}最大傷害！{/}
 ETC_20150317_001854	等級：
 ETC_20150317_001855	獲得量
 ETC_20150317_001856	Obtained Monsters
-ETC_20150317_001857	Buy from Shop
-ETC_20150317_001858	Sell to Shop
+ETC_20150317_001857	買入
+ETC_20150317_001858	賣出
 ETC_20150317_001859	Cheat key
 ETC_20150317_001860	交易
 ETC_20150317_001861	Change 裝備
@@ -1937,7 +1937,7 @@ ETC_20150317_001935	防禦
 ETC_20150317_001936	Forward shooting!
 ETC_20150317_001937	Assemble!
 ETC_20150317_001938	Rush!
-ETC_20150317_001939	Retreat!
+ETC_20150317_001939	撤退！
 ETC_20150317_001940	Withdraw!
 ETC_20150317_001941	{@st45w3}{s18}{Auto_1} 銀幣 {/}
 ETC_20150317_001942	{Auto_1} level achievement when completed {@st42b}
@@ -1958,13 +1958,13 @@ ETC_20150317_001956	職業
 ETC_20150317_001957	{@st41b} Title {/}
 ETC_20150317_001958	{@St41b} {Auto_1} Achievement Score: {/}{s20}{ol}{#FFFF00} {Auto_2}{/}
 ETC_20150317_001959	{@st41b} NPC Adventure Score: {/}
-ETC_20150317_001960	Purchase
-ETC_20150317_001961	Selling Price
-ETC_20150317_001962	SHIFT + Left-click to equip jewel
+ETC_20150317_001960	購買
+ETC_20150317_001961	賣出價格
+ETC_20150317_001962	SHIFT + 左鍵裝備珠寶
 ETC_20150317_001963	Socket Bonus
-ETC_20150317_001964	Please put the jewelry into the socket
-ETC_20150317_001965	There is no space
-ETC_20150317_001966	Did you make up your mind?
+ETC_20150317_001964	請放置珠寶至鑲嵌洞中
+ETC_20150317_001965	沒有空間了
+ETC_20150317_001966	你決定好了嗎？
 ETC_20150317_001967	悄悄話
 ETC_20150317_001968	點擊右鍵裝備
 ETC_20150317_001969	點擊右鍵出售
@@ -2010,10 +2010,10 @@ ETC_20150317_002008	左手
 ETC_20150317_002009	右
 ETC_20150317_002010	雙手
 ETC_20150317_002011	身體
-ETC_20150317_002012	Belt
+ETC_20150317_002012	皮帶
 ETC_20150317_002013	Enhance Potential
-ETC_20150317_002014	Cost: {Auto_1}
-ETC_20150317_002015	Time Required
+ETC_20150317_002014	花費: {Auto_1}
+ETC_20150317_002015	需要時間
 ETC_20150317_002016	{Auto_1} 天
 ETC_20150317_002017	{Auto_1} 小時
 ETC_20150317_002018	{Auto_1} 分鐘
@@ -2021,7 +2021,7 @@ ETC_20150317_002019	{Auto_1} 秒
 ETC_20150317_002020	{Auto_1} 年 {Auto_2} 月 {Auto_3} 日 {Auto_4} 小時 {Auto_5} 分鐘 {Auto_6} 秒
 ETC_20150317_002021	完成日期
 ETC_20150317_002022	Receive Back
-ETC_20150317_002023	Refund: {Auto_1}
+ETC_20150317_002023	退費: {Auto_1}
 ETC_20150317_002024	Time added
 ETC_20150317_002025	I want to import the items
 ETC_20150317_002026	{Auto_1} 月 {Auto_2} 天
@@ -2043,8 +2043,8 @@ ETC_20150317_002041	No attack
 ETC_20150317_002042	Overkill
 ETC_20150317_002043	主頁
 ETC_20150317_002044	Sub
-ETC_20150317_002045	Received reward(s)!
-ETC_20150317_002046	Gift given by {Giver} to {Target}
+ETC_20150317_002045	得到獎勵！
+ETC_20150317_002046	{Giver} 給 {Target} 的禮物！
 ETC_20150317_002047	數量
 ETC_20150317_002048	接收
 ETC_20150317_002049	購買
@@ -2056,9 +2056,9 @@ ETC_20150317_002054	[未完成]
 ETC_20150317_002055	[完成]
 ETC_20150317_002056	Repeatable
 ETC_20150317_002057	Collect Wood Essence
-ETC_20150317_002058	Offering blood of 黑色-Eyed Maize to the altar
+ETC_20150317_002058	Offering blood of 黑色-Eyed Maize to the 祭壇
 ETC_20150317_002059	Complete sticky dye!
-ETC_20150317_002060	Ritual Completed
+ETC_20150317_002060	儀式完畢
 ETC_20150317_002061	{memo X}複製
 ETC_20150317_002062	{memo X}退出
 ETC_20150317_002063	Found the usable Shrine Offering Tools!
@@ -2088,23 +2088,23 @@ ETC_20150317_002086	You already have long ropes
 ETC_20150317_002087	There is something rotten in the well
 ETC_20150317_002088	Ask where
 ETC_20150317_002089	it's OK
-ETC_20150317_002090	You cannot see whether the monsters are near the center of the altar or not!
+ETC_20150317_002090	You cannot see whether the monsters are near the center of the 祭壇 or not!
 ETC_20150317_002091	Sowing Seeds
 ETC_20150317_002092	You do not have enough space in your inventory!
 ETC_20150317_002093	{memo X}Nothing was found.
 ETC_20150317_002094	{memo X}Spring Star herb is already around the area.
 ETC_20150317_002095	You found Spring Light Grass!
-ETC_20150317_002096	Offering water to the altar
-ETC_20150317_002097	Offering wood essence to the altar
-ETC_20150317_002098	Offer blood of 黑色-Eyed Maize to the altar
-ETC_20150317_002099	Offer water to the altar
-ETC_20150317_002100	Offer wood essence to the altar
-ETC_20150317_002101	Finished altar ritual
+ETC_20150317_002096	Offering water to the 祭壇
+ETC_20150317_002097	Offering wood essence to the 祭壇
+ETC_20150317_002098	Offer blood of 黑色-Eyed Maize to the 祭壇
+ETC_20150317_002099	Offer water to the 祭壇
+ETC_20150317_002100	Offer wood essence to the 祭壇
+ETC_20150317_002101	Finished 祭壇 ritual
 ETC_20150317_002102	{memo X}The wooden essence bucket is empty.
 ETC_20150317_002103	Revelator! {nl} I will remember who you are!
 ETC_20150317_002104	Digging
 ETC_20150317_002105	Obtained herbs!
-ETC_20150317_002106	You did not find anything.
+ETC_20150317_002106	你什麼都沒找到。
 ETC_20150317_002107	Worshiping the Goddess Statue
 ETC_20150317_002108	Completed worshiping the Goddess Statue
 ETC_20150317_002109	Praying for purification
@@ -2119,7 +2119,7 @@ ETC_20150317_002117	{memo X}The monster is trying to explode.
 ETC_20150317_002118	You have opened the box
 ETC_20150317_002119	Obelisk power source
 ETC_20150317_002120	Whew that was hard!
-ETC_20150317_002121	My back hurts and I can't move!
+ETC_20150317_002121	我的背好痛，我動不了。
 ETC_20150317_002122	Whoa.. whoa..
 ETC_20150317_002123	The tree of my home was as strong as this one too!
 ETC_20150317_002124	Oooaah!
@@ -2245,7 +2245,7 @@ ETC_20150317_002243	Putting the map into the tube
 ETC_20150317_002244	You have placed the map in the collection tube
 ETC_20150317_002245	Picking up the map
 ETC_20150317_002246	Retrieved the map which was placed into the tube!
-ETC_20150317_002247	{memo X}As the blessing of altar, You can run very fast during 30 sec!
+ETC_20150317_002247	{memo X}As the blessing of 祭壇, You can run very fast during 30 sec!
 ETC_20150317_002248	{memo X}我想要貢獻 100 銀幣.
 ETC_20150317_002249	{memo X}我想要貢獻 500 銀幣.
 ETC_20150317_002250	{memo X}我想要貢獻 1000 銀幣.
@@ -2304,7 +2304,7 @@ ETC_20150317_002302	{memo X}Succeeded in releasing the trapped soul!
 ETC_20150317_002303	{memo X}The soul is going to attack! Defeat them first!
 ETC_20150317_002304	{memo X}Succeeded in hunting the trapped monsters!
 ETC_20150317_002305	花
-ETC_20150317_002306	Altar-bound Soul
+ETC_20150317_002306	祭壇-bound Soul
 ETC_20150317_002307	{memo X}Collected the herb!
 ETC_20150317_002308	Bring the jar near the pond!
 ETC_20150317_002309	You have already collected the sap!
@@ -2406,7 +2406,7 @@ ETC_20150317_002404	{memo X}Murky energy is flowing out. Run away.
 ETC_20150317_002405	{memo X}Successfully destroyed the Demon Summoner
 ETC_20150317_002406	{memo X}Destroy spell purifier
 ETC_20150317_002407	Insane Panto
-ETC_20150317_002408	{memo X}Failed to protect the purifying altar
+ETC_20150317_002408	{memo X}Failed to protect the purifying 祭壇
 ETC_20150317_002409	{memo X}Successfully defeated Gaigalas! {nl} Cut off the root of Bramble.
 ETC_20150317_002410	{memo X}Successfully defeated Molich! {nl} Cut off the root of Bramble.
 ETC_20150317_002411	{memo X}Successfully defeated the root of Bramble. Defeat Gaigalas.
@@ -2433,7 +2433,7 @@ ETC_20150317_002431	{memo X}Scripture won!
 ETC_20150317_002432	{memo X}It is a too old and dirty bible.
 ETC_20150317_002433	It is very helpful even if it is old
 ETC_20150317_002434	I ask the position of the device
-ETC_20150317_002435	The relic matches the altar!
+ETC_20150317_002435	The relic matches the 祭壇!
 ETC_20150317_002436	{memo X}You will not be able to put the Holy relics at home.
 ETC_20150317_002437	Insert the Holy Relic of Mercy
 ETC_20150317_002438	Insert the Holy Relic of Salvation
@@ -2575,12 +2575,12 @@ ETC_20150317_002573	吸收SP {Auto_1}！
 ETC_20150317_002574	減少冷卻時間 {Auto_1} 秒
 ETC_20150317_002575	盾牌 Hitter {Auto_1}！
 ETC_20150317_002576	暴擊！
-ETC_20150317_002577	Immunity!
-ETC_20150317_002578	Provoke!
-ETC_20150317_002579	Reflection Damage!
+ETC_20150317_002577	免疫！
+ETC_20150317_002578	挑釁！
+ETC_20150317_002579	反彈傷害!
 ETC_20150317_002580	追加 {Auto_1} %% 傷害！
 ETC_20150317_002581	減少 {Auto_1} %% 傷害！
-ETC_20150317_002582	Remove Shield!
+ETC_20150317_002582	移除護盾！
 ETC_20150317_002583	Counter!!
 ETC_20150317_002584	Attribute Weapon Attack + {Auto_1}%
 ETC_20150317_002585	Break Ice Rim Blow
@@ -2597,16 +2597,16 @@ ETC_20150317_002595	Questionnaire title is too long
 ETC_20150317_002596	問題
 ETC_20150317_002597	投票
 ETC_20150317_002598	Set of access rights
-ETC_20150317_002599	Cannot join anymore
+ETC_20150317_002599	無法再度加入
 ETC_20150317_002600	The party has acquired {Auto_1} EXP
 ETC_20150317_002601	Party level has increased to {Auto_1}
 ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
 ETC_20150317_002603	加入 {Auto_1} 的隊伍
 ETC_20150317_002604	已建立 {Auto_1} 隊伍
-ETC_20150317_002605	{Inviter} has invited you to a party.{nl}Would you like to join?
-ETC_20150317_002606	{PC} is already a member of a party
+ETC_20150317_002605	{Inviter} 邀請你加入他的隊伍。{nl}你要加入嗎？
+ETC_20150317_002606	{PC}已經有隊伍了
 ETC_20150317_002607	You are not a member of a party
-ETC_20150317_002608	Do you want to leave this party?
+ETC_20150317_002608	你確定要離開隊伍？
 ETC_20150317_002609	Your party leader wants to disband the party {nl} Are you sure you want to disband the party?
 ETC_20150317_002610	The party has been disbanded
 ETC_20150317_002611	{@st41b} If you are not a member of a party, check the information below to create a new one {/}
@@ -2635,20 +2635,20 @@ ETC_20150317_002633	Enter the amount of iCoin you want to gift.
 ETC_20150317_002634	{Auto_2} ~ {Auto_1} 個
 ETC_20150317_002635	You received {Count} iCoin as a gift from {Giver}.
 ETC_20150317_002636	I gifted {Count} iCoin to {Receiver}.
-ETC_20150317_002637	{Giver} has not enough iCoin to gift.
+ETC_20150317_002637	{Giver} 沒有多餘的iCoin可贈送。
 ETC_20150317_002638	{Receiver} can no longer receive iCoin for today.
 ETC_20150317_002639	Fluid body of {Auto_1}
-ETC_20150317_002640	You do not have enough iCoin.
+ETC_20150317_002640	你沒有足夠的iCoin.
 ETC_20150317_002641	The mike cannot exceed {MaxByte} bytes.
-ETC_20150317_002642	This party does not exist.
-ETC_20150317_002643	Expel
+ETC_20150317_002642	這個隊伍不存在。
+ETC_20150317_002643	驅逐
 ETC_20150317_002644	離開
 ETC_20150317_002645	隊伍信息
 ETC_20150317_002646	設置隊長
 ETC_20150317_002647	拒絕了組隊的邀請
 ETC_20150317_002648	你想要加入組隊？
 ETC_20150317_002649	The mike cannot exceed {MaxLen} characters.
-ETC_20150317_002650	You are already in a party
+ETC_20150317_002650	你已經有隊伍了
 ETC_20150317_002651	沒有隊伍可加入
 ETC_20150317_002652	全部
 ETC_20150317_002653	沒有足夠的組隊成員
@@ -2660,7 +2660,7 @@ ETC_20150317_002658	Only the party leader can do this.
 ETC_20150317_002659	{memo X}All members must come to {MapName} to begin the Quest.
 ETC_20150317_002660	Not all members are not together.
 ETC_20150317_002661	Members of party quest have been met. The quest will be available after a certain time.
-ETC_20150317_002662	has left.
+ETC_20150317_002662	已脫隊。
 ETC_20150317_002663	普通
 ETC_20150317_002664	廣播
 ETC_20150317_002665	組隊
@@ -2668,27 +2668,27 @@ ETC_20150317_002666	To {Who} and {Count} others
 ETC_20150317_002667	聊天列表
 ETC_20150317_002668	這個使用者不存在
 ETC_20150317_002669	組隊任務區域
-ETC_20150317_002670	This user does not exist or is offline.
+ETC_20150317_002670	沒有這個用戶或是他正處於離線狀態。
 ETC_20150317_002671	Enter the player's team name to invite.
 ETC_20150317_002672	{TargetName} and {Count} others
-ETC_20150317_002673	Start Auction
+ETC_20150317_002673	開始拍賣
 ETC_20150317_002674	Failed to start an auction
 ETC_20150317_002675	Another auction is in progress
-ETC_20150317_002676	No bidder
-ETC_20150317_002677	The auction has been canceled
-ETC_20150317_002678	{Auto_2} won the bid with {Auto_1} silver
-ETC_20150317_002679	The auction has ended
-ETC_20150317_002680	You earned {Auto_1} silver from the auction
+ETC_20150317_002676	沒有下標者
+ETC_20150317_002677	拍賣已被取消
+ETC_20150317_002678	{Auto_2} 以 {Auto_1} 銀幣得標！
+ETC_20150317_002679	拍賣結束
+ETC_20150317_002680	本次拍賣獲得 {Auto_1} 銀幣
 ETC_20150317_002681	Already the highest bidder
-ETC_20150317_002682	Bidding complete
-ETC_20150317_002683	Do you want to bid?
+ETC_20150317_002682	完成下標
+ETC_20150317_002683	你要下標嗎？
 ETC_20150317_002684	You received the item from the auction.
 ETC_20150317_002685	Your item from the auction has been sold.
 ETC_20150317_002686	Received money from the expired auction
-ETC_20150317_002687	The auction has ended.
+ETC_20150317_002687	拍賣結束。
 ETC_20150317_002688	Placed an item for auction!
 ETC_20150317_002689	{Bidder} is the highest bidder for {ItemName}.{/}
-ETC_20150317_002690	You are currently the highest bidder of {Auto_1}.{/}
+ETC_20150317_002690	你目前是 {Auto_1} 的最高出價者。{/}
 ETC_20150317_002691	{ItemName} was put up for auction in {MapName}.
 ETC_20150317_002692	{PC} has won {ItemName} from the auction.
 ETC_20150317_002693	You cannot bid higher than the buyout price.
@@ -2712,7 +2712,7 @@ ETC_20150317_002710	確認購買
 ETC_20150317_002711	價格: 低到高
 ETC_20150317_002712	價格: 高到低
 ETC_20150317_002713	最新登記
-ETC_20150317_002714	Price entered must be at least 1.
+ETC_20150317_002714	價格最低為 1 
 ETC_20150317_002715	Only skills that consume items are possible.
 ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
 ETC_20150317_002717	出血箭
@@ -2737,12 +2737,12 @@ ETC_20150317_002735	Rim Attack
 ETC_20150317_002736	魔法攻擊
 ETC_20150317_002737	魔法防禦
 ETC_20150317_002738	Creates an additional slot when equipped
-ETC_20150317_002739	Gender
+ETC_20150317_002739	性別
 ETC_20150317_002740	最大插槽數
-ETC_20150317_002741	Sell to shop
-ETC_20150317_002742	交易 with player
+ETC_20150317_002741	賣給商店
+ETC_20150317_002742	與玩家交易
 ETC_20150317_002743	Enhance Potential
-ETC_20150317_002744	Sell Price to Shop
+ETC_20150317_002744	商店買入價格
 ETC_20150317_002745	裝備 等級
 ETC_20150317_002746	裝備 職業
 ETC_20150317_002747	Piercing
@@ -2817,7 +2817,7 @@ ETC_20150317_002815	簡單
 ETC_20150317_002816	普通
 ETC_20150317_002817	困難
 ETC_20150317_002818	非常困難
-ETC_20150317_002819	{S22}{ol}Next quest level: {Auto_1}
+ETC_20150317_002819	{S22}{ol}下個任務等級： {Auto_1}
 ETC_20150317_002820	地區：
 ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} 個 {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
@@ -2844,7 +2844,7 @@ ETC_20150317_002842	布衣
 ETC_20150317_002843	皮甲
 ETC_20150317_002844	金屬
 ETC_20150317_002845	鎖鏈
-ETC_20150317_002846	Fluid
+ETC_20150317_002846	液體
 ETC_20150317_002847	{memo X}This mercenary already belongs to somebody else.
 ETC_20150317_002848	{memo X}The mercenary's level is higher than the PC's level.
 ETC_20150317_002849	{memo X}The mercenary has been hired.
@@ -2951,10 +2951,10 @@ ETC_20150317_002949	Evaluation
 ETC_20150317_002950	Attack Attribute
 ETC_20150317_002951	Enable attack type
 ETC_20150317_002952	Moving Type
-ETC_20150317_002953	Small
-ETC_20150317_002954	Medium
-ETC_20150317_002955	Large
-ETC_20150317_002956	Extra Large
+ETC_20150317_002953	小
+ETC_20150317_002954	中
+ETC_20150317_002955	大
+ETC_20150317_002956	特大
 ETC_20150317_002957	Ghost
 ETC_20150317_002958	No Attribute
 ETC_20150317_002959	火
@@ -2984,8 +2984,8 @@ ETC_20150317_002982	登出：剛剛
 ETC_20150317_002983	Temporary space
 ETC_20150317_002984	{Auto_1} HP已經回復
 ETC_20150317_002985	{Auto_1} SP已經回復
-ETC_20150317_002986	Join
-ETC_20150317_002987	... Followed me!?!?
+ETC_20150317_002986	加入
+ETC_20150317_002987	... 跟著我！？！？
 ETC_20150317_002988	Type is whoever is near me!
 ETC_20150317_002989	I wonder who would win ~
 ETC_20150317_002990	Random Game, my favorite + _ +
@@ -3002,7 +3002,7 @@ ETC_20150317_003000	Received
 ETC_20150317_003001	Combining
 ETC_20150317_003002	Write
 ETC_20150317_003003	Already obtained:
-ETC_20150317_003004	You must complete the West 希奧莉艾 Woods quest in order to progress
+ETC_20150317_003004	You must complete the West 希奧利艾 Woods quest in order to progress
 ETC_20150317_003005	Found an Archaeologist's Token!
 ETC_20150317_003006	{memo X}Did not find anything.
 ETC_20150317_003007	{memo X}Tombstone of Lydia Schaffen completed. {nl} Let's read the tombstone again.
@@ -3012,7 +3012,7 @@ ETC_20150317_003010	{memo X}Tried to open the box but couldn't
 ETC_20150317_003011	Available during the tagging game
 ETC_20150317_003012	Cannot be used by the tagger
 ETC_20150317_003013	Current Ice status
-ETC_20150317_003014	Available in West 希奧莉艾 Woods
+ETC_20150317_003014	Available in West 希奧利艾 Woods
 ETC_20150317_003015	There are no [Beast Type] monsters nearby!
 ETC_20150317_003016	Ride on
 ETC_20150317_003017	Using
@@ -3210,19 +3210,19 @@ ETC_20150317_003208	I can't get out!
 ETC_20150317_003209	請破壞它！
 ETC_20150317_003210	Collecting Flame Vapor
 ETC_20150317_003211	Grita's Reflection
-ETC_20150317_003212	Be careful!
-ETC_20150317_003213	You're in danger!
-ETC_20150317_003214	What's that?
-ETC_20150317_003215	There's no time to chat!
-ETC_20150317_003216	You need to go fast
-ETC_20150317_003217	You..
+ETC_20150317_003212	小心！
+ETC_20150317_003213	你有危險！
+ETC_20150317_003214	什麼？
+ETC_20150317_003215	沒時間閒聊了！
+ETC_20150317_003216	你得跑快點！
+ETC_20150317_003217	你...
 ETC_20150317_003218	受到傷害
 ETC_20150317_003219	死亡
 ETC_20150317_003220	點擊 NPC
 ETC_20150317_003221	Within trigger range
 ETC_20150317_003222	Outside trigger range
 ETC_20150317_003223	I got the item
-ETC_20150317_003224	Item was discarded or stolen
+ETC_20150317_003224	道具已遭丟棄或被偷了
 ETC_20150317_003225	使用道具
 ETC_20150317_003226	裝備道具
 ETC_20150317_003227	刪除道具
@@ -3244,7 +3244,7 @@ ETC_20150317_003242	You can safely pass through the barrier if you have a bowl
 ETC_20150317_003243	These gates are blocked {nl} You need the help of the Carved Owl to pass through
 ETC_20150317_003244	Collecting
 ETC_20150317_003245	I found the trail of scout troops
-ETC_20150317_003246	Altar of Magic
+ETC_20150317_003246	祭壇 of Magic
 ETC_20150317_003247	Obedient Owl Image
 ETC_20150317_003248	Jalias Truffle
 ETC_20150317_003249	The monster was attacked while comforting the souls!
@@ -3463,7 +3463,7 @@ ETC_20150317_003461	Wow, this tree just won't budge!
 ETC_20150317_003462	Whew... when is the shift?
 ETC_20150317_003463	If I don't, then who would?!
 ETC_20150317_003464	{memo X}Collected the moss
-ETC_20150317_003465	Collecting
+ETC_20150317_003465	收集中
 ETC_20150317_003466	{memo X}Collected discolored grass
 ETC_20150317_003467	Vubbe Fighter Melinas
 ETC_20150317_003468	[Troops Advance] should be started in order to pass through
@@ -3493,7 +3493,7 @@ ETC_20150317_003491	找回了物資
 ETC_20150317_003492	{memo X}This box is suspicious. Stay away!
 ETC_20150317_003493	Purchase 裝備
 ETC_20150317_003494	Purchase Tools
-ETC_20150317_003495	Talk
+ETC_20150317_003495	談話
 ETC_20150317_003496	{memo X}Ask which child he's looking for
 ETC_20150317_003497	{memo X}Ask if the child is not from the town
 ETC_20150317_003498	{memo X}Ask if the child has parents
@@ -3506,14 +3506,14 @@ ETC_20150317_003504	Obtained the supplies box
 ETC_20150317_003505	Acquired relief supplies
 ETC_20150317_003506	Acquired stones for wall reinforcement
 ETC_20150317_003507	Spreading
-ETC_20150317_003508	Looks like we're going to have to go back quickly
+ETC_20150317_003508	看起來我們得趕快回家了！
 ETC_20150317_003509	The town seems safer than here
 ETC_20150317_003510	Thank you for the news
-ETC_20150317_003511	Looks like we're going to have to go back home quickly
-ETC_20150317_003512	Thanks to the Goddess
-ETC_20150317_003513	Returned the refugees to town!
-ETC_20150317_003514	Go first. I will follow in a little while.
-ETC_20150317_003515	Vubbe Invader
+ETC_20150317_003511	看起來我們得趕快回家了！
+ETC_20150317_003512	感謝眾神
+ETC_20150317_003513	將難民送回城鎮！
+ETC_20150317_003514	你先走，我等等就跟上了。
+ETC_20150317_003515	瓦布侵略者
 ETC_20150317_003516	Mine Vigilante
 ETC_20150317_003517	Mine Village Head
 ETC_20150317_003518	Rescue box
@@ -3544,14 +3544,14 @@ ETC_20150317_003542	Road on Left: Chinency field (Caution) {nl} Road on right: T
 ETC_20150317_003543	Danger!{nl} Return to Klaipeda!
 ETC_20150317_003544	{memo X}Seems like there is something below the cliff.
 ETC_20150317_003545	Keep Out{nl} Incinerating Kepas!
-ETC_20150317_003546	希奧莉艾 西側森林 營地
+ETC_20150317_003546	希奧利艾 西側森林 營地
 ETC_20150317_003547	Note! Hamin infested area
 ETC_20150317_003548	CAUTION! Large scale battles in progress
 ETC_20150317_003549	{memo X}It seems like someone has fallen under the cliff
 ETC_20150317_003550	{memo X}Seems like you can climb up by jumping along the cliff
 ETC_20150317_003551	Road on left: Large-scale combat zone {nl} Road on righty: Temporary camp
 ETC_20150317_003552	CAUTION! Sunflower Popolion infested area
-ETC_20150317_003553	Guild commission: 希奧莉艾 East Branch {nl} Diverse requests, high rewards guaranteed
+ETC_20150317_003553	Guild commission: 希奧利艾 East Branch {nl} Diverse requests, high rewards guaranteed
 ETC_20150317_003554	30m until West Forest Camp
 ETC_20150317_003555	10m until West Forest Camp
 ETC_20150317_003556	CAUTION! 傀儡s! {nl} Cannot enter without permission
@@ -3600,14 +3600,14 @@ ETC_20150317_003598	增加精神 +20
 ETC_20150317_003599	增加闇屬性攻擊 +10
 ETC_20150317_003600	增加攻擊 +5 against 野獸 types, You can hear what the cat said..
 ETC_20150317_003601	增加 SP 回復 +2
-ETC_20150317_003602	Feels like the chance to acquire item will increase
-ETC_20150317_003603	增加暴擊幾率
+ETC_20150317_003602	感覺好像會提高道具掉落率
+ETC_20150317_003603	增加暴擊機率
 ETC_20150317_003604	增加攻擊
 ETC_20150317_003605	增加防禦
-ETC_20150317_003606	Attack increased significantly
+ETC_20150317_003606	大幅增加攻擊力
 ETC_20150317_003607	{memo X}Not a registered instant shop{nl}Register instant shop through the Tools Merchant to use
 ETC_20150317_003608	Instant shop (O)
-ETC_20150317_003609	right away.
+ETC_20150317_003609	立刻。
 ETC_20150317_003610	Session destruction
 ETC_20150317_003611	Done
 ETC_20150317_003612	Hi
@@ -3697,7 +3697,7 @@ ETC_20150317_003695	No it tag main trigger
 ETC_20150317_003696	No ice it tag player session
 ETC_20150317_003697	Give power to the Owl Statue! (Space bar)
 ETC_20150317_003698	Giving power
-ETC_20150317_003699	Magic altar is not destroyed
+ETC_20150317_003699	Magic 祭壇 is not destroyed
 ETC_20150317_003700	{memo X}Not keepsake of soul
 ETC_20150317_003701	Using the condensed magic source
 ETC_20150317_003702	{memo X}Absorb Medakia!
@@ -3815,7 +3815,7 @@ ETC_20150317_003813	使用傳送到任何地方
 ETC_20150317_003814	你不能移動. 這裡沒有女神神像可使用
 ETC_20150317_003815	The rest of the area
 ETC_20150317_003816	Rest of the camp
-ETC_20150317_003817	2. Select 希奧莉艾 ??Select West 希奧莉艾 Woods
+ETC_20150317_003817	2. Select 希奧利艾 ??Select West 希奧利艾 Woods
 ETC_20150317_003818	Basic Quest Information
 ETC_20150317_003819	Home
 ETC_20150317_003820	Sub
@@ -4005,7 +4005,7 @@ ETC_20150317_004003	{memo X}It can be only used in Mage Tower 1st Floor.
 ETC_20150317_004004	You will not be able to use it
 ETC_20150317_004005	There is no Goddess Statue nearby!
 ETC_20150317_004006	There are no monsters around to use the bomb on!
-ETC_20150317_004007	Available only in the West 希奧莉艾 Woods
+ETC_20150317_004007	Available only in the West 希奧利艾 Woods
 ETC_20150317_004008	It cannot be used while directing!
 ETC_20150317_004009	{memo X}The piece of the monument is not enough.
 ETC_20150317_004010	{memo X}The effect of the magic jar has weakened.
@@ -4211,16 +4211,16 @@ ETC_20150317_004209	天
 ETC_20150317_004210	小時
 ETC_20150317_004211	分鐘
 ETC_20150317_004212	秒
-ETC_20150317_004213	 selected
+ETC_20150317_004213	 已選擇
 ETC_20150317_004214	{nl}你確定要進階你的角色？{nl}(不能在下個階段前更換。)
 ETC_20150317_004215	{@st44}下一階段信息
-ETC_20150317_004216	Current Job Information
-ETC_20150317_004217	{memo X}{@st43}Date :
-ETC_20150317_004218	{memo X}{@st43}Playtime :
+ETC_20150317_004216	目前職業資訊
+ETC_20150317_004217	{memo X}{@st43}日期 :
+ETC_20150317_004218	{memo X}{@st43}遊戲時間 :
 ETC_20150317_004219	{@st41} 快捷鍵
 ETC_20150317_004220	{@st41} 動作
 ETC_20150317_004221	{@st41} 文字
-ETC_20150317_004222	{@st41} Combo Configuration
+ETC_20150317_004222	{@st41} 巨集設定
 ETC_20150317_004223	{@st41} Battle Cry
 ETC_20150317_004224	{@st41b}Create{/}
 ETC_20150317_004225	{@st41}Creation{/}
@@ -4229,23 +4229,23 @@ ETC_20150317_004227	{@st41}Using {/}
 ETC_20150317_004228	Due to a system error, cheat cannot be used.
 ETC_20150317_004229	Cheat List
 ETC_20150317_004230	Run Script
-ETC_20150317_004231	Enter name
-ETC_20150317_004232	Please select at least one
+ETC_20150317_004231	輸入名稱
+ETC_20150317_004232	請至少選擇一樣
 ETC_20150317_004233	{@st41} Gesture List
 ETC_20150317_004234	[主線]
 ETC_20150317_004235	{@st55_b}{b} 獎勵 {/}
 ETC_20150317_004236	{@st55_c} 經驗：
 ETC_20150317_004237	Waiting for the other player to accept.
-ETC_20150317_004238	You cannot 交易 already equipped items.
+ETC_20150317_004238	你無法交易已裝備的物品。
 ETC_20150317_004239	You do not have enough funds.
 ETC_20150317_004240	{Auto_1}: Level {Auto_2} {Auto_3}
 ETC_20150317_004241	{@st49} 保存
 ETC_20150317_004242	{@st49} 選擇
 ETC_20150317_004243	} Hello there
 ETC_20150317_004244	{memo X}{@st41b} Fold ??
-ETC_20150317_004245	{memo X}{@st41b} View details
-ETC_20150317_004246	{s22} Do you want to discard?
-ETC_20150317_004247	Are you sure you want to discard [
+ETC_20150317_004245	{memo X}{@st41b} 查看明細
+ETC_20150317_004246	{s22} 你想丟棄?
+ETC_20150317_004247	你確定要丟棄 [
 ETC_20150317_004248	]?
 ETC_20150317_004249	{#FFFF00}{s20}{ol}{b}Item Acquisition:
 ETC_20150317_004250	{Auto_1} 分 {Auto_2} 秒
@@ -4482,7 +4482,7 @@ ETC_20150317_004480	Angry Pokubu
 ETC_20150317_004481	Soldier that was steeped in evil
 ETC_20150317_004482	Where are my followers?
 ETC_20150317_004483	Disguised Tent
-ETC_20150317_004484	You go first.
+ETC_20150317_004484	你先走。
 ETC_20150317_004485	Fair is fair. {nl} Don't you agree?
 ETC_20150317_004486	It's nice to have friends.
 ETC_20150317_004487	Dead men tell no tales
@@ -4496,12 +4496,12 @@ ETC_20150317_004494	Hope
 ETC_20150317_004495	Avarice
 ETC_20150317_004496	Right
 ETC_20150317_004497	Wrong
-ETC_20150317_004498	{memo X}Call the brave Gedulah of jakariel by reactivating of altar of gedulah.
+ETC_20150317_004498	{memo X}Call the brave Gedulah of jakariel by reactivating of 祭壇 of gedulah.
 ETC_20150317_004499	Wisdom
 ETC_20150317_004500	Gold
 ETC_20150317_004501	Food
 ETC_20150317_004502	The Great King is waiting for you.
-ETC_20150317_004503	{memo X}Call the faithful Sviesa of jakariel by reactivating of altar of Sviesa
+ETC_20150317_004503	{memo X}Call the faithful Sviesa of jakariel by reactivating of 祭壇 of Sviesa
 ETC_20150317_004504	Device Canyon
 ETC_20150317_004505	Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32
 ETC_20150317_004506	Yo! Heave! ho!
@@ -4524,7 +4524,7 @@ ETC_20150317_004522	Volunteers Feet
 ETC_20150317_004523	Volunteers Malt
 ETC_20150317_004524	That guy... Help him...
 ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Archer: Vubbe Robber: 43
-ETC_20150317_004526	Monsters!
+ETC_20150317_004526	魔物！
 ETC_20150317_004527	He's persistent!
 ETC_20150317_004528	Hello?
 ETC_20150317_004529	歡迎來到 克萊佩達。
@@ -4551,14 +4551,14 @@ ETC_20150317_004549	Lantern_mushroom_Big:Gribaru:47/Lantern_mushroom:Griba:47/La
 ETC_20150317_004550	truffle_Big:Truffle:47/truffle:Truffle:47/truffle:Truffle:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47/Lantern_mushroom:Griba:47
 ETC_20150317_004551	truffle_Big:Truffle:47/truffle:Truffle:47/truffle:truffle:47/truffle:Truffle:47/truffle:Truffle:47/truffle:Truffle:47
 ETC_20150317_004552	Lantern_mushroom_Big:Gribaru:48/Lantern_mushroom:Griba:48/Lantern_mushroom:Griba:48/Lantern_mushroom:Griba:48/Lantern_mushroom_Big:Gribaru:48
-ETC_20150317_004553	This is the last chance
+ETC_20150317_004553	這是最後的機會
 ETC_20150317_004554	TxGiveItem function
 ETC_20150317_004555	TxTakeItem function
-ETC_20150317_004556	Completed Quests
+ETC_20150317_004556	任務完成
 ETC_20150317_004557	Activation of script of the first play
-ETC_20150317_004558	You do not have enough iCoins...
-ETC_20150317_004559	Change Hairstyle
-ETC_20150317_004560	Failed to change hairstyle
+ETC_20150317_004558	你沒有足夠的iCoins...
+ETC_20150317_004559	更換髮型
+ETC_20150317_004560	更換髮型失敗
 ETC_20150317_004561	Name/
 ETC_20150317_004562	<Class QuestClassName="
 ETC_20150317_004563	Quest Name = "
@@ -4719,14 +4719,14 @@ ETC_20150317_004717	And conversation
 ETC_20150317_004718	普通聊天
 ETC_20150317_004719	組隊聊天
 ETC_20150317_004720	群組
-ETC_20150317_004721	Invite to chat
+ETC_20150317_004721	邀請加入對話
 ETC_20150317_004722	系統
 ETC_20150317_004723	{@st61} A new chat message has arrived! {/}
 ETC_20150317_004724	最小：
 ETC_20150317_004725	最大：
 ETC_20150317_004726	{@st43} 銀幣 0
 ETC_20150317_004727	{@st43} 銀幣
-ETC_20150317_004728	Discarded
+ETC_20150317_004728	已丟棄
 ETC_20150317_004729	{memo X}(傳送卷軸)
 ETC_20150317_004730	{memo X}銀幣
 ETC_20150317_004731	{@st41b}確認{/}
@@ -4734,12 +4734,12 @@ ETC_20150317_004732	{@st59} 消耗銀幣移動到地點 {/}
 ETC_20150317_004733	{@st59} to move to the\ area. {/}
 ETC_20150317_004734	地圖
 ETC_20150317_004735	地圖探索
-ETC_20150317_004736	{S20}{#00f00F} My Ranking:
+ETC_20150317_004736	{S20}{#00f00F} 我的排名:
 ETC_20150317_004737	Acquisition
 ETC_20150317_004738	No order
 ETC_20150317_004739	Acquisition
-ETC_20150317_004740	{S20}{ol}{#00f00F} My Ranking:
-ETC_20150317_004741	No data
+ETC_20150317_004740	{S20}{ol}{#00f00F} 我的排名:
+ETC_20150317_004741	無資料
 ETC_20150317_004742	No rank last week
 ETC_20150317_004743	Hunting
 ETC_20150317_004744	{@st64} Let's apply that approach to the NPC dialogue with \ ScpArgMsg ("Auto_SeuPeiSeuBa \")!
@@ -4757,7 +4757,7 @@ ETC_20150317_004755	{@st41b} 排行
 ETC_20150317_004756	{@st41}{#f0dcaa} 平均殺死
 ETC_20150317_004757	{@st41}{#f0dcaa} 平均等級
 ETC_20150317_004758	{@st41}{#f0dcaa} 平均金錢
-ETC_20150317_004759	 obtained
+ETC_20150317_004759	 獲得
 ETC_20150317_004760	(激活)
 ETC_20150317_004761	冰
 ETC_20150317_004762	{@st41} icon
@@ -4806,8 +4806,8 @@ ETC_20150317_004804	Enhancing the Thorn Flower Powder Stimulant
 ETC_20150317_004805	Drank the stimulant
 ETC_20150317_004806	The muddy aura by Bramble disappeared.
 ETC_20150317_004807	Obtaining the Revelation
-ETC_20150317_004808	Repair
-ETC_20150317_004809	Secondary 裝備
+ETC_20150317_004808	修理
+ETC_20150317_004809	副手 裝備
 ETC_20150317_004810	單手劍
 ETC_20150317_004811	雙手劍
 ETC_20150317_004812	棍
@@ -4820,10 +4820,10 @@ ETC_20150317_004818	單手矛
 ETC_20150317_004819	雙手矛
 ETC_20150317_004820	盾
 ETC_20150317_004821	匕首
-ETC_20150317_004822	Woah, what's this taste?
-ETC_20150317_004823	It's so good!
+ETC_20150317_004822	嘿，味道如何？
+ETC_20150317_004823	很棒耶！
 ETC_20150317_004824	*munch munch gulp gulp*
-ETC_20150317_004825	You must learn the necessary attribute to equip this item.
+ETC_20150317_004825	裝備此道具之前，你必須學習必要特性
 ETC_20150317_004826	立即學習
 ETC_20150317_004827	購買寵物道具
 ETC_20150317_004828	領養寵物
@@ -4859,25 +4859,25 @@ ETC_20150317_004857	{memo X}You are too far away from the soul jar.{nl}In order 
 ETC_20150317_004858	Forest of Thorns
 ETC_20150317_004859	{memo X}Defeated Devilglove who interfered with the monument. {nl}Please check the contents of the monument.
 ETC_20150317_004860	{memo X}1 Stat raised from using Zubeck's Secret Moves.
-ETC_20150317_004861	What happened?
-ETC_20150317_004862	What should we do?
-ETC_20150317_004863	Request magic support
-ETC_20150317_004864	Removed the demon summoning circle!
+ETC_20150317_004861	怎麼了?
+ETC_20150317_004862	我們該怎麼辦?
+ETC_20150317_004863	請求魔法支援
+ETC_20150317_004864	移除召喚惡魔魔法陣！
 ETC_20150317_004865	Hurry up! Activate the barrier!
 ETC_20150317_004866	*huff huff*
 ETC_20150317_004867	Collected Spiritually Enchanted Sap!
 ETC_20150317_004868	This request has already been accepted
 ETC_20150317_004869	You have already finished this daily request
 ETC_20150317_004870	Request accepted
-ETC_20150317_004871	You have exceeded the maximum amount of active requests
-ETC_20150317_004872	You have exceeded the maximum amount of active daily requests
+ETC_20150317_004871	你可接取的任務已達上限
+ETC_20150317_004872	你可接取的每日任務已達上限
 ETC_20150317_004873	Start request
-ETC_20150317_004874	In order to start request
-ETC_20150317_004875	Please use the item
-ETC_20150317_004876	You do not have enough Silver
-ETC_20150317_004877	Insufficient iCoins
-ETC_20150317_004878	This item is not enough
-ETC_20150317_004879	Start the next step
+ETC_20150317_004874	開始任務之前
+ETC_20150317_004875	請使用道具
+ETC_20150317_004876	你沒有足夠的銀幣
+ETC_20150317_004877	iCoins 不足
+ETC_20150317_004878	物品不足
+ETC_20150317_004879	下一步
 ETC_20150317_004880	On hold
 ETC_20150317_004881	Default session:
 ETC_20150317_004882	Other sessions:
@@ -4938,26 +4938,26 @@ ETC_20150317_004936	{memo X}Already placed fragments.
 ETC_20150317_004937	{memo X}Not enough fragments!
 ETC_20150317_004938	So, the Revelator has come here to die.
 ETC_20150317_004939	{memo X} Defeat{n1}You gained a feeling of confidence.
-ETC_20150317_004940	Gesti is looking for you
-ETC_20150317_004941	I found something interesting
-ETC_20150317_004942	There's a place we need to go to
+ETC_20150317_004940	Gesti 正在找你
+ETC_20150317_004941	我找到些有趣的東西
+ETC_20150317_004942	有個地方我們一定要去
 ETC_20150317_004943	Hurry or you'll be late
 ETC_20150317_004944	It's nothing
 ETC_20150317_004945	If you do not want to, just tell me
 ETC_20150317_004946	All right... Let's go
 ETC_20150317_004947	You are a little strange...
-ETC_20150317_004948	{memo X} persusaded!{nl}Take it to Apsaw Altar
+ETC_20150317_004948	{memo X} persusaded!{nl}Take it to Apsaw 祭壇
 ETC_20150317_004949	 following 
 ETC_20150317_004950	How far do I have to go?
-ETC_20150317_004951	Approach closer to the the altar's orb
+ETC_20150317_004951	Approach closer to the the 祭壇's orb
 ETC_20150317_004952	Goodbye
 ETC_20150317_004953	Wait a second
 ETC_20150317_004954	Do I have to wait here?
-ETC_20150317_004955	Please talk again {nl} Come closer to the the Apsauga Altar
+ETC_20150317_004955	Please talk again {nl} Come closer to the the Apsauga 祭壇
 ETC_20150317_004956	{memo X}A Corylus found you!{nl}Your identity has been revealed.
 ETC_20150317_004957	Converted into a demon monster!
 ETC_20150317_004958	The power of Globejas is already activated!
-ETC_20150317_004959	You have transformed!{nl}Lure Pawndel and Pawnd to the Apsauga Altar!
+ETC_20150317_004959	You have transformed!{nl}Lure Pawndel and Pawnd to the Apsauga 祭壇!
 ETC_20150317_004960	You created the Crude Dowsing Rod
 ETC_20150317_004961	Exploration Site
 ETC_20150317_004962	Searching
@@ -5009,11 +5009,11 @@ ETC_20150317_005007	Diagnosing...
 ETC_20150317_005008	{memo X}She already seems unconscious.
 ETC_20150317_005009	{memo X}Consoled the guards.
 ETC_20150317_005010	Thank you.
-ETC_20150317_005011	I can't see anything.
-ETC_20150317_005012	I can't move!
-ETC_20150317_005013	I want to see my mother.
-ETC_20150317_005014	Why do I have to die?!
-ETC_20150317_005015	O' Goddess, help me...
+ETC_20150317_005011	我什麼都看不見。
+ETC_20150317_005012	我不能動了！
+ETC_20150317_005013	我想見我的母親。
+ETC_20150317_005014	為什麼死的是我?!
+ETC_20150317_005015	哦..天啊，救我...
 ETC_20150317_005016	Anyone there? Help me!
 ETC_20150317_005017	Applying Spirit Liberation potion...
 ETC_20150317_005018	{memo X}Making fire
@@ -5077,13 +5077,13 @@ ETC_20150317_005075	I'll leave this place to you
 ETC_20150317_005076	Be careful, Algis
 ETC_20150317_005077	Defeat Mummyghast!
 ETC_20150317_005078	You've been caught in the Mallet Wyvern's trap!{nl}Defeat the Mallet Wyvern!
-ETC_20150317_005079	Central Altar
+ETC_20150317_005079	Central 祭壇
 ETC_20150317_005080	Ah... You useless fool!!
 ETC_20150317_005081	Hurry! Find the sanctuary!
 ETC_20150317_005082	Before Goddess Giltine becomes disappointed...
 ETC_20150317_005083	First, we'll have to regain the Bell Tower.
 ETC_20150317_005084	Let's go!
-ETC_20150317_005085	Sventove Central Altar
+ETC_20150317_005085	Sventove Central 祭壇
 ETC_20150317_005086	Wait!
 ETC_20150317_005087	{memo X}The sacred untensils has been activated.
 ETC_20150317_005088	Protect yourself from Gesti until the Divine Sphere is being activated!
@@ -5160,7 +5160,7 @@ ETC_20150317_005158	Small Hive
 ETC_20150317_005159	We are too late!
 ETC_20150317_005160	Wounded Villager
 ETC_20150317_005161	Were you looking for me?...
-ETC_20150317_005162	Nugria Altar
+ETC_20150317_005162	Nugria 祭壇
 ETC_20150317_005163	Please defeat Moyabruka!
 ETC_20150317_005164	Corrupted Pond 1
 ETC_20150317_005165	The effect of the bomb slows down your movement {nl} when you approach the nearby Upents!
@@ -5200,7 +5200,7 @@ ETC_20150317_005198	All will die
 ETC_20150317_005199	Don't come closer!
 ETC_20150317_005200	Defeat the aggressive Harpia!
 ETC_20150317_005201	Defeat Reaverpede!
-ETC_20150317_005202	{memo X}I will not go easy on you!
+ETC_20150317_005202	{memo X} 我不會讓你好過的!
 ETC_20150317_005203	Defeat the Rogue Master!
 ETC_20150317_005204	Here I go!
 ETC_20150317_005205	{memo X}Defeat Rocktortuga and obtain the natural agate stone!
@@ -5243,7 +5243,7 @@ ETC_20150317_005241	{memo X}Modified tree root turned into a Cactusvel!{nl}Defea
 ETC_20150317_005242	{memo X}Pilgrim Grazzios
 ETC_20150317_005243	Defeat all the monsters summoned by the Pilgrim's Soul within the time limit!
 ETC_20150317_005244	You killed me Demon Lord... You traitor, you deceived me...
-ETC_20150317_005245	Altar of Rage
+ETC_20150317_005245	祭壇 of Rage
 ETC_20150317_005246	{memo X}Defeat the soul binding Merge!
 ETC_20150317_005247	Bound Soul
 ETC_20150317_005248	{memo X}Am I free?
@@ -5256,7 +5256,7 @@ ETC_20150317_005254	Tombstone
 ETC_20150317_005255	{memo X}Has been fooled by the pilgrim!
 ETC_20150317_005256	{memo X}Follow me.
 ETC_20150317_005257	{memo X}They help you.
-ETC_20150317_005258	Altar of Purification
+ETC_20150317_005258	祭壇 of Purification
 ETC_20150317_005259	{memo X}Monsters have appeared after you collected the Bishops's Body!
 ETC_20150317_005260	Bishop's Tomb
 ETC_20150317_005261	{memo X}It doesn't seem like the slate you are looking for.
@@ -5290,7 +5290,7 @@ ETC_20150317_005288	So long Toby! I will spare myself!
 ETC_20150317_005289	Casting
 ETC_20150317_005290	Mercenary Toby
 ETC_20150317_005291	What is this monster! Hey Vincent! Stop!
-ETC_20150317_005292	I said stop!
+ETC_20150317_005292	我說了！停下！
 ETC_20150317_005293	Stone Pillar
 ETC_20150317_005294	{memo X}Monsters have suddenly appeared when you touched the stone pillar!
 ETC_20150317_005295	{memo X}The looming monster snatched the map!{nl}Reclaim the map from the nearby monsters!
@@ -5316,7 +5316,7 @@ ETC_20150317_005314	Ugh.. Help
 ETC_20150317_005315	Chapparition appeared and destroyed Kuzang's stuff!{nl}Please defeat Chapparition!
 ETC_20150317_005316	Your luck ends here!!!!
 ETC_20150317_005317	Begone!!
-ETC_20150317_005318	{memo X}I-It's the 傀儡!
+ETC_20150317_005318	{memo X}是..是傀儡!
 ETC_20150317_005319	阿拉斯
 ETC_20150317_005320	就是現在！
 ETC_20150317_005321	惡魔
@@ -5343,7 +5343,7 @@ ETC_20150317_005341	For the moment being, from the 傀儡!
 ETC_20150317_005342	Burning the dumble ball called on the angry Vubbes!
 ETC_20150317_005343	Austeja Follower
 ETC_20150317_005344	Goddess Austeja
-ETC_20150317_005345	Austeja Altar
+ETC_20150317_005345	Austeja 祭壇
 ETC_20150317_005346	Seal Tower
 ETC_20150317_005347	Giant Mutated Plant
 ETC_20150317_005348	{memo X}You are the Revelator.
@@ -5388,7 +5388,7 @@ ETC_20150317_005386	{memo X}Change Summon
 ETC_20150317_005387	{memo X}Destroy the barrier summoned by the Demon
 ETC_20150317_005388	Follower of Goddess Saule
 ETC_20150317_005389	It's the Merogues!
-ETC_20150317_005390	Protect the Altar of Purification from the monsters
+ETC_20150317_005390	Protect the 祭壇 of Purification from the monsters
 ETC_20150317_005391	{memo X}Honeypin appeared!
 ETC_20150317_005392	{memo X}Drink the enhanced thorn pollen stimulant before passing by!
 ETC_20150317_005393	Revelation
@@ -5530,7 +5530,7 @@ ETC_20150317_005528	{memo X}因為我很特別
 ETC_20150317_005529	{memo X}Visited beauty salon 3 times
 ETC_20150317_005530	寶藏獵人
 ETC_20150317_005531	{memo X}Gained 20 treasure boxes from tomb raiding.
-ETC_20150317_005532	Tournament
+ETC_20150317_005532	聯賽
 ETC_20150317_005533	{memo X}Tournament Fan Club
 ETC_20150317_005534	{memo X}Gave 20 gifts away during the tournament.
 ETC_20150317_005535	{memo X}Tournament Big Fan
@@ -5656,8 +5656,8 @@ ETC_20150317_005654	Spirit Stone is siphoning this demon's life energy!
 ETC_20150317_005655	Shackled!
 ETC_20150317_005656	Ominous Aura
 ETC_20150317_005657	Hostile
-ETC_20150317_005658	The Aura of Malda Altar
-ETC_20150317_005659	The Aura of Malda Altar is enveloping the demons!
+ETC_20150317_005658	The Aura of Malda 祭壇
+ETC_20150317_005659	The Aura of Malda 祭壇 is enveloping the demons!
 ETC_20150317_005660	Confidence
 ETC_20150317_005661	Demons became easier to be dealt with.
 ETC_20150317_005662	The Power of Glozejas
@@ -6330,7 +6330,7 @@ ETC_20150317_006328	台灣
 ETC_20150317_006329	泰國
 ETC_20150317_006330	新加坡
 ETC_20150317_006331	美國
-ETC_20150317_006332	Found the 希奧莉艾 Field.
+ETC_20150317_006332	Found the 希奧利艾 Field.
 ETC_20150317_006333	Aebsova Field
 ETC_20150317_006334	Hyth Cliff
 ETC_20150317_006335	Salavija Hill
@@ -6369,9 +6369,9 @@ ETC_20150317_006367	Pamaldu Groom
 ETC_20150317_006368	Collapsed Dome
 ETC_20150317_006369	Arka Chapel
 ETC_20150317_006370	Reception Room
-ETC_20150317_006371	Veinika Altar
+ETC_20150317_006371	Veinika 祭壇
 ETC_20150317_006372	Uolie Chapel
-ETC_20150317_006373	Altar of Stability
+ETC_20150317_006373	祭壇 of Stability
 ETC_20150317_006374	Small Hall
 ETC_20150317_006375	Liudesy Highway
 ETC_20150317_006376	Olivinas Vacant Lot
@@ -6379,7 +6379,7 @@ ETC_20150317_006377	Fasadu Rest Area
 ETC_20150317_006378	Laukti Antenave
 ETC_20150317_006379	Atejima Concourse
 ETC_20150317_006380	Small Reception Room
-ETC_20150317_006381	Pasara Altar
+ETC_20150317_006381	Pasara 祭壇
 ETC_20150317_006382	Tikintie Gallery
 ETC_20150317_006383	Ishgaki Rest Area
 ETC_20150317_006384	Gryna Upriver
@@ -6577,9 +6577,9 @@ ETC_20150317_006575	Nepatogu Field
 ETC_20150317_006576	Neck Cliff of Snake
 ETC_20150317_006577	Camp of Varkis
 ETC_20150317_006578	Forest of Fireflies
-ETC_20150317_006579	Chesed Altar
-ETC_20150317_006580	Keturka Altar
-ETC_20150317_006581	{memo X}Sviecia Altar
+ETC_20150317_006579	Chesed 祭壇
+ETC_20150317_006580	Keturka 祭壇
+ETC_20150317_006581	{memo X}Sviecia 祭壇
 ETC_20150317_006582	Damaged Excavation
 ETC_20150317_006583	Keturka Access Road
 ETC_20150317_006584	Rikiuoti Access Road
@@ -6622,14 +6622,14 @@ ETC_20150317_006620	Slapia Path
 ETC_20150317_006621	Nugria Sanctum
 ETC_20150317_006622	Zvelgian Vacant Lot
 ETC_20150317_006623	Veidma Uphill
-ETC_20150317_006624	Holy Pond
+ETC_20150317_006624	聖池
 ETC_20150317_006625	Blind Ruins
 ETC_20150317_006626	Inksta Curved Path
 ETC_20150317_006627	Cerpe Crossroads
 ETC_20150317_006628	Sumaze Vacant Lot
 ETC_20150317_006629	Nefrito Valley
 ETC_20150317_006630	White Oak Forest
-ETC_20150317_006631	{memo X}Thorn Tree Altar
+ETC_20150317_006631	{memo X}Thorn Tree 祭壇
 ETC_20150317_006632	Lax Wooden Bridge
 ETC_20150317_006633	Slepingas Stream
 ETC_20150317_006634	Small Camp
@@ -6641,7 +6641,7 @@ ETC_20150317_006639	Dvyni Wetland
 ETC_20150317_006640	Narvas Curved Path
 ETC_20150317_006641	Village Entrance Ruins
 ETC_20150317_006642	Saule Grand Shrine
-ETC_20150317_006643	Altar Grand Gallery
+ETC_20150317_006643	祭壇 Grand Gallery
 ETC_20150317_006644	蝴蝶庭院
 ETC_20150317_006645	黃蜂空地
 ETC_20150317_006646	Ishpirki Access Road
@@ -6690,16 +6690,16 @@ ETC_20150317_006688	Himnas Chapel
 ETC_20150317_006689	Cross Parvis
 ETC_20150317_006690	Statue of Mercy
 ETC_20150317_006691	Worship Anteroom
-ETC_20150317_006692	Apsauga Altar
-ETC_20150317_006693	Globejas Altar
+ETC_20150317_006692	Apsauga 祭壇
+ETC_20150317_006693	Globejas 祭壇
 ETC_20150317_006694	Front Lobby
 ETC_20150317_006695	Nuosirdum Chapel
-ETC_20150317_006696	Bell Tower
+ETC_20150317_006696	鐘塔
 ETC_20150317_006697	Sventove Central Hall
 ETC_20150317_006698	Atgaila Chapel
-ETC_20150317_006699	Auka Altar
+ETC_20150317_006699	Auka 祭壇
 ETC_20150317_006700	Peristyle
-ETC_20150317_006701	Malda Altar
+ETC_20150317_006701	Malda 祭壇
 ETC_20150317_006702	Square Vacant Lot
 ETC_20150317_006703	Western Holy District
 ETC_20150317_006704	Eastern Holy District
@@ -6718,7 +6718,7 @@ ETC_20150317_006716	Virdului Mountain Cabin
 ETC_20150317_006717	Dumbla Pond
 ETC_20150317_006718	Nardyma Twin Waterfall
 ETC_20150317_006719	Griuve Highway
-ETC_20150317_006720	Shiluma Altar Site
+ETC_20150317_006720	Shiluma 祭壇 Site
 ETC_20150317_006721	Neryshkus Sanctum Ruins
 ETC_20150317_006722	Cabin of Lumberjack
 ETC_20150317_006723	Rukytas Hall Site
@@ -6760,7 +6760,7 @@ ETC_20150317_006758	Dazuina Junction
 ETC_20150317_006759	Laipta City Centre
 ETC_20150317_006760	Shirsie Sunny Place
 ETC_20150317_006761	Reserved land for Maras Bee Farm 
-ETC_20150317_006762	Gaudeji Altar 
+ETC_20150317_006762	Gaudeji 祭壇 
 ETC_20150317_006763	Radanza Farm
 ETC_20150317_006764	Wood Watch Tower
 ETC_20150317_006765	Uola Rock
@@ -6804,7 +6804,7 @@ ETC_20150317_006802	Magic Control Place
 ETC_20150317_006803	Kupole Small Church
 ETC_20150317_006804	Oruarma Cathedral
 ETC_20150317_006805	Scar of Fighting Spirit
-ETC_20150317_006806	黑色en Altar
+ETC_20150317_006806	黑色en 祭壇
 ETC_20150317_006807	Nebilau Broken District
 ETC_20150317_006808	Interal Separation Plan
 ETC_20150317_006809	Idinga Solitary Confinement
@@ -6944,7 +6944,7 @@ ETC_20150317_006942	{memo X}KawaEEThegirlandthebear
 ETC_20150317_006943	{memo X}KawaEEThegirlandbearnotpresent
 ETC_20150317_006944	{memo X}Mercenary Guild Female Employee
 ETC_20150317_006945	{memo X}Cesare
-ETC_20150317_006946	Gloves
+ETC_20150317_006946	手套
 ETC_20150317_006947	{memo X}Ojars Rubenis
 ETC_20150317_006948	{memo X}Bourgeois (Male)
 ETC_20150317_006949	{memo X}Madam
@@ -6959,7 +6959,7 @@ ETC_20150317_006957	Mid Commander(Female)
 ETC_20150317_006958	Minor Commander
 ETC_20150317_006959	Veteran Miner
 ETC_20150317_006960	Miners' Village Alchemist
-ETC_20150317_006961	裝備 Merchant
+ETC_20150317_006961	裝備商人
 ETC_20150317_006962	Old Lady
 ETC_20150317_006963	Village Old Lady
 ETC_20150317_006964	Village Gentleman 1
@@ -7051,7 +7051,7 @@ ETC_20150317_007049	Start Point of 傀儡
 ETC_20150317_007050	Empty Wagon
 ETC_20150317_007051	Supplies Wagon
 ETC_20150317_007052	Holy Ark
-ETC_20150317_007053	Altar
+ETC_20150317_007053	祭壇
 ETC_20150317_007054	紅水晶
 ETC_20150317_007055	橙水晶
 ETC_20150317_007056	黃水晶
@@ -7087,8 +7087,8 @@ ETC_20150317_007085	Steel-barred Window 1
 ETC_20150317_007086	Literature 1
 ETC_20150317_007087	Literature 2
 ETC_20150317_007088	Literature 3
-ETC_20150317_007089	Discolored Grass of 希奧莉艾
-ETC_20150317_007090	Large Discolored Grass of 希奧莉艾
+ETC_20150317_007089	Discolored Grass of 希奧利艾
+ETC_20150317_007090	Large Discolored Grass of 希奧利艾
 ETC_20150317_007091	Petrifaction 1
 ETC_20150317_007092	Petrifaction 2
 ETC_20150317_007093	Petrifaction 3
@@ -7134,9 +7134,9 @@ ETC_20150317_007132	Hogma Stone Statue01
 ETC_20150317_007133	Treasure Chest 3cm
 ETC_20150317_007134	Treasure Chest Kateen
 ETC_20150317_007135	Treasure Chest Area of Ruins
-ETC_20150317_007136	Treasure Chest 希奧莉艾
+ETC_20150317_007136	Treasure Chest 希奧利艾
 ETC_20150317_007137	Treasure Chest Isolation Highland
-ETC_20150317_007138	Broken 裝備
+ETC_20150317_007138	損壞的裝備
 ETC_20150317_007139	Iron Gates
 ETC_20150317_007140	Treasure Chest Valley
 ETC_20150317_007141	Treasure Chest Petrification City
@@ -7156,8 +7156,8 @@ ETC_20150317_007154	Barrier of Paladin_Temple B
 ETC_20150317_007155	Barrier of Paladin_Galley Plateau
 ETC_20150317_007156	Cathedral Chairs
 ETC_20150317_007157	Empty NPC
-ETC_20150317_007158	希奧莉艾 Tent
-ETC_20150317_007159	希奧莉艾 Fence
+ETC_20150317_007158	希奧利艾 Tent
+ETC_20150317_007159	希奧利艾 Fence
 ETC_20150317_007160	Galley Plateau
 ETC_20150317_007161	Empty NPC 2 times
 ETC_20150317_007162	Giltine
@@ -7212,7 +7212,7 @@ ETC_20150317_007210	Small Griba
 ETC_20150317_007211	Stone Slabs
 ETC_20150317_007212	Tavern Book
 ETC_20150317_007213	No Shadow NPC
-ETC_20150317_007214	Fallen Vubbe
+ETC_20150317_007214	墮落瓦布
 ETC_20150317_007215	Immobile Mineloader
 ETC_20150317_007216	Village Girl
 ETC_20150317_007217	Mine Wagon
@@ -7278,7 +7278,7 @@ ETC_20150317_007276	Old Lady (Dark Brown)
 ETC_20150317_007277	Old Lady (Pink)
 ETC_20150317_007278	Old Lady (Purple)
 ETC_20150317_007279	Cable Car
-ETC_20150317_007280	Half-destroyed Altar
+ETC_20150317_007280	Half-destroyed 祭壇
 ETC_20150317_007281	Sanctum Object
 ETC_20150317_007282	Pilgrim NPC Woman's tomb
 ETC_20150317_007283	黑色 Market Exclusive Object 
@@ -7296,7 +7296,7 @@ ETC_20150317_007294	Skull Pile_3
 ETC_20150317_007295	{memo X}Demons' Prison Warp
 ETC_20150317_007296	Big Bouquet1
 ETC_20150317_007297	Big Bouquet2
-ETC_20150317_007298	Small Treasure Chest
+ETC_20150317_007298	小型藏寶箱
 ETC_20150317_007299	Velheider
 ETC_20150317_007300	Monsters have appeared near Rafflesia.
 ETC_20150317_007301	霍格倫
@@ -7413,7 +7413,7 @@ ETC_20150317_007411	Hello.
 ETC_20150317_007412	Normal attack in front
 ETC_20150317_007413	Give the experience of a certain percentage
 ETC_20150317_007414	%s% of the experience value cycle
-ETC_20150317_007415	Logout
+ETC_20150317_007415	登出
 ETC_20150317_007416	愛心
 ETC_20150317_007417	勝利
 ETC_20150317_007418	大拇指
@@ -7462,7 +7462,7 @@ ETC_20150317_007460	Attached Effect
 ETC_20150317_007461	Trap Box
 ETC_20150317_007462	Crystal Mine Diary
 ETC_20150317_007463	Create code
-ETC_20150317_007464	Rest Mode
+ETC_20150317_007464	休息模式
 ETC_20150317_007465	Create bonfire (2)
 ETC_20150317_007466	Create bonfire (3)
 ETC_20150317_007467	Create bonfire (4)
@@ -7499,7 +7499,7 @@ ETC_20150317_007497	Obtain Purified Essence
 ETC_20150317_007498	Attach the Holy Bomb
 ETC_20150317_007499	Collect the Spiritual Stones
 ETC_20150317_007500	{memo X}Information for the barrier (3)
-ETC_20150317_007501	希奧莉艾 Miners' Village (1)
+ETC_20150317_007501	希奧利艾 Miners' Village (1)
 ETC_20150317_007502	Collect the Relief Supplies
 ETC_20150317_007503	Mine Manager's Misunderstanding (1)
 ETC_20150317_007504	Gather stones for reinforcement
@@ -7531,7 +7531,7 @@ ETC_20150317_007529	{memo X}Induce the souls
 ETC_20150317_007530	Incorrect Salvation (3)
 ETC_20150317_007531	Recover the Urn
 ETC_20150317_007532	Confirm Soul Gate
-ETC_20150317_007533	Remove Trap
+ETC_20150317_007533	移除陷阱
 ETC_20150317_007534	Search for a Great Pillar (1)
 ETC_20150317_007535	Search for a Great Pillar (2)
 ETC_20150317_007536	Search for a Great Pillar (3)
@@ -7627,7 +7627,7 @@ ETC_20150317_007625	Recapture the Eastern Woods (1)
 ETC_20150317_007626	1 sheet of Magic Research Reference 
 ETC_20150317_007627	2 sheet of Magic Research Reference 
 ETC_20150317_007628	3 sheet of Magic Research Reference 
-ETC_20150317_007629	Test the bombs on monsters in East 希奧莉艾 Woods 
+ETC_20150317_007629	Test the bombs on monsters in East 希奧利艾 Woods 
 ETC_20150317_007630	Boss Monster Card
 ETC_20150317_007631	{memo X}Put the sun's pot to the center of reading room
 ETC_20150317_007632	First Shield of Fedimian
@@ -7756,15 +7756,15 @@ ETC_20150317_007754	{memo X}Spray the back moss to transformed tree roots
 ETC_20150317_007755	Find & release the real transformed Tree Root Crystal
 ETC_20150317_007756	{memo X}Defeat the monster after modifying the curse with transformation tree roots
 ETC_20150317_007757	Bring nearby monsters to the treasure chest and defeat them
-ETC_20150317_007758	Release the souls bound to the altar
+ETC_20150317_007758	Release the souls bound to the 祭壇
 ETC_20150317_007759	{memo X}Testing Drug Experiment to scattered monsters
-ETC_20150317_007760	Collect flowers
-ETC_20150317_007761	Offer the flowers to the altar to comfort the soul
-ETC_20150317_007762	Donate the appropriate silver to altar
-ETC_20150317_007763	{memo X}Defeat the monsters attracted to the altar 
+ETC_20150317_007760	收集花朵
+ETC_20150317_007761	為祭壇獻上花朵，以安撫亡魂。
+ETC_20150317_007762	捐獻適當數量的銀幣給祭壇
+ETC_20150317_007763	{memo X}Defeat the monsters attracted to the 祭壇 
 ETC_20150317_007764	Collect Reed Dewdrops
 ETC_20150317_007765	{memo X}Remove the monster summon circle
-ETC_20150317_007766	{memo X}Protect an altar from monsters running
+ETC_20150317_007766	{memo X}Protect an 祭壇 from monsters running
 ETC_20150317_007767	{memo X}Collect the flag to find the curse monsters through a faith's mark
 ETC_20150317_007768	Protect a Goddess Statue from the ivy entangling it
 ETC_20150317_007769	Pick a wild flower near the sanctum
@@ -7802,7 +7802,7 @@ ETC_20150317_007800	{memo X}Collect the antidote from people of Stone Pole Platf
 ETC_20150317_007801	{memo X}Activate the sealed device
 ETC_20150317_007802	{memo X}Check the royal device
 ETC_20150317_007803	{memo X}The discharge seal release of Dzurura in earlier than Rexipher
-ETC_20150317_007804	{memo X}Release a seal of Sviesa's altar
+ETC_20150317_007804	{memo X}Release a seal of Sviesa's 祭壇
 ETC_20150317_007805	Ruklys of memorial (2)
 ETC_20150317_007806	Obtain the first tombstone piece
 ETC_20150317_007807	Collect Dusty Fragment
@@ -7861,11 +7861,11 @@ ETC_20150317_007859	{memo X}Melt a thorn tunnel to use an acidity solution
 ETC_20150317_007860	Use the Magic Crystal to remove the thorny vines
 ETC_20150317_007861	Open the front temple gate (1)
 ETC_20150317_007862	Open the front temple gate (2)
-ETC_20150317_007863	Activate Apsauga Altar barrier 
-ETC_20150317_007864	{memo X}Deceive Pawndel to the Apsauga Altar
-ETC_20150317_007865	{memo X}Deceive Pawnd to the Apsauga Altar
+ETC_20150317_007863	Activate Apsauga 祭壇 barrier 
+ETC_20150317_007864	{memo X}Deceive Pawndel to the Apsauga 祭壇
+ETC_20150317_007865	{memo X}Deceive Pawnd to the Apsauga 祭壇
 ETC_20150317_007866	Convert demons
-ETC_20150317_007867	Activate the Globejas Altar barrier (1)
+ETC_20150317_007867	Activate the Globejas 祭壇 barrier (1)
 ETC_20150317_007868	Unexpected action
 ETC_20150317_007869	Stolen Seal of Space
 ETC_20150317_007870	Insert a piece to the central pillar (1)
@@ -7876,7 +7876,7 @@ ETC_20150317_007874	Insert a piece to the central pillar (5)
 ETC_20150317_007875	Insert a piece to the central pillar (6)
 ETC_20150317_007876	Insert a piece to the central pillar (7)
 ETC_20150317_007877	Insert a piece to the central pillar (8)
-ETC_20150317_007878	Activate the Malda Altar Barrier (2)
+ETC_20150317_007878	Activate the Malda 祭壇 Barrier (2)
 ETC_20150317_007879	Defeat Gesti
 ETC_20150317_007880	{memo X}Find a secret sanctum
 ETC_20150317_007881	Collect Spiritually Enchanted Sap
@@ -7897,7 +7897,7 @@ ETC_20150317_007895	{memo X}Bramble punished
 ETC_20150317_007896	{memo X}Activate a Obelisk
 ETC_20150317_007897	Don't Fall for Beholder's Trick
 ETC_20150317_007898	{memo X}Portal do not open (1)
-ETC_20150317_007899	Defeat the monsters that reacted to the altar's power
+ETC_20150317_007899	Defeat the monsters that reacted to the 祭壇's power
 ETC_20150317_007900	{memo X}Plan of Bishop (1)
 ETC_20150317_007901	Obtain Spirit Essences
 ETC_20150317_007902	Look for a complete scripture for the Bishop's Spirit
@@ -7906,8 +7906,8 @@ ETC_20150317_007904	Release Maven's device
 ETC_20150317_007905	{memo X}Plan of Bishop (3)
 ETC_20150317_007906	{memo X}Use a soul summon bible item to open an inventory
 ETC_20150317_007907	{memo X}Stolen Mayvern's stuff
-ETC_20150317_007908	Insert the Relic of Mercy into the altar
-ETC_20150317_007909	Insert the Relic of Salvation into the altar
+ETC_20150317_007908	Insert the Relic of Mercy into the 祭壇
+ETC_20150317_007909	Insert the Relic of Salvation into the 祭壇
 ETC_20150317_007910	Use the Orb of Divine Detection to find Graceful Relics
 ETC_20150317_007911	{memo X}Threated Priest 
 ETC_20150317_007912	{memo X}Receive a research report with priest in Grand Corridor
@@ -7920,7 +7920,7 @@ ETC_20150317_007918	Watch for Reagent's Effects
 ETC_20150317_007919	{memo X}Collect the herb
 ETC_20150317_007920	{memo X}Surprise Attack of Demons
 ETC_20150317_007921	Monitor a pilgrim's reaction after eating a meat
-ETC_20150317_007922	{memo X}Operate a purification's altar
+ETC_20150317_007922	{memo X}Operate a purification's 祭壇
 ETC_20150317_007923	{memo X}Cold Bishop (1)
 ETC_20150317_007924	{memo X}Cold Bishop (2)
 ETC_20150317_007925	{memo X}Fine the recipe written how to transform monsters
@@ -8421,7 +8421,7 @@ ETC_20150317_008419	{memo X}Recipe - Oak Wand
 ETC_20150317_008420	{memo X}Recipe - Rokas Wand
 ETC_20150317_008421	{memo X}Recipe - Bone Wand
 ETC_20150317_008422	{memo X}Recipe - Shaman Wand
-ETC_20150317_008423	{memo X}Recipe - Altaria Wand
+ETC_20150317_008423	{memo X}Recipe - 祭壇ia Wand
 ETC_20150317_008424	{memo X}Recipe - Antique Wand
 ETC_20150317_008425	{memo X}Recipe - Dark Wand
 ETC_20150317_008426	{memo X}Recipe - Grim Wand
@@ -8794,7 +8794,7 @@ ETC_20150317_008792	Rest Mode Tip
 ETC_20150317_008793	Press the Insert key to rest. Your HP, SP and STA recovery increases during Rest Mode.
 ETC_20150317_008794	Bonfire Tip
 ETC_20150317_008795	When nearby a bonfire while in Rest Mode, the recovery of all characters resting will increase.
-ETC_20150317_008796	製作 Tip
+ETC_20150317_008796	製作提示
 ETC_20150317_008797	You can craft items while in Rest Mode, if you have the required recipes and materials.
 ETC_20150317_008798	Enhancement Tip
 ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
@@ -8853,7 +8853,7 @@ ETC_20150317_008851	Press F10 to view the Help list.
 ETC_20150317_008852	同伴 Tip
 ETC_20150317_008853	You can adopt and train your 同伴 through the 同伴 Merchant NPC.
 ETC_20150317_008854	Player Trading Tip
-ETC_20150317_008855	Right-click on another player to send 交易 requests.
+ETC_20150317_008855	滑鼠右鍵點擊另外一位玩家以發送交易請求。
 ETC_20150317_008856	Area Map Tip
 ETC_20150317_008857	Press M to view the current area map.
 ETC_20150317_008858	World Map Tip
@@ -9890,7 +9890,7 @@ ETC_20150323_009889	Crystal Processing Device
 ETC_20150323_009890	Use Elementalist Attributes
 ETC_20150323_009891	{memo X}Hunt boss monsters with party members.
 ETC_20150323_009892	{memo X}DoTimeAction:Collecting Woods:3#SITGROPESET2:None
-ETC_20150323_009893	{memo X}Property:1/PropertyAdd:1/GiveItem:希奧莉艾50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
+ETC_20150323_009893	{memo X}Property:1/PropertyAdd:1/GiveItem:希奧利艾50_WOOD_PIECE:1:0/NPCKill/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Acquired wood!:3
 ETC_20150323_009894	{memo X}DoTimeAction:Looking through greenery:2:SITGROPE:None
 ETC_20150323_009895	{memo X}Property:1/PropertyAdd:1/GiveItem:FARM47_4_SQ_040_ITEM_1:1:0/NPCDead/EffectNPC:Local:F_pc_making_finish_white:2:BOT/Notice:NOTICE_Dm_Clear:Found Hardtack!:5
 ETC_20150323_009896	{memo X}NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing can be seen!:5
@@ -11340,7 +11340,7 @@ ETC_20150428_011339	Practice Polishing Room
 ETC_20150428_011340	Worker's Waiting Room
 ETC_20150428_011341	Inventory Management Office
 ETC_20150428_011342	Wagon Warehouse
-ETC_20150428_011343	希奧莉艾 Discolored Grass4
+ETC_20150428_011343	希奧利艾 Discolored Grass4
 ETC_20150428_011344	Teleport Magic Circle
 ETC_20150428_011345	Vine_For Goddess Statue
 ETC_20150428_011346	Mausoleum Gravestone03 (藍色)

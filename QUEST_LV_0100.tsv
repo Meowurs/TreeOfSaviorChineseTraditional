@@ -1539,7 +1539,7 @@ QUEST_LV_0100_20150317_001537	I'll stay and help the people left here. {nl}You s
 QUEST_LV_0100_20150317_001538	I'm holding it because it looked like it's going to collapse. {nl}We need some stones to do something about it.
 QUEST_LV_0100_20150317_001539	We won't be able to handle it if they siege this place . {nl}How will you stop it then if people are running away even now?
 QUEST_LV_0100_20150317_001540	Alright. That'll be enough.
-QUEST_LV_0100_20150317_001541	I must go back to the village. {nl} But as you can see my arms are shaking. {nl} Can you defeat the monsters while I rest my arms for a while?
+QUEST_LV_0100_20150317_001541	我一定要回村莊一趟。 {nl} 但是你看我的雙手都沒力了。 {nl} 可以幫我打倒魔物，在這期間我可以好好休息。
 QUEST_LV_0100_20150317_001542	So heartless of the Goddess. {nl} If the Goddess wouldn't have disappeared， the monsters wouldn't have come attacking. 
 QUEST_LV_0100_20150317_001543	Now I can return to village with peace of mind. {nl} This grace I shall never forget.
 QUEST_LV_0100_20150317_001544	I came here to hide from the monsters but even this area is becoming dangerous. {nl} I'm trying to go back to the village so can you bring the other refugees to me?
@@ -2738,11 +2738,11 @@ QUEST_LV_0100_20150317_002736	That is impossible
 QUEST_LV_0100_20150317_002737	The information about Saugas(2)
 QUEST_LV_0100_20150317_002738	Notice /!/Poison amplifies the need for wood bang for the aura of stone! #8
 QUEST_LV_0100_20150317_002739	The information about Saugas(3)
-QUEST_LV_0100_20150317_002740	I will try
+QUEST_LV_0100_20150317_002740	我會試試看
 QUEST_LV_0100_20150317_002741	Tell him to do it himself
 QUEST_LV_0100_20150317_002742	돌을 설치 하는 중/SITGROPE/2/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002743	The information about Saugas(4)
-QUEST_LV_0100_20150317_002744	Tell him to install it again
+QUEST_LV_0100_20150317_002744	告訴他再安裝一次
 QUEST_LV_0100_20150317_002745	Tell him to do it himself
 QUEST_LV_0100_20150317_002746	유인 중/#SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_002747	Find the subordinate of the commander of supplies' force
@@ -2754,27 +2754,27 @@ QUEST_LV_0100_20150317_002752	Investigate Coal Mine Village(1)
 QUEST_LV_0100_20150317_002753	Retrieve the relief supplies
 QUEST_LV_0100_20150317_002754	I'll help retrieve the relief supplies
 QUEST_LV_0100_20150317_002755	Dedication of Brinker (1)
-QUEST_LV_0100_20150317_002756	I'll gather some stones for it
-QUEST_LV_0100_20150317_002757	Better run away quickly
+QUEST_LV_0100_20150317_002756	我會幫你收集石頭的
+QUEST_LV_0100_20150317_002757	最好快逃
 QUEST_LV_0100_20150317_002758	Dedication of Brinker (2)
-QUEST_LV_0100_20150317_002759	I'll get rid of the monsters around
+QUEST_LV_0100_20150317_002759	我會清除附近的魔物的
 QUEST_LV_0100_20150317_002760	Agony of the Healer Lady (1)
 QUEST_LV_0100_20150317_002761	I'll bring the refugees
 QUEST_LV_0100_20150317_002762	Description of the location of the healer lady/TALK/2/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_002763	Agony of the Healer Lady (2)
 QUEST_LV_0100_20150317_002764	I'll get rid of the menacing monsters
-QUEST_LV_0100_20150317_002765	Kidnapped villagers (1) Delete
-QUEST_LV_0100_20150317_002766	I'll save the village 居民s
+QUEST_LV_0100_20150317_002765	村民綁架案 (1) Delete
+QUEST_LV_0100_20150317_002766	我會救出村民們的
 QUEST_LV_0100_20150317_002767	Take time to think for a while
-QUEST_LV_0100_20150317_002768	Invasion of 瓦布
-QUEST_LV_0100_20150317_002769	I'll go to the 瓦布's base and get rid of them
-QUEST_LV_0100_20150317_002770	Disregard
-QUEST_LV_0100_20150317_002771	Kidnapped villagers
+QUEST_LV_0100_20150317_002768	瓦布入侵
+QUEST_LV_0100_20150317_002769	我會前往瓦布的大本營消滅它們
+QUEST_LV_0100_20150317_002770	忽視
+QUEST_LV_0100_20150317_002771	村民綁架案
 QUEST_LV_0100_20150317_002772	By freeing the degree of Tasman/MAKING/2/TRACK_AFTER/None
-QUEST_LV_0100_20150317_002773	Suspicious Treasure Chest
+QUEST_LV_0100_20150317_002773	可疑的藏寶箱
 QUEST_LV_0100_20150317_002774	To the Mines
 QUEST_LV_0100_20150317_002775	I'll destroy the wagons
-QUEST_LV_0100_20150317_002776	I'm not yet prepared
+QUEST_LV_0100_20150317_002776	我還沒準備好
 QUEST_LV_0100_20150317_002777	Big problem
 QUEST_LV_0100_20150317_002778	Tell you will find out what the reason is.
 QUEST_LV_0100_20150317_002779	Unendurable itching
@@ -2807,7 +2807,7 @@ QUEST_LV_0100_20150317_002805	Destroy Sequoia
 QUEST_LV_0100_20150317_002806	Tell you will defeat Sequoia
 QUEST_LV_0100_20150317_002807	Protector purifying device
 QUEST_LV_0100_20150317_002808	Go to purify the polluted protector
-QUEST_LV_0100_20150317_002809	Postpone
+QUEST_LV_0100_20150317_002809	暫緩
 QUEST_LV_0100_20150317_002810	Destroy the protecting device
 QUEST_LV_0100_20150317_002811	Destroy the polluted protecting device
 QUEST_LV_0100_20150317_002812	Recycle(1)
@@ -4476,13 +4476,13 @@ QUEST_LV_0100_20150317_004474	광산마을 도착
 QUEST_LV_0100_20150317_004475	여신의 계시를 좇아 수정광산으로 들어가야 하는데， 수정광산이 있는 광산 마을이 부베에게 습격당한 모양입니다. 광산마을로 빨리 가 보세요!
 QUEST_LV_0100_20150317_004476	Go to the Miner's Village Mayor to find out the village's situation.
 QUEST_LV_0100_20150317_004477	광산마을 촌장과 대화
-QUEST_LV_0100_20150317_004478	Talk to the 獵人
+QUEST_LV_0100_20150317_004478	與獵人對話
 QUEST_LV_0100_20150317_004479	You need to go to the Cyrstal Mines as told by the Goddess in bishop's dream but you can't just leave the refugees. Help the angry hunter.
 QUEST_LV_0100_20150317_004480	The hunter says that monsters stole all the relief goods meant for the village 居民s. Try to pick up at least what's left on the road.
 QUEST_LV_0100_20150317_004481	Gathered all the aid boxes. Talk to the hunter. 
 QUEST_LV_0100_20150317_004482	Talk to Mine Director Brinker
 QUEST_LV_0100_20150317_004483	You need to go to the Cyrstal Mines as told by the Goddess in bishop's dream but you can't just leave the refugees. Mine Director Brinker is standing by the wall with one hand on the wall. Ask what is happening.
-QUEST_LV_0100_20150317_004484	Collect material for reinforcement from the rubble nearby
+QUEST_LV_0100_20150317_004484	收集附近的碎石以作為強化的材料。
 QUEST_LV_0100_20150317_004485	The wall may collapse if Brinker releases his hands off the wall. Let's look for some rocks nearby to block the holes on the wall for Brinker.
 QUEST_LV_0100_20150317_004486	Give reinforcement materials to Brinker
 QUEST_LV_0100_20150317_004487	Give the stones you collected to Brinker.
@@ -7644,9 +7644,9 @@ QUEST_LV_0100_20150729_007642	So humans can also defeat the demon king.{nl}I can
 QUEST_LV_0100_20150729_007643	Please save me!{nl}I don't know how to get out from the barrier!
 QUEST_LV_0100_20150729_007644	Run away fast!{nl}Monsters may rush in!
 QUEST_LV_0100_20150729_007645	好吧. {nl} 噢， 在你離開之前 別忘了向 女神 奧施麗涅 雕像 祈禱。 {nl}
-QUEST_LV_0100_20150729_007646	Thank you， but we still need more... {nl} Sorry.. {nl}
+QUEST_LV_0100_20150729_007646	謝謝你，但我們還需要更多... {nl} 抱歉.. {nl}
 QUEST_LV_0100_20150729_007647	We collected almost all the keepsakes.{nl}Please help us til the end.
-QUEST_LV_0100_20150729_007648	Thank you very much. {nl} My comrades can now rest in peace with the Goddesses.
+QUEST_LV_0100_20150729_007648	非常感謝你。 {nl} My comrades can now rest in peace with the Goddesses.
 QUEST_LV_0100_20150729_007649	The eternal 豬籠草(1)
 QUEST_LV_0100_20150729_007650	The eternal 豬籠草(2)
 QUEST_LV_0100_20150729_007651	The power of the guard(1)
