@@ -8799,92 +8799,92 @@ ETC_20150317_008797	如果你有足夠的圖紙和材料，你可以在休息模
 ETC_20150317_008798	強化 小提示
 ETC_20150317_008799	用鐵砧來強化你的武器和盔甲變得更強。
 ETC_20150317_008800	潛力值 小提示
-ETC_20150317_008801	與玩家交易，增加插槽，裝備寶石或強化失敗都會減少道具的潛力值
+ETC_20150317_008801	與玩家交易，增加插槽，裝備寶石或強化失敗都會減少道具的潛力值。
 ETC_20150317_008802	聊天視窗 小提示
-ETC_20150317_008803	按Enter打開聊天視窗。您聊天完成後，再次按Enter關閉視窗
+ETC_20150317_008803	按Enter打開聊天視窗。您聊天完成後，再次按Enter關閉視窗。
 ETC_20150317_008804	小喇叭 小提示
 ETC_20150317_008805	在你想說的話前輸入 /y 可以發送廣播，這需要消耗 擴音器。
 ETC_20150317_008806	修理 小提示
-ETC_20150317_008807	你可以在城市的某處尋找鐵匠來修復你的裝備
+ETC_20150317_008807	你可以在城市的某處尋找鐵匠來修復你的裝備。
 ETC_20150317_008808	商店系統 小提示
-ETC_20150317_008809	你可以在城市中的道具商人處購買或出售道具.
-ETC_20150317_008810	Return Tip
-ETC_20150317_008811	You can return to the quest NPC immediately by using the Backspace key or by pressing the 'Go Back' button.
-ETC_20150317_008812	Attributes Tip
-ETC_20150317_008813	You can learn class specific attributes from the Master NPCs. Look for them in each area.
-ETC_20150317_008814	Shiny Monster Tip
-ETC_20150317_008815	Shiny Monsters can drop items up to more than ten times than normal monsters.
-ETC_20150317_008816	Village Tip
-ETC_20150317_008817	Various merchants and Master NPCs for classes can be found in a village.
-ETC_20150317_008818	Warp move_1 Tip
-ETC_20150317_008819	You can move to other areas through the Statue of Goddess Vakarine.
-ETC_20150317_008820	Warp move_2 Tip
-ETC_20150317_008821	You can move to other areas using the Warp Scroll if there is no Statue of Goddess Vakarine nearby.
-ETC_20150317_008822	Treasure Chest Tip
-ETC_20150317_008823	During your adventure, you can find hidden treasure chests. Some treasure chests may require keys that match the level of the chest.
-ETC_20150317_008824	Video Recording Tip
-ETC_20150317_008825	Press F12 to record gameplay videos.
-ETC_20150317_008826	Screenshot Tip
-ETC_20150317_008827	Press PrintScreen to take screenshots.
-ETC_20150317_008828	Character Info Tip
-ETC_20150317_008829	Press F1 to view info about your character.
-ETC_20150317_008830	Inventory Tip
-ETC_20150317_008831	Press F2 to open your inventory to see the items and silver you own.
-ETC_20150317_008832	Classes, Skills and Attributes Tip
-ETC_20150317_008833	Press F1 to view info about your class, skills, and attributes.
-ETC_20150317_008834	Adventure Journal Tip
-ETC_20150317_008835	Press F4 to view your cumulative record and progress of gameplay.
-ETC_20150317_008836	Quest Tip
-ETC_20150317_008837	Press F5 to view information on quests in progress.
-ETC_20150317_008838	Party Tip
-ETC_20150317_008839	Press F6 to view your party.
-ETC_20150317_008840	Party Request Tip
-ETC_20150317_008841	Right-click on another player's character to send a party request. When a request is accepted, you can play together in a party.
-ETC_20150317_008842	Public Party List Tip
+ETC_20150317_008809	你可以在城市中的道具商人處購買或出售道具。
+ETC_20150317_008810	返回 小提示
+ETC_20150317_008811	你可以使用「backspace」或者「返回按鈕」立即回到任務 NPC 處。
+ETC_20150317_008812	特性 小提示
+ETC_20150317_008813	你可以在各地區的導師NPC處學習自己職業的特性。
+ETC_20150317_008814	閃亮的魔物 小提示
+ETC_20150317_008815	閃亮的魔物的掉率是普通魔物的十倍。
+ETC_20150317_008816	村莊 小提示
+ETC_20150317_008817	各類商人、導師 NPC。
+ETC_20150317_008818	傳送 move_1 小提示
+ETC_20150317_008819	你可以通過 女神 瓦卡麗涅 Statue 移動到另外一個地區。
+ETC_20150317_008820	傳送 move_2 小提示
+ETC_20150317_008821	你可以使用傳送卷軸傳送到沒有女神 瓦卡麗涅 Statue的地區。
+ETC_20150317_008822	寶箱 小提示
+ETC_20150317_008823	在你冒險的時候，你可以找到隱藏的寶箱。有些寶箱需要對應等級的鑰匙。
+ETC_20150317_008824	錄影 小提示
+ETC_20150317_008825	按 F12 錄製遊戲影片。
+ETC_20150317_008826	截圖 小提示
+ETC_20150317_008827	按 PrintScreen 來截圖。
+ETC_20150317_008828	角色資訊 小提示
+ETC_20150317_008829	按 F1 來檢視角色資訊。
+ETC_20150317_008830	背包 小提示
+ETC_20150317_008831	按 F2 來檢視你擁有的道具和銀幣。
+ETC_20150317_008832	職業、技能、特性 小提示
+ETC_20150317_008833	按 F1 來檢視你的職業、技能和特性。
+ETC_20150317_008834	冒險日誌 小提示
+ETC_20150317_008835	按 F4 來檢視你記錄的遊戲進度。
+ETC_20150317_008836	任務 小提示
+ETC_20150317_008837	按 F5 檢視任務進度。
+ETC_20150317_008838	隊伍 小提示
+ETC_20150317_008839	按 F6 檢視你的隊伍。
+ETC_20150317_008840	組隊請求 小提示
+ETC_20150317_008841	右鍵其他玩家來邀請組隊，邀請成功你們就可以在一個隊伍遊玩了。
+ETC_20150317_008842	公開組隊列表 小提示
 ETC_20150317_008843	Shows the list of current parties in the game. Click on the list to join the party.
-ETC_20150317_008844	Friends List Tip
-ETC_20150317_008845	Press F7 to view your Friends List.
-ETC_20150317_008846	Pose Tip
-ETC_20150317_008847	Press F8 to apply a pose or add a macro.
-ETC_20150317_008848	同伴 Info Tip
-ETC_20150317_008849	Press F9 to view the current status of your 同伴.
-ETC_20150317_008850	Help Tip
-ETC_20150317_008851	Press F10 to view the Help list.
-ETC_20150317_008852	同伴 Tip
-ETC_20150317_008853	You can adopt and train your 同伴 through the 同伴 Merchant NPC.
-ETC_20150317_008854	Player Trading Tip
+ETC_20150317_008844	好友 小提示
+ETC_20150317_008845	按 F7 檢視你的好友列表。
+ETC_20150317_008846	表情動作 小提示
+ETC_20150317_008847	按 F8 設定表情動作的巨集。
+ETC_20150317_008848	同伴資訊 小提示
+ETC_20150317_008849	按 F9 檢視你同伴的狀態。
+ETC_20150317_008850	說明 小提示
+ETC_20150317_008851	按 F10 打開說明列表。
+ETC_20150317_008852	同伴 小提示
+ETC_20150317_008853	你可以通過同伴商人來領養或訓練同伴。
+ETC_20150317_008854	玩家交易 小提示
 ETC_20150317_008855	滑鼠右鍵點擊另外一位玩家以發送交易請求。
-ETC_20150317_008856	Area Map Tip
-ETC_20150317_008857	Press M to view the current area map.
-ETC_20150317_008858	World Map Tip
-ETC_20150317_008859	Press N to view the world map.
-ETC_20150317_008860	Resurrection Tip
+ETC_20150317_008856	區域地圖 小提示
+ETC_20150317_008857	按 M 來檢視區域地圖。
+ETC_20150317_008858	世界地圖 小提示
+ETC_20150317_008859	按 N 鍵檢視世界地圖。
+ETC_20150317_008860	復活 小提示
 ETC_20150317_008861	The durability of equipped items decreases once the character becomes incapable of combat.
-ETC_20150317_008862	Advancement Tip
-ETC_20150317_008863	You can advance to the same or a different class once you've reached the maximum class level.
-ETC_20150317_008864	Mission Tip
-ETC_20150317_008865	Use the mission item purchased from the Mercenary Post to open a portal to take on a mission.
-ETC_20150317_008866	Field Boss Tip
-ETC_20150317_008867	A field boss can sometimes appear in certain areas.
-ETC_20150317_008868	Elemental Properties Tip
-ETC_20150317_008869	Monsters have 1 of the 6 elemental properties: Fire, Ice, Earth, Darkness, Poison or Electric.
-ETC_20150317_008870	Resistance Tip
-ETC_20150317_008871	Attacking with countering properties on monsters can cause more damage.
-ETC_20150317_008872	Archer Tip
+ETC_20150317_008862	進階 小提示
+ETC_20150317_008863	當你的職業等級達到滿級，你可以進階到更高的相同或不同的職業。
+ETC_20150317_008864	任務 小提示
+ETC_20150317_008865	從傭兵處購買任務道具，打開傳送進入副本。
+ETC_20150317_008866	地區 Boss 小提示。
+ETC_20150317_008867	在某些地區有時會出現地區 BOSS。
+ETC_20150317_008868	元素屬性 小提示
+ETC_20150317_008869	魔物有 1 到 6 種不同屬性：火，冰，地，暗，毒，電。
+ETC_20150317_008870	抗性 小提示
+ETC_20150317_008871	針對每一個魔物的屬性來攻擊都會造成更多傷害。
+ETC_20150317_008872	弓箭手 小提示
 ETC_20150317_008873	Press and hold the attack button to continuously attack the enemy in target. You can also move while attacking using the arrow keys.
 ETC_20150317_008874	An archer's arrow attacks have a maximum range. Higher damage can be made when you shoot from a distance.
 ETC_20150317_008875	The accuracy and evasion increases when an Archer-type class levels up.
 ETC_20150317_008876	The basic range attack of Archers cause more damage to flying monsters.
-ETC_20150317_008877	Wizard Tip
+ETC_20150317_008877	法師 小提示
 ETC_20150317_008878	When Wizard type classes are attacked during skill casting, the skill can be canceled.
 ETC_20150317_008879	The magic defense increases when a Wizard-type class levels up.
-ETC_20150317_008880	Warrior Tip
+ETC_20150317_008880	戰士 小提示
 ETC_20150317_008881	The physical defense increases when a Warrior-type class levels up.
-ETC_20150317_008882	Cleric Tip
+ETC_20150317_008882	牧師 小提示
 ETC_20150317_008883	The placed magic circles on the ground from a Cleric may not be effective on flying-type monsters.
 ETC_20150317_008884	The SP and SP recovery increases when a Cleric-type class levels up.
 ETC_20150317_008885	{memo X}Press the CTRL key to lock a target.
-ETC_20150317_008886	Press the Alt key to stop movement immediately.
+ETC_20150317_008886	按  Alt 立即停止移動。
 ETC_20150317_008887	Press the Space bar key during a battle to face your current target.
 ETC_20150317_008888	When mounting a 同伴, your character's stats will increase in proportion to the ability of the 同伴.
 ETC_20150317_008889	{memo X}Card Synthesis (Coming Soon)
@@ -8894,8 +8894,8 @@ ETC_20150317_008892	Adds 2 item quality levels
 ETC_20150317_008893	Search for a particular level
 ETC_20150317_008894	Cheat starting settings
 ETC_20150317_008895	Search for NPC coordinates
-ETC_20150317_008896	Search Player
-ETC_20150317_008897	Search NPC
+ETC_20150317_008896	搜尋玩家
+ETC_20150317_008897	搜尋 NPC
 ETC_20150317_008898	(null) NPC (1)
 ETC_20150317_008899	Change Layer
 ETC_20150317_008900	Layer Value
@@ -8903,15 +8903,15 @@ ETC_20150317_008901	Check current layer
 ETC_20150317_008902	Lock Skill off
 ETC_20150317_008903	Search
 ETC_20150317_008904	Change Quest Progress
-ETC_20150317_008905	Quest Recommended Level
-ETC_20150317_008906	Quest Status
+ETC_20150317_008905	任務推薦等級
+ETC_20150317_008906	任務狀態
 ETC_20150317_008907	Quest ClassName
 ETC_20150317_008908	Base level up
-ETC_20150317_008909	Target Level
+ETC_20150317_008909	目標等級
 ETC_20150317_008910	Go to test_zonemove.xml coordinates
 ETC_20150317_008911	ClassName Xml
 ETC_20150317_008912	Open All UI
-ETC_20150317_008913	Press Enter to Close Dialog
+ETC_20150317_008913	按 Enter 關閉對話框
 ETC_20150317_008914	Check Main Session properties
 ETC_20150317_008915	Property Name
 ETC_20150317_008916	Check the properties of a particular session.
@@ -8922,7 +8922,7 @@ ETC_20150317_008920	Edit Properties of a particular session
 ETC_20150317_008921	Distance between the coordinates
 ETC_20150317_008922	Propagation direction between the coordinates
 ETC_20150317_008923	Remove Group Buff
-ETC_20150317_008924	Show FPS
+ETC_20150317_008924	顯示 FPS
 ETC_20150317_008925	PvP Mode
 ETC_20150317_008926	Delete inventory items
 ETC_20150317_008927	Field Events
@@ -8948,31 +8948,31 @@ ETC_20150317_008946	Stat Initialization
 ETC_20150317_008947	Test Party Track (forced)
 ETC_20150317_008948	Change PC Quest Progress
 ETC_20150317_008949	Search Quest
-ETC_20150317_008950	Grass
-ETC_20150317_008951	Soil
-ETC_20150317_008952	Gravel
-ETC_20150317_008953	Sand
-ETC_20150317_008954	Iron
-ETC_20150317_008955	Ice
-ETC_20150317_008956	Lava
+ETC_20150317_008950	草
+ETC_20150317_008951	土
+ETC_20150317_008952	碎石
+ETC_20150317_008953	沙
+ETC_20150317_008954	鐵
+ETC_20150317_008955	冰
+ETC_20150317_008956	岩漿
 ETC_20150317_008957	Poison pot
 ETC_20150317_008958	Resistance
 ETC_20150317_008959	Threat
-ETC_20150317_008960	Critical Rate
-ETC_20150317_008961	Movement speed
-ETC_20150317_008962	Range
-ETC_20150317_008963	Critical Attack
-ETC_20150317_008964	Critical Defense
-ETC_20150317_008965	HP Regeneration
-ETC_20150317_008966	SP Regeneration
-ETC_20150317_008967	Max HP
-ETC_20150317_008968	Max SP
-ETC_20150317_008969	Description
+ETC_20150317_008960	暴擊率
+ETC_20150317_008961	移動速度
+ETC_20150317_008962	範圍
+ETC_20150317_008963	暴擊攻擊
+ETC_20150317_008964	暴擊防禦
+ETC_20150317_008965	HP 恢復
+ETC_20150317_008966	SP 恢復
+ETC_20150317_008967	最大HP
+ETC_20150317_008968	最大SP
+ETC_20150317_008969	描述
 ETC_20150317_008970	Skill type
 ETC_20150317_008971	For skill type
 ETC_20150317_008972	Offensive skill
-ETC_20150317_008973	{#00ff06}Recovery
-ETC_20150317_008974	{#000cff}Defense
+ETC_20150317_008973	{#00ff06}回復
+ETC_20150317_008974	{#000cff}防禦
 ETC_20150317_008975	{#Fcff00}Collection
 ETC_20150317_008976	{#Fcff00}Buff
 ETC_20150317_008977	For buff
@@ -9009,9 +9009,9 @@ ETC_20150317_009007	{#050505}Friendly Forces
 ETC_20150317_009008	{#050505}Neutral Forces
 ETC_20150317_009009	Cooltime
 ETC_20150317_009010	Cooltime: [Value]
-ETC_20150317_009011	HP Consumption
-ETC_20150317_009012	HP Consumption: [Value]
-ETC_20150317_009013	SP Consumption: [Value]
+ETC_20150317_009011	HP 消耗
+ETC_20150317_009012	HP 消耗：[Value]
+ETC_20150317_009013	SP 消耗：[Value]
 ETC_20150317_009014	Special Effects
 ETC_20150317_009015	Special Effects: [Value]
 ETC_20150317_009016	Target to Friendly Forces
@@ -9053,13 +9053,13 @@ ETC_20150317_009051	Earring
 ETC_20150317_009052	Brief description
 ETC_20150317_009053	Model set
 ETC_20150317_009054	Size
-ETC_20150317_009055	裝備 Merchant
-ETC_20150317_009056	Accessory Merchant
+ETC_20150317_009055	裝備商人
+ETC_20150317_009056	配件商人
 ETC_20150317_009057	Announcement (Great Cathedral ad)
 ETC_20150317_009058	Ladies excited
 ETC_20150317_009059	Manage the hide and seek
-ETC_20150317_009060	Highlander Master Room
-ETC_20150317_009061	Pyromancer Master Room
+ETC_20150317_009060	高地戰士 導師 房間
+ETC_20150317_009061	烈焰術士 導師 房間
 ETC_20150317_009062	Advancement Quest Trigger of Cryomancer
 ETC_20150317_009063	Holiday Guide
 ETC_20150317_009064	Request Manager Rota
@@ -9162,7 +9162,7 @@ ETC_20150317_009160	{memo X}Candle Spiderv2
 ETC_20150317_009161	{memo X}Maggotv3
 ETC_20150317_009162	{memo X}Corpse Flowerv3
 ETC_20150317_009163	{memo X}Root molev3
-ETC_20150317_009164	Kepa Hunter
+ETC_20150317_009164	凱帕獵人
 ETC_20150317_009165	{memo X}Haming Hunter
 ETC_20150317_009166	{memo X}Chinency Hunter
 ETC_20150317_009167	{memo X}Popolion Hunter
@@ -9173,48 +9173,48 @@ ETC_20150317_009171	{memo X}Ghost Armor Hunter
 ETC_20150317_009172	{memo X}Specter Hunter
 ETC_20150317_009173	裝備 交易 Point Shop
 ETC_20150317_009174	{memo X}Soul Peak_1_2
-ETC_20150317_009175	[Rodelero Master]{nl} Kamiya
-ETC_20150317_009176	[Squire Master]{nl} Justina Legwyn
-ETC_20150317_009177	[Thaumaturge Master]{nl} Larisa
+ETC_20150317_009175	[劍盾兵 導師]{nl}　  卡米亞
+ETC_20150317_009176	 [侍從 導師] {nl}賈斯汀 萊格溫
+ETC_20150317_009177	[奇術士 導師]{nl}　  拉麗薩
 ETC_20150317_009178	{memo X}[Elementalist Master]{nl} Wican Celestic
-ETC_20150317_009179	[Scout Master]{nl} Recon Rimgaile
-ETC_20150317_009180	[Sadhu Master]{nl} Agota Hanska
-ETC_20150317_009181	[Wugushi Master]{nl} Wor Pat
+ETC_20150317_009179	[斥侯 導師]{nl}瑞克 倫蓋爾
+ETC_20150317_009180	[聖者 導師]{nl}阿格達漢斯卡
+ETC_20150317_009181	[巫蠱師 導師]{nl}　  沃帕特
 ETC_20150317_009182	{memo X}[Rogue Master]{nl}         Gema
 ETC_20150317_009183	{memo X}[Tools Merchant]{nl}            Anna
 ETC_20150317_009184	{memo X}[裝備 Merchant]{nl}                   Yorgis
-ETC_20150317_009185	[Hackapell Master]{nl} Flint Boulder
-ETC_20150317_009186	[Druid Master]{nl}   Gina Greene
+ETC_20150317_009185	[重裝步兵 導師]{nl} 弗林特博爾德
+ETC_20150317_009186	[德魯伊 導師]{nl}　吉娜 格林
 ETC_20150317_009187	{memo X}[Officer]{nl} Dalrine
-ETC_20150317_009188	[Pyromancer Master]{nl} Abreh Melinn
-ETC_20150317_009189	[Highlander Master]{nl}       Douglas 黑色
-ETC_20150317_009190	Highlander Hidden Quest
+ETC_20150317_009188	[烈焰術士 導師]{nl}　  阿伯 梅林
+ETC_20150317_009189	[高地戰士 導師]{nl}道格拉斯 布萊克
+ETC_20150317_009190	高地戰士 隱藏任務
 ETC_20150317_009191	Practice Post (Fire)
 ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Electricity)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	{memo X}[Item Merchant]{nl}         Mirina
-ETC_20150317_009196	[裝備 Merchant]{nl}                 Dunkel
-ETC_20150317_009197	[Accessory Merchant]{nl}                Ronesa
-ETC_20150317_009198	Klaipeda Goddess Statue
-ETC_20150317_009199	[黑色smith]{nl}       Zaras
-ETC_20150317_009200	[Peltasta Master]{nl}     Maria Leed
-ETC_20150317_009201	[Cryomancer Master]{nl}    Alistair Crowley
-ETC_20150317_009202	[Quarrel Shooter Master]{nl}              Ream Toiler
-ETC_20150317_009203	[Ranger Master]{nl}       Nemoken
-ETC_20150317_009204	[Swordsman Master]{nl}              Rashua
-ETC_20150317_009205	[Wizard Master]{nl}        Lucia
-ETC_20150317_009206	[Archer Master]{nl} Edmundas Tiller
-ETC_20150317_009207	[Cleric Master]{nl}       Rozaliia
-ETC_20150317_009208	[Priest Master]{nl}       Boruble
-ETC_20150317_009209	[Krivis Master]{nl}       Herkus
+ETC_20150317_009196	[裝備商人]{nl} 鄧克爾
+ETC_20150317_009197	[配件商人]{nl} 羅尼薩
+ETC_20150317_009198	克萊佩達 女神雕像
+ETC_20150317_009199	[鐵匠]{nl}澤拉斯
+ETC_20150317_009200	[輕裝盾兵 導師]{nl}　瑪麗亞 利茲
+ETC_20150317_009201	[寒冰術士 導師]{nl}阿萊斯特 克勞利
+ETC_20150317_009202	[弩箭手 導師]{nl}　瑞姆托裡
+ETC_20150317_009203	[游俠 導師]{nl}　妮莫肯
+ETC_20150317_009204	[劍士 導師]{nl}　拉舒亞
+ETC_20150317_009205	[法師 導師]{nl}　露西婭
+ETC_20150317_009206	[弓箭手 導師]{nl}埃德蒙斯泰勒
+ETC_20150317_009207	[牧師 導師]{nl} 羅扎利亞
+ETC_20150317_009208	[聖水祭司 導師]{nl}　　博爾波
+ETC_20150317_009209	[聖火祭司 導師]{nl}　　赫格斯
 ETC_20150317_009210	{memo X}[Auctioneer]{nl} Demares
-ETC_20150317_009211	[Market Manager]{nl}             Logi
-ETC_20150317_009212	[同伴 交易r]{nl}            Christina
+ETC_20150317_009211	[市場管理員]{nl}　　羅西
+ETC_20150317_009212	 [同伴商人]{nl}克里斯蒂娜
 ETC_20150317_009213	{memo X}[Officer]{nl} Dortina
-ETC_20150317_009214	[Wings of Vibora]{nl}            Lena
-ETC_20150317_009215	[Magical Association Klaipeda Branch]{nl}                              Henrikka
-ETC_20150317_009216	    [Bokor Master] {nl} Mama Marie Lavoie
+ETC_20150317_009214	[Wing of Vibora]{nl}　　　雷娜
+ETC_20150317_009215	[魔法協會 克萊佩達 分部]{nl}　　　　  亨莉卡
+ETC_20150317_009216	 [邪靈祭司 導師] {nl}瑪瑪 瑪麗 拉沃伊
 ETC_20150317_009217	Scripture of Prediction
 ETC_20150317_009218	Scripture of Earth
 ETC_20150317_009219	Scripture of Rest
@@ -9244,7 +9244,7 @@ ETC_20150317_009242	Central Pillar 6
 ETC_20150317_009243	Central Pillar 7
 ETC_20150317_009244	Central Pillar 8
 ETC_20150317_009245	2F
-ETC_20150317_009246	[Alchemist Master]{nl}            Vaidotas
+ETC_20150317_009246	[煉金術士 導師]{nl}　  維多塔斯
 ETC_20150317_009247	Entrance Purifier
 ETC_20150317_009248	Central Purifier
 ETC_20150317_009249	Passage Purifier
@@ -9294,7 +9294,7 @@ ETC_20150317_009292	{memo X}Kupole Norgaile
 ETC_20150317_009293	Kupole Aldona
 ETC_20150317_009294	Kupole Daiva
 ETC_20150317_009295	Kupole Sigita
-ETC_20150317_009296	Goddess Vakarine
+ETC_20150317_009296	女神 瓦卡麗涅
 ETC_20150317_009297	Sleeping Boowok
 ETC_20150317_009298	Dedication Box of Power Source
 ETC_20150317_009299	{memo X}Instructions to use the defensive box
@@ -9303,7 +9303,7 @@ ETC_20150317_009301	Royal Guard Cube
 ETC_20150317_009302	Hidden Box
 ETC_20150317_009303	Hidden Sanctum's Seal
 ETC_20150317_009304	Tomb Spell Suppressor
-ETC_20150317_009305	Royal Mausoleum 3F
+ETC_20150317_009305	皇家陵墓 3F
 ETC_20150317_009306	Spirit of Guardian
 ETC_20150317_009307	Byway
 ETC_20150317_009308	Spell Container
@@ -9336,7 +9336,7 @@ ETC_20150317_009334	Monster is being petrified
 ETC_20150317_009335	Mission of Paladin Master Q
 ETC_20150317_009336	Tree Guard Post Barrier
 ETC_20150317_009337	Pumpura Hill Barrier
-ETC_20150317_009338	[Paladin Master] {nl} Valentinas Naimon
+ETC_20150317_009338	[聖騎士 導師]{nl}瓦倫汀娜 納盟
 ETC_20150317_009339	Tenet Cathedral First Floor
 ETC_20150317_009340	Romuva Altar
 ETC_20150317_009341	Romuva Altar Place
@@ -9407,7 +9407,7 @@ ETC_20150317_009405	{memo X}The spirit that is bounded to Merge*
 ETC_20150317_009406	Decoy Altar
 ETC_20150317_009407	{memo X}Milky Dust Stack
 ETC_20150317_009408	Stepping Stone
-ETC_20150317_009409	Tree Root Crystal
+ETC_20150317_009409	樹根水晶
 ETC_20150317_009410	{memo X}Purple Tree Forest Reeds
 ETC_20150317_009411	grass flower
 ETC_20150317_009412	{memo X}The container for the map
@@ -9421,7 +9421,7 @@ ETC_20150317_009419	{memo X}Corpse of the disciple
 ETC_20150317_009420	{memo X}The way of the pilgrim Grass
 ETC_20150317_009421	{memo X}Dead Disciple
 ETC_20150317_009422	Ruklys memorial stone
-ETC_20150317_009423	[Cataphract Master]{nl} Memet Culag
+ETC_20150317_009423	[裝甲騎兵 導師]{nl}　蒙瑪特 克拉
 ETC_20150317_009424	Pile of firewood
 ETC_20150317_009425	Unique lithograph
 ETC_20150317_009426	Buried remains
@@ -9429,12 +9429,12 @@ ETC_20150317_009427	Sorcerer, Chronomancer 5th advancement trigger
 ETC_20150317_009428	Jar of sacrifice
 ETC_20150317_009429	Destroyed inscription wreckage
 ETC_20150317_009430	Military Backpack
-ETC_20150317_009431	[Fletcher Master]{nl} Visvaldas 黑色
+ETC_20150317_009431	[造箭者 導師]{nl}威士堡 布萊克
 ETC_20150317_009432	{memo X}Abandoned Luggage
 ETC_20150317_009433	Dumped Luggage
 ETC_20150317_009434	Old Box
-ETC_20150317_009435	[Pardoner Master]{nl} Mistes Goldmund
-ETC_20150317_009436	[Sorcerer Master]{nl} Dame Circe
+ETC_20150317_009435	[寬恕者 導師]{nl} Mistes Goldmund
+ETC_20150317_009436	[巫師 導師]{nl} 達姆 瑟茜
 ETC_20150317_009437	For the 4th advancement of Pardoner
 ETC_20150317_009438	For the 4th advancement of Sorcerer
 ETC_20150317_009439	Eye of the Great King
@@ -9491,9 +9491,9 @@ ETC_20150317_009489	{memo X}Shabby wooden box
 ETC_20150317_009490	Recapture the Eastern Woods(7)
 ETC_20150317_009491	Request of Aras(6)
 ETC_20150317_009492	Miners' Village Entry(2)
-ETC_20150317_009493	[Sapper Master]{nl} Leonard Quicktongue
-ETC_20150317_009494	[Hunter Master]{nl} Fiona Ieva
-ETC_20150317_009495	[Barbarian Master]{nl} Walder Junnot
+ETC_20150317_009493	 [工兵 導師] {nl}倫納德 奎可特
+ETC_20150317_009494	[獵人 導師]{nl}菲奧娜 耶娃
+ETC_20150317_009495	[野蠻人 導師]{nl}沃爾德 朱內特
 ETC_20150317_009496	For 4th advancement of Bokor
 ETC_20150317_009497	Hidden trigger for 5th advancement of Wizard, Pyromancer, Cryomancer
 ETC_20150317_009498	Rankis Seal Tower
@@ -9511,13 +9511,13 @@ ETC_20150317_009509	Crystal Mine unseal track
 ETC_20150317_009510	Relief Box
 ETC_20150317_009511	Wagon Explosion
 ETC_20150317_009512	Hidden house of Krivis
-ETC_20150317_009513	[Psychokino Master]{nl} Ili Terid
-ETC_20150317_009514	[Linker Master]{nl} Winona Ende
+ETC_20150317_009513	[念力法師 導師]{nl}　艾利 泰爾德
+ETC_20150317_009514	[鎖鏈法師 導師]{nl}　薇諾娜 恩德
 ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemist
 ETC_20150317_009516	Mine Manager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss 傀儡 Trigger
-ETC_20150317_009519	[Hoplite Master]{nl}    Adidas Baylor
+ETC_20150317_009519	[重裝步兵 導師]{nl} 阿迪達斯 貝勒
 ETC_20150317_009520	For Krivis' 4th advancement quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	{memo X}Maggot
@@ -9535,39 +9535,39 @@ ETC_20150323_009533	Veliamonkey
 ETC_20150323_009534	Silva Griffin
 ETC_20150323_009535	Gold Hairpin 
 ETC_20150323_009536	{memo X}Bug
-ETC_20150323_009537	Summon
+ETC_20150323_009537	使魔
 ETC_20150323_009538	Squire Armor Repair Prop
 ETC_20150323_009539	Squire Armor Repair Signboard
 ETC_20150323_009540	Squire Sign Board
-ETC_20150323_009541	Squire Work Table
-ETC_20150323_009542	Squire Anvil
+ETC_20150323_009541	侍從工作台
+ETC_20150323_009542	侍從鐵砧
 ETC_20150323_009543	Mass AI
 ETC_20150323_009544	Armaos 
 ETC_20150323_009545	Glutton
 ETC_20150323_009546	Succubus
-ETC_20150323_009547	Tent
+ETC_20150323_009547	帳篷
 ETC_20150323_009548	Levi
 ETC_20150323_009549	Eldigo
 ETC_20150323_009550	{memo X}Sorcket
-ETC_20150323_009551	Honeybean
-ETC_20150323_009552	Honeymeli
+ETC_20150323_009551	蜜蜂
+ETC_20150323_009552	蜂蜜梅利
 ETC_20150323_009553	Casket
 ETC_20150323_009554	綠色 Eldigo
 ETC_20150323_009555	Gremrin
 ETC_20150323_009556	Vasilisk
-ETC_20150323_009557	Refreshment Table
+ETC_20150323_009557	食品配送桌
 ETC_20150323_009558	Pink Root Mole
-ETC_20150323_009559	Srautas Gorge
-ETC_20150323_009560	Nefritas Cliff
-ETC_20150323_009561	Tenet Garden
-ETC_20150323_009562	Veja Ravine
-ETC_20150323_009563	Vieta Gorge
-ETC_20150323_009564	Septyni Glen
-ETC_20150323_009565	Owl Burial Ground
+ETC_20150323_009559	溪流峽谷
+ETC_20150323_009560	翡翠絕壁
+ETC_20150323_009561	信仰花園
+ETC_20150323_009562	貝亞溪谷
+ETC_20150323_009563	比艾塔峽谷
+ETC_20150323_009564	七重谷
+ETC_20150323_009565	貓頭鷹墓地
 ETC_20150323_009566	Karolis Fountain
 ETC_20150323_009567	Paupys Port
-ETC_20150323_009568	Poslinkis Forest
-ETC_20150323_009569	Saknis Plains
+ETC_20150323_009568	光合森林
+ETC_20150323_009569	起源之地
 ETC_20150323_009570	Lemprasa Pond
 ETC_20150323_009571	Kule Peak
 ETC_20150323_009572	Sirdgela Forest
