@@ -108,11 +108,11 @@ ITEM_20150317_000107	維爾涅普(Velniup)
 ITEM_20150317_000108	人們會說這種武器過於殘忍. 
 ITEM_20150317_000109	福爾蒂斯(Fortis) 
 ITEM_20150317_000110	相對於巨型植物災變時的低迷，復甦的強筋裝甲怪物證明了這把刀的價值. 
-ITEM_20150317_000111	斬靈刀(Chapparition C) 
+ITEM_20150317_000111	幻影切割者 
 ITEM_20150317_000112	根據原理， 這把刀用來對惡魔的戰鬥. 
 ITEM_20150317_000113	死亡編織者 
 ITEM_20150317_000114	揮舞此劍，即為死神. 
-ITEM_20150317_000115	斬靈劍(Chapparition S) 
+ITEM_20150317_000115	幻影魔劍 
 ITEM_20150317_000116	這把劍印證了惡魔的內鬥. 
 ITEM_20150317_000117	班德拉斯之劍(Bendras) 
 ITEM_20150317_000118	女神為鏟除邪惡賜予這把劍一絲力量和祝福. 
@@ -199,7 +199,7 @@ ITEM_20150317_000198	地獄與天堂
 ITEM_20150317_000199	這把武器印證了"進攻是最好的防禦"這句話. 
 ITEM_20150317_000200	亡者之牙 
 ITEM_20150317_000201	鍛造這把武器並不需要死者之牙. 
-ITEM_20150317_000202	Chapparition雙手劍 
+ITEM_20150317_000202	幻影魔雙手劍 
 ITEM_20150317_000203	時而巨象， 時而縹緲. 
 ITEM_20150317_000204	紐萊斯 
 ITEM_20150317_000205	對抗夜間的怪異生物有奇效. 
@@ -294,7 +294,7 @@ ITEM_20150317_000293	禁忌(Secretum)
 ITEM_20150317_000294	為了巫師們所製作的專屬魔杖， 但巫師們經常忽略了它的缺陷. 
 ITEM_20150317_000295	亡者之棒 
 ITEM_20150317_000296	具有死者之力的魔杖. 
-ITEM_20150317_000297	Chapparition 魔杖 
+ITEM_20150317_000297	幻影魔杖 
 ITEM_20150317_000298	災麻(Zaima) 
 ITEM_20150317_000299	謠言說這把武器的高額價格是出於寒冰術士大師的壓力. 
 ITEM_20150317_000300	史詩(Epos) 
@@ -398,7 +398,7 @@ ITEM_20150317_000397	毒蛇(Viper)
 ITEM_20150317_000398	這把弓太毒以致於會折磨它的使用者. 
 ITEM_20150317_000399	亡者之弓 
 ITEM_20150317_000400	帶他們去見死神. 
-ITEM_20150317_000401	Chapparition 弓 
+ITEM_20150317_000401	幻影魔弓 
 ITEM_20150317_000402	如雕刻家所說: '站直挺胸;拉弓射箭.' 
 ITEM_20150317_000403	嗜血(Blood Gain) 
 ITEM_20150317_000404	這把弓由 Lydia Schaffen創造. 她一生經常使用此弓， 但卻沒有把鍛造方式告訴她自己創造的'The Tower of the Stars' 和 'Schaffenstar'造體. 
@@ -479,7 +479,7 @@ ITEM_20150317_000478	月光之力(Grajus)
 ITEM_20150317_000479	用單手十字弓就能射殺巨獸麼？這把弓就是答案. 
 ITEM_20150317_000480	亡者之弓 
 ITEM_20150317_000481	並不是一把亡者的武器. 只是原主人是一位可憐的遇難者. 
-ITEM_20150317_000482	Chapparition Shooter 
+ITEM_20150317_000482	幻影魔彈射手 
 ITEM_20150317_000483	這把武器會給野獸足夠的痛苦. 
 ITEM_20150317_000484	伊巴釐緹(Isbality) 
 ITEM_20150317_000485	Lydia Schaffen是歷史上最偉大的弓手， 一生都在用它追殺惡魔. 因Schaffenstar未公開圖紙使這把弓很難獲得. 
@@ -582,7 +582,7 @@ ITEM_20150317_000581	攻擊時有 3% 的概率眩暈 3 秒.
 ITEM_20150317_000582	一些烏比人攜帶的實用武器. 
 ITEM_20150317_000583	亡者之錘 
 ITEM_20150317_000584	為逝者默哀方可無憂地使用這把武器. 
-ITEM_20150317_000585	Chapparition 錘 
+ITEM_20150317_000585	幻影魔錘 
 ITEM_20150317_000586	無論你面對何種野獸， 你都能使用它造成傷痕. 
 ITEM_20150317_000587	萬人迷(Stunner) 
 ITEM_20150317_000588	一些神職者更傾向於用方法迷惑目標而不是說教. 
@@ -905,7 +905,7 @@ ITEM_20150317_000904	Maledic
 ITEM_20150317_000905	Legends say that the original Maledic is in the Demonic dimension and that the imitations seen in this world are only projected illusions. 
 ITEM_20150317_000906	梅拉度
 ITEM_20150317_000907	A group of wizards succeeded in crafting the more powerful 梅拉度 while they were developing a crafting process for Maledic. 
-ITEM_20150317_000908	Chapparition 魔杖 
+ITEM_20150317_000908	幻影魔杖 
 ITEM_20150317_000909	Arca 魔杖 
 ITEM_20150317_000910	According to one tale， Agailla Flurry used to carry this kind of 魔杖 when she was constructing the Mage Tower. 
 ITEM_20150317_000911	Raganos 的角
@@ -1076,25 +1076,25 @@ ITEM_20150317_001075	鋼鐵 鎖鏈 靴子
 ITEM_20150317_001076	鋼鐵 鎖鏈 褲子 
 ITEM_20150317_001077	鋼鐵 鎖甲 
 ITEM_20150317_001078	強化 皮甲 護甲 
-ITEM_20150317_001079	鄧克爾 夾棉 手套 
-ITEM_20150317_001080	鄧克爾 夾棉 靴子 
-ITEM_20150317_001081	鄧克爾 夾棉 褲子 
-ITEM_20150317_001082	鄧克爾 夾棉 護甲 
-ITEM_20150317_001083	鄧克爾 棉手套 
+ITEM_20150317_001079	Dunkel 夾棉 手套 
+ITEM_20150317_001080	Dunkel 夾棉 靴子 
+ITEM_20150317_001081	Dunkel 夾棉 褲子 
+ITEM_20150317_001082	Dunkel 夾棉 護甲 
+ITEM_20150317_001083	Dunkel 棉手套 
 ITEM_20150317_001084	法師們最愛的裝備之一. 
-ITEM_20150317_001085	鄧克爾 棉靴 
-ITEM_20150317_001086	鄧克爾 棉褲
+ITEM_20150317_001085	Dunkel 棉靴 
+ITEM_20150317_001086	Dunkel 棉褲
 ITEM_20150317_001087	被認為有效防禦魔法攻擊. 
-ITEM_20150317_001088	鄧克爾 棉質長袍 
+ITEM_20150317_001088	Dunkel 棉質長袍 
 ITEM_20150317_001089	說到防禦魔法攻擊，果然還是非它莫屬. 
-ITEM_20150317_001090	鄧克爾 硬質 皮甲 手套 
-ITEM_20150317_001091	鄧克爾 硬質 皮甲 靴子 
-ITEM_20150317_001092	鄧克爾 硬質 皮甲 褲子 
-ITEM_20150317_001093	鄧克爾 硬質 皮甲 護甲 
-ITEM_20150317_001094	鄧克爾 環狀 手套 
-ITEM_20150317_001095	鄧克爾 環狀 靴子 
-ITEM_20150317_001096	鄧克爾 環狀 褲子 
-ITEM_20150317_001097	鄧克爾 環狀 鎖子甲 
+ITEM_20150317_001090	Dunkel 硬質 皮甲 手套 
+ITEM_20150317_001091	Dunkel 硬質 皮甲 靴子 
+ITEM_20150317_001092	Dunkel 硬質 皮甲 褲子 
+ITEM_20150317_001093	Dunkel 硬質 皮甲 護甲 
+ITEM_20150317_001094	Dunkel 環狀 手套 
+ITEM_20150317_001095	Dunkel 環狀 靴子 
+ITEM_20150317_001096	Dunkel 環狀 褲子 
+ITEM_20150317_001097	Dunkel 環狀 鎖子甲 
 ITEM_20150317_001098	環狀 手套 
 ITEM_20150317_001099	環狀 靴子 
 ITEM_20150317_001100	環狀 褲子 
@@ -1562,7 +1562,7 @@ ITEM_20150317_001561	護目鏡
 ITEM_20150317_001562	Allows you to keep your eyes open in any condition. Fogging might be an issue， though. 
 ITEM_20150317_001563	Lepus Bunny Headband 
 ITEM_20150317_001564	Headgear based on the ears of a Lepus Bunny. Using this won't improve your hearing. 
-ITEM_20150317_001565	Ginkgo Leaf 
+ITEM_20150317_001565	Ginkgo 葉片 
 ITEM_20150317_001566	Easily found during autumn. It may smell like the Ginkgo fruit. 
 ITEM_20150317_001567	Tiger Swallowtail 
 ITEM_20150317_001568	Experience the sensation of Tiger Swallowtail landing on your head. 
@@ -1600,7 +1600,7 @@ ITEM_20150317_001599	Rosa Rugosa
 ITEM_20150317_001600	Smells very pleasant. 
 ITEM_20150317_001601	羽毛帽 
 ITEM_20150317_001602	Don't mind the 羽毛 being larger than the hat. 
-ITEM_20150317_001603	Maple Leaf 
+ITEM_20150317_001603	Maple 葉片 
 ITEM_20150317_001604	Head decoration made to look like a maple leaf. Keep away from fire. 
 ITEM_20150317_001605	Red Tassel Hat 
 ITEM_20150317_001606	An ornate hat with tassels. Used sometimes by a high ranking official or by reputable people. 
@@ -1971,70 +1971,70 @@ ITEM_20150317_001970	You can improve the ability of an item by placing and hamme
 ITEM_20150317_001971	Gaigalas 卡片 
 ITEM_20150317_001972	卡片 
 ITEM_20150317_001973	A 卡片 containing the power of a strong monster. 
-ITEM_20150317_001974	Gorgon 卡片 
-ITEM_20150317_001975	Gorgon 卡片 
+ITEM_20150317_001974	戈爾岡 卡片 
+ITEM_20150317_001975	戈爾岡 卡片 
 ITEM_20150317_001976	傀儡 卡片 
-ITEM_20150317_001977	Grinender 卡片 
-ITEM_20150317_001978	Glass Mole 卡片 
-ITEM_20150317_001979	Ginklas 卡片 
+ITEM_20150317_001977	咧齒者 卡片 
+ITEM_20150317_001978	玻璃鼴鼠 卡片 
+ITEM_20150317_001979	移動兵器 卡片 
 ITEM_20150317_001980	虛空犀牛 卡片 
-ITEM_20150317_001981	Necrovanter 卡片 
-ITEM_20150317_001982	Deadbone 卡片 
-ITEM_20150317_001983	Devilglove 卡片 
-ITEM_20150317_001984	Denoptic 卡片 
-ITEM_20150317_001985	Ravinepede 卡片 
-ITEM_20150317_001986	Rajatoad 卡片 
-ITEM_20150317_001987	Rocktortuga 卡片 
-ITEM_20150317_001988	Rexipher 卡片 
-ITEM_20150317_001989	Reaverpede 卡片 
-ITEM_20150317_001990	Rikaus 卡片 
-ITEM_20150317_001991	Mineloader 卡片 
-ITEM_20150317_001992	Malletwyvern 卡片 
+ITEM_20150317_001981	死靈法師 卡片 
+ITEM_20150317_001982	死亡之骨 卡片 
+ITEM_20150317_001983	惡魔之手 卡片 
+ITEM_20150317_001984	眼魔 卡片 
+ITEM_20150317_001985	沙蟲王 卡片 
+ITEM_20150317_001986	拉傑多 卡片 
+ITEM_20150317_001987	岩石巨龜 卡片 
+ITEM_20150317_001988	導引者（Rexipher） 卡片 
+ITEM_20150317_001989	掠奪者金甲蟲 卡片 
+ITEM_20150317_001990	里卡斯 卡片 
+ITEM_20150317_001991	礦物裝載機 卡片 
+ITEM_20150317_001992	瑪麗特毒龍 卡片 
 ITEM_20150317_001993	Magbirk 卡片 
-ITEM_20150317_001994	Manticen 卡片 
-ITEM_20150317_001995	Mummyghast 卡片 
+ITEM_20150317_001994	曼提森 卡片 
+ITEM_20150317_001995	惡魂木乃伊 卡片 
 ITEM_20150317_001996	毒蠅傘 卡片 
 ITEM_20150317_001997	Mudge 卡片 
-ITEM_20150317_001998	Mothstem 卡片 
-ITEM_20150317_001999	Moa 卡片 
-ITEM_20150317_002000	Moyabruka 卡片 
-ITEM_20150317_002001	Moldyhorn 卡片 
-ITEM_20150317_002002	Molich 卡片 
-ITEM_20150317_002003	Minotaur 卡片 
-ITEM_20150317_002004	Mirtis 卡片 
-ITEM_20150317_002005	Bebraspion 卡片 
-ITEM_20150317_002006	Bearkaras 卡片 
-ITEM_20150317_002007	Velorchard 卡片 
+ITEM_20150317_001998	摩斯恩毒蛾 卡片 
+ITEM_20150317_001999	恐鳥 卡片 
+ITEM_20150317_002000	摩亞惡獸 卡片 
+ITEM_20150317_002001	黴角獸 卡片 
+ITEM_20150317_002002	莫里契 卡片 
+ITEM_20150317_002003	米諾陶諾斯 卡片 
+ITEM_20150317_002004	死亡女士 卡片 
+ITEM_20150317_002005	河狸皮歐尼 卡片 
+ITEM_20150317_002006	戰爭巨熊 卡片 
+ITEM_20150317_002007	維洛查德 卡片 
 ITEM_20150317_002008	瓦布戰士 卡片 
 ITEM_20150317_002009	紅色瓦布戰士 卡片 
 ITEM_20150317_002010	博拉波 卡片 
-ITEM_20150317_002011	Biteregina 卡片 
-ITEM_20150317_002012	Cyclops 卡片 
-ITEM_20150317_002013	Saltistter 卡片 
+ITEM_20150317_002011	里加納巨蜂 卡片 
+ITEM_20150317_002012	獨眼巨人 卡片 
+ITEM_20150317_002013	冰原海象 卡片 
 ITEM_20150317_002014	火蜥蜴 卡片 
-ITEM_20150317_002015	Shadowgaler 卡片 
-ITEM_20150317_002016	Stone Whale 卡片 
+ITEM_20150317_002015	暗影守護者 卡片 
+ITEM_20150317_002016	石鯨 卡片 
 ITEM_20150317_002017	Schnaimm 卡片 
-ITEM_20150317_002018	Scorpio 卡片 
-ITEM_20150317_002019	Specter Lord 卡片 
-ITEM_20150317_002020	Throneweaver 卡片 
-ITEM_20150317_002021	Ironbaum 卡片 
-ITEM_20150317_002022	Archon 卡片 
-ITEM_20150317_002023	Abomination 卡片 
-ITEM_20150317_002024	Unknocker 卡片 
-ITEM_20150317_002025	Achat 卡片 
-ITEM_20150317_002026	Ellaganos 卡片 
-ITEM_20150317_002027	Yekub 卡片 
-ITEM_20150317_002028	聖約翰草m 卡片 
-ITEM_20150317_002029	Werewolf 卡片 
+ITEM_20150317_002018	天蠍 卡片 
+ITEM_20150317_002019	亡靈之主 卡片 
+ITEM_20150317_002020	王座編織者 卡片 
+ITEM_20150317_002021	鐵樹 卡片 
+ITEM_20150317_002022	執政官 卡片 
+ITEM_20150317_002023	憎惡屠夫 卡片 
+ITEM_20150317_002024	破門者 卡片 
+ITEM_20150317_002025	安查特 卡片 
+ITEM_20150317_002026	艾拉岡納斯 卡片 
+ITEM_20150317_002027	虛空百足蟲 卡片 
+ITEM_20150317_002028	尤納左恩石像 卡片 
+ITEM_20150317_002029	狼人 卡片 
 ITEM_20150317_002030	獨角獸卡片 
-ITEM_20150317_002031	Iltiswort 卡片 
-ITEM_20150317_002032	Giant Redwood 卡片 
-ITEM_20150317_002033	Giant Wood Goblin 卡片 
-ITEM_20150317_002034	Chapparition 卡片 
-ITEM_20150317_002035	Chafer 卡片 
-ITEM_20150317_002036	Carapace 卡片 
-ITEM_20150317_002037	凱帕 Chieftain 卡片 
+ITEM_20150317_002031	艾爾提斯沃 卡片 
+ITEM_20150317_002032	紅木巨人 卡片 
+ITEM_20150317_002033	精靈木巨人 卡片 
+ITEM_20150317_002034	幻影魔 卡片 
+ITEM_20150317_002035	黃金甲蟲 卡片 
+ITEM_20150317_002036	甲殼巨蟹 卡片 
+ITEM_20150317_002037	凱帕首領 卡片 
 ITEM_20150317_002038	Colimencia 卡片 
 ITEM_20150317_002039	克萊蒙 卡片 
 ITEM_20150317_002040	Kirmellich 卡片 
@@ -2104,7 +2104,7 @@ ITEM_20150317_002103	從魔物處獲得的道具.
 ITEM_20150317_002104	長莖，味道稍辣. {nl}從 凱帕 處獲得. 
 ITEM_20150317_002105	葉蟲的殼 
 ITEM_20150317_002106	薄薄的背殼. 可以看到一個模糊的圖案. 從 葉蟲 處獲得. 
-ITEM_20150317_002107	奇連西 Leaf 
+ITEM_20150317_002107	奇連西 葉片 
 ITEM_20150317_002108	有點苦的葉子.乾後會變厚. 從 奇連西 處獲得. 
 ITEM_20150317_002109	Infro Rocktor 殼 
 ITEM_20150317_002110	一個堅固的殼，有六角形的圖案就在上面. 從 Infro Rocktors 處獲得. 
@@ -2114,11 +2114,11 @@ ITEM_20150317_002113	蜘蛛的觸角
 ITEM_20150317_002114	毛茸茸的觸角. 從 蜘蛛 處獲得. 
 ITEM_20150317_002115	波酷巴 Skin 
 ITEM_20150317_002116	灰色皮革. 從 波酷巴 處獲得. 
-ITEM_20150317_002117	Jukopus Leaf 
+ITEM_20150317_002117	Jukopus 葉片 
 ITEM_20150317_002118	It is wide and wrinkly. 從 Jukopus 處獲得. 
 ITEM_20150317_002119	紅色凱帕水晶
 ITEM_20150317_002120	植物內部發現的晶體是由其汁液凝固形成的. 從 紅色凱帕 處獲得. 
-ITEM_20150317_002121	Large Monster Leaf 
+ITEM_20150317_002121	Large Monster 葉片 
 ITEM_20150317_002122	從魔物處獲得的材料. 用來製作道具. 
 ITEM_20150317_002123	Proof of 瓦布 
 ITEM_20150317_002124	A charm carried by 瓦布. It's very crudely made. Obtained from 瓦布. 
@@ -2141,7 +2141,7 @@ ITEM_20150317_002140	Egnome 核心
 ITEM_20150317_002141	A mutant variation of the Nucl， the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Egnomes. 
 ITEM_20150317_002142	Yognome 核心 
 ITEM_20150317_002143	A mutant variation of the Nucl， the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Yognomes. 
-ITEM_20150317_002144	Violet Leaf 
+ITEM_20150317_002144	Violet 葉片 
 ITEM_20150317_002145	Rafflet Flower 
 ITEM_20150317_002146	Tanu 的莖 
 ITEM_20150317_002147	Thick， thorny stem. Not suitable for eating. Obtained from Tanus. 
@@ -2178,7 +2178,7 @@ ITEM_20150317_002177	A lantern would be nice， but a candle can also be a great
 ITEM_20150317_002178	Catacomb Maggot Feeler 
 ITEM_20150317_002179	Tontooth 尖刺 
 ITEM_20150317_002180	Small but enough to inflict pain. Obtained from Tontooths. 
-ITEM_20150317_002181	Pino Leaf 
+ITEM_20150317_002181	Pino 葉片 
 ITEM_20150317_002182	A small leaf that looks like a fish scale. Obtained from Pinos. 
 ITEM_20150317_002183	Geppetto 的莖 
 ITEM_20150317_002184	Frequently used in bowcrafting due to its flexible properties. Obtained from Geppettos. 
@@ -2212,7 +2212,7 @@ ITEM_20150317_002211	Mauros 核心
 ITEM_20150317_002212	A mutant variation of the Nucl， the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Mauroses. 
 ITEM_20150317_002213	蠟 
 ITEM_20150317_002214	Although this can be found from many monsters， it's most easily obtainable from Treeambulo. 
-ITEM_20150317_002215	Short Tree Leaf 
+ITEM_20150317_002215	Short Tree 葉片 
 ITEM_20150317_002216	A rather stiff leaf. Obtained from Short Trees. 
 ITEM_20150317_002217	Long Arm Tree Crystal 
 ITEM_20150317_002218	This crystal formation found inside the plant comes from the solidification of its sap. Obtained from Long Arm Trees. 
@@ -2228,7 +2228,7 @@ ITEM_20150317_002227	Big Cockatrice Heart
 ITEM_20150317_002228	The heart of a beast. Similar physiological layout to the human heart. Obtained from Big Cockatrices. 
 ITEM_20150317_002229	幼龍的肉 
 ITEM_20150317_002230	Must be cooked for a very long time due to its resistance to fire. Because of this slow cooking， however， it is extremely delicious. Obtained from 幼龍. 
-ITEM_20150317_002231	Phyracon Leaf 
+ITEM_20150317_002231	Phyracon 葉片 
 ITEM_20150317_002232	Red colored leaf. Obtained from Phyracon. 
 ITEM_20150317_002233	薩滿娃娃 核心 
 ITEM_20150317_002234	A mutant variation of the Nucl， the power source of mutant monsters. Contains highly condensed magic that might explode if handled carelessly. Obtained from Shaman Dolls. 
@@ -2287,7 +2287,7 @@ ITEM_20150317_002286	Panto 矛 Shaft
 ITEM_20150317_002287	矛 used by the Panto. Obtained from Panto 矛men. 
 ITEM_20150317_002288	Tipio Stamen 
 ITEM_20150317_002289	You will sneeze if you breathe in the pollen from this. Obtained from Tipios. 
-ITEM_20150317_002290	Doyor Leaf Bunch 
+ITEM_20150317_002290	Doyor 葉片 Bunch 
 ITEM_20150317_002291	Perfect alternative to an umbrella. Obtained from Doyors. 
 ITEM_20150317_002292	Hogma Archer Belt 
 ITEM_20150317_002293	Very strong， but crude， belt. Obtained from Hogma Archers. 
@@ -2354,7 +2354,7 @@ ITEM_20150317_002353	蜘蛛的皮
 ITEM_20150317_002354	蜘蛛的毒液
 ITEM_20150317_002355	波酷巴 的肉 
 ITEM_20150317_002356	波酷巴 的角 
-ITEM_20150317_002357	Discolored Leaf 
+ITEM_20150317_002357	Discolored 葉片 
 ITEM_20150317_002358	Jukopus Rope 
 ITEM_20150317_002359	紅色凱帕 的莖 
 ITEM_20150317_002360	瓦布 矛 Head 
@@ -2380,7 +2380,7 @@ ITEM_20150317_002379	瓦布戰士的血
 ITEM_20150317_002380	瓦布 blood that is thicker and more viscous than normal. Obtained from 瓦布 Fighters. 
 ITEM_20150317_002381	Zignuts Fruit 
 ITEM_20150317_002382	Zignuts Seed 
-ITEM_20150317_002383	Panto Leaf Decoration 
+ITEM_20150317_002383	Panto 葉片 Decoration 
 ITEM_20150317_002384	蜂鳥的翅膀
 ITEM_20150317_002385	A wing that has the shape of a flower petal. Obtained from 蜂鳥s. 
 ITEM_20150317_002386	蜂鳥的羽毛
@@ -2434,7 +2434,7 @@ ITEM_20150317_002433	Judas Crystal
 ITEM_20150317_002434	Seed Oil 
 ITEM_20150317_002435	Maize Spore Pocket 
 ITEM_20150317_002436	If you're not careful， the pocket may burst and the spores will fly out. Obtained from Maizes. 
-ITEM_20150317_002437	Maize Leaf 
+ITEM_20150317_002437	Maize 葉片 
 ITEM_20150317_002438	Maize Eyeball 
 ITEM_20150317_002439	釣魚竿 
 ITEM_20150317_002440	Obtained from Fishermen. 
@@ -2449,7 +2449,7 @@ ITEM_20150317_002448	Pluplu Arrow
 ITEM_20150317_002449	This noise-making arrow can be used to alert caution or send signals to others. 
 ITEM_20150317_002450	Red Eye of Schtaim 
 ITEM_20150317_002451	Blue Eye of Echad 
-ITEM_20150317_002452	Grummer Leaf 
+ITEM_20150317_002452	Grummer 葉片 
 ITEM_20150317_002453	A leaf full of smaller needle-like leaves. Obtained from Grummers. 
 ITEM_20150317_002454	Sticky Liquid 
 ITEM_20150317_002455	Latex 
@@ -2463,7 +2463,7 @@ ITEM_20150317_002462	Veonol
 ITEM_20150317_002463	Daer 
 ITEM_20150317_002464	Penol 
 ITEM_20150317_002465	Arah 
-ITEM_20150317_002466	Chromabo Leaf 
+ITEM_20150317_002466	Chromabo 葉片 
 ITEM_20150317_002467	A flat leaf. Obtained from Chromabos. 
 ITEM_20150317_002468	Gigantic Shinbone 
 ITEM_20150317_002469	A very large shinbone. Obtained from Hogma Warriors. 
@@ -2494,7 +2494,7 @@ ITEM_20150317_002493	This claw helps Doyors to move faster. Obtained from Doyors
 ITEM_20150317_002494	幼龍Film 
 ITEM_20150317_002495	Once ripped， it cannot be repaired. Obtained from 幼龍. 
 ITEM_20150317_002496	Drape Poisoned Needle 
-ITEM_20150317_002497	Lafsave Leaf 
+ITEM_20150317_002497	Lafsave 葉片 
 ITEM_20150317_002498	Obtained from Lafsaves. 
 ITEM_20150317_002499	Rafflesia Poison Extract 
 ITEM_20150317_002500	Obtained from Black Rafflesias. 
@@ -2545,11 +2545,11 @@ ITEM_20150317_002544	可以滾. 從 Wheelens 處獲得
 ITEM_20150317_002545	Banshee Hood 
 ITEM_20150317_002546	Unbelievably lightweight. Obtained from Banshees. 
 ITEM_20150317_002547	Velwriggler 羽毛 
-ITEM_20150317_002548	Violet Leaf 
+ITEM_20150317_002548	Violet 葉片 
 ITEM_20150317_002549	Obtained from Rafflies. 
 ITEM_20150317_002550	Red 瓦布 Token 
 ITEM_20150317_002551	Obtained from Red 瓦布 Raiders. 
-ITEM_20150317_002552	Beeteros Leaf 
+ITEM_20150317_002552	Beeteros 葉片 
 ITEM_20150317_002553	Obtained from Beeteroses. 
 ITEM_20150317_002554	Big Grivar Bamboo Hat 
 ITEM_20150317_002555	Obtained from Big Grivars. 
@@ -2559,7 +2559,7 @@ ITEM_20150317_002558	Desert 卓柏卡布拉 Skin
 ITEM_20150317_002559	You can only obtain this in small quantities but it's very useful for many purposes. Obtained from Desert 卓柏卡布拉. 
 ITEM_20150317_002560	Sauga Power Engine 
 ITEM_20150317_002561	A mechanism that enables easier control over magical power. Obtained from Saugas. 
-ITEM_20150317_002562	Cire Leaf 
+ITEM_20150317_002562	Cire 葉片 
 ITEM_20150317_002563	Sakmoli 的莖 
 ITEM_20150317_002564	Obtained from Sakmolis. 
 ITEM_20150317_002565	Shardstatue 爪 
@@ -2581,7 +2581,7 @@ ITEM_20150317_002580	Ultanun 骨頭
 ITEM_20150317_002581	The anatomy doesn't seem too different from that of birds. Obtained from Ultanuns. 
 ITEM_20150317_002582	Ellogua Petal 
 ITEM_20150317_002583	Obtained from Elloguas. 
-ITEM_20150317_002584	Ellomago Leaf 
+ITEM_20150317_002584	Ellomago 葉片 
 ITEM_20150317_002585	Obtained from Ellomagos. 
 ITEM_20150317_002586	Ellom Bell 
 ITEM_20150317_002587	Obtained from Elloms. 
@@ -2590,7 +2590,7 @@ ITEM_20150317_002589	Infro Holder 骨頭
 ITEM_20150317_002590	Obtained from Infro Holders. 
 ITEM_20150317_002591	Nymph 魔杖 Decoration 
 ITEM_20150317_002592	Obtained from Teraimps. 
-ITEM_20150317_002593	Geppetto Leaf 
+ITEM_20150317_002593	Geppetto 葉片 
 ITEM_20150317_002594	A small， arrowhead shaped leaf. Obtained from Geppettos. 
 ITEM_20150317_002595	腳鐐 
 ITEM_20150317_002596	Usually found cuffed to a criminal， but it seems like there are also other uses for it.  Obtained from Dumaros. 
@@ -2601,7 +2601,7 @@ ITEM_20150317_002600	Obtained from Green Elloms.
 ITEM_20150317_002601	Chupaluka 的肉 
 ITEM_20150317_002602	Karas Fragment 
 ITEM_20150317_002603	It looks like a plain rock.  Obtained from Karases. 
-ITEM_20150317_002604	Caro Leaf 
+ITEM_20150317_002604	Caro 葉片 
 ITEM_20150317_002605	A widely bent leaf. Obtained from Caros. 
 ITEM_20150317_002606	凱帕 Raider Tooth 
 ITEM_20150317_002607	Obtained from 凱帕 Raiders. 
@@ -2638,7 +2638,7 @@ ITEM_20150317_002637	Flibo 的莖
 ITEM_20150317_002638	Obtained from Flibos. 
 ITEM_20150317_002639	Pino 的莖 
 ITEM_20150317_002640	最好別吃. Obtained from Pinos. 
-ITEM_20150317_002641	Hamming Leaf 
+ITEM_20150317_002641	Hamming 葉片 
 ITEM_20150317_002642	High 瓦布 Cross Stick 
 ITEM_20150317_002643	High 瓦布 Token 
 ITEM_20150317_002644	Obtained from High 瓦布. 
@@ -2646,7 +2646,7 @@ ITEM_20150317_002645	Hallowventer 手骨
 ITEM_20150317_002646	更像武器個手骨. Obtained from Hallowventers. 
 ITEM_20150317_002647	Hogma Battle Boss Fang 
 ITEM_20150317_002648	A lot bigger than other Hogma's fangs. Obtained from Hogma Captains. 
-ITEM_20150317_002649	Gray Yukopus Leaf 
+ITEM_20150317_002649	Gray Yukopus 葉片 
 ITEM_20150317_002650	Fallenlem 碎片 
 ITEM_20150317_002651	Obtained from Fallenlems. 
 ITEM_20150317_002652	銀條 
@@ -2673,8 +2673,8 @@ ITEM_20150317_002672	Biteregina's 尖刺
 ITEM_20150317_002673	Obtained from Biteregina. 
 ITEM_20150317_002674	Cerberus' 尖牙 
 ITEM_20150317_002675	Obtained from Cerberus. 
-ITEM_20150317_002676	Chapparition's Soul Matter 
-ITEM_20150317_002677	Obtained from Chapparition. 
+ITEM_20150317_002676	幻影魔's Soul Matter 
+ITEM_20150317_002677	Obtained from 幻影魔. 
 ITEM_20150317_002678	魂魄碎片 
 ITEM_20150317_002679	從80級任務中獲得. 
 ITEM_20150317_002680	Vejo 靴子 皮甲 
@@ -2919,7 +2919,7 @@ ITEM_20150317_002918	Holy Water of 聖火祭司 Master
 ITEM_20150317_002919	Holy Water used for treating patients. It has a revitalizing effect. 
 ITEM_20150317_002920	Minotaur's 精華 
 ITEM_20150317_002921	A Demonic essence requested by the 念力法師 Master. It emanates a sinister evil aura. 
-ITEM_20150317_002922	Chapparition's 精華 
+ITEM_20150317_002922	幻影魔's 精華 
 ITEM_20150317_002923	A Demonic essence requested by the 念力法師 Master. If you stare at it for too long you might be possessed. 
 ITEM_20150317_002924	奇特的地圖 
 ITEM_20150317_002925	This might be a map marked with the location of the 造箭者's Secret Manual. Why would the 弩箭手 Master want the 造箭者's...? 
@@ -3078,7 +3078,7 @@ ITEM_20150317_003077	This stick was made by upgrading a Spiritual Stick. It hold
 ITEM_20150317_003078	Keepsake from dead soldiers killed by monsters. It seems that the keepsake can comfort the soldiers' victimized souls. 
 ITEM_20150317_003079	Butterfly Scent 
 ITEM_20150317_003080	This smell reminds me of my hometown. I miss my home. 
-ITEM_20150317_003081	Abnormally Scented Ridimed Leaf. 
+ITEM_20150317_003081	Abnormally Scented Ridimed 葉片. 
 ITEM_20150317_003082	Abnormally smelling juices are oozing from it. 
 ITEM_20150317_003083	Purified Urn 
 ITEM_20150317_003084	Quest item. 
@@ -3477,7 +3477,7 @@ ITEM_20150317_003476	Oil that reeks with a Doki's scent.
 ITEM_20150317_003477	Toolbox 
 ITEM_20150317_003478	Full of tools used to repair the scarecrow. 
 ITEM_20150317_003479	Death Marker 
-ITEM_20150317_003480	A marker found from Chapparition. The voices of the killed innocents echo from it. 
+ITEM_20150317_003480	A marker found from 幻影魔. The voices of the killed innocents echo from it. 
 ITEM_20150317_003481	A necklace that a ghost asked you to take to his younger brother. A modest pendant is attached to it. 
 ITEM_20150317_003482	A bag full of money. What was the Reaper doing with this? 
 ITEM_20150317_003483	Messenger's Note 
@@ -3668,7 +3668,7 @@ ITEM_20150317_003667	Small Music Box
 ITEM_20150317_003668	An item exchanged between lovers as a symbol of their love. A cute music box that fits into a small pouch. 
 ITEM_20150317_003669	Monster 的肉 
 ITEM_20150317_003670	Meat peeled off during the hunting of monsters. The terrible smell alone makes it hard to eat. 
-ITEM_20150317_003671	Asellu Leaf Bud 
+ITEM_20150317_003671	Asellu 葉片 Bud 
 ITEM_20150317_003672	The leaf bud of an Asellu grown on the Way of Big Starving Demon. It has many practical uses in crafting and in medicine. 
 ITEM_20150317_003673	Food Scraps 
 ITEM_20150317_003674	Unidentifiable food scraps. Can be used as monster bait. When a monster comes into sight， you can throw it by pressing the V key. 
@@ -3690,7 +3690,7 @@ ITEM_20150317_003689	적갈나무 단층 숲에 있는 축복의 성소를 모�
 ITEM_20150317_003690	적갈나무 단층숲의 오염된 성소를 정화하기 위해 프리스트 마스터로부터 얻어온 성수.
 ITEM_20150317_003691	Grey Gypsum Fragment 
 ITEM_20150317_003692	적갈나무 단층숲의 고장난 여신상을 수리할 때 쓰인다는 석고 가루.
-ITEM_20150317_003693	Reed Leaf Dew 
+ITEM_20150317_003693	Reed 葉片 Dew 
 ITEM_20150317_003694	석고가루를 갤 때 쓰인다는 물.
 ITEM_20150317_003695	Sign of Naktis 
 ITEM_20150317_003696	나크티스가 몬스터들을 부리기 위해 몬스터들의 몸에 박아놓은 흔적.(임시)
@@ -3983,7 +3983,7 @@ ITEM_20150323_003982	The goods stolen by the Dico Robbers in the petrified city 
 ITEM_20150323_003983	Water bottle engraved with a password to find the robber Benjaminas hidden among the guards of the petrified city of Verkti Square. 
 ITEM_20150323_003984	A fragrant stone powder obtained from monsters in the petrified city of Verkti Square. 
 ITEM_20150323_003985	몬스터 고기덩어리
-ITEM_20150323_003986	Young Leaf 
+ITEM_20150323_003986	Young 葉片 
 ITEM_20150323_003987	큰아귀 길에서 흔하게 볼 수 있는 들풀의 여린 잎. 먹을 것이라고는 하지만 인간의 입맛에는 안 맞을 듯 하다.
 ITEM_20150323_003988	Tree Root Crystal 核心 
 ITEM_20150323_003989	제단로에서 순례자들을 죽인 몬스터들을 구별하기 위한 시약
@@ -4440,7 +4440,7 @@ ITEM_20150401_004439	羅尼薩 木質 項鏈
 ITEM_20150401_004440	羅尼薩 鐵項鏈 
 ITEM_20150401_004441	羅尼薩 鋼項鏈 
 ITEM_20150401_004442	羅尼薩 護身符 
-ITEM_20150401_004443	羅尼薩 克萊佩達 鎖鏈 
+ITEM_20150401_004443	羅尼薩 克萊佩達項鏈 
 ITEM_20150401_004444	Ritual 項鏈 
 ITEM_20150401_004445	卓越 Ritual 項鏈 
 ITEM_20150401_004446	Key 綴飾 
@@ -6596,7 +6596,7 @@ ITEM_20150918_006595	Supplies requested by the supplier to be delivered to the D
 ITEM_20150918_006596	A pouch of supplies looted by Vubbes. Let's take these to Yukurt to investigate the odd behaviour of the Vubbes.
 ITEM_20150918_006597	Oil that reeks with a Doki's scent.
 ITEM_20150918_006598	Full of tools used to repair the scarecrow.
-ITEM_20150918_006599	A marker found from Chapparition. The voices of the killed innocents echo from it.
+ITEM_20150918_006599	A marker found from 幻影魔. The voices of the killed innocents echo from it.
 ITEM_20150918_006600	A necklace that a ghost asked you to take to his younger brother. A modest pendant is attached to it.
 ITEM_20150918_006601	A bag full of money. What was the Reaper doing with this?
 ITEM_20150918_006602	The messenger's note. He told you not to read it but... Should we?
@@ -7472,7 +7472,7 @@ ITEM_20151022_007471	5階職業等級直接升至LV15. 只有5階可以使用. {
 ITEM_20151022_007472	Abomination Cube		
 ITEM_20151022_007473	It seems that you are able to obtain something that is unknown.  {nl}右鍵點擊使用.		
 ITEM_20151022_007474	Disgusting Deathweaver Cube		
-ITEM_20151022_007475	Bleak Chapparition Cube		
+ITEM_20151022_007475	Bleak 幻影魔 Cube		
 ITEM_20151022_007476	Earth Temple Shooter Cube		
 ITEM_20151022_007477	Earth Canceril Cube		
 ITEM_20151022_007478	Earth Archon Cube		
