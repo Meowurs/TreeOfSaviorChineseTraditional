@@ -6,7 +6,8 @@ ETC_20150317_000004	人們有時會捕獵大型凱帕當作食物
 ETC_20150317_000005	紅色凱帕
 ETC_20150317_000006	大多數人都沒有意識到，紅色凱帕其實與凱帕頗為相似。
 ETC_20150317_000007	毒凱帕
-ETC_20150317_000008	花米球
+ETC_20150317_000008	魔物
+ETC_20150317_000009	花米球
 ETC_20150317_000010	儘管他的皮膚挺強韌的但花米球還是相當弱的魔物.
 ETC_20150317_000011	奇連西
 ETC_20150317_000012	原本只是普通的植物，後來演變成現在這副德性.
@@ -8765,50 +8766,6 @@ ETC_20150317_008764	Class stats
 ETC_20150317_008765	3D Monster death time
 ETC_20150317_008766	Die-in-place
 ETC_20150317_008767	Death Animation
-<<<<<<< HEAD
-ETC_20150317_008768	Keyboard navigation Tip
-ETC_20150317_008769	Use the arrow keys to move your character.
-ETC_20150317_008770	Jump Tip
-ETC_20150317_008771	Press X to jump.
-ETC_20150317_008772	Attack Tip
-ETC_20150317_008773	Press Z to attack.
-ETC_20150317_008774	STR Stat Tip
-ETC_20150317_008775	The Strength stat increases your physical damage and critical damage. 
-ETC_20150317_008776	CON Stat Tip
-ETC_20150317_008777	The Constitution stat increases your max HP, HP recovery rate, inventory weight, critical resistance and shield block rate.
-ETC_20150317_008778	INT Stat Tip
-ETC_20150317_008779	The Intelligence stat increases your magic attack.
-ETC_20150317_008780	SPR Stat Tip
-ETC_20150317_008781	The Spirit stat increases your max SP and SP recovery rate.
-ETC_20150317_008782	DEX Stat Tip
-ETC_20150317_008783	The Dexterity stat increases your accuracy, critical chance and evasion.
-ETC_20150317_008784	Continuous Attack Tip
-ETC_20150317_008785	Hold down Z to attack continuously.
-ETC_20150317_008786	Stamina Tip
-ETC_20150317_008787	You will stop running when your STA has reached 0.
-ETC_20150317_008788	Stamina Recovery Tip
-ETC_20150317_008789	Destroy Tree Roots Crystals in fields or use Stamina Pills to recover your STA.
-ETC_20150317_008790	Overkill Tip
-ETC_20150317_008791	When the monster is the same level and attack damage is twice the monster's HP, overkill is triggered and you earn bonus EXP.
-ETC_20150317_008792	Rest Mode Tip
-ETC_20150317_008793	Press the Insert key to rest. Your HP, SP and STA recovery increases during Rest Mode.
-ETC_20150317_008794	Bonfire Tip
-ETC_20150317_008795	When nearby a bonfire while in Rest Mode, the recovery of all characters resting will increase.
-ETC_20150317_008796	製作提示
-ETC_20150317_008797	You can craft items while in Rest Mode, if you have the required recipes and materials.
-ETC_20150317_008798	Enhancement Tip
-ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
-ETC_20150317_008800	Potential Tip
-ETC_20150317_008801	The Potential of an item decreases by player trading, adding sockets, equipping magic amulets or failing an enhancement.
-ETC_20150317_008802	Chat Window Tip
-ETC_20150317_008803	Press Enter to open the chat window and press Enter again to close it.
-ETC_20150317_008804	Megaphone Tip
-ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. Requires the Megaphone item.
-ETC_20150317_008806	Repair Tip
-ETC_20150317_008807	You can repair 裝備 with low durability through the 黑色smith NPC located in a city.
-ETC_20150317_008808	Shop System Tip
-ETC_20150317_008809	You can buy and sell items through the merchants NPCs located in the city.
-=======
 ETC_20150317_008768	鍵盤 小提示
 ETC_20150317_008769	使用方向鍵移動角色
 ETC_20150317_008770	跳躍 小提示
@@ -8851,7 +8808,6 @@ ETC_20150317_008806	修理 小提示
 ETC_20150317_008807	你可以在城市的某處尋找鐵匠來修復你的裝備
 ETC_20150317_008808	商店系統 小提示
 ETC_20150317_008809	你可以在城市中的道具商人處購買或出售道具.
->>>>>>> 33e53692330bb437cf6dceaa79ad555f328d05cb
 ETC_20150317_008810	Return Tip
 ETC_20150317_008811	You can return to the quest NPC immediately by using the Backspace key or by pressing the 'Go Back' button.
 ETC_20150317_008812	Attributes Tip
