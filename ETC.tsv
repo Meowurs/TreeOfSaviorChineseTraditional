@@ -7,7 +7,7 @@ ETC_20150317_000005	紅色凱帕
 ETC_20150317_000006	大多數人都沒有意識到，紅色凱帕其實與凱帕頗為相似。
 ETC_20150317_000007	毒凱帕
 ETC_20150317_000008	魔物
-ETC_20150317_000009	花米球
+ETC_20150317_000009	哈米球
 ETC_20150317_000010	儘管他的皮膚挺強韌的但花米球還是相當弱的魔物.
 ETC_20150317_000011	奇連西
 ETC_20150317_000012	原本只是普通的植物，後來演變成現在這副德性.
@@ -63,7 +63,7 @@ ETC_20150317_000061	艾拉岡諾斯
 ETC_20150317_000062	咬咬
 ETC_20150317_000063	有人說寧願被箭插膝蓋也不要被咬上一口.
 ETC_20150317_000064	布拉奇
-ETC_20150317_000065	It's a forgotten secret that the Demons secretly deployed the Puragis to attack Ruklys' soldiers during the civil war.
+ETC_20150317_000065	這是個被遺忘的秘密，惡魔偷偷的佈署布拉奇來偷襲Ruklys的士兵.
 ETC_20150317_000066	藍色 布拉奇
 ETC_20150317_000067	藍色 布拉奇們喜歡殘殺和掠奪.
 ETC_20150317_000068	綠色 布拉奇
@@ -89,7 +89,7 @@ ETC_20150317_000087	荊棘鮟鱇魚
 ETC_20150317_000088	紅檜木妖
 ETC_20150317_000089	不管紅檜木妖是動物植物還是礦物都不重要，你應該要知道的是他多危險.
 ETC_20150317_000090	紅檜木妖？
-ETC_20150317_000091	死神本我
+ETC_20150317_000091	Mirtis Ego
 ETC_20150317_000092	莫里契
 ETC_20150317_000093	迷你蘑菇人
 ETC_20150317_000094	綠色 蘑菇人
@@ -100,7 +100,7 @@ ETC_20150317_000098	巨型 紅色 蘑菇人
 ETC_20150317_000099	大隻的 蘑菇人
 ETC_20150317_000100	這隻魔物難吃又難打.
 ETC_20150317_000101	大隻的 藍色 蘑菇人
-ETC_20150317_000102	A large, strong, tough monster and reluctant prey of hunters.
+ETC_20150317_000102	獵人們不是很願意遇到這種又大又硬的魔物.
 ETC_20150317_000103	大隻的 綠色 蘑菇人
 ETC_20150317_000104	大隻的 紅色 蘑菇人
 ETC_20150317_000105	年邁的 凱帕
@@ -115,11 +115,11 @@ ETC_20150317_000113	綠色 霸王花
 ETC_20150317_000114	黑色 霸王花
 ETC_20150317_000115	這種植物的葉片比皮革還強韌.
 ETC_20150317_000116	紅色 霸王花
-ETC_20150317_000117	拉佛利
-ETC_20150317_000118	Even after undergoing mutations, 拉佛利 continue to hunt small insects.
-ETC_20150317_000119	藍色 拉佛利
-ETC_20150317_000120	灰色 拉佛利
-ETC_20150317_000121	黑色 拉佛利
+ETC_20150317_000117	霸王花
+ETC_20150317_000118	儘管突變成魔物依舊在尋找著小蟲子.
+ETC_20150317_000119	藍色 霸王花
+ETC_20150317_000120	灰色 霸王花
+ETC_20150317_000121	黑色 霸王花
 ETC_20150317_000122	草生木妖
 ETC_20150317_000123	藍色 草生木妖
 ETC_20150317_000124	從草本植物突變成全身為實心木頭的魔物.
@@ -159,28 +159,28 @@ ETC_20150317_000157	守墓偶
 ETC_20150317_000158	這些護衛是擺在陵墓之中，名字由來是盜墓者.
 ETC_20150317_000159	馬達奇雅惡魔
 ETC_20150317_000160	這些馬達奇雅惡魔抵禦著比盜墓者還要強悍的入侵者.
-ETC_20150317_000161	Wheelen
-ETC_20150317_000162	The Wheelen is one of many magical creations made to protect the sealed tombs that have no current overseer.
-ETC_20150317_000163	Wheelen 3
-ETC_20150317_000164	Mauros
-ETC_20150317_000165	The stone cavalry of the Royal Mausoleum are magical creations made to withstand even the most heavily-armed of knights.
-ETC_20150317_000166	Truffle
-ETC_20150317_000167	For reasons unknown, this monster holds an extreme hatred towards humans. It prefers to attack humans rather than hunt more suitable prey, or even care about its own survival.
-ETC_20150317_000168	Trufflelia
+ETC_20150317_000161	韋藍魔偶
+ETC_20150317_000162	韋藍魔偶是為了保護陵墓的無名氏作品之一.
+ETC_20150317_000163	韋藍魔偶 3
+ETC_20150317_000164	馬魯斯石騎兵
+ETC_20150317_000165	這些魔法創造的騎兵堪比全副武裝的帝國騎士.
+ETC_20150317_000166	松露羔羊
+ETC_20150317_000167	不知為何對人類有強烈的憎恨，不顧生命的襲擊人類.
+ETC_20150317_000168	松露羊
 ETC_20150317_000169	博拉波
 ETC_20150317_000170	Bramble Ego
 ETC_20150317_000171	Willow
 ETC_20150317_000172	Willowna
-ETC_20150317_000173	哈那米
-ETC_20150317_000174	Leaves fallen from a dead Hanaming wither rapidly.
+ETC_20150317_000173	花米球
+ETC_20150317_000174	死亡時身上的花會瞬間凋落.
 ETC_20150317_000175	卓柏卡布拉
-ETC_20150317_000176	Their numbers grew after the Great Plant Cataclysm; now they tend to compete with humans for territory.
+ETC_20150317_000176	聖樹之日後突然大量繁衍，往往會與人類爭奪領地.
 ETC_20150317_000177	灰色 卓柏卡布拉
 ETC_20150317_000178	巨型 灰色 卓柏卡布拉
-ETC_20150317_000179	Chupacabras move quite stealthily. That being said, it's much more dangerous for humans if there are elite Chupacabras.
+ETC_20150317_000179	卓柏卡布拉行蹤相當隱密，但如果有菁英卓柏卡布拉可是會危害到人類的.
 ETC_20150317_000180	黃色 卓柏卡布拉
 ETC_20150317_000181	波波獅
-ETC_20150317_000182	A Popolion's voice is said to break even glass bottles.
+ETC_20150317_000182	波波獅的聲音就像摔破玻璃.
 ETC_20150317_000183	Sauga
 ETC_20150317_000184	Saugas
 ETC_20150317_000185	毒蠍
