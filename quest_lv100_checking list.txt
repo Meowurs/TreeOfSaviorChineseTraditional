@@ -1,0 +1,24 @@
+quest LV 100
+魔物 他它
+archieve
+0009 這張紙到底？
+0010 ?
+0044 latter sentence
+0048
+0056~0057 archive?
+0069 gallant? reliable?
+0106 WTF?
+0152 Medzio Diena = 聖樹之日？
+0156
+0185 spell 魔法｜咒語
+0194 material
+0225 slate the evidence of salvation
+0256 latter sentence
+0303 memo
+0304 memo
+0307 memo
+0336 ?
+0400 gone 離開｜消失
+0431 ? 
+----------
+08123
