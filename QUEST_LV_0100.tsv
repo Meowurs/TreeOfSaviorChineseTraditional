@@ -7681,8 +7681,8 @@ QUEST_LV_0100_20150729_007680	$Obtain the supplies from the Wendigo
 QUEST_LV_0100_20150729_007681	$Eta said that he won't return to camp until he defeats Saugas. You better help him so he can return sooner. Get the Monster Poison and the Spiritual Stone in Alkune Stairway for Eta.
 QUEST_LV_0100_20150729_007682	$You obtained the Spiritual Stone and the Monster Poison. Return to Eta.
 QUEST_LV_0100_20150729_007683	$Ask the Bokor Master about the Mysterious Slate. She lives at the residential area in Klaipeda's left end.
-QUEST_LV_0100_20150729_007684	$Worship the Statue of Goddess Ausrine
-QUEST_LV_0100_20150729_007685	$Worship to the Statue of Goddess Ausrine in Central Square of Klaipeda as preparation to leave for the Eastern Woods.
+QUEST_LV_0100_20150729_007684	向 女神奧施麗涅 雕像 祈禱。
+QUEST_LV_0100_20150729_007685	$Worship to the Statue of 女神奧施麗涅 in Central Square of Klaipeda as preparation to leave for the Eastern Woods.
 QUEST_LV_0100_20150729_007686	$Defeat the 瓦布們 and get %s
 QUEST_LV_0100_20150729_007687	$The entire territory of Kateen Forest Entrance
 QUEST_LV_0100_20150729_007688	$Knight Commander 烏斯加 requested you to investigate the disappearances of Prince Tilenis and the mayor. Search for the traces using the Spirit Eye in Sidabras Rest Place in Veja Ravine.
@@ -8275,7 +8275,7 @@ QUEST_LV_0100_20151001_008274	{memo X}Anyway, the bishop himself also had a drea
 QUEST_LV_0100_20151001_008275	Knight 阿拉斯 in the Eastern Woods is in charge of it so go and meet him. 
 QUEST_LV_0100_20151001_008276	Four years ago after the incident, why is the Goddess sending us Revelators now... {nl}A peasant like me may not be able to understand the deeper meaning of the Goddess' will.
 QUEST_LV_0100_20151001_008277	But, at least I know that the Revelators are our only hope.{nl}
-QUEST_LV_0100_20151001_008278	Well then, go on to the Eastern Woods. {nl}Don't forget to worship the Statue of Goddess Ausrine in the central plaza before you leave. {nl}
+QUEST_LV_0100_20151001_008278	Well then, go on to the Eastern Woods. {nl}Don't forget to worship the Statue of 女神奧施麗涅 in the central plaza before you leave. {nl}
 QUEST_LV_0100_20151001_008279	Also, be sure to drop by the Tools Merchant.{nl}I have left some warp scrolls for the Revelators. 
 QUEST_LV_0100_20151001_008280	I can feel Bramble suffering.{nl}He is getting retribution for extracting all vigor from this land.
 QUEST_LV_0100_20151001_008281	I am not afraid of dying.{nl}The Goddess Saule will guide me well.
@@ -8297,7 +8297,7 @@ QUEST_LV_0100_20151001_008296	I am finally free. {nl}I will prepare to interpret
 QUEST_LV_0100_20151001_008297	As I have told you before, the revelation is in the hands of the Demon Lord Bramble. {nl}I feel sorry that I have to burden you, but your strength is the only thing I can rely on.{nl}
 QUEST_LV_0100_20151001_008298	But Bramble is also not in its usual condition due to the previous battle. {nl}It is recovering by turning the forest into a thorn forest and extracting nourishments. 
 QUEST_LV_0100_20151001_008299	My Believers are waiting for you in Gate Route. {nl}Please take back the revelation from Bramble. 
-QUEST_LV_0100_20151001_008300	I have carved many owls for a long time to help Goddess Ausrine.{nl}At one point in time, they got their lives and determination.{nl}
+QUEST_LV_0100_20151001_008300	I have carved many owls for a long time to help 女神奧施麗涅.{nl}At one point in time, they got their lives and determination.{nl}
 QUEST_LV_0100_20151001_008301	Medzio Diena was just the beginning. {nl}A forest far away from the capital such as this one is also starting to soak its way into the evil energy. {nl} 
 QUEST_LV_0100_20151001_008302	I will be able to guide you to the revelation if I use all the strength left in me. {nl}That is why you should release me. 
 QUEST_LV_0100_20151001_008303	But please don't reveal my existence for now. {nl}It is the nature of humans to want to depend on something. {nl}If they find out about the helplessness of the Goddess, the world will be full of moans and confusion. 
