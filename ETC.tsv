@@ -8601,30 +8601,30 @@ ETC_20150317_008600	{memo X}Recipe - Battle Bracelet
 ETC_20150317_008601	圖紙 - 毒手鐲
 ETC_20150317_008602	{memo X}Recipe - Plants Bracelet
 ETC_20150317_008603	Recipe - Control Bangle
-ETC_20150317_008604	Recipe - Hunter Bangle
+ETC_20150317_008604	圖紙 - 獵人手鐲
 ETC_20150317_008605	Recipe - Bracer of Archer
 ETC_20150317_008606	{memo X}Recipe - Wizard Bracelet
 ETC_20150317_008607	Recipe - Rapid Bangle
-ETC_20150317_008608	Recipe - Glass Bracelet
+ETC_20150317_008608	圖紙 - 玻璃手鐲
 ETC_20150317_008609	Recipe - Gladiator Band
 ETC_20150317_008610	Recipe - Bracelet of Linne
 ETC_20150317_008611	Recipe - Pora
 ETC_20150317_008612	Recipe - Pore
-ETC_20150317_008613	Recipe - Cicel Bracelet
-ETC_20150317_008614	Recipe - Zachariel Bangle
+ETC_20150317_008613	圖紙 - 西賽爾手鐲
+ETC_20150317_008614	圖紙 - 澤凱瑞爾手鐲
 ETC_20150317_008615	Recipe - Nesting Chick
 ETC_20150317_008616	Recipe for 製作 a costume
 ETC_20150317_008617	Recipe - Steel Helmet
 ETC_20150317_008618	Recipe - Goat Horn
-ETC_20150317_008619	Recipe - 紅色 Horn
-ETC_20150317_008620	Recipe - Kepa Doll
+ETC_20150317_008619	圖紙 - 紅色的角
+ETC_20150317_008620	圖紙 - 凱帕娃娃
 ETC_20150317_008621	Recipe - 紅色 Devil Wings
 ETC_20150317_008622	Recipe - Feather Helmet
 ETC_20150317_008623	Recipe - Sprout
 ETC_20150317_008624	Recipe - Dead Headband
 ETC_20150317_008625	Recipe - A Fistful of Dollars
 ETC_20150317_008626	Recipe - A Fool's Cap
-ETC_20150317_008627	Recipe - Crown Headband
+ETC_20150317_008627	圖紙 - 皇冠頭箍
 ETC_20150317_008628	Recipe - Mint Chocolate Cupcake
 ETC_20150317_008629	Gladiator
 ETC_20150317_008630	Only
@@ -8636,56 +8636,56 @@ ETC_20150317_008635	Play with a pre-made team with the appropriate level.
 ETC_20150317_008636	{memo X}Solo (Rank)
 ETC_20150317_008637	{memo X}Team (Rank)
 ETC_20150317_008638	System-wide
-ETC_20150317_008639	Swordsman Advancement
-ETC_20150317_008640	Highlander Advancement
-ETC_20150317_008641	Peltasta Advancement
-ETC_20150317_008642	Hoplite Advancement
-ETC_20150317_008643	Centurion Advancement
-ETC_20150317_008644	Barbarian Advancement
-ETC_20150317_008645	Cataphract Advancement
-ETC_20150317_008646	Corsair Advancement
-ETC_20150317_008647	Doppelsoeldner Advancement
-ETC_20150317_008648	Rodelero Advancement
-ETC_20150317_008649	Squire Advancement
+ETC_20150317_008639	劍士 進階
+ETC_20150317_008640	高地戰士 進階
+ETC_20150317_008641	輕裝盾兵 進階
+ETC_20150317_008642	重裝步兵 進階
+ETC_20150317_008643	百夫長 進階
+ETC_20150317_008644	野蠻人 進階
+ETC_20150317_008645	裝甲騎兵 進階
+ETC_20150317_008646	海盜 進階
+ETC_20150317_008647	雙酬傭兵 進階
+ETC_20150317_008648	劍盾兵 進階
+ETC_20150317_008649	侍從 進階
 ETC_20150317_008650	Murmillo Advancement
-ETC_20150317_008651	Shinobi Advancement
-ETC_20150317_008652	Wizard Advancement
-ETC_20150317_008653	Pyromancer Advancement
-ETC_20150317_008654	Cryomancer Advancement
-ETC_20150317_008655	Psychokino Advancement
-ETC_20150317_008656	Alchemist Advancement
-ETC_20150317_008657	Sorcerer Advancement
-ETC_20150317_008658	Linker Advancement
-ETC_20150317_008659	Chronomancer Advancement
-ETC_20150317_008660	Necromancer Advancement
-ETC_20150317_008661	Thaumaturge Advancement
+ETC_20150317_008651	忍者 進階
+ETC_20150317_008652	法師 進階
+ETC_20150317_008653	烈焰術士 進階
+ETC_20150317_008654	寒冰術士 進階
+ETC_20150317_008655	念力法師 進階
+ETC_20150317_008656	煉金術士 進階
+ETC_20150317_008657	巫師 進階
+ETC_20150317_008658	鎖鏈法師 進階
+ETC_20150317_008659	Cronomancer Advancement
+ETC_20150317_008660	死靈術士 進階
+ETC_20150317_008661	奇術士 進階
 ETC_20150317_008662	{memo X}Elementalist Advancement
 ETC_20150317_008663	Mimic Advancement
 ETC_20150317_008664	Taoist Priest Advancement
-ETC_20150317_008665	Archer Advancement
-ETC_20150317_008666	Ranger Advancement
-ETC_20150317_008667	Quarrel Shooter Advancement
-ETC_20150317_008668	Hunter Advancement
-ETC_20150317_008669	Sapper Advancement
-ETC_20150317_008670	Wugushi Advancement
-ETC_20150317_008671	Hackapell Advancement
-ETC_20150317_008672	Scout Advancement
-ETC_20150317_008673	Rogue Advancement
-ETC_20150317_008674	Schwarzer Reiter Advancement
-ETC_20150317_008675	Fletcher Advancement
+ETC_20150317_008665	弓箭手 進階
+ETC_20150317_008666	游俠 進階
+ETC_20150317_008667	弩箭手 進階
+ETC_20150317_008668	獵人 進階
+ETC_20150317_008669	工兵 進階
+ETC_20150317_008670	巫蠱師 進階
+ETC_20150317_008671	重裝步兵 進階
+ETC_20150317_008672	斥侯 進階
+ETC_20150317_008673	流氓 進階
+ETC_20150317_008674	黑騎士 進階
+ETC_20150317_008675	造箭者 進階
 ETC_20150317_008676	Pied Piper Advancement
 ETC_20150317_008677	Appraiser Advancement
-ETC_20150317_008678	Cleric Advancement
-ETC_20150317_008679	Priest Advancement
-ETC_20150317_008680	Krivis Advancement
-ETC_20150317_008681	Bokor Advancement
-ETC_20150317_008682	Druid Advancement
-ETC_20150317_008683	Sadhu Advancement
-ETC_20150317_008684	Dievdirbys Advancement
-ETC_20150317_008685	Oracle Advancement
-ETC_20150317_008686	Monk Advancement
-ETC_20150317_008687	Pardoner Advancement
-ETC_20150317_008688	Paladin Advancement
+ETC_20150317_008678	牧師 進階
+ETC_20150317_008679	聖水祭司 進階
+ETC_20150317_008680	聖火祭司 進階
+ETC_20150317_008681	邪靈祭司 進階
+ETC_20150317_008682	德魯伊 進階
+ETC_20150317_008683	聖者 進階
+ETC_20150317_008684	雕刻師 進階
+ETC_20150317_008685	神諭師 進階
+ETC_20150317_008686	武僧 進階
+ETC_20150317_008687	寬恕者 進階
+ETC_20150317_008688	聖騎士 進階
 ETC_20150317_008689	Army Chaplain Advancement
 ETC_20150317_008690	Shepherd Advancement
 ETC_20150317_008691	Toggle to the place which can't do global gen.
@@ -8698,15 +8698,15 @@ ETC_20150317_008697	View object state
 ETC_20150317_008698	Hide object state 
 ETC_20150317_008699	Navigation Camera ON (F11)
 ETC_20150317_008700	Navigation Camera OFF (F12)
-ETC_20150317_008701	Full HP recovery
-ETC_20150317_008702	Full SP recovery
+ETC_20150317_008701	滿HP回復
+ETC_20150317_008702	滿SP回復
 ETC_20150317_008703	No STA reduction
-ETC_20150317_008704	Change Speed (10)
-ETC_20150317_008705	Change Speed (500)
-ETC_20150317_008706	Change Speed (1000)
-ETC_20150317_008707	Add Experience (+1000)
-ETC_20150317_008708	Add Experience (+10000)
-ETC_20150317_008709	Add Experience (+100000)
+ETC_20150317_008704	改變速度 (10)
+ETC_20150317_008705	改變速度 (500)
+ETC_20150317_008706	改變速度 (1000)
+ETC_20150317_008707	增加經驗 (+1000)
+ETC_20150317_008708	增加經驗 (+10000)
+ETC_20150317_008709	增加經驗 (+100000)
 ETC_20150317_008710	Toggle Navigation Mesh
 ETC_20150317_008711	Create mini-map marker
 ETC_20150317_008712	Toggle Navigation Mesh Camera
@@ -8726,13 +8726,13 @@ ETC_20150317_008725	Combat property
 ETC_20150317_008726	Add Defense
 ETC_20150317_008727	Add Health
 ETC_20150317_008728	Damage ratio vs monsters
-ETC_20150317_008729	Minimum range
-ETC_20150317_008730	Maximum range
-ETC_20150317_008731	Knockdown Power
-ETC_20150317_008732	Knockdown Defense
-ETC_20150317_008733	Walk speed
+ETC_20150317_008729	最小距離
+ETC_20150317_008730	最大距離
+ETC_20150317_008731	擊倒力
+ETC_20150317_008732	擊倒防禦
+ETC_20150317_008733	移動速度
 ETC_20150317_008734	Movement Attribute
-ETC_20150317_008735	Attack speed
+ETC_20150317_008735	攻擊速度
 ETC_20150317_008736	Fixed skill number
 ETC_20150317_008737	Debug Animation
 ETC_20150317_008738	Position
@@ -8747,8 +8747,8 @@ ETC_20150317_008746	Splash
 ETC_20150317_008747	Cast time
 ETC_20150317_008748	Cast Speed Animation
 ETC_20150317_008749	Cooldown group
-ETC_20150317_008750	Cooldown
-ETC_20150317_008751	Cooldown time
+ETC_20150317_008750	冷卻
+ETC_20150317_008751	冷卻時間
 ETC_20150317_008752	Overkill group
 ETC_20150317_008753	Overkill usage
 ETC_20150317_008754	Overkill delay
@@ -8765,48 +8765,48 @@ ETC_20150317_008764	Class stats
 ETC_20150317_008765	3D Monster death time
 ETC_20150317_008766	Die-in-place
 ETC_20150317_008767	Death Animation
-ETC_20150317_008768	Keyboard navigation Tip
-ETC_20150317_008769	Use the arrow keys to move your character.
-ETC_20150317_008770	Jump Tip
-ETC_20150317_008771	Press X to jump.
-ETC_20150317_008772	Attack Tip
-ETC_20150317_008773	Press Z to attack.
-ETC_20150317_008774	STR Stat Tip
-ETC_20150317_008775	The Strength stat increases your physical damage and critical damage. 
-ETC_20150317_008776	CON Stat Tip
-ETC_20150317_008777	The Constitution stat increases your max HP, HP recovery rate, inventory weight, critical resistance and shield block rate.
-ETC_20150317_008778	INT Stat Tip
-ETC_20150317_008779	The Intelligence stat increases your magic attack.
-ETC_20150317_008780	SPR Stat Tip
-ETC_20150317_008781	The Spirit stat increases your max SP and SP recovery rate.
-ETC_20150317_008782	DEX Stat Tip
-ETC_20150317_008783	The Dexterity stat increases your accuracy, critical chance and evasion.
-ETC_20150317_008784	Continuous Attack Tip
-ETC_20150317_008785	Hold down Z to attack continuously.
-ETC_20150317_008786	Stamina Tip
-ETC_20150317_008787	You will stop running when your STA has reached 0.
-ETC_20150317_008788	Stamina Recovery Tip
-ETC_20150317_008789	Destroy Tree Roots Crystals in fields or use Stamina Pills to recover your STA.
-ETC_20150317_008790	Overkill Tip
-ETC_20150317_008791	When the monster is the same level and attack damage is twice the monster's HP, overkill is triggered and you earn bonus EXP.
-ETC_20150317_008792	Rest Mode Tip
-ETC_20150317_008793	Press the Insert key to rest. Your HP, SP and STA recovery increases during Rest Mode.
-ETC_20150317_008794	Bonfire Tip
-ETC_20150317_008795	When nearby a bonfire while in Rest Mode, the recovery of all characters resting will increase.
-ETC_20150317_008796	製作 Tip
-ETC_20150317_008797	You can craft items while in Rest Mode, if you have the required recipes and materials.
-ETC_20150317_008798	Enhancement Tip
-ETC_20150317_008799	Use the anvil to enhance your weapons and armor to become stronger.
-ETC_20150317_008800	Potential Tip
-ETC_20150317_008801	The Potential of an item decreases by player trading, adding sockets, equipping magic amulets or failing an enhancement.
-ETC_20150317_008802	Chat Window Tip
-ETC_20150317_008803	Press Enter to open the chat window and press Enter again to close it.
-ETC_20150317_008804	Megaphone Tip
-ETC_20150317_008805	Entering /y before your chat allows you to broadcast your message. Requires the Megaphone item.
-ETC_20150317_008806	Repair Tip
-ETC_20150317_008807	You can repair 裝備 with low durability through the 黑色smith NPC located in a city.
-ETC_20150317_008808	Shop System Tip
-ETC_20150317_008809	You can buy and sell items through the merchants NPCs located in the city.
+ETC_20150317_008768	鍵盤 小提示
+ETC_20150317_008769	使用方向鍵移動角色
+ETC_20150317_008770	跳躍 小提示
+ETC_20150317_008771	按 X 跳躍
+ETC_20150317_008772	攻擊 小提示
+ETC_20150317_008773	按 Z 攻擊
+ETC_20150317_008774	力量點數 小提示
+ETC_20150317_008775	力量：增加物理攻擊和攻擊。
+ETC_20150317_008776	體質點數 小提示
+ETC_20150317_008777	增加最大 HP, HP 回復, 格擋, 暴擊抗性和最大負重。
+ETC_20150317_008778	智力點數 小提示
+ETC_20150317_008779	增加魔法攻擊和穿刺格擋。
+ETC_20150317_008780	精神點數 小提示
+ETC_20150317_008781	增加最大 SP 和 SP 回復。
+ETC_20150317_008782	敏捷點數 小提示
+ETC_20150317_008783	增加命中率, 閃避率和暴擊率。
+ETC_20150317_008784	連續攻擊 小提示
+ETC_20150317_008785	按住 Z 連續攻擊
+ETC_20150317_008786	耐力 小提示
+ETC_20150317_008787	當你的 STA 等於 0 你將停止跑步。
+ETC_20150317_008788	耐力恢復 小提示
+ETC_20150317_008789	在區域內破壞樹根水晶或者使用耐力藥丸來恢復你的 STA。
+ETC_20150317_008790	Overkill 小提示
+ETC_20150317_008791	當魔物收到的傷害超過自身 HP 就會發動 Overkill，你可以獲得額外的經驗。
+ETC_20150317_008792	休息 小提示
+ETC_20150317_008793	按 Insert 鍵坐下休息。在休息模式中你的 HP、SP 和 STA 回復速度會加快。
+ETC_20150317_008794	篝火 小提示
+ETC_20150317_008795	篝火附近休息的所有角色，回復速度都會加快。
+ETC_20150317_008796	製造 小提示
+ETC_20150317_008797	如果你有足夠的圖紙和材料，你可以在休息模式下製作道具。
+ETC_20150317_008798	強化 小提示
+ETC_20150317_008799	用鐵砧來強化你的武器和盔甲變得更強。
+ETC_20150317_008800	潛力值 小提示
+ETC_20150317_008801	與玩家交易，增加插槽，裝備寶石或強化失敗都會減少道具的潛力值
+ETC_20150317_008802	聊天視窗 小提示
+ETC_20150317_008803	按Enter打開聊天視窗。您聊天完成後，再次按Enter關閉視窗
+ETC_20150317_008804	小喇叭 小提示
+ETC_20150317_008805	在你想說的話前輸入 /y 可以發送廣播，這需要消耗 擴音器。
+ETC_20150317_008806	修理 小提示
+ETC_20150317_008807	你可以在城市的某處尋找鐵匠來修復你的裝備
+ETC_20150317_008808	商店系統 小提示
+ETC_20150317_008809	你可以在城市中的道具商人處購買或出售道具.
 ETC_20150317_008810	Return Tip
 ETC_20150317_008811	You can return to the quest NPC immediately by using the Backspace key or by pressing the 'Go Back' button.
 ETC_20150317_008812	Attributes Tip
