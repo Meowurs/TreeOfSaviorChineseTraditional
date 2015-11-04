@@ -6016,7 +6016,7 @@ ETC_20150317_006015	素質點
 ETC_20150317_006017	{memo X}You can check your character's abilities in the Character Information window ({img F1 40 40}).
 ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150317_006019	
+ETC_20150317_006019
 ETC_20150317_006020	{memo X}You can preview the effects of a status when you click 
 ETC_20150317_006021	{memo X} in the information tab.
 ETC_20150317_006022	Convenience
@@ -12802,7 +12802,7 @@ ETC_20150714_012802	Open Production File
 ETC_20150714_012803	Open XML
 ETC_20150714_012804	NPC Collection
 ETC_20150714_012805	Data Folder location
-ETC_20150714_012806	
+ETC_20150714_012806
 ETC_20150714_012807	View all quests
 ETC_20150714_012808	Private server setting
 ETC_20150714_012809	Find and replace
@@ -15917,574 +15917,1528 @@ ETC_20151016_015917 Silver Pillar
 ETC_20151016_015918 Bronze Pillar
 ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	Defeat the 灰色 傀儡 and Carapace!
-ETC_20151022_015921	
-ETC_20151022_015922	
-ETC_20151022_015923	
-ETC_20151022_015924	
-ETC_20151022_015925	
-ETC_20151022_015926	
-ETC_20151022_015927	
-ETC_20151022_015928	
-ETC_20151022_015929	
-ETC_20151022_015930	
-ETC_20151022_015931	
-ETC_20151022_015932	
-ETC_20151022_015933	
-ETC_20151022_015934	
-ETC_20151022_015935	
-ETC_20151022_015936	
-ETC_20151022_015937	
+ETC_20151022_015921	Yellow Colifly
+ETC_20151022_015922	Evil Necroventer
+ETC_20151022_015923	Lapemiter is a unique occupation that is highly respected, but is also looked down upon among Lapes. A Lapemiter serves a religious role, but the other Lapes don't put great emphasis on religious rituals, so they want a Lapemiter to do their exhausting duty.
+ETC_20151022_015924	Unlike the prejudice of the humans, Lapezards are not Lapes that obtained their current status through long training. Most of them are selected by their breeds and they grow up accordingly and receive the necessary food to become a Lapezard.
+ETC_20151022_015925	Their status is not high among Lapes, but they are most dangerous and they get encountered often. To receive respect from the other Lapes, they act violently to the ones they encounter with.
+ETC_20151022_015926	For a Lape to Lapflammer, they just need to obtain the weapons they need. But its not that easy since when Lapflammers die, the weapons also get destroyed so its not that easy for the Lapes.
+ETC_20151022_015927	Ferret Archers usually engages in battles, but they sometimes shoot down the fruits on tall trees. It's not that other Ferrets asked them to do it, but they just do that for fun when they are not engaged in battles.
+ETC_20151022_015928	They sometimes move the objects, but they usually share the processed fruit products to other Ferrets. It is unknown whether they receive any rewards for that or they are responsible to do so.
+ETC_20151022_015929	They look small, but they are matured Ferrets. They sometimes become other Ferrets depending on the properties of the breeds and the environment that they live in.
+ETC_20151022_015930	This Ferret does not possess any distinct characteristic. But due to long labor, they possess strong power, so you should not underestimate it.
+ETC_20151022_015931	Ferret Empty Porter
+ETC_20151022_015932	They do work while supervising the works of other Ferrets.
+ETC_20151022_015933	This Ferret is responsible for looking for other enemies and useful fruits.
+ETC_20151022_015934	Like Ferret Archers, they either attack enemies or shoot down the fruits. One advantage they have over archers is that they sometimes use hard fruits as bullets.
+ETC_20151022_015935	Ferret Supply Officer
+ETC_20151022_015936	This Ferret has inferior status compared to other Ferrets. This Ferret helps works of other Ferrets and they also participate in battles.
+ETC_20151022_015937	It is not assured that the Lapeman is the undead of a Lape. However, the Lapeman mostly receives respect from the other Lapes.
 ETC_20151022_015938	Ferret Marauder
-ETC_20151022_015939	
-ETC_20151022_015940	
-ETC_20151022_015941	
-ETC_20151022_015942	
-ETC_20151022_015943	
-ETC_20151022_015944	
-ETC_20151022_015945	
-ETC_20151022_015946	
-ETC_20151022_015947	
-ETC_20151022_015948	
-ETC_20151022_015949	
-ETC_20151022_015950	
-ETC_20151022_015951	
-ETC_20151022_015952	
-ETC_20151022_015953	
-ETC_20151022_015954	
-ETC_20151022_015955	
-ETC_20151022_015956	
-ETC_20151022_015957	
-ETC_20151022_015958	
-ETC_20151022_015959	
-ETC_20151022_015960	
-ETC_20151022_015961	
-ETC_20151022_015962	
-ETC_20151022_015963	
-ETC_20151022_015964	
-ETC_20151022_015965	
-ETC_20151022_015966	
-ETC_20151022_015967	
-ETC_20151022_015968	
-ETC_20151022_015969	
-ETC_20151022_015970	
-ETC_20151022_015971	
-ETC_20151022_015972	
-ETC_20151022_015973	
-ETC_20151022_015974	
-ETC_20151022_015975	
-ETC_20151022_015976	
-ETC_20151022_015977	
-ETC_20151022_015978	
-ETC_20151022_015979	
-ETC_20151022_015980	
-ETC_20151022_015981	
-ETC_20151022_015982	
-ETC_20151022_015983	
-ETC_20151022_015984	
-ETC_20151022_015985	
-ETC_20151022_015986	
-ETC_20151022_015987	
-ETC_20151022_015988	
-ETC_20151022_015989	
-ETC_20151022_015990	
-ETC_20151022_015991	
-ETC_20151022_015992	
-ETC_20151022_015993	
-ETC_20151022_015994	
-ETC_20151022_015995	
-ETC_20151022_015996	
-ETC_20151022_015997	
-ETC_20151022_015998	
-ETC_20151022_015999	
-ETC_20151022_016000	
-ETC_20151022_016001	
-ETC_20151022_016002	
-ETC_20151022_016003	
-ETC_20151022_016004	
-ETC_20151022_016005	
-ETC_20151022_016006	
-ETC_20151022_016007	
-ETC_20151022_016008	
-ETC_20151022_016009	
-ETC_20151022_016010	
-ETC_20151022_016011	
-ETC_20151022_016012	
-ETC_20151022_016013	
-ETC_20151022_016014	
-ETC_20151022_016015	
-ETC_20151022_016016	
-ETC_20151022_016017	
-ETC_20151022_016018	
-ETC_20151022_016019	
-ETC_20151022_016020	
-ETC_20151022_016021	
-ETC_20151022_016022	
-ETC_20151022_016023	
-ETC_20151022_016024	
-ETC_20151022_016025	
-ETC_20151022_016026	
-ETC_20151022_016027	
-ETC_20151022_016028	
-ETC_20151022_016029	
-ETC_20151022_016030	
-ETC_20151022_016031	
-ETC_20151022_016032	
-ETC_20151022_016033	
-ETC_20151022_016034	
-ETC_20151022_016035	
-ETC_20151022_016036	
-ETC_20151022_016037	
-ETC_20151022_016038	
-ETC_20151022_016039	
-ETC_20151022_016040	
-ETC_20151022_016041	
-ETC_20151022_016042	
-ETC_20151022_016043	
-ETC_20151022_016044	
-ETC_20151022_016045	
-ETC_20151022_016046	
-ETC_20151022_016047	
-ETC_20151022_016048	
-ETC_20151022_016049	
-ETC_20151022_016050	
-ETC_20151022_016051	
-ETC_20151022_016052	
-ETC_20151022_016053	
-ETC_20151022_016054	
-ETC_20151022_016055	
-ETC_20151022_016056	
-ETC_20151022_016057	
-ETC_20151022_016058	
-ETC_20151022_016059	
-ETC_20151022_016060	
-ETC_20151022_016061	
-ETC_20151022_016062	
-ETC_20151022_016063	
-ETC_20151022_016064	
-ETC_20151022_016065	
-ETC_20151022_016066	
-ETC_20151022_016067	
-ETC_20151022_016068	
-ETC_20151022_016069	
-ETC_20151022_016070	
-ETC_20151022_016071	
-ETC_20151022_016072	
-ETC_20151022_016073	
-ETC_20151022_016074	
-ETC_20151022_016075	
-ETC_20151022_016076	
-ETC_20151022_016077	
-ETC_20151022_016078	
-ETC_20151022_016079	
-ETC_20151022_016080	
-ETC_20151022_016081	
-ETC_20151022_016082	
-ETC_20151022_016083	
-ETC_20151022_016084	
-ETC_20151022_016085	
-ETC_20151022_016086	
-ETC_20151022_016087	
-ETC_20151022_016088	
-ETC_20151022_016089	
-ETC_20151022_016090	
-ETC_20151022_016091	
-ETC_20151022_016092	
-ETC_20151022_016093	
-ETC_20151022_016094	
-ETC_20151022_016095	
-ETC_20151022_016096	
-ETC_20151022_016097	
-ETC_20151022_016098	
-ETC_20151022_016099	
-ETC_20151022_016100	
-ETC_20151022_016101	
-ETC_20151022_016102	
-ETC_20151022_016103	
-ETC_20151022_016104	
-ETC_20151022_016105	
-ETC_20151022_016106	
-ETC_20151022_016107	
-ETC_20151022_016108	
-ETC_20151022_016109	
-ETC_20151022_016110	
-ETC_20151022_016111	
-ETC_20151022_016112	
-ETC_20151022_016113	
-ETC_20151022_016114	
-ETC_20151022_016115	
-ETC_20151022_016116	
-ETC_20151022_016117	
-ETC_20151022_016118	
-ETC_20151022_016119	
-ETC_20151022_016120	
-ETC_20151022_016121	
-ETC_20151022_016122	
-ETC_20151022_016123	
-ETC_20151022_016124	
-ETC_20151022_016125	
-ETC_20151022_016126	
-ETC_20151022_016127	
-ETC_20151022_016128	
-ETC_20151022_016129	
-ETC_20151022_016130	
-ETC_20151022_016131	
-ETC_20151022_016132	
-ETC_20151022_016133	
-ETC_20151022_016134	
-ETC_20151022_016135	
-ETC_20151022_016136	
-ETC_20151022_016137	
-ETC_20151022_016138	
-ETC_20151022_016139	
-ETC_20151022_016140	
-ETC_20151022_016141	
-ETC_20151022_016142	
-ETC_20151022_016143	
-ETC_20151022_016144	
-ETC_20151022_016145	
-ETC_20151022_016146	
-ETC_20151022_016147	
-ETC_20151022_016148	
-ETC_20151022_016149	
-ETC_20151022_016150	
-ETC_20151022_016151	
-ETC_20151022_016152	
-ETC_20151022_016153	
-ETC_20151022_016154	
-ETC_20151022_016155	
-ETC_20151022_016156	
-ETC_20151022_016157	
-ETC_20151022_016158	
-ETC_20151022_016159	
-ETC_20151022_016160	
-ETC_20151022_016161	
-ETC_20151022_016162	
-ETC_20151022_016163	
-ETC_20151022_016164	
-ETC_20151022_016165	
-ETC_20151022_016166	
-ETC_20151022_016167	
-ETC_20151022_016168	
-ETC_20151022_016169	
-ETC_20151022_016170	
-ETC_20151022_016171	
-ETC_20151022_016172	
-ETC_20151022_016173	
-ETC_20151022_016174	
-ETC_20151022_016175	
-ETC_20151022_016176	
-ETC_20151022_016177	
-ETC_20151022_016178	
-ETC_20151022_016179	
-ETC_20151022_016180	
-ETC_20151022_016181	
-ETC_20151022_016182	
-ETC_20151022_016183	
-ETC_20151022_016184	
-ETC_20151022_016185	
-ETC_20151022_016186	
-ETC_20151022_016187	
-ETC_20151022_016188	
-ETC_20151022_016189	
-ETC_20151022_016190	
-ETC_20151022_016191	
-ETC_20151022_016192	
-ETC_20151022_016193	
-ETC_20151022_016194	
-ETC_20151022_016195	
-ETC_20151022_016196	
-ETC_20151022_016197	
-ETC_20151022_016198	
-ETC_20151022_016199	
-ETC_20151022_016200	
-ETC_20151022_016201	
-ETC_20151022_016202	
-ETC_20151022_016203	
-ETC_20151022_016204	
-ETC_20151022_016205	
-ETC_20151022_016206	
-ETC_20151022_016207	
-ETC_20151022_016208	
+ETC_20151022_015939	Poculus
+ETC_20151022_015940	Rafene
+ETC_20151022_015941	Raxdon
+ETC_20151022_015942	Pantorex
+ETC_20151022_015943	Blue Wendigo Magician
+ETC_20151022_015944	Blue Wendigo Shaman
+ETC_20151022_015945	White Wendigo Archer
+ETC_20151022_015946	Blue Wendigo Archer
+ETC_20151022_015947	White Wendigo Searcher
+ETC_20151022_015948	Blue Wendigo Searcher
+ETC_20151022_015949	Green Flask
+ETC_20151022_015950	Blue Flask
+ETC_20151022_015951	Green Kepari
+ETC_20151022_015952	Black Kepari
+ETC_20151022_015953	Black Kepari Shaman
+ETC_20151022_015954	Green Kepari Shaman
+ETC_20151022_015955	Blue Temple Slave Assassin
+ETC_20151022_015956	Blue Temple Slave
+ETC_20151022_015957	Blue Temple Slave Mage
+ETC_20151022_015958	Red Infro Holder
+ETC_20151022_015959	Green Infro Holder
+ETC_20151022_015960	Red Infro Holder Archer
+ETC_20151022_015961	Green Infro Holder Shaman
+ETC_20151022_015962	Red Lepusbunny
+ETC_20151022_015963	Green Lepusbunny
+ETC_20151022_015964	Blue Lepusbunny
+ETC_20151022_015965	Green Lepusbunny Magician
+ETC_20151022_015966	Red Lepusbunny Assassin
+ETC_20151022_015967	Green Lepusbunny Assassin
+ETC_20151022_015968	Blue Lepusbunny Assassin
+ETC_20151022_015969	Red Deadborn Scap
+ETC_20151022_015970	Red Deadborn Scap Magician
+ETC_20151022_015971	Blue Siaulav
+ETC_20151022_015972	Green Siaulav
+ETC_20151022_015973	Blue Siaulav Mage
+ETC_20151022_015974	Blue Siaulav Archer
+ETC_20151022_015975	Orange Siaulav Archer
+ETC_20151022_015976	Blue Tiny
+ETC_20151022_015977	Brown Tiny
+ETC_20151022_015978	Brown Tiny Magician
+ETC_20151022_015979	Green Tiny Magician
+ETC_20151022_015980	Blue Tiny Archer
+ETC_20151022_015981	Green Tiny Archer
+ETC_20151022_015982	White Spion
+ETC_20151022_015983	Red Spion
+ETC_20151022_015984	Blue Spion
+ETC_20151022_015985	Red Spion Archer
+ETC_20151022_015986	Blue Spion Archer
+ETC_20151022_015987	Blue Spion Mage
+ETC_20151022_015988	White Spion Mage
+ETC_20151022_015989	Gray Stoulet
+ETC_20151022_015990	Green Stoulet
+ETC_20151022_015991	Blue Stoulet Mage
+ETC_20151022_015992	Green Stoulet Mage
+ETC_20151022_015993	Brown Stoulet Archer
+ETC_20151022_015994	Orange Minos
+ETC_20151022_015995	Green Minos
+ETC_20151022_015996	Green Minos Mage
+ETC_20151022_015997	Orange Minos Archer
+ETC_20151022_015998	Green Minos Archer
+ETC_20151022_015999	Blue Socket
+ETC_20151022_016000	Green Socket
+ETC_20151022_016001	Red Socket
+ETC_20151022_016002	Blue Socket Mage
+ETC_20151022_016003	Green Socket Mage
+ETC_20151022_016004	Red Socket Mage
+ETC_20151022_016005	Blue Socket Archer
+ETC_20151022_016006	Red Socket Archer
+ETC_20151022_016007	Black Colifly Mage
+ETC_20151022_016008	Black Colifly Archer
+ETC_20151022_016009	Green Saltisdaughter
+ETC_20151022_016010	Red Saltisdaughter
+ETC_20151022_016011	Green Saltisdaughter Archer
+ETC_20151022_016012	Red Saltisdaughter Magician
+ETC_20151022_016013	Red Dawn Maiden
+ETC_20151022_016014	Red Darkness Maiden
+ETC_20151022_016015	Blue Lapasape
+ETC_20151022_016016	Brown Lapasape
+ETC_20151022_016017	Blue Lapasape Mage
+ETC_20151022_016018	Brown Lapasape Mage
+ETC_20151022_016019	Blue Lapasape Shaman
+ETC_20151022_016020	Brown Lapasape Shaman
+ETC_20151022_016021	Blue Colimen
+ETC_20151022_016022	Brown Colimen
+ETC_20151022_016023	Brown Colimen Magician
+ETC_20151022_016024	Blue Terra Imp
+ETC_20151022_016025	Blue Terra Imp Mage
+ETC_20151022_016026	Brown Terra Imp Archer
+ETC_20151022_016027	Blue Cronewt
+ETC_20151022_016028	Blue Cronewt Poisoned Needler
+ETC_20151022_016029	Blue Cronewt Magician
+ETC_20151022_016030	Blue Ticen
+ETC_20151022_016031	Red Ticen
+ETC_20151022_016032	Blue Ticen Crossbow Soldier
+ETC_20151022_016033	Red Ticen Crossbow Soldier
+ETC_20151022_016034	Blue Ticen Magician
+ETC_20151022_016035	Red Ticen Magician
+ETC_20151022_016036	Blue Chafperor
+ETC_20151022_016037	Blue Chafperor Mage
+ETC_20151022_016038	Brown Rambear
+ETC_20151022_016039	Brown Rambear Archer
+ETC_20151022_016040	Brown Rambear Magician
+ETC_20151022_016041	Blue Hohen Mane
+ETC_20151022_016042	Brown Hohen Mane
+ETC_20151022_016043	Blue Hohen Ritter
+ETC_20151022_016044	Brown Hohen Ritter
+ETC_20151022_016045	Blue Hohen Barkle
+ETC_20151022_016046	Green Hohen Barkle
+ETC_20151022_016047	Blue Hohen Mage
+ETC_20151022_016048	Red Hohen Mage
+ETC_20151022_016049	Red Hohen Orben
+ETC_20151022_016050	Green Hohen Orben
+ETC_20151022_016051	Blue Hohen Gulak
+ETC_20151022_016052	Red Hohen Gulak
+ETC_20151022_016053	Blue Harugal
+ETC_20151022_016054	Brown Harugal
+ETC_20151022_016055	Blue Elet
+ETC_20151022_016056	Red Elet
+ETC_20151022_016057	Blue Nuo
+ETC_20151022_016058	Red Nuo
+ETC_20151022_016059	Blue Nuka
+ETC_20151022_016060	Brown Nuka
+ETC_20151022_016061	Blue Elma
+ETC_20151022_016062	Red Elma
+ETC_20151022_016063	Blue Guardian Spider
+ETC_20151022_016064	Red Guardian Spider
+ETC_20151022_016065	Blue Dumaro
+ETC_20151022_016066	Yellow Dumaro
+ETC_20151022_016067	Blue Wendigo
+ETC_20151022_016068	White Wendigo
+ETC_20151022_016069	Brown Wendigo
+ETC_20151022_016070	Sword Pell Master
+ETC_20151022_016071	Brown Terra Imp
+ETC_20151022_016072	Lapa Archer
+ETC_20151022_016073	Gosaru
+ETC_20151022_016074	Parrot
+ETC_20151022_016075	Polibu
+ETC_20151022_016076	Ponpon
+ETC_20151022_016077	Canchobird
+ETC_20151022_016078	Zeraha
+ETC_20151022_016079	There! Someone is coming!
+ETC_20151022_016080	We are finished.
+ETC_20151022_016081	Coco!
+ETC_20151022_016082	Why are you like that, Coco?
+ETC_20151022_016083	Coco, come back!
+ETC_20151022_016084	Wizard of Questions
+ETC_20151022_016085	Found the one who is qualified.
+ETC_20151022_016086	I will go first, you guys take her to the monastery.
+ETC_20151022_016087	An.. anyone please save me..
+ETC_20151022_016088	Unfortunately... they will all be sacrificed to the divine water.
+ETC_20151022_016089	We should at least block that...
+ETC_20151022_016090	Then our villagers...
+ETC_20151022_016091	I saw it with my own eyes while running away. What the demons were doing.
+ETC_20151022_016092	I will help too!
+ETC_20151022_016093	Avoid the surveillance sphere that circulates around the surveillance crystal,{nl}and remove the magic circle that manages the surveillance crystal across!
+ETC_20151022_016094	Surveillance Crystal
+ETC_20151022_016095	Surveillance Crystal Magic Circle
+ETC_20151022_016096	Demons that are carrying a gigantic axe
+ETC_20151022_016097	Move fast. So lazy!
+ETC_20151022_016098	Help!!
+ETC_20151022_016099	Ferrets! Ferrets appeared near the village!
+ETC_20151022_016100	You worthless human!!
+ETC_20151022_016101	Run away! Zaura will come soon!
+ETC_20151022_016102	The Beholder disappeared after taking the incomplete Kruvina!{nl}Defeat the awakened Zaura!
+ETC_20151022_016103	Awakened Demon Lord Zaura
+ETC_20151022_016104	The demon with an gigantic axe disappeared with the girl!{nl}Defeat the Ferrets that are rushing in!
+ETC_20151022_016105	Damn! Hey, Help me!
+ETC_20151022_016106	Kwaaak!!!
+ETC_20151022_016107	What? They again!
+ETC_20151022_016108	What is this...
+ETC_20151022_016109	My... body!
+ETC_20151022_016110	What was that?
+ETC_20151022_016111	Clymen appeared to protect the Curse Totem!
+ETC_20151022_016112	Curse Totem
+ETC_20151022_016113	Defeat Fire Lord!
+ETC_20151022_016114	Kill the Revelator!
+ETC_20151022_016115	Denoptic appeared as you tried to remove the surveillance totem!
+ETC_20151022_016116	Surveillance Totem
+ETC_20151022_016117	Rescue Priest Pranas!
+ETC_20151022_016118	Defeat the Grey Golem that suddenly appeared!
+ETC_20151022_016119	Abandoned Bag
+ETC_20151022_016120	Defeat Minotaurus and check the diary of Urbonas!
+ETC_20151022_016121	Defeat the Kepas that rushed in!
+ETC_20151022_016122	I heard this place is safe...
+ETC_20151022_016123	Protect the people from the Poata!
+ETC_20151022_016124	Calm down...
+ETC_20151022_016125	Run away everyone!
+ETC_20151022_016126	Emigrant
+ETC_20151022_016127	How much longer do we have to wait?
+ETC_20151022_016128	Orsha is now finished!
+ETC_20151022_016129	What is this?
+ETC_20151022_016130	He doesn't stand in line?
+ETC_20151022_016131	Ah!!
+ETC_20151022_016132	Defeat Woodspirit!
+ETC_20151022_016133	Run away!
+ETC_20151022_016134	You've paid your first tax.
+ETC_20151022_016135	Paid the tax 1 time
+ETC_20151022_016136	Citizen
+ETC_20151022_016137	The lives of the citizens are becoming prosperous.
+ETC_20151022_016138	Pay Taxes 10 Times
+ETC_20151022_016139	Model Citizen
+ETC_20151022_016140	You truly are a model citizen.
+ETC_20151022_016141	Pay Taxes 50 Times
+ETC_20151022_016142	Noblesse Oblige
+ETC_20151022_016143	Paid all the taxes.
+ETC_20151022_016144	Pay Taxes 100 Times
+ETC_20151022_016145	Enhancement Master
+ETC_20151022_016146	Enhance 1,000 times successfully
+ETC_20151022_016147	Shovel King
+ETC_20151022_016148	Shovel 1,000 times successfully
+ETC_20151022_016149	indun
+ETC_20151022_016150	Talt, My Love
+ETC_20151022_016151	Enter an instanced dungeon 500 times
+ETC_20151022_016152	Glug Glug Glug
+ETC_20151022_016153	Use 10,000 Potions
+ETC_20151022_016154	Enhancement Success
+ETC_20151022_016155	Instanced Dungeon Entry Count
+ETC_20151022_016156	The Level of Tax Payment
+ETC_20151022_016157	Search for the Owl's will
+ETC_20151022_016158	The detected status with the determination of the guiding owl
+ETC_20151022_016159	Black Smoke
+ETC_20151022_016160	Light Saturation
+ETC_20151022_016161	Aggression
+ETC_20151022_016162	Ferrets' Aggression
+ETC_20151022_016163	As you burnt the black spirits of the demons, the unknown power smeared in causing to increase your attack.
+ETC_20151022_016164	Unknown Power-Cooltime
+ETC_20151022_016165	The influence of the unknown power has not been eliminated.
+ETC_20151022_016166	Activate the guardian statue
+ETC_20151022_016167	As you burnt the bushes, the guardian statue has been activated.
+ETC_20151022_016168	To suppress the guardian statue, the monsters will appear.
+ETC_20151022_016169	Incinerate the seal paper
+ETC_20151022_016170	The seal of the vague astral body is starting to be unleashed.
+ETC_20151022_016171	Doll's Curse
+ETC_20151022_016172	Due to the curse of the shaman doll, your defense decreases greatly.
+ETC_20151022_016173	Spirit - Recover HP
+ETC_20151022_016174	The spirit you guided cures your wound.
+ETC_20151022_016175	Spirit - Recover SP
+ETC_20151022_016176	The spirit you guided will give you energy.
+ETC_20151022_016177	Sprit - Recover STA
+ETC_20151022_016178	The spirit you guided will give you vitality.
+ETC_20151022_016179	Spirit - Recovery
+ETC_20151022_016180	The altar of the spirits will cure your body.
+ETC_20151022_016181	Spirit - Control
+ETC_20151022_016182	You are already receiving the effects of the cure.
+ETC_20151022_016183	Guide the spirit
+ETC_20151022_016184	You are guiding the spirit to the altar of the spirits.
+ETC_20151022_016185	The guided spirits are gathering to the altar of the spirits.
+ETC_20151022_016186	The Guided Spirit-Cooltime 
+ETC_20151022_016187	To receive the cure of the altar of the spirits, you will need more time.
+ETC_20151022_016188	Red Spirits are gathering to the pile of bones.
+ETC_20151022_016189	Blue Spirits are gathering to the pile of bones.
+ETC_20151022_016190	Spirits overlapped
+ETC_20151022_016191	Spirits are coming.
+ETC_20151022_016192	Sadhu's Energy
+ETC_20151022_016193	When you hunt for the monster that is haunted by this energy, you will be able to absorb that spirit.
+ETC_20151022_016194	The drug effects of Barbarian
+ETC_20151022_016195	The power has been reduced in half due to the training drug effects of Barbarian. 
+ETC_20151022_016196	Chill Air Trap
+ETC_20151022_016197	You've been trapped by the Chill Air trap that protects the device
+ETC_20151022_016198
+ETC_20151022_016199	You've failed Back Buffer Rod.
+ETC_20151022_016200	You've failed Stencil Rod.
+ETC_20151022_016201	authdata that corresponds to Steam ID can not be found.
+ETC_20151022_016202	Wrong Effect Component Name. Check the registered name from effectlist.xml.
+ETC_20151022_016203	Failed to Decrypt the token that you received from Steam Server.
+ETC_20151022_016204	The user ticket info received from Steam Server is wrong.
+ETC_20151022_016205	The user secret info received from Steam Server is wrong.
+ETC_20151022_016206	Failed to reset at Steam Server. Check the port info.
+ETC_20151022_016207	Could not load the client file hash code from DB. If it is not Develpment Server, it must be loaded.
+ETC_20151022_016208	The program was executed again.
 ETC_20151022_016209	Crystal Mine Mission
 ETC_20151022_016210	Catacombs Mission
-ETC_20151022_016211	西洋劍士
+ETC_20151022_016211	Fencer
 ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes. 
-ETC_20151022_016213	
-ETC_20151022_016214	
-ETC_20151022_016215	
+ETC_20151022_016213	Nestos' Camp
+ETC_20151022_016214	Anastos' Camping Ground
+ETC_20151022_016215	Iborarul Empty Lot
 ETC_20151022_016216	Fencer Master
-ETC_20151022_016217	
-ETC_20151022_016218	
-ETC_20151022_016219	
-ETC_20151022_016220	
-ETC_20151022_016221	
-ETC_20151022_016222	
-ETC_20151022_016223	
-ETC_20151022_016224	
-ETC_20151022_016225	
-ETC_20151022_016226	
-ETC_20151022_016227	
-ETC_20151022_016228	
-ETC_20151022_016229	
-ETC_20151022_016230	
-ETC_20151022_016231	
-ETC_20151022_016232	
-ETC_20151022_016233	
-ETC_20151022_016234	
-ETC_20151022_016235	
-ETC_20151022_016236	
-ETC_20151022_016237	
-ETC_20151022_016238	
-ETC_20151022_016239	
-ETC_20151022_016240	
-ETC_20151022_016241	
-ETC_20151022_016242	
-ETC_20151022_016243	
-ETC_20151022_016244	
-ETC_20151022_016245	
-ETC_20151022_016246	
-ETC_20151022_016247	
-ETC_20151022_016248	
-ETC_20151022_016249	
-ETC_20151022_016250	
-ETC_20151022_016251	
-ETC_20151022_016252	
-ETC_20151022_016253	
-ETC_20151022_016254	
-ETC_20151022_016255	
-ETC_20151022_016256	
-ETC_20151022_016257	
-ETC_20151022_016258	
-ETC_20151022_016259	
-ETC_20151022_016260	
-ETC_20151022_016261	
-ETC_20151022_016262	
-ETC_20151022_016263	
-ETC_20151022_016264	
-ETC_20151022_016265	
-ETC_20151022_016266	
-ETC_20151022_016267	
-ETC_20151022_016268	
-ETC_20151022_016269	
-ETC_20151022_016270	
-ETC_20151022_016271	
-ETC_20151022_016272	
-ETC_20151022_016273	
-ETC_20151022_016274	
-ETC_20151022_016275	
-ETC_20151022_016276	
-ETC_20151022_016277	
-ETC_20151022_016278	
-ETC_20151022_016279	
-ETC_20151022_016280	
-ETC_20151022_016281	
-ETC_20151022_016282	
-ETC_20151022_016283	
-ETC_20151022_016284	
-ETC_20151022_016285	
-ETC_20151022_016286	
-ETC_20151022_016287	
-ETC_20151022_016288	
-ETC_20151022_016289	
+ETC_20151022_016217	Elevator01
+ETC_20151022_016218	Elevator02
+ETC_20151022_016219	BonfireQ1
+ETC_20151022_016220	BonfireQ2
+ETC_20151022_016221	BonfireQ3
+ETC_20151022_016222	Spirit Condenser3
+ETC_20151022_016223	Spirit Condenser4
+ETC_20151022_016224	NPC_Green Infroholder Sorcerer
+ETC_20151022_016225	Fountain
+ETC_20151022_016226	Cannonball
+ETC_20151022_016227	The flower of the great earth
+ETC_20151022_016228	Empty NPC 3
+ETC_20151022_016229	Tied Girl Lima
+ETC_20151022_016230	Purchase the goods of Necromancer
+ETC_20151022_016231	Use Fencer Attributes
+ETC_20151022_016232	Obtain the information regarding the gigantic bracken
+ETC_20151022_016233	Chase after the bead of the ray
+ETC_20151022_016234	Obtain the Owl's power
+ETC_20151022_016235	Destroy the Mind Control Tower
+ETC_20151022_016236	Purified Power
+ETC_20151022_016237	Remove the magic circle that manages the eyes of surveillance
+ETC_20151022_016238	Defeat the monsters that are in the forest of the beginning
+ETC_20151022_016239	Help Liaison Officer Moren
+ETC_20151022_016240	Find the hideout
+ETC_20151022_016241	Check the bonfire
+ETC_20151022_016242	Check the scattered goods
+ETC_20151022_016243	Check the burnt memo
+ETC_20151022_016244	Look for the traces of the priests
+ETC_20151022_016245	Look for the memo of Bishop Urbonas
+ETC_20151022_016246	Remove the Curse Totem
+ETC_20151022_016247	Use the pack of demons
+ETC_20151022_016248	Collect the incomplete demonic stones
+ETC_20151022_016249	Lure the demons using the trap
+ETC_20151022_016250	Obtain the order sheet of the demons
+ETC_20151022_016251	Rub off the demonic energies using the bandage that is wet with divine water
+ETC_20151022_016252	Practice the power
+ETC_20151022_016253	Fill the vitalities of the monsters into the crystal jewel
+ETC_20151022_016254	Light the fire on the flameholder using the complete crystal jewel
+ETC_20151022_016255	The blessed start
+ETC_20151022_016256	Receive the blessing from the Cleric Sub Master
+ETC_20151022_016257	Receive the blessing from the Krivis Sub Master
+ETC_20151022_016258	Receive the blessing from the Bokor Sub Master
+ETC_20151022_016259	Cure the refugees that fell down
+ETC_20151022_016260	The Statue of Goddess Vakarine at Lemprasa Pond
+ETC_20151022_016261	The Statue of Goddess Zemyna at Lemprasa Pond
+ETC_20151022_016262	The Statue of Goddess Vakarine at Woods of Attached Bridge
+ETC_20151022_016263	The Statue of Goddess Vakarine at Paupys Port
+ETC_20151022_016264	Defeat the monsters using Highlander skills
+ETC_20151022_016265	Defeat the monsters at Feretory Hills without any buffs
+ETC_20151022_016266	Defeat the beast monsters on Feretory Hills
+ETC_20151022_016267	Defeat the monsters at Feretory Hills
+ETC_20151022_016268	Absorb the spirits of the monsters
+ETC_20151022_016269	Defeat the monsters after drinking Barbarian's potion
+ETC_20151022_016270	Defeat the monsters using skills that doesn't use a shield
+ETC_20151022_016271	Defeat the monsters while mounted on a Companion
+ETC_20151022_016272	Manage Orsha's Statue of Goddess Vakarine
+ETC_20151022_016273	Look for the basket of beef jerkies
+ETC_20151022_016274	Pollute the beef jerkies
+ETC_20151022_016275	Set the blocks of woods that are casted with the spell
+ETC_20151022_016276	Spread the terrible odor
+ETC_20151022_016277	Hand over the potions that can restore HP to Roge
+ETC_20151022_016278	Look for the merchants that are scattered
+ETC_20151022_016279	Look for the herbs that can cure the wounds of Tales 
+ETC_20151022_016280	Eliminate the power source
+ETC_20151022_016281	Eliminate the device that forms the defensive layer
+ETC_20151022_016282	Eliminate the caldron
+ETC_20151022_016283	Extract the shiny moss
+ETC_20151022_016284	Use the scroll of Kedoraomer Merchants to the newbie revelators near the fields of Klaipeda or Orsha
+ETC_20151022_016285	Collect the fresh body fluid of monsters
+ETC_20151022_016286	Collect the materials of tombstones from the rocks nearby
+ETC_20151022_016287	Collect the short leather strings from monsters
+ETC_20151022_016288	Ask the importance of the tombstones of Nestos
+ETC_20151022_016289	Ask the red energies that are coming from the tombstone
 ETC_20151022_016290	Crossbow Pistol
 ETC_20151022_016291	Recipe - Rapier
 ETC_20151022_016292	Recipe - 
-ETC_20151022_016293	
-ETC_20151022_016294	
-ETC_20151022_016295	
+ETC_20151022_016292	Recipe-Epee
+ETC_20151022_016293	Recipe-Sharp Raypear
+ETC_20151022_016294	Recipe-Duelist
+ETC_20151022_016295	Recipe-Benire
 ETC_20151022_016296	Fencer Advancement
-ETC_20151022_016297	
+ETC_20151022_016297	You will soon move to the character selection window.
 ETC_20151022_016298	Grimoire
 ETC_20151022_016299	Necronomicon
 ETC_20151022_016300	Can only be used in towns.
-ETC_20151022_016301	
-ETC_20151022_016302	
-ETC_20151022_016303	
-ETC_20151022_016304	
-ETC_20151022_016305	
-ETC_20151022_016306	
-ETC_20151022_016307	
-ETC_20151022_016308	
-ETC_20151022_016309	
-ETC_20151022_016310	
-ETC_20151022_016311	
-ETC_20151022_016312	
-ETC_20151022_016313	
-ETC_20151022_016314	
-ETC_20151022_016315	
-ETC_20151022_016316	
-ETC_20151022_016317	
-ETC_20151022_016318	
-ETC_20151022_016319	
-ETC_20151022_016320	
-ETC_20151022_016321	
-ETC_20151022_016322	
-ETC_20151022_016323	
-ETC_20151022_016324	
-ETC_20151022_016325	
-ETC_20151022_016326	
-ETC_20151022_016327	
-ETC_20151022_016328	
-ETC_20151022_016329	
-ETC_20151022_016330	
-ETC_20151022_016331	
-ETC_20151022_016332	
-ETC_20151022_016333	
-ETC_20151022_016334	
-ETC_20151022_016335	
-ETC_20151022_016336	
-ETC_20151022_016337	
-ETC_20151022_016338	
-ETC_20151022_016339	
-ETC_20151022_016340	
-ETC_20151022_016341	
-ETC_20151022_016342	
-ETC_20151022_016343	
-ETC_20151022_016344	
-ETC_20151022_016345	
-ETC_20151022_016346	
-ETC_20151022_016347	
-ETC_20151022_016348	
-ETC_20151022_016349	
-ETC_20151022_016350	
-ETC_20151022_016351	
-ETC_20151022_016352	
-ETC_20151022_016353	
-ETC_20151022_016354	
-ETC_20151022_016355	
-ETC_20151022_016356	
-ETC_20151022_016357	
-ETC_20151022_016358	
-ETC_20151022_016359	
-ETC_20151022_016360	
-ETC_20151022_016361	
+ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from party
+ETC_20151022_016302	You are doing a quest!
+ETC_20151022_016303	You've obtained all necessary breathes
+ETC_20151022_016304	You can't see any peculiarities anymore
+ETC_20151022_016305	You've used the scroll of Kedora Merchants!
+ETC_20151022_016306	The level of the Revelator is too high!
+ETC_20151022_016307	You've set the trap.
+ETC_20151022_016308	Obtaining the body fluid
+ETC_20151022_016309	You've obtained the body fluid
+ETC_20151022_016310	Making the bundle of strings by connecting leather strings together for bookbinding
+ETC_20151022_016311	You've made the bundle of strings for bookbinding
+ETC_20151022_016312	You've obtained the short leather string!
+ETC_20151022_016313	The research materials are all scattered across!
+ETC_20151022_016314	You've found the divine object!
+ETC_20151022_016315	The detector is activating
+ETC_20151022_016316	It seems to be out of the range of the detector{nl}Activate it within the range that is marked on the map
+ETC_20151022_016317	You've found the object of Merchants!
+ETC_20151022_016318	You should say the correct number{nl}Check the number on the pole again
+ETC_20151022_016319	Listen to the story of the importance of the tombstone of Nestos
+ETC_20151022_016320	Listen to the story of the red energies that are spurting out from the tombstone
+ETC_20151022_016321	Ligthing up the bonfire
+ETC_20151022_016322	You've already used it
+ETC_20151022_016323	Finally, Orsha!
+ETC_20151022_016324	You've helped the emigrants by lighting up the fire!
+ETC_20151022_016325	You've obtained the usable objects!
+ETC_20151022_016326	You've taken the emigrants to Dalas
+ETC_20151022_016327	Take the emigrants to Dalas
+ETC_20151022_016328	Take them quickly!
+ETC_20151022_016329	I will follow!
+ETC_20151022_016330	I want to rest...
+ETC_20151022_016331	Isn't this the way we came?
+ETC_20151022_016332	Monsters even in this place?
+ETC_20151022_016333	I am sure they were here
+ETC_20151022_016334	Where have they gone...
+ETC_20151022_016335	What was the bishop thinking
+ETC_20151022_016336	I guess he was in hurry
+ETC_20151022_016337	Is this a memo?
+ETC_20151022_016338	It seems that there are more things like this
+ETC_20151022_016339	You've found the trace of the priests
+ETC_20151022_016340	This is the bonefire discovered by other people
+ETC_20151022_016341	You've obtained the memo that is burnt in half
+ETC_20151022_016342	You've found the bonfire.{nl}Check the bonfire to obtain the memo!
+ETC_20151022_016343	You've eliminated the cart that stinks
+ETC_20151022_016344	This is the cart which has been already taken care of
+ETC_20151022_016345	You've used the lubricant for the monsters!
+ETC_20151022_016346	There is the crystal of Karolis that is already discovered near here
+ETC_20151022_016347	You've found the crystal of Karolis
+ETC_20151022_016348	You didn't find any crystals of Karolis nearby
+ETC_20151022_016349	Lighting the ray of Karolis
+ETC_20151022_016350	The ray of Karolis has been already lighted!
+ETC_20151022_016351	This is the owl which you already gave the power to
+ETC_20151022_016352	Using the power of the owl
+ETC_20151022_016353	The power of the owl is too far away from the mind control tower
+ETC_20151022_016354	You can't see the divine tree of Retas and the monsters that reacted to the energies of the forest are rushing in!
+ETC_20151022_016355	You didn't find the divine tree of Retas
+ETC_20151022_016356	The divine tree of Retas has shown up
+ETC_20151022_016357	The young tree of Retas
+ETC_20151022_016358	Obtaining the branches of the trees
+ETC_20151022_016359	The divine tree of Retas has already shown up
+ETC_20151022_016360	Using the divine branches of Retas
+ETC_20151022_016361	You've been expelled to outside after being detected by the surveillance sphere
 ETC_20151022_016362	Removing Magic Circle
-ETC_20151022_016363	
-ETC_20151022_016364	
-ETC_20151022_016365	
-ETC_20151022_016366	
-ETC_20151022_016367	
-ETC_20151022_016368	
-ETC_20151022_016369	
-ETC_20151022_016370	
-ETC_20151022_016371	
+ETC_20151022_016363	You can feel the ominous energy
+ETC_20151022_016364	Releasing the defensive magical field
+ETC_20151022_016365	All magic fields will reactivate due to the incorrect order of their releases
+ETC_20151022_016366	You can't touch them since they are being protected with the defensive magic
+ETC_20151022_016367	Using the determination of the guiding owl
+ETC_20151022_016368	Spreading the energies of the forest
+ETC_20151022_016369	You've found the Shaman Doll of the gravekeeper!
+ETC_20151022_016370	You've found the basket of the hidden beef jerkies!{nl}Pour the polluted red water and pollute the beef jerkies!
+ETC_20151022_016371	Polluting the beef jerkies
 ETC_20151022_016372	This way..
-ETC_20151022_016373	
-ETC_20151022_016374	
-ETC_20151022_016375	
-ETC_20151022_016376	
-ETC_20151022_016377	
-ETC_20151022_016378	
-ETC_20151022_016379	
-ETC_20151022_016380	
-ETC_20151022_016381	
-ETC_20151022_016382	
-ETC_20151022_016383	
-ETC_20151022_016384	
-ETC_20151022_016385	
-ETC_20151022_016386	
-ETC_20151022_016387	
+ETC_20151022_016373	There are no more strange behaviors
+ETC_20151022_016374	The block of wood that is spelled
+ETC_20151022_016375	As you lighted the scent, the terrible odor starts to spread.
+ETC_20151022_016376	You can't use it due to the monsters nearby
+ETC_20151022_016377	Opening the strange looking sack
+ETC_20151022_016378	There is no girl here
+ETC_20151022_016379	The energies of the scent that makes someone dim are spreading
+ETC_20151022_016380	The black spirit of the demons
+ETC_20151022_016381	You don't have enough burning crystals
+ETC_20151022_016382	The influence of the unknown power hasn't been removed yet
+ETC_20151022_016383	As you burnt the vines, the monsters appeared
+ETC_20151022_016384	The monsters are rushing in to protect the activated guardian statue
+ETC_20151022_016385	You can't burn the vines yet
+ETC_20151022_016386	You can't burn the seal paper yet
+ETC_20151022_016387	The shaman doll appeared from the vague astral body
 ETC_20151022_016388	HP recovery has been increased
 ETC_20151022_016389	SP recovery has been increased
 ETC_20151022_016390	STA recovery has been increased
-ETC_20151022_016391	
-ETC_20151022_016392	
-ETC_20151022_016393	
-ETC_20151022_016394	
-ETC_20151022_016395	
-ETC_20151022_016396	
-ETC_20151022_016397	
-ETC_20151022_016398	
-ETC_20151022_016399	
-ETC_20151022_016400	
-ETC_20151022_016401	
-ETC_20151022_016402	
-ETC_20151022_016403	
-ETC_20151022_016404	
-ETC_20151022_016405	
-ETC_20151022_016406	
-ETC_20151022_016407	
-ETC_20151022_016408	
-ETC_20151022_016409	
-ETC_20151022_016410	
-ETC_20151022_016411	
-ETC_20151022_016412	
-ETC_20151022_016413	
-ETC_20151022_016414	
-ETC_20151022_016415	
-ETC_20151022_016416	
-ETC_20151022_016417	
-ETC_20151022_016418	
-ETC_20151022_016419	
-ETC_20151022_016420	
-ETC_20151022_016421	
-ETC_20151022_016422	
-ETC_20151022_016423	
-ETC_20151022_016424	
-ETC_20151022_016425	
-ETC_20151022_016426	
-ETC_20151022_016427	
-ETC_20151022_016428	
-ETC_20151022_016429	
-ETC_20151022_016430	
-ETC_20151022_016431	
-ETC_20151022_016432	
-ETC_20151022_016433	
-ETC_20151022_016434	
-ETC_20151022_016435	
-ETC_20151022_016436	
-ETC_20151022_016437	
-ETC_20151022_016438	
-ETC_20151022_016439	
-ETC_20151022_016440	
-ETC_20151022_016441	
-ETC_20151022_016442	
+ETC_20151022_016391	The altar of the spirits is curing your body
+ETC_20151022_016392	Injecting the spirits
+ETC_20151022_016393	You don't have enough Red Spirits
+ETC_20151022_016394	You don't have enough Blue Spirits
+ETC_20151022_016395	You already have enough spirits
+ETC_20151022_016396	The spirit is not reacting to the pile of bones
+ETC_20151022_016397	The spirits are resurrecting into the demons
+ETC_20151022_016398	Using the body fluid of monsters
+ETC_20151022_016399	The Bracken Herb is rotten
+ETC_20151022_016400	Let's look for more beads
+ETC_20151022_016401	Don't you think the beads will be in front?
+ETC_20151022_016402	You've foudn the beads{nl}Look for more beads by searching nearby
+ETC_20151022_016403	Hand over the Small HP potion
+ETC_20151022_016404	Hand over the HP potion
+ETC_20151022_016405	Hand over the Big HP potion
+ETC_20151022_016406	Packing up
+ETC_20151022_016407	You've obtained the luggage of the peddler
+ETC_20151022_016408	Coco. Eat this.
+ETC_20151022_016409	Coco is looking for the peddler
+ETC_20151022_016410	Telling about the whereabouts of the peddler
+ETC_20151022_016411	Let it smell the scent of the peddler
+ETC_20151022_016412	Coco has smelled the scent of the peddler
+ETC_20151022_016413	Looking at the blocks of woods
+ETC_20151022_016414	You were only able to find the rotten trees
+ETC_20151022_016415	Lighting up the fire on the torch
+ETC_20151022_016416	Curing the Refugees
+ETC_20151022_016417	Purifying the Monsters
+ETC_20151022_016418	You've successfully purified the monsters
+ETC_20151022_016419	Combining the spirits of the monsters
+ETC_20151022_016420	You've absorbed the spirits of the monsters
+ETC_20151022_016421	You've failed to absorb the spirits of the monsters
+ETC_20151022_016422	Drinking the liquid medicine of Barbarian
+ETC_20151022_016423	Attack has decreased a little bit due to the effects of the liquid medicine!
+ETC_20151022_016424	Inspecting the Diary
+ETC_20151022_016425	You can't find anything about the giganctic bracken
+ETC_20151022_016426	You've found something about the gigantic bracken
+ETC_20151022_016427	Removing the defensive device
+ETC_20151022_016428	The defensive device has been removed
+ETC_20151022_016429	You've removed the caldron
+ETC_20151022_016430	Removing the power source
+ETC_20151022_016431	You've removed the power source
+ETC_20151022_016432	You've been caught by the chilly air trap
+ETC_20151022_016433	This item is currently locked
 ETC_20151022_016434	Equip Rapier Shield
 ETC_20151022_016435	Equip Rapier Dagger
 ETC_20151022_016436	Equip Rapier Sub
 ETC_20151022_016437	Equip Crossbow Pistol
 ETC_20151022_016438	Equip Crossbow Cannon
-ETC_20151022_016448	
-ETC_20151022_016449	
-ETC_20151022_016450	
-ETC_20151022_016451	
-ETC_20151022_016452	
-ETC_20151022_016453	
-ETC_20151022_016454	
+ETC_20151022_016439	Item Merchant
+ETC_20151022_016440	[Swordsman Sub Master]{nl}         Codill
+ETC_20151022_016441	[Peltasta Sub Master]{nl}                Nirin Dameoff
+ETC_20151022_016442	[Cleric Sub Master]{nl}                 Tamara Easton
+ETC_20151022_016443	[Krivis Sub Master]{nl}                     Mellinda Dicherin
+ETC_20151022_016444	[Priest Sub Master]{nl}                      Boira
+ETC_20151022_016445	[Bokor Sub Master]{nl}                   Bobo Icelin
+ETC_20151022_016446	[Sadhu Master]{nl}                           Agota Hanska
+ETC_20151022_016447	[Paladin Sub Master]{nl}                  Sylvia Naimon
+ETC_20151022_016448	Flameholder
+ETC_20151022_016449	Boss Manager
+ETC_20151022_016450	Peddler Varas
+ETC_20151022_016451	Herb Broker Tales
+ETC_20151022_016452	Bracken Forest 63_2
+ETC_20151022_016453	Collpased residential quarters notice board
+ETC_20151022_016454	Cannolis Light Completion
 ETC_20151022_016455	Owl Effect
-ETC_20151022_016456	
-ETC_20151022_016457	
-ETC_20151022_016458	
-ETC_20151022_016459	
-ETC_20151022_016460	
-ETC_20151022_016461	
-ETC_20151022_016462	
+ETC_20151022_016456	Lock Box
+ETC_20151022_016457	3cm Lake 83
+ETC_20151022_016458	Magi
+ETC_20151022_016459	Protection Magic
+ETC_20151022_016460	Protection Magic Circle
+ETC_20151022_016461	Letter on the ground
+ETC_20151022_016462	Suspicous Pocket
 ETC_20151022_016463	[Kedora Merchant]{nl}   Leopoldas
 ETC_20151022_016464	[Kedora Merchant]{nl}     Edita
 ETC_20151022_016465	[Kedora Merchant]{nl} Marcelijus
 ETC_20151022_016466	[Kedora Merchant]{nl}     Gerda
 ETC_20151022_016467	[Kedora Merchant]{nl}   Serapinas
 ETC_20151022_016468	[Fencer Master]{nl}  Sorscha Hutton
-ETC_20151022_016469	
-ETC_20151022_016470	
-ETC_20151022_016471	
-ETC_20151022_016472	
-ETC_20151022_016473	
-ETC_20151022_016474	
-ETC_20151022_016475	
-ETC_20151022_016476	
-ETC_20151022_016477	
-ETC_20151022_016478	
-ETC_20151022_016479	
-ETC_20151022_016480	
-ETC_20151022_016481	
-ETC_20151022_016482	
-ETC_20151022_016483	
-ETC_20151022_016484	
-ETC_20151022_016485	
-ETC_20151022_016486	
-ETC_20151022_016487	
-ETC_20151022_016488	
-ETC_20151022_016489	
-ETC_20151022_016490	
-ETC_20151023_016491	{Price}NXPConsumedToHire{Minute}Continue?
+ETC_20151022_016469	[Barbarian Sub Master]{nl}        Twinhal Koreont
+ETC_20151022_016470	[Dievdirbys Sub Master]{nl}        Zenoa Gallant
+ETC_20151022_016471	Padded Leg Herb
+ETC_20151022_016472	Smoking Glue
+ETC_20151022_016473	Cart that stinks
+ETC_20151022_016474	Habitat
+ETC_20151022_016475	[Highlander Sub Master{nl}        Rahellia Black
+ETC_20151022_016476	Injured Refugees
+ETC_20151022_016477	Rest Bonfire
+ETC_20151022_016478	Rest Pile of Firewood
+ETC_20151022_016479	Left Stuff
+ETC_20151022_016480	Lost Emigrant
+ETC_20151022_016481	Mission 
+ETC_20151022_016482	Mission are going to be start in 5 min
+ETC_20151022_016483	Opend five room {nl}
+ETC_20151022_016484	Defeat all monsters!
+ETC_20151022_016485	Defeat Jack O'Lantern!
+ETC_20151022_016486	Defeat Moldyhorn!
+ETC_20151022_016487	Defeat Colimencia and Mothstem!
+ETC_20151022_016488	Defea the Cockat nest!
+ETC_20151022_016489	Defeat Moyabruka and Menticen!
+ETC_20151022_016490	Survie for 2 minutes!
+ETC_20151102_016491	캐슬 주술 인형
+ETC_20151102_016492	스펙터
+ETC_20151102_016493	저주받은 깃발
+ETC_20151102_016494	뱀
+ETC_20151102_016495	붉은 트리펠리
+ETC_20151102_016496	뼈조각
+ETC_20151102_016497	라페데임
+ETC_20151102_016498	래밴자드
+ETC_20151102_016499	프리즌커터
+ETC_20151102_016500	붉은 래밴자드
+ETC_20151102_016501	다크써지
+ETC_20151102_016502	나모트 성역
+ETC_20151102_016503	타우마스 숲길
+ETC_20151102_016504	살비야스 숲
+ETC_20151102_016505	래스보이 호변
+ETC_20151102_016506	섹타 쉼터
+ETC_20151102_016507	오아쓰 기념터
+ETC_20151102_016508	메이븐 대수도원
+ETC_20151102_016509	펠케 신전터
+ETC_20151102_016510	압셈타 수원지
+ETC_20151102_016511	루클리스 전당
+ETC_20151102_016512	확장구역
+ETC_20151102_016513	피난거주구
+ETC_20151102_016514	크란토 연안
+ETC_20151102_016515	이기티 연안
+ETC_20151102_016516	알레멧 숲
+ETC_20151102_016517	바르하 숲
+ETC_20151102_016518	나하스 숲
+ETC_20151102_016519	베라 연안
+ETC_20151102_016520	엘고스 수도원 별원
+ETC_20151102_016521	엘고스 수도원 본원
+ETC_20151102_016522	베다 고원
+ETC_20151102_016523	코루 숲
+ETC_20151102_016524	크니도스 숲
+ETC_20151102_016525	다단 숲
+ETC_20151102_016526	네이콘 성곽터
+ETC_20151102_016527	길로그데라
+ETC_20151102_016528	키르 성곽지
+ETC_20151102_016529	네밸랫 광산 1층
+ETC_20151102_016530	네밸랫 광산 2층
+ETC_20151102_016531	토페스 보루 1층
+ETC_20151102_016532	토페스 보루 2층
+ETC_20151102_016533	시카리오스 1층
+ETC_20151102_016534	시카리오스 2층
+ETC_20151102_016535	가스가 살포되기 수도사 커스를 묶고 있는 속박을 파괴하세요
+ETC_20151102_016536	수도사 커스
+ETC_20151102_016537	제가 살포 장치를 끌게요. 당신은 속박 장치를 파괴하세요.
+ETC_20151102_016538	마족들이 우릴 봤어요!
+ETC_20151102_016539	마족들을 막아주시는 동안 제가 창고문을 열겠습니다
+ETC_20151102_016540	여러분 수도사님께서 문을 열어주실거예요
+ETC_20151102_016541	우린 살았어!
+ETC_20151102_016542	어서 수도원을 빠져 나가요
+ETC_20151102_016543	마족들이예요!
+ETC_20151102_016544	고맙습니다. 덕분에 살았습니다
+ETC_20151102_016545	에드문다스
+ETC_20151102_016546	으윽... 머리가..
+ETC_20151102_016547	안돼요! 오빠를 살려주세요
+ETC_20151102_016548	내 술수가 이렇게 쉽게  통하다니
+ETC_20151102_016549	둔하고 멍청한 행동이남매를 죽일 것이다
+ETC_20151102_016550	고통의 마법석
+ETC_20151102_016551	난 괜찮아..
+ETC_20151102_016552	로제 괜찮니?
+ETC_20151102_016553	안돼.. 이럴 순 없어!
+ETC_20151102_016554	방해하게 둘 순 없다
+ETC_20151102_016555	정신지배가 끝날 때까지 날 보호해라
+ETC_20151102_016556	뒤로 물러서세요.
+ETC_20151102_016557	자, 멜히오라스님께 돌아갑시다.
+ETC_20151102_016558	이..이게 뭐야..
+ETC_20151102_016559	어서 도망쳐요!!
+ETC_20151102_016560	도와주십시오!
+ETC_20151102_016561	사...살려줘!
+ETC_20151102_016562	괜찮으세요?
+ETC_20151102_016563	진짜 히드라가 나타났다!
+ETC_20151102_016564	놈이 도망친다!
+ETC_20151102_016565	마력 분해 기둥을 피해서 마력 응집구를{nl}확인 마법진 위로 이동시키세요!
+ETC_20151102_016566	마력 응집구
+ETC_20151102_016567	확인 마법진
+ETC_20151102_016568	마력 분해 기둥
+ETC_20151102_016569	페릿이 나타났어요!!
+ETC_20151102_016570	마족 토템을 지키는 페릿 머로더가 등장했습니다!
+ETC_20151102_016571	페릿 머로더를 처치하고 마족 토템을 파괴하세요!
+ETC_20151102_016572	큭.. 하찮은 인간 주제에!!
+ETC_20151102_016573	라다 여신을 가둔 마군주 자우라와 맞서 싸우세요!
+ETC_20151102_016574	물러서라.
+ETC_20151102_016575	안돼!!
+ETC_20151102_016576	마군주 자우라가 소녀를 데리고 사라졌습니다!{nl}몰려드는 페릿을 처치하세요!
+ETC_20151102_016577	왕국군 경비병이 몬스터에게 쫓기고 있습니다!{nl}일단 구해 주는 것이 좋겠습니다!
+ETC_20151102_016578	죄송합니다. 나가주십시오
+ETC_20151102_016579	저희는 이곳을 조사하러...
+ETC_20151102_016580	나모트 
+ETC_20151102_016581	나모트 성수의 효과 : 마족에게 발각당하지 않음
+ETC_20151102_016582	얼음속성 저항력 감소
+ETC_20151102_016583	염력 스크롤의 영향
+ETC_20151102_016584	염력 스크롤에 당한 상태입니다.
+ETC_20151102_016585	진주 가루
+ETC_20151102_016586	영혼 - 공격력
+ETC_20151102_016587	마족의 검은 영혼을 불태우자 공격력이 강해졌습니다.
+ETC_20151102_016588	영혼 - 공격력-쿨타임
+ETC_20151102_016589	수호상이 활성화 됐습니다.
+ETC_20151102_016590	영혼을 인도하고 있습니다.
+ETC_20151102_016591	워프 작동
+ETC_20151102_016592	워프 장치가 작동합니다.
+ETC_20151102_016593	워프 작동-쿨타임
+ETC_20151102_016594	워프 장치가 멈췄습니다.
+ETC_20151102_016595	출입 허락
+ETC_20151102_016596	워프 장치가 당신의 출입을 허락했습니다.
+ETC_20151102_016597	보상 수령
+ETC_20151102_016598	마족의 상자에 숨겨진 보상을 받았습니다.
+ETC_20151102_016599	열린 상자
+ETC_20151102_016600	이미 열린 상자입니다.
+ETC_20151102_016601	보호
+ETC_20151102_016602	덩굴이 보호받고 있습니다.
+ETC_20151102_016603	봉인서가 보호받고 있습니다.
+ETC_20151102_016604	폭주 - 붉은 뼈더미
+ETC_20151102_016605	폭주 상태
+ETC_20151102_016606	폭주 - 푸른 뼈더미
+ETC_20151102_016607	원혼 작동
+ETC_20151102_016608	상자를 열었습니다.
+ETC_20151102_016609	치료
+ETC_20151102_016610	이 사람은 치료된 상태입니다.
+ETC_20151102_016611	크루비나 소지중
+ETC_20151102_016612	크루비나 소지
+ETC_20151102_016613	고사리 포자 가루
+ETC_20151102_016614	치명적인 고사리 포자 가루 중독됐습니다.
+ETC_20151102_016615	보호막
+ETC_20151102_016616	루프 스택 오버플로우.
+ETC_20151102_016617	치넨시의 젬
+ETC_20151102_016618	위버의 젬
+ETC_20151102_016619	에큐바이트의 젬
+ETC_20151102_016620	유코푸스의 젬
+ETC_20151102_016621	스톤오르카의 젬
+ETC_20151102_016622	씨드미아의 젬
+ETC_20151102_016623	판토의 젬
+ETC_20151102_016624	얼타눈의 젬
+ETC_20151102_016625	푸라기의 젬
+ETC_20151102_016626	부베 투사의 젬
+ETC_20151102_016627	말라두의 젬
+ETC_20151102_016628	갈색 로델린의 젬
+ETC_20151102_016629	글리자돈의 젬
+ETC_20151102_016630	라우지누테의 젬
+ETC_20151102_016631	로프틀렘의 젬
+ETC_20151102_016632	대지의 데드본스캡의 젬
+ETC_20151102_016633	부우크의 젬
+ETC_20151102_016634	이노움의 젬
+ETC_20151102_016635	요노움의 젬
+ETC_20151102_016636	폰델의 젬
+ETC_20151102_016637	비토우의 젬
+ETC_20151102_016638	대지의 우드고블린의 젬
+ETC_20151102_016639	암몬의 젬
+ETC_20151102_016640	비카라스 메이지의 젬
+ETC_20151102_016641	인프로 버크의 젬
+ETC_20151102_016642	머슈카펑의 젬
+ETC_20151102_016643	그롤의 젬
+ETC_20151102_016644	체이퍼러의 젬
+ETC_20151102_016645	던볼의 젬
+ETC_20151102_016646	바이트의 젬
+ETC_20151102_016647	묘지골렘의 젬
+ETC_20151102_016648	검은 드레이크의 젬
+ETC_20151102_016649	카타콤 양초거미의 젬
+ETC_20151102_016650	피노의 젬
+ETC_20151102_016651	티켄의 젬
+ETC_20151102_016652	검은 리디메드의 젬
+ETC_20151102_016653	마우로스의 젬
+ETC_20151102_016654	날개 개구리의 젬
+ETC_20151102_016655	몽당 나무의 젬
+ETC_20151102_016656	크로뉴트의 젬
+ETC_20151102_016657	뇌옥투사의 젬
+ETC_20151102_016658	광산 약탈자의 젬
+ETC_20151102_016659	부베 전사의 젬
+ETC_20151102_016660	코카트의 젬
+ETC_20151102_016661	크루마보의 젬
+ETC_20151102_016662	노란 요노움의 젬
+ETC_20151102_016663	빅 샤울렘의 젬
+ETC_20151102_016664	붉은 인프로 블러드의 젬
+ETC_20151102_016665	노란 모야의 젬
+ETC_20151102_016666	낡은 누덕 갈고리의 젬
+ETC_20151102_016667	푸른 스타울리트의 젬
+ETC_20151102_016668	스피온의 젬
+ETC_20151102_016669	레무르의 젬
+ETC_20151102_016670	노란 양초거미의 젬
+ETC_20151102_016671	루바보스의 젬
+ETC_20151102_016672	트리암불로의 젬
+ETC_20151102_016673	하이 부베의 젬
+ETC_20151102_016674	늙은케파의 젬
+ETC_20151102_016675	드레이크의 젬
+ETC_20151102_016676	거대 박쥐의 젬
+ETC_20151102_016677	푸른 라플리의 젬
+ETC_20151102_016678	누카의 젬
+ETC_20151102_016679	고블린 돌격병의 젬
+ETC_20151102_016680	허니멜리의 젬
+ETC_20151102_016681	덴덴의 젬
+ETC_20151102_016682	레무리아의 젬
+ETC_20151102_016683	오염된 벨피기의 젬
+ETC_20151102_016684	잎방개의 젬
+ETC_20151102_016685	케파의 젬
+ETC_20151102_016686	쉬레디드의 젬
+ETC_20151102_016687	포포리온의 젬
+ETC_20151102_016688	라플라워의 젬
+ETC_20151102_016689	밴시의 젬
+ETC_20151102_016690	템플슬레이브 메이지의 젬
+ETC_20151102_016691	데드본스캡 마법사의 젬
+ETC_20151102_016692	데스모두의 젬
+ETC_20151102_016693	검은 마이즈의 젬
+ETC_20151102_016694	티니 마법사의 젬
+ETC_20151102_016695	갈록의 젬
+ETC_20151102_016696	사막 츄파카브라의 젬
+ETC_20151102_016697	카로의 젬
+ETC_20151102_016698	카르카슈의 젬
+ETC_20151102_016699	허밍버드의 젬
+ETC_20151102_016700	타누의 젬
+ETC_20151102_016701	웬디고의 젬
+ETC_20151102_016702	미노스 메이지의 젬
+ETC_20151102_016703	부베 얼음 마법사의 젬
+ETC_20151102_016704	초록 어패리션의 젬
+ETC_20151102_016705	웬디고 마법사의 젬
+ETC_20151102_016706	콜리타일의 젬
+ETC_20151102_016707	카타콤 잎방개의 젬
+ETC_20151102_016708	할로우벤터의 젬
+ETC_20151102_016709	엘렛의 젬
+ETC_20151102_016710	주황 타마의 젬
+ETC_20151102_016711	샤울라브 메이지의 젬
+ETC_20151102_016712	테라임프의 젬
+ETC_20151102_016713	수호 거미의 젬
+ETC_20151102_016714	콜리플라워의 젬
+ETC_20151102_016715	단델의 젬
+ETC_20151102_016716	벨리글러의 젬
+ETC_20151102_016717	지누테카스의 젬
+ETC_20151102_016718	시스트의 젬
+ETC_20151102_016719	샤울렘 라군의 젬
+ETC_20151102_016720	호헨 메인의 젬
+ETC_20151102_016721	멜라타눈의 젬
+ETC_20151102_016722	베리얼러의 젬
+ETC_20151102_016723	고블린 메지션의 젬
+ETC_20151102_016724	츄파루카의 젬
+ETC_20151102_016725	케파 레이더 마법사의 젬
+ETC_20151102_016726	램베어 마법사의 젬
+ETC_20151102_016727	바브의 젬
+ETC_20151102_016728	케파리 주술사의 젬
+ETC_20151102_016729	테라임프 메이지의 젬
+ETC_20151102_016730	붉은 미듀쟈의 젬
+ETC_20151102_016731	더키의 젬
+ETC_20151102_016732	몽당 나무 마법사의 젬
+ETC_20151102_016733	피셔맨의 젬
+ETC_20151102_016734	스타울리트 메이지의 젬
+ETC_20151102_016735	광산 화염 마법사의 젬
+ETC_20151102_016736	검은 폰드의 젬
+ETC_20151102_016737	붉은 인프로 호글란의 젬
+ETC_20151102_016738	살티스도터 마법사의 젬
+ETC_20151102_016739	티켄 마법사의 젬
+ETC_20151102_016740	수정거미의 젬
+ETC_20151102_016741	부베 광부의 젬
+ETC_20151102_016742	박쥐의 젬
+ETC_20151102_016743	붉은 케파의 젬
+ETC_20151102_016744	포쿠부의 젬
+ETC_20151102_016745	티니 궁수의 젬
+ETC_20151102_016746	샤울라브 궁수의 젬
+ETC_20151102_016747	메로그 독침술사의 젬
+ETC_20151102_016748	웬디고 궁수의 젬
+ETC_20151102_016749	리첸클롭스의 젬
+ETC_20151102_016750	투켄의 젬
+ETC_20151102_016751	하얀 오페러의 젬
+ETC_20151102_016752	주황 단델의 젬
+ETC_20151102_016753	소켓의 젬
+ETC_20151102_016754	우펜트의 젬
+ETC_20151102_016755	판토 궁수의 젬
+ETC_20151102_016756	갈색 지그리의 젬
+ETC_20151102_016757	썩은 콜리플라이 궁수의 젬
+ETC_20151102_016758	레푸스버니 암살자의 젬
+ETC_20151102_016759	데드본스캡의 궁수의 젬
+ETC_20151102_016760	스피온 궁수의 젬
+ETC_20151102_016761	판토 길잡이의 젬
+ETC_20151102_016762	부베 궁수의 젬
+ETC_20151102_016763	콜리플라이 궁수의 젬
+ETC_20151102_016764	트리펠리의 젬
+ETC_20151102_016765	붉은 피셔맨의 젬
+ETC_20151102_016766	엘롬의 젬
+ETC_20151102_016767	카타콤 머슈카펑의 젬
+ETC_20151102_016768	주홍 사크몰리의 젬
+ETC_20151102_016769	인프로홀더 궁수의 젬
+ETC_20151102_016770	호그마 궁수의 젬
+ETC_20151102_016771	메로그 주술사의 젬
+ETC_20151102_016772	비카라스 궁수의 젬
+ETC_20151102_016773	러블렘의 젬
+ETC_20151102_016774	인프로 홀더의 젬
+ETC_20151102_016775	엘로마고의 젬
+ETC_20151102_016776	하얀 피노의 젬
+ETC_20151102_016777	코카트리스의 젬
+ETC_20151102_016778	광산 부베 궁수의 젬
+ETC_20151102_016779	리디메드의 젬
+ETC_20151102_016780	테라임프 궁수의 젬
+ETC_20151102_016781	노란 모야부의 젬
+ETC_20151102_016782	졸렘의 젬
+ETC_20151102_016783	하이 부베 궁수의 젬
+ETC_20151102_016784	사크몰리의 젬
+ETC_20151102_016785	붉은 지그리의 젬
+ETC_20151102_016786	호헨 리터의 젬
+ETC_20151102_016787	미노스 궁수의 젬
+ETC_20151102_016788	누오의 젬
+ETC_20151102_016789	웬디고 수색꾼의 젬
+ETC_20151102_016790	벨라피드의 젬
+ETC_20151102_016791	오염된 데드본스캡 궁수의 젬
+ETC_20151102_016792	소켓 궁수의 젬
+ETC_20151102_016793	램베어 궁수의 젬
+ETC_20151102_016794	콜리플라이의 젬
+ETC_20151102_016795	스타울리트 궁수의 젬
+ETC_20151102_016796	청아한 로프틀렘의 젬
+ETC_20151102_016797	레푸스버니의 젬
+ETC_20151102_016798	검은 콜리플라이의 젬
+ETC_20151102_016799	모야부의 젬
+ETC_20151102_016800	살티스도터 궁수의 젬
+ETC_20151102_016801	하나밍의 젬
+ETC_20151102_016802	부베 약탈자의 젬
+ETC_20151102_016803	츄파카브라의 젬
+ETC_20151102_016804	인프로 락터의 젬
+ETC_20151102_016805	코릴러스의 젬
+ETC_20151102_016806	비테로스의 젬
+ETC_20151102_016807	인프로홀더 주술사의 젬
+ETC_20151102_016808	로델린의 젬
+ETC_20151102_016809	리플라이의 젬
+ETC_20151102_016810	도요르의 젬
+ETC_20151102_016811	푸른 프라가라스의 젬
+ETC_20151102_016812	늙은 크로뉴트 독침술사의 젬
+ETC_20151102_016813	대지의 쉬레디드의 젬
+ETC_20151102_016814	대지의 할로우벤터의 젬
+ETC_20151102_016815	호그마 주술사의 젬
+ETC_20151102_016816	지그너츠의 젬
+ETC_20151102_016817	그루머의 젬
+ETC_20151102_016818	티피오의 젬
+ETC_20151102_016819	대형 판토 투창병의 젬
+ETC_20151102_016820	멘티우드의 젬
+ETC_20151102_016821	대지의 스펙트라의 젬
+ETC_20151102_016822	붉은 록소돈의 젬
+ETC_20151102_016823	오페러의 젬
+ETC_20151102_016824	폰드의 젬
+ETC_20151102_016825	하얀 제페토의 젬
+ETC_20151102_016826	주황 하밍의 젬
+ETC_20151102_016827	툼싱커의 젬
+ETC_20151102_016828	호헨 메이지의 젬
+ETC_20151102_016829	샤울렘 주술사의 젬
+ETC_20151102_016830	글리퀘어의 젬
+ETC_20151102_016831	할로우벤터 메지션의 젬
+ETC_20151102_016832	회색 유코푸스의 젬
+ETC_20151102_016833	소켓 메이지의 젬
+ETC_20151102_016834	플라스크 메이지의 젬
+ETC_20151102_016835	쉬타임의 젬
+ETC_20151102_016836	크로뉴트 메이지의 젬
+ETC_20151102_016837	인프로 블러드의 젬
+ETC_20151102_016838	분홍 츄파루카의 젬
+ETC_20151102_016839	사우가의 젬
+ETC_20151102_016840	카타콤 마고트의 젬
+ETC_20151102_016841	톤투스의 젬
+ETC_20151102_016842	카라스 마법사의 젬
+ETC_20151102_016843	에하드 마법사의 젬
+ETC_20151102_016844	밤의 시녀의 젬
+ETC_20151102_016845	할로우벤터 저주술사의 젬
+ETC_20151102_016846	오염된 파이란의 젬
+ETC_20151102_016847	초록 그리바의 젬
+ETC_20151102_016848	푸른 벨리글러의 젬
+ETC_20151102_016849	샤울렘 전사의 젬
+ETC_20151102_016850	주황 그리바루의 젬
+ETC_20151102_016851	고블린 전사의 젬
+ETC_20151102_016852	검은 우산이끼의 젬
+ETC_20151102_016853	레비의 젬
+ETC_20151102_016854	엘마의 젬
+ETC_20151102_016855	허니빈의 젬
+ETC_20151102_016856	웬디고 주술사의 젬
+ETC_20151102_016857	톤투리아의 젬
+ETC_20151102_016858	아슈롱의 젬
+ETC_20151102_016859	리자드맨의 젬
+ETC_20151102_016860	주술 인형의 젬
+ETC_20151102_016861	수감된 긴팔 나무의 젬
+ETC_20151102_016862	스파스티 쉼터
+ETC_20151102_016863	르브다 절벽
+ETC_20151102_016864	앱라이스티 삼거리
+ETC_20151102_016865	낡은 우물 터
+ETC_20151102_016866	바나가 숲길
+ETC_20151102_016867	동갈 저지대
+ETC_20151102_016868	벨라이 숲 작업장
+ETC_20151102_016869	바라이스 가도
+ETC_20151102_016870	젤베 쉼터
+ETC_20151102_016871	계단길
+ETC_20151102_016872	알테미아 침수지
+ETC_20151102_016873	다렘 언덕
+ETC_20151102_016874	끊어진 다리
+ETC_20151102_016875	지데카 침수지
+ETC_20151102_016876	수차
+ETC_20151102_016877	이네가 공터
+ETC_20151102_016878	요데이라 정원
+ETC_20151102_016879	조각 구릉
+ETC_20151102_016880	그리노 낭떠러지
+ETC_20151102_016881	이르베디 절벽
+ETC_20151102_016882	돌로베 기슭
+ETC_20151102_016883	크라이쥐 사거리
+ETC_20151102_016884	슐티 작업장
+ETC_20151102_016885	오두르 안뜰
+ETC_20151102_016886	오르샤 나무
+ETC_20151102_016887	마력핵 임시
+ETC_20151102_016888	오목눈이
+ETC_20151102_016889	붉은 오목눈이
+ETC_20151102_016890	홍학
+ETC_20151102_016891	7랭크 전직(테스트)
+ETC_20151102_016892	쿼렐슈터 특성 사용
+ETC_20151102_016893	하플라이트 특성
+ETC_20151102_016894	바바리안 특성
+ETC_20151102_016895	캐터프랙트 특성 사용
+ETC_20151102_016896	파이로맨서 서브 마스터의 조언
+ETC_20151102_016897	크리오맨서 서브 마스터의 조언
+ETC_20151102_016898	사이코키노 마스터의 조언
+ETC_20151102_016899	링커 마스터의 조언
+ETC_20151102_016900	소형 몬스터 처치
+ETC_20151102_016901	중형 몬스터 처치
+ETC_20151102_016902	대형 몬스터 처치
+ETC_20151102_016903	불 속성 몬스터
+ETC_20151102_016904	얼음 속성 몬스터
+ETC_20151102_016905	전기 속성 몬스터
+ETC_20151102_016906	땅 속성 몬스터
+ETC_20151102_016907	캐슬필드 65_1의 상자
+ETC_20151102_016908	캐슬필드 65_2의 상자
+ETC_20151102_016909	캐슬필드 65_3의 상자
+ETC_20151102_016910	큰아귀 길의 몬스터 처치
+ETC_20151102_016911	필그림 들길의 몬스터 처치
+ETC_20151102_016912	제단로의 몬스터 처치
+ETC_20151102_016913	마법사의 탑 1층 정찰
+ETC_20151102_016914	마법사의 탑 2층 정찰
+ETC_20151102_016915	마법사의 탑 3층 정찰
+ETC_20151102_016916	마법사의 탑 4층 정찰
+ETC_20151102_016917	마법사의 탑 5층 정찰
+ETC_20151102_016918	마력 응집구를 확인 마법진 안으로 이동
+ETC_20151102_016919	냄새나는 수레 처리
+ETC_20151102_016920	2구역 마족 처치
+ETC_20151102_016921	고사리 숲 63_3에서 몬스터나 마족을 처치하기
+ETC_20151102_016922	페레토리 구릉의 마족 처치
+ETC_20151102_016923	방패를 착용하지 않고 몬스터 처치
+ETC_20151102_016924	마법 걸린 아티팩트 발견
+ETC_20151102_016925	첫번째 마력 구슬 채우기
+ETC_20151102_016926	두번째 마력 구슬 채우기
+ETC_20151102_016927	세번째 마력 구슬 채우기
+ETC_20151102_016928	아티팩트 비활성화 시키기
+ETC_20151102_016929	장치 왼쪽에 마력 구슬 놓기
+ETC_20151102_016930	장치 앞쪽에 마력 구슬 놓기
+ETC_20151102_016931	장치 오른쪽에 마력 구슬 놓기
+ETC_20151102_016932	부베 약탈자 처치수 누적 100마리 넘기기
+ETC_20151102_016933	여신에게 공물을(1)
+ETC_20151102_016934	여신에게 공물을(2)
+ETC_20151102_016935	실험실의 몬스터를 물리치고 실험기구 조사하기
+ETC_20151102_016936	첫 번째 실험실 불태우기
+ETC_20151102_016937	두 번째 실험실 불태우기
+ETC_20151102_016938	페릿 반응 관찰
+ETC_20151102_016939	주술 걸린 나무토막을 놓기
+ETC_20151102_016940	패릿 반응 관찰
+ETC_20151102_016941	실험피해자(1)에게 체력 회복 물약 주기
+ETC_20151102_016942	에드문다스를 고통스럽게 하는 장치를 찾아 작동 정지시키기
+ETC_20151102_016943	에드문다스를 속박하고 있는 마력 용기 끄기
+ETC_20151102_016944	마족의 실험 장소에서 사람의 흔적 찾기
+ETC_20151102_016945	마족이 파괴한 성물 회수하기
+ETC_20151102_016946	에드문다스에게 장치를 과부화 시킬 수 있는 물건 가져다 주기
+ETC_20151102_016947	의문의 마법사가 작성한 실험 일지 구하기
+ETC_20151102_016948	거대 고사리 포자 배양 장치 정지시키기
+ETC_20151102_016949	적 뒤에서 공격 시 백스텝 공격력 4배 증가{nl}회피 {img red_down_arrow 16 16}188 감소
+ETC_20151102_016950	플레이어의 최대 레벨
+ETC_20151102_016951	OptDesc/ - 突刺 技能等級 +1
+ETC_20151102_016952	OptDesc/ - 狂擊 技能等級 +1
+ETC_20151102_016953	OptDesc/ - 奮起 技能等級 +1
+ETC_20151102_016954	OptDesc/ - 集中 技能等級 +1
+ETC_20151102_016955	OptDesc/ - 苦痛屏障 技能等級 +1
+ETC_20151102_016956	OptDesc/ - 抑制 技能等級 +1
+ETC_20151102_016957	OptDesc/ - 劍柄敲打 技能等級 +1
+ETC_20151102_016958	OptDesc/ - 二重斬 技能等級 +1
+ETC_20151102_016959	OptDesc/ - 車輪斬 技能等級 +1
+ETC_20151102_016960	OptDesc/ - 蓄力一擊 技能等級 +1
+ETC_20151102_016961	OptDesc/ - 王冠 技能等級 +1
+ETC_20151102_016962	OptDesc/ - 十字守護 技能等級 +1
+ETC_20151102_016963	OptDesc/ - 連續斬 技能等級 +1
+ETC_20151102_016964	OptDesc/ - 破空斬 技能等級 +1
+ETC_20151102_016965	OptDesc/ - 十字切割 技能等級 +1
+ETC_20151102_016966	OptDesc/ - 頭骨搖晃 技能等級 +1
+ETC_20151102_016967	OptDesc/ - 垂直斬 技能等級 +1
+ETC_20151102_016968	OptDesc/ - 盾心打擊 技能等級 +1
+ETC_20151102_016969	OptDesc/ - 盾緣敲擊 技能等級 +1
+ETC_20151102_016970	OptDesc/ - 挑釁 技能等級 +1
+ETC_20151102_016971	OptDesc/ - 守護者 技能等級 +1
+ETC_20151102_016972	OptDesc/ - 盾牌投擲 技能等級 +1
+ETC_20151102_016973	OptDesc/ - 高級守護 技能等級 +1
+ETC_20151102_016974	OptDesc/ - 蝶 技能等級 +1
+ETC_20151102_016975	OptDesc/ - 盾心推撞 技能等級 +1
+ETC_20151102_016976	OptDesc/ - 長矛突刺 技能等級 +1
+ETC_20151102_016977	OptDesc/ - 刺擊 技能等級 +1
+ETC_20151102_016978	OptDesc/ - 舉矛 技能等級 +1
+ETC_20151102_016979	OptDesc/ - 同步攻擊 技能等級 +1
+ETC_20151102_016980	OptDesc/ - 長驅直入 技能等級 +1
+ETC_20151102_016981	OptDesc/ - 渾天刺 技能等級 +1
+ETC_20151102_016982	OptDesc/ - 長矛投擲 技能等級 +1
+ETC_20151102_016983	OptDesc/ - 開腸剖肚 技能等級 +1
+ETC_20151102_016984	OptDesc/ - 踐踏 技能等級 +1
+ETC_20151102_016985	OptDesc/ - 順劈斬 技能等級 +1
+ETC_20151102_016986	OptDesc/ - 破顱斬 技能等級 +1
+ETC_20151102_016987	OptDesc/ - 戰吼技能等級 +1
+ETC_20151102_016988	OptDesc/ - 狂怒 技能等級 +1
+ETC_20151102_016989	OptDesc/ - 地裂斬 技能等級 +1
+ETC_20151102_016990	OptDesc/ - 大車輪 技能等級 +1
+ETC_20151102_016991	OptDesc/ - 突襲 技能等級 +1
+ETC_20151102_016992	OptDesc/ - 穿刺 技能等級 +1
+ETC_20151102_016993	OptDesc/ - 大地波動 技能等級 +1
+ETC_20151102_016994	OptDesc/ - 馳驅 技能等級 +1
+ETC_20151102_016995	OptDesc/ - 騎乘衝鋒 技能等級 +1
+ETC_20151102_016996	OptDesc/ - 厄運穿刺 技能等級 +1
+ETC_20151102_016997	OptDesc/ - 衝鋒 技能等級 +1
+ETC_20151102_016998	OptDesc/ - 海盜旗 技能等級 +1
+ETC_20151102_016999	OptDesc/ - 鐵鉤 技能等級 +1
+ETC_20151102_017000	OptDesc/ - 龍骨牽引 技能等級 +1
+ETC_20151102_017001	OptDesc/ - 沙塵暴 技能等級 +1
+ETC_20151102_017002	OptDesc/ - 雙武器連擊 技能等級 +1
+ETC_20151102_017003	OptDesc/ - 魔術截擊 技能等級 +1
+ETC_20151102_017004	OptDesc/ - 折磨 技能等級 +1
+ETC_20151102_017005	OptDesc/ - 英勇契約 技能等級 +1
+ETC_20151102_017006	OptDesc/ - 劍柄打擊 技能等級 +1
+ETC_20151102_017007	OptDesc/ - 雙酬 技能等級 +1
+ETC_20151102_017008	OptDesc/ - 旋風斬 技能等級 +1
+ETC_20151102_017009	OptDesc/ - 盾牌衝鋒 技能等級 +1
+ETC_20151102_017010	OptDesc/ - 山擊 技能等級 +1
+ETC_20151102_017011	OptDesc/ - 圓盾碎擊 技能等級 +1
+ETC_20151102_017012	OptDesc/ - 盾牌推擊 技能等級 +1
+ETC_20151102_017013	OptDesc/ - 盾牌猛擊 技能等級 +1
+ETC_20151102_017014	OptDesc/ - 盾牌痛擊 技能等級 +1
+ETC_20151102_017015	OptDesc/ - 舉盾進擊 技能等級 +1
+ETC_20151102_017016	OptDesc/ - 流星 技能等級 +1
+ETC_20151102_017017	OptDesc/ - 高位踢 技能等級 +1
+ETC_20151102_017018	OptDesc/ - 捕捉 技能等級 +1
+ETC_20151102_017019	OptDesc/ - 弓箭步刺 技能等級 +1
+ETC_20151102_017020	OptDesc/ - 七星擊 技能等級 +1
+ETC_20151102_017021	OptDesc/ - 護手攻擊 技能等級 +1
+ETC_20151102_017022	OptDesc/ - 閃避觸擊 技能等級 +1
+ETC_20151102_017023	OptDesc/ - 滑劍刺擊 技能等級 +1
+ETC_20151102_017024	OptDesc/ - 連續擊刺 技能等級 +1
+ETC_20151102_017025	OptDesc/ - 能量矢 技能等級 +1
+ETC_20151102_017026	OptDesc/ - 倦怠 技能等級 +1
+ETC_20151102_017027	OptDesc/ - 催眠 技能等級 +1
+ETC_20151102_017028	OptDesc/ - 反射盾 技能等級 +1
+ETC_20151102_017029	OptDesc/ - 地震 技能等級 +1
+ETC_20151102_017030	OptDesc/ - 絕對魔法 技能等級 +1
+ETC_20151102_017031	OptDesc/ - 魔法飛彈 技能等級 +1
+ETC_20151102_017032	OptDesc/ - 火球術 技能等級 +1
+ETC_20151102_017033	OptDesc/ - 火牆 技能等級 +1
+ETC_20151102_017034	OptDesc/ - 火焰附魔 技能等級 +1
+ETC_20151102_017035	OptDesc/ - 爆燃 技能等級 +1
+ETC_20151102_017036	OptDesc/ - 烈焰大地 技能等級 +1
+ETC_20151102_017037	OptDesc/ - 火柱 技能等級 +1
+ETC_20151102_017038	OptDesc/ - 地獄吐息 技能等級 +1
+ETC_20151102_017039	OptDesc/ - 冰箭術 技能等級 +1
+ETC_20151102_017040	OptDesc/ - 冰槍 技能等級 +1
+ETC_20151102_017041	OptDesc/ - 冰牆 技能等級 +1
+ETC_20151102_017042	OptDesc/ - 爆裂冰塊 技能等級 +1
+ETC_20151102_017043	OptDesc/ - 陣風 技能等級 +1
+ETC_20151102_017044	OptDesc/ - 滾動雪球 技能等級 +1
+ETC_20151102_017045	OptDesc/ - 冰霜支柱 技能等級 +1
+ETC_20151102_017046	OptDesc/ - 心靈壓迫 技能等級 +1
+ETC_20151102_017047	OptDesc/ - 念力 技能等級 +1
+ETC_20151102_017048	OptDesc/ - 交替 技能等級 +1
+ETC_20151102_017049	OptDesc/ - 瞬間移動 技能等級 +1
+ETC_20151102_017050	OptDesc/ - 磁力 技能等級 +1
+ETC_20151102_017051	OptDesc/ - 浮空 技能等級 +1
+ETC_20151102_017052	OptDesc/ - 引力極點 技能等級 +1
+ETC_20151102_017053	OptDesc/ - 召喚惡魔 技能等級 +1
+ETC_20151102_017054	OptDesc/ - 召喚使魔 技能等級 +1
+ETC_20151102_017055	OptDesc/ - 召喚薩拉米恩 技能等級 +1
+ETC_20151102_017056	OptDesc/ - 物理連結 技能等級 +1
+ETC_20151102_017057	OptDesc/ - 聯合懲罰 技能等級 +1
+ETC_20151102_017058	OptDesc/ - 絞首之結 技能等級 +1
+ETC_20151102_017059	OptDesc/ - 精神鎖鏈 技能等級 +1
+ETC_20151102_017060	OptDesc/ - 能力共享 技能等級 +1
+ETC_20151102_017061	OptDesc/ - 鼓舞 技能等級 +1
+ETC_20151102_017062	OptDesc/ - 輪迴 技能等級 +1
+ETC_20151102_017063	OptDesc/ - 時間暫停 技能等級 +1
+ETC_20151102_017064	OptDesc/ - 緩速 技能等級 +1
+ETC_20151102_017065	OptDesc/ - 加速術 技能等級 +1
+ETC_20151102_017066	OptDesc/ - 時間倒轉 技能等級 +1
+ETC_20151102_017067	OptDesc/ - 收集屍體 技能等級 +1
+ETC_20151102_017068	OptDesc/ - 屍塊炮擊 技能等級 +1
+ETC_20151102_017069	OptDesc/ - 屍環 技能等級 +1
+ETC_20151102_017070	OptDesc/ - 不淨之柱 技能等級 +1
+ETC_20151102_017071	OptDesc/ - 遺骸塔 技能等級 +1
+ETC_20151102_017072	OptDesc/ - 左臂強化 技能等級 +1
+ETC_20151102_017073	OptDesc/ - 縮小 技能等級 +1
+ETC_20151102_017074	OptDesc/ - 膨脹 技能等級 +1
+ETC_20151102_017075	OptDesc/ - 置換 技能等級 +1
+ETC_20151102_017076	OptDesc/ - 右臂強化 技能等級 +1
+ETC_20151102_017077	OptDesc/ - 大腦強化 技能等級 +1
+ETC_20151102_017078	OptDesc/ - 電刑 技能等級 +1
+ETC_20151102_017079	OptDesc/ - 石化詛咒 技能等級 +1
+ETC_20151102_017080	OptDesc/ - 冰雹術 技能等級 +1
+ETC_20151102_017081	OptDesc/ - 紅炎 技能等級 +1
+ETC_20151102_017082	OptDesc/ - 隕石術 技能等級 +1
+ETC_20151102_017083	OptDesc/ - 冰凍球體 技能等級 +1
+ETC_20151102_017084	OptDesc/ - 降雨 技能等級 +1
+ETC_20151102_017085	OptDesc/ - 冰霜之雲 技能等級 +1
+ETC_20151102_017086	OptDesc/ - 迅步 技能等級 +1
+ETC_20151102_017087	OptDesc/ - 多重射擊 技能等級 +1
+ETC_20151102_017088	OptDesc/ - 滿弦 技能等級 +1
+ETC_20151102_017089	OptDesc/ - 斜射 技能等級 +1
+ETC_20151102_017090	OptDesc/ - 跪射 技能等級 +1
+ETC_20151102_017091	OptDesc/ - 強力射擊 技能等級 +1
+ETC_20151102_017092	OptDesc/ - 二重矢 技能等級 +1
+ETC_20151102_017093	OptDesc/ - 追擊 技能等級 +1
+ETC_20151102_017094	OptDesc/ - 攫取 技能等級 +1
+ETC_20151102_017095	OptDesc/ - 標記 技能等級 +1
+ETC_20151102_017096	OptDesc/ - 同伴衝鋒 技能等級 +1
+ETC_20151102_017097	OptDesc/ - 咬回 技能等級 +1
+ETC_20151102_017098	OptDesc/ - 追蹤 技能等級 +1
+ETC_20151102_017099	OptDesc/ - 咆哮 技能等級 +1
+ETC_20151102_017100	OptDesc/ - 置盾 技能等級 +1
+ETC_20151102_017101	OptDesc/ - 鐵蒺藜 技能等級 +1
+ETC_20151102_017102	OptDesc/ - 石彈射擊 技能等級 +1
+ETC_20151102_017103	OptDesc/ - 速射 技能等級 +1
+ETC_20151102_017104	OptDesc/ - 拆除 技能等級 +1
+ETC_20151102_017105	OptDesc/ - 奔跑射擊 技能等級 +1
+ETC_20151102_017106	OptDesc/ - 散射 技能等級 +1
+ETC_20151102_017107	OptDesc/ - 貫通箭 技能等級 +1
+ETC_20151102_017108	OptDesc/ - 暴擊射擊 技能等級 +1
+ETC_20151102_017109	OptDesc/ - 穩定瞄準 技能等級 +1
+ETC_20151102_017110	OptDesc/ - 炸彈箭 技能等級 +1
+ETC_20151102_017111	OptDesc/ - 彈跳射擊 技能等級 +1
+ETC_20151102_017112	OptDesc/ - 螺旋箭 技能等級 +1
+ETC_20151102_017113	OptDesc/ - 柵欄 技能等級 +1
+ETC_20151102_017114	OptDesc/ - 隱匿 技能等級 +1
+ETC_20151102_017115	OptDesc/ - 雙刃刀陷阱 技能等級 +1
+ETC_20151102_017116	OptDesc/ - 尖竹釘陷阱 技能等級 +1
+ETC_20151102_017117	OptDesc/ - 引爆陷阱 技能等級 +1
+ETC_20151102_017118	OptDesc/ - 掃蕩陷阱 技能等級 +1
+ETC_20151102_017119	OptDesc/ - 人質炸彈 技能等級 +1
+ETC_20151102_017120	OptDesc/ - 鋼絲陷阱 技能等級 +1
+ETC_20151102_017121	OptDesc/ - 解毒 技能等級 +1
+ETC_20151102_017122	OptDesc/ - 吹箭 技能等級 +1
+ETC_20151102_017123	OptDesc/ - 蠱惑 技能等級 +1
+ETC_20151102_017124	OptDesc/ - 蜈蚣蠱 技能等級 +1
+ETC_20151102_017125	OptDesc/ - 鳩毒 技能等級 +1
+ETC_20151102_017126	OptDesc/ - 投擲蠱罐 技能等級 +1
+ETC_20151102_017127	OptDesc/ - 金蠶蠱 技能等級 +1
+ETC_20151102_017128	OptDesc/ - 響箭 技能等級 +1
+ETC_20151102_017129	OptDesc/ - 燃燒箭 技能等級 +1
+ETC_20151102_017130	OptDesc/ - 潛行 技能等級 +1
+ETC_20151102_017131	OptDesc/ - 海市蜃樓 技能等級 +1
+ETC_20151102_017132	OptDesc/ - 掃瞄 技能等級 +1
+ETC_20151102_017133	OptDesc/ - 分裂箭 技能等級 +1
+ETC_20151102_017134	OptDesc/ - 伏擊 技能等級 +1
+ETC_20151102_017135	OptDesc/ - 佯攻 技能等級 +1
+ETC_20151102_017136	OptDesc/ - 奪取 技能等級 +1
+ETC_20151102_017137	OptDesc/ - 仇殺 技能等級 +1
+ETC_20151102_017138	OptDesc/ - 窟 技能等級 +1
+ETC_20151102_017139	OptDesc/ - 迴避 技能等級 +1
+ETC_20151102_017140	OptDesc/ - 催淚彈 技能等級 +1
+ETC_20151102_017141	OptDesc/ - 背刺 技能等級 +1
+ETC_20151102_017142	OptDesc/ - 集中火力 技能等級 +1
+ETC_20151102_017143	OptDesc/ - 躲避射擊 技能等級 +1
+ETC_20151102_017144	OptDesc/ - 騎射 技能等級 +1
+ETC_20151102_017145	OptDesc/ - 退射 技能等級 +1
+ETC_20151102_017146	OptDesc/ - 闊箭技能等級 +1
+ETC_20151102_017147	OptDesc/ - 錐箭 技能等級 +1
+ETC_20151102_017148	OptDesc/ - 荊棘箭 技能等級 +1
+ETC_20151102_017149	OptDesc/ - 十字火焰 技能等級 +1
+ETC_20151102_017150	OptDesc/ - 魔法箭 技能等級 +1
+ETC_20151102_017151	OptDesc/ - 收集屍體 技能等級 +1
+ETC_20151102_017152	OptDesc/ - 棲木 技能等級 +1
+ETC_20151102_017153	OptDesc/ - 盤旋 技能等級 +1
+ETC_20151102_017154	OptDesc/ - 懸停 技能等級 +1
+ETC_20151102_017155	OptDesc/ - 假雉 技能等級 +1
+ETC_20151102_017156	OptDesc/ - 懸吊射擊 技能等級 +1
+ETC_20151102_017157	OptDesc/ - 重砲射擊 技能等級 +1
+ETC_20151102_017158	OptDesc/ - 擊落 技能等級 +1
+ETC_20151102_017159	OptDesc/ - 攻城砲擊 技能等級 +1
+ETC_20151102_017160	OptDesc/ - 重砲爆破 技能等級 +1
+ETC_20151102_017161	OptDesc/ - 治療 技能等級 +1
+ETC_20151102_017162	OptDesc/ - 淨化 技能等級 +1
+ETC_20151102_017163	OptDesc/ - 安全領域 技能等級 +1
+ETC_20151102_017164	OptDesc/ - 破防領域 技能等級 +1
+ETC_20151102_017165	OptDesc/ - 神聖力量 技能等級 +1
+ETC_20151102_017166	OptDesc/ - 漸隱 技能等級 +1
+ETC_20151102_017167	OptDesc/ - 守護聖域 技能等級 +1
+ETC_20151102_017168	OptDesc/ - 灑水 技能等級 +1
+ETC_20151102_017169	OptDesc/ - 聖體匣 技能等級 +1
+ETC_20151102_017170	OptDesc/ - 祝福 技能等級 +1
+ETC_20151102_017171	OptDesc/ - 聖禮 技能等級 +1
+ETC_20151102_017172	OptDesc/ - 重生 技能等級 +1
+ETC_20151102_017173	OptDesc/ - 群體治療 技能等級 +1
+ETC_20151102_017174	OptDesc/ - 驅邪 技能等級 +1
+ETC_20151102_017175	OptDesc/ - 硬化外皮 技能等級 +1
+ETC_20151102_017176	OptDesc/ - 祭壇 技能等級 +1
+ETC_20151102_017177	OptDesc/ - 暴擊法陣 技能等級 +1
+ETC_20151102_017178	OptDesc/ - 上限突破 技能等級 +1
+ETC_20151102_017179	OptDesc/ - 閃電 技能等級 +1
+ETC_20151102_017180	OptDesc/ - 神聖烙印 技能等級 +1
+ETC_20151102_017181	OptDesc/ - 祈禱 技能等級 +1
+ETC_20151102_017182	OptDesc/ - 詛咒 技能等級 +1
+ETC_20151102_017183	OptDesc/ - 釘草人 技能等級 +1
+ETC_20151102_017184	OptDesc/ - 製造殭屍 技能等級 +1
+ETC_20151102_017185	OptDesc/ - 符咒 技能等級 +1
+ETC_20151102_017186	OptDesc/ - 殭屍牆 技能等級 +1
+ETC_20151102_017187	OptDesc/ - 體力旗幟 技能等級 +1
+ETC_20151102_017188	OptDesc/ - 力量旗幟 技能等級 +1
+ETC_20151102_017189	OptDesc/ - 殭屍炸彈 技能等級 +1
+ETC_20151102_017190	OptDesc/ - 生長術 技能等級 +1
+ETC_20151102_017191	OptDesc/ - 肉食植物 技能等級 +1
+ETC_20151102_017192	OptDesc/ - 防禦植物 技能等級 +1
+ETC_20151102_017193	OptDesc/ - 變換讀入 技能等級 +1
+ETC_20151102_017194	OptDesc/ - 形態變換 技能等級 +1
+ETC_20151102_017195	OptDesc/ - 心靈控制 技能等級 +1
+ETC_20151102_017196	OptDesc/ - 靈魂出竅 技能等級 +1
+ETC_20151102_017197	OptDesc/ - 靈魂爆炸 技能等級 +1
+ETC_20151102_017198	OptDesc/ - 瓦希塔神功 技能等級 +1
+ETC_20151102_017199	OptDesc/ - 支配 技能等級 +1
+ETC_20151102_017200	OptDesc/ - 女神像瓦卡麗涅 技能等級 +1
+ETC_20151102_017201	OptDesc/ - 女神像澤米娜 技能等級 +1
+ETC_20151102_017202	OptDesc/ - 女神像萊瑪 技能等級 +1
+ETC_20151102_017203	OptDesc/ - 雕刻攻擊 技能等級 +1
+ETC_20151102_017204	OptDesc/ - 雕刻猫头鹰 技能等級 +1
+ETC_20151102_017205	OptDesc/ - 雕刻世界樹 技能等級 +1
+ETC_20151102_017206	OptDesc/ - 女神像奧施麗涅 技能等級 +1
+ETC_20151102_017207	OptDesc/ - 秘法能量 技能等級 +1
+ETC_20151102_017208	OptDesc/ - 轉換 技能等級 +1
+ETC_20151102_017209	OptDesc/ - 反擊咒語 技能等級 +1
+ETC_20151102_017210	OptDesc/ - 預知 技能等級 +1
+ETC_20151102_017211	OptDesc/ - 預言 技能等級 +1
+ETC_20151102_017212	OptDesc/ - 鐵布衫 技能等級 +1
+ETC_20151102_017213	OptDesc/ - 雙鎖功 技能等級 +1
+ETC_20151102_017214	OptDesc/ - 鐵砂掌 技能等級 +1
+ETC_20151102_017215	OptDesc/ - 觀音掌 技能等級 +1
+ETC_20151102_017216	OptDesc/ - 陽光手 技能等級 +1
+ETC_20151102_017217	OptDesc/ - 寸勁 技能等級 +1
+ETC_20151102_017218	OptDesc/ - 彈指神通 技能等級 +1
+ETC_20151102_017219	OptDesc/ - 金鐘罩 技能等級 +1
+ETC_20151102_017220	OptDesc/ - 販賣聖事 技能等級 +1
+ETC_20151102_017221	OptDesc/ - 赦罪符 技能等級 +1
+ETC_20151102_017222	OptDesc/ - 偵測邪惡 技能等級 +1
+ETC_20151102_017223	OptDesc/ - 魔防增加 技能等級 +1
+ETC_20151102_017224	OptDesc/ - 祭品供奉 技能等級 +1
+ETC_20151102_017225	OptDesc/ - 懲擊 技能等級 +1
+ETC_20151102_017226	OptDesc/ - 恢復 技能等級 +1
+ETC_20151102_017227	OptDesc/ - 元素抗性 技能等級 +1
+ETC_20151102_017228	OptDesc/ - 轉生術 技能等級 +1
+ETC_20151102_017229	OptDesc/ - 皈依 技能等級 +1
+ETC_20151102_017230	OptDesc/ - 障壁 技能等級 +1
+ETC_20151102_017231	OptDesc/ - 定罪 技能等級 +1
+ETC_20151102_017232	업적포인트 설정
+ETC_20151102_017233	업적 ClassName
+ETC_20151102_017234	나이정보를 확인 중 오류가 발생하였습니다. 잠시후 다시 로그인하여 주십시오.
+ETC_20151102_017235	실명인증을 받지 않은 회원이거나 넥슨닷컴 회원이 아닙니다.
+ETC_20151102_017236	셧다운제에 의해 게임이용이 차단됩니다.
+ETC_20151102_017237	선택적 셧다운제에 의해 게임이용이 차단됩니다.
+ETC_20151102_017238	게임이용이 차단됩니다.
+ETC_20151102_017239	PC방 프리미엄 적용 PC방이 아닙니다. PC방 관리자분께 문의 바랍니다.
+ETC_20151102_017240	IP당 허용 접속자 수가 초과 되었습니다. 이용중인 PC방 담당자에게 문의해 주시기 바랍니다.
+ETC_20151102_017241	ID당 허용 접속자 수가 초과 되었습니다. 이용중인 PC방 담당자에게 문의해 주시기바랍니다.
+ETC_20151102_017242	접속이 차단된 PC입니다. 넥슨 PC방 고객센터로 문의바랍니다.
+ETC_20151102_017243	PC방 사용자가 급증하여 프리미엄 적용이 일시적으로 실패하였습니다. PC방인 경우 다시 접속해 주세요.
+ETC_20151102_017244	접속이 차단되었습니다.
+ETC_20151102_017245	넥슨 PC방 정량제 시간이 만료되어 게임이 종료 됩니다. 이용중인 PC방 담당자에게 문의해 주시기 바랍니다.
+ETC_20151102_017246	{Price}NXPConsumedToHire{Minute}Continue?
+ETC_20151102_017247	{Time}까지 채팅이 금지 되었습니다.
+ETC_20151102_017248	{Time}까지 거래가 금지 되었습니다.
+ETC_20151102_017249	손상된 ipf파일이 발견되었습니다. 클라이언트를 종료합니다.
+ETC_20151102_017250	선택하신 장비에는 해당 젬을 사용할 수 없습니다. 
+ETC_20151102_017251	강화 할 수 없는 젬입니다.
+ETC_20151102_017252	여신상을 보수하는 중
+ETC_20151102_017253	나모트 문양이 새겨진 조각을 얻었습니다!
+ETC_20151102_017254	이미 확인한 흔적입니다
+ETC_20151102_017255	불타버린 쪽지를 확인했습니다{nl}불에탄지 며칠은 지난 것 같습니다
+ETC_20151102_017256	꺼진 모닥불을 확인했습니다{nl}누군가 급하게 불을 끈 흔적이 보입니다
+ETC_20151102_017257	주인없는 가방을 확인했습니다{nl}필요한 것만 챙겨서 급하게 떠난 것 같습니다
+ETC_20151102_017258	불길한 마법진을 해제했습니다
+ETC_20151102_017259	추적자들의 주머니를 획득했습니다
+ETC_20151102_017260	잘리
+ETC_20151102_017261	사제들의 흔적
+ETC_20151102_017262	저주 토템의 기운이 약화되었습니다!
+ETC_20151102_017263	저주 토템 주변에서 마족을 처치해야합니다!
+ETC_20151102_017264	사용해 보는 중
+ETC_20151102_017265	마족 꾸러미를 사용하자 주변 마족들이 밀려났습니다
+ETC_20151102_017266	마족 꾸러미를 사용하자 주변 마족들에게 피해를 입혔습니다
+ETC_20151102_017267	마족 꾸러미를 사용하자 HP가 약간 차오르는 게 느껴집니다
+ETC_20151102_017268	이미 인도 중인 이주민이 있습니다.
+ETC_20151102_017269	여신상 보수하기[딥디르비 전직](2) 퀘스트를 진행하려면
+ETC_20151102_017270	사라진 주교(2) 퀘스트를 포기 혹은 완료 후에 다시 시도하세요
+ETC_20151102_017271	여신상에 경배 했습니다
+ETC_20151102_017272	정화의 나모트 세우는 중
+ETC_20151102_017273	정화의 나모트를 세우자 마기가 약해진 것 같습니다
+ETC_20151102_017274	이미 정화의 나모트를 세워둔 장소입니다!
+ETC_20151102_017275	몬스터와의 거리가 너무 가깝습니다!{nl}거리를 더 벌리세요
+ETC_20151102_017276	조언을 구하는 중
+ETC_20151102_017277	냉기의 마법서 사용 중
+ETC_20151102_017278	염력 스크롤 사용 중
+ETC_20151102_017279	아직 염력 스크롤의 영향을 받고 있어 사용할 수 없는 대상입니다
+ETC_20151102_017280	몬스터의 연결점을 찾았습니다
+ETC_20151102_017281	이미 헌터의 시험증표를 얻은 상자 입니다
+ETC_20151102_017282	마법서 읽는 중
+ETC_20151102_017283	이미 읽은 마법서 입니다
+ETC_20151102_017284	응축된 화염석 사용 중
+ETC_20151102_017285	마력제어 감지구 사용 중
+ETC_20151102_017286	무고사의 항아리 사용 중
+ETC_20151102_017287	기록하는 중
+ETC_20151102_017288	이미 기록한 지역 입니다
+ETC_20151102_017289	현재 지역의 상황을 기록했습니다
+ETC_20151102_017290	마력 응집구를 확인 마법진 안에 정확하게 이동시켰습니다
+ETC_20151102_017291	마력 응집구가 마력 분해 기둥에 접근하여 처음 위치로 돌아갑니다!
+ETC_20151102_017292	마력 응집구가 너무 멀어져서 처음 위치로 돌아갑니다
+ETC_20151102_017293	마족을 처치하기 전엔 토템을 파괴할 수 없습니다
+ETC_20151102_017294	식량 바구니 뒤지는 중
+ETC_20151102_017295	육포를 숨긴 바구니를 찾았습니다!{nl}붉은 물을 뿌려서 육포를 오염시키세요!
+ETC_20151102_017296	위다스의 조각상을 세웠습니다
+ETC_20151102_017297	위다스의 조각상을 세우자 패릿들이 더 난폭해졌습니다
+ETC_20151102_017298	몽롱초를 채집했습니다
+ETC_20151102_017299	묘목 아래에서 여신의 보주가 나타났습니다!
+ETC_20151102_017300	페릿이 주술 걸린 나무토막을 공격했습니다!
+ETC_20151102_017301	향을 피우자 지독한 냄새가 퍼집니다
+ETC_20151102_017302	구속구를 파괴하는 중
+ETC_20151102_017303	구속구에 사로잡혀있던 약간의 힘이 라다 여신에게 돌아갔습니다
+ETC_20151102_017304	생명력 흡수 장치가 폭발합니다!
+ETC_20151102_017305	주변의 몬스터를 처치한 뒤에 사용하세요!
+ETC_20151102_017306	대지의 씨앗이 꽃을 피울 때까지 씨앗을 지키세요
+ETC_20151102_017307	여기에는 소녀가 없는 것 같습니다
+ETC_20151102_017308	다시 영혼 - 공격력 버프를 얻기 위해서는 시간이 필요합니다
+ETC_20151102_017309	오늘의 보상을 습득했습니다
+ETC_20151102_017310	활성화된 수호상을 막기 위해 중앙지역에 몬스터들이 나타났습니다
+ETC_20151102_017311	뭔가 덩굴을 보호하고 있어서 태울 수 없습니다
+ETC_20151102_017312	뭔가 봉인서를 보호하고 있어서 태울 수 없습니다
+ETC_20151102_017313	봉인된 영체에서 주술 인형이 튀어나왔습니다{nl}주술 인형이 주위 몬스터에게 저주를 내려 방어력이 하락합니다!
+ETC_20151102_017314	뼈더미에 원혼이 가득 찼습니다
+ETC_20151102_017315	지금은 원혼이 뼈더미에 반응하지 않습니다
+ETC_20151102_017316	원혼에 반응한 마족 무리가 계단 위에서 나타났습니다
+ETC_20151102_017317	출입 장치 작동 중
+ETC_20151102_017318	출입 장치가 당신을 출입을 허락했습니다{nl}이제 마족의 상자를 열 수 있습니다
+ETC_20151102_017319	이미 출입했던 대상입니다
+ETC_20151102_017320	출입 장치가 출입을 허락한 동안만 상자를 열 수 있습니다
+ETC_20151102_017321	상자에서 마족이 튀어나왔습니다
+ETC_20151102_017322	비어있는 상자입니다
+ETC_20151102_017323	창고 지역 출입 장치가 작동합니다
+ETC_20151102_017324	관 파괴하는 중
+ETC_20151102_017325	검은 영혼을 태우자 공격력이 증가합니다
+ETC_20151102_017326	이미 영혼 - 공격력 버프를 받고 있습니다
+ETC_20151102_017327	영혼 - 공격력 버프가 사라집니다
+ETC_20151102_017328	주술 인형이 파괴되었습니다!
+ETC_20151102_017329	출입 장치가 작동하고 있지 않습니다
+ETC_20151102_017330	이미 보상을 받았습니다
+ETC_20151102_017331	불타는 결정을 한 개 소비합니다
+ETC_20151102_017332	불타는 결정을 다섯 개 소비합니다
+ETC_20151102_017333	붉은 원혼을 주입했습니다
+ETC_20151102_017334	푸른 원혼을 주입했습니다
+ETC_20151102_017335	더 이상 상자를 열 수 없습니다
+ETC_20151102_017336	초록 인프로홀더의 알 수집 중
+ETC_20151102_017337	초록 인프로홀더을 획득했습니다!
+ETC_20151102_017338	라쉬야 이거 마셔봐
+ETC_20151102_017339	라쉬가 행상인을 찾았습니다
+ETC_20151102_017340	라쉬가 행상인의 체취를 맡았습니다
+ETC_20151102_017341	제법이군요!
+ETC_20151102_017342	좋아요, 거기까지!
+ETC_20151102_017343	갑옷을 찾는 중
+ETC_20151102_017344	정체불명의 물건의 붉은 빛이 몬스터를 가르킵니다
+ETC_20151102_017345	원판에 아무 반응이 없습니다
+ETC_20151102_017346	겁에질린 마을주민
+ETC_20151102_017347	정체를 알 수 없는 진동이 발생합니다
+ETC_20151102_017348	조사하는 중
+ETC_20151102_017349	아무 일도 일어나지 않습니다
+ETC_20151102_017350	몬스터들이 몰려듭니다
+ETC_20151102_017351	공물이 부족합니다
+ETC_20151102_017352	조사하려면 인근의 몬스터를 모두 해치워야 합니다
+ETC_20151102_017353	누가 좀 도와주세요! 히드라가 나타났어요! 사람을 공격하려고 해요!
+ETC_20151102_017354	히드라라니, 서둘러서 가봅시다!
+ETC_20151102_017355	실험피해자의 배낭을 찾았습니다
+ETC_20151102_017356	실험피해자의 배낭을 찾지 못했습니다
+ETC_20151102_017357	반지를 발견했습니다
+ETC_20151102_017358	팔찌를 발견했습니다
+ETC_20151102_017359	목걸이를 발견했습니다
+ETC_20151102_017360	글자가 적힌 천을 발견했습니다
+ETC_20151102_017361	성물을 회수했습니다
+ETC_20151102_017362	성물이 회수 중에 파괴됐습니다
+ETC_20151102_017363	성물 설치 중
+ETC_20151102_017364	성물 설치했습니다
+ETC_20151102_017365	고사리 포자 가루에 중독됐습니다
+ETC_20151102_017366	이곳엔 에드문다스가 없습니다{nl}다른 곳을 찾아보세요
+ETC_20151102_017367	에드문다스로 보이는 남자가 잡혀있습니다
+ETC_20151102_017368	에드문다스를 찾았습니다.{nl}로제에게 돌아가 이 사실을 알려주세요
+ETC_20151102_017369	정지시키기
+ETC_20151102_017370	아티팩트 탐색 중
+ETC_20151102_017371	아티팩트를 발견했습니다!
+ETC_20151102_017372	이 주변에 아티팩트는 없는 것 같습니다
+ETC_20151102_017373	아티팩트의 주문을 해제하는 중
+ETC_20151102_017374	주문이 사라졌습니다!
+ETC_20151102_017375	마력담긴 수정구를 설치하는 중
+ETC_20151102_017376	검은 보석을 건넨다
+ETC_20151102_017377	결정을 건넨다
+ETC_20151102_017378	이건 효과가 없네요
+ETC_20151102_017379	이겁니다!
+ETC_20151102_017380	보호막 받는 중
+ETC_20151102_017381	보호막을 받았습니다
+ETC_20151102_017382	마법 수정 제거 중
+ETC_20151102_017383	마법 수정을 제거했습니다
+ETC_20151102_017384	보호막이 필요합니다
+ETC_20151102_017385	의문의 마법사가 작성한{nl}실험 일지를 발견했습니다.
+ETC_20151102_017386	보호 결계 수정 설치 중
+ETC_20151102_017387	보호 결계 수정을 설치했습니다
+ETC_20151102_017388	나모트 성수를 마셨습니다{nl}당분간 마족들에게 보이지 않습니다!
+ETC_20151102_017389	나모트 문양
+ETC_20151102_017390	[위저드 서브 마스터]{nl}데어미스
+ETC_20151102_017391	[파이로맨서 서브 마스터]{nl}캐시 나이머스 
+ETC_20151102_017392	[크리오맨서 서브 마스터]{nl}옥타비아 이프린
+ETC_20151102_017393	[사이코키노 마스터]{nl}일리 테리드
+ETC_20151102_017394	[링커 마스터]{nl}위노나 엔데
+ETC_20151102_017395	[쏘마터지 서브 마스터]{nl}디머 팔론
+ETC_20151102_017396	[엘리멘탈리스트 마스터]{nl}위칸 셀레스틱
+ETC_20151102_017397	[아처 서브 마스터]{nl}거니슨
+ETC_20151102_017398	[레인저 서브 마스터]{nl}쉬바
+ETC_20151102_017399	[쿼렐슈터 서브 마스터]{nl}쇼리스
+ETC_20151102_017400	[새퍼 서브 마스터]{nl}주빈 케타르
+ETC_20151102_017401	[헌터 서브 마스터]{nl}발킨 브론
+ETC_20151102_017402	[무고사 마스터]{nl}워 팻
+ETC_20151102_017403	[스카우트 서브 마스터]{nl}쉬나
+ETC_20151102_017404	실험 피해자(1)
+ETC_20151102_017405	실험 피해자(2)
+ETC_20151102_017406	XX 마을 주민(1)
+ETC_20151102_017407	XX 마을 주민(2)
+ETC_20151102_017408	XX 마을 주민(3)
+ETC_20151102_017409	XX 마을 주민(4)
+ETC_20151102_017410	XX 마을 주민(5)
+ETC_20151102_017411	XX 마을 주민(6)
+ETC_20151102_017412	실험피해자
+ETC_20151102_017413	마족의 실험 도구
+ETC_20151102_017414	5지역 저주 토템
+ETC_20151102_017415	2지역 저주 토템
+ETC_20151102_017416	3지역 저주 토템
+ETC_20151102_017417	4지역 저주 토템
+ETC_20151102_017418	저주 토템 조각
+ETC_20151102_017419	숨겨진 방 입구
+ETC_20151102_017420	4지역 감시 토템
+ETC_20151102_017421	5지역 감시 토템
+ETC_20151102_017422	은거지
+ETC_20151102_017423	드라즈니에의 함정
+ETC_20151102_017424	2구역 저주 토템
+ETC_20151102_017425	1구역 저주 토템
+ETC_20151102_017426	행방불명된 사제의 물품
+ETC_20151102_017427	라쉬
+ETC_20151102_017428	단단한 석재
+ETC_20151102_017429	마력공급장치
+ETC_20151102_017430	헌터 시험용 상자
+ETC_20151102_017431	캐슬던전 67_1
+ETC_20151102_017432	연안 요새
+ETC_20151102_017433	나모트 제단
+ETC_20151102_017434	나모트 제단 자리
+ETC_20151102_017435	구속구
+ETC_20151102_017436	빛나는 묘목
+ETC_20151102_017437	주교 우르보나스의 쪽지
+ETC_20151102_017438	꺼진 모닥불
+ETC_20151102_017439	주인없는 가방
+ETC_20151102_017440	불타버린 쪽지
+ETC_20151102_017441	불길한 마법진
+ETC_20151102_017442	나모트 결계
+ETC_20151102_017443	판토들로부터 나모트 결계를 지켜냈습니다.{nl}다음 장소로 이동하세요!
+ETC_20151102_017444	IES오브젝트를 생성하는데 실패하였습니다.
