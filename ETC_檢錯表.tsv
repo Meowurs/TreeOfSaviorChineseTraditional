@@ -24,6 +24,7 @@ ETC_20150317_001603	裝備的 {Auto_1} 已損毀
 ETC_20150317_001661	在轉職前你必須用完所有的技能點數。
 ETC_20150317_001703	{memo X}{s18}{ol}如果武器、手環、項鍊強化超過了等級 {#ffffcc}+{Auto_1} 時失敗，將會消耗它的潛力值，當潛力值低於0， 這件道具會被破壞，你真的想要強化？
 ETC_20150317_001762	不能在這個類型的物品上使用
+ETC_20150317_001838	讓我們點起篝火？
 ETC_20150317_001908	(攻擊抗性)
 ETC_20150317_001913	下一個等級需要同職業。
 ETC_20150317_001974	物品稀有度
@@ -90,6 +91,7 @@ ETC_20150317_006025	女神雕像
 ETC_20150317_006038	你可以按 ({img questinfo_return 40 40}) 立即返回到任務NPC身旁
 ETC_20150317_006040	{memo X}退位鍵
 ETC_20150317_006076	套組
+ETC_20150317_006135	點起篝火
 ETC_20150317_006187	一種可以在地牢中找到的寶石. {nl}它裝備在道具插槽中可以強化裝備. {nl}右鍵可將其裝備在選擇的道具中，它可以產生更大的力量
 ETC_20150317_006187	一種可以在地牢中找到的寶石。 {nl} 可以裝備在插槽中來強化裝備。 {nl} 蓄能後寶石將發揮更強大的力量。 右鍵將寶石嵌入在選擇的裝備中。
 ETC_20150317_006251	使用長槍的重裝步兵的攻擊距離很遠，對中型級以上的魔物有額外傷害。
@@ -160,6 +162,20 @@ ETC_20150317_009188	[烈焰術士 導師]{nl}　 雅勃 梅林
 ETC_20150406_010736	皮製包
 ETC_20150414_011197	不能在這裡設置基地。
 ETC_20150428_011315	{s18}{#001100}使用返回按鈕傳送回 NPC 身旁來完成任務。{/}
+ETC_20150428_011436	FAQ：小屋{nl}1) 你可以點擊「小屋設定」來更改小屋名稱。{nl}2) 點擊「小屋裝修」就可以用 iCoin 購買小屋主題。{nl}3) 從小屋畫面中選擇你想進入的分流。
+ETC_20150428_011437	FAQ：角色 HP, SP, STA {nl}1) 你可以在螢幕左方檢查你的角色資訊。{nl}2) STA: 耐力，當你的 STA 為 0，你就只能走路而不能跑步。{nl}學習某些特性時也會消耗 STA。{nl}可以破壞 樹根水晶 或使用 耐力藥丸 來回復 STA。{nl}耐力藥丸可以從商店購買、任務報酬中取得或是擊敗 BOSS 級魔物。
+ETC_20150428_011438	FAQ：角色等級和職業等級{nl}1) 你可以在螢幕下方看到。{nl}2) 角色等級: 就是指你目前角色的等級。{nl}3) 職業等級: 指你目前職業的等級。{nl}當你達到15級，你可以進階到另外一個職業。
+ETC_20150428_011439	FAQ：快捷欄{nl}1) 你可以新增物品和技能到螢幕下方的快捷欄。{nl}2) 當你學習了新的技能，同時也會自動新增到快捷欄。{nl}3) 你可以設定最多 40 個快捷欄。{nl}4) 快捷欄可以被鎖定或解鎖。{nl}快捷欄鎖定後，你無法移除上面的道具或技能。
+ETC_20150428_011440	FAQ：切換分流{nl}1) 你可以在小地圖上方的列表中切換分流。 {nl}2) 進入遊戲前，你可以在小屋內切換分流。
+ETC_20150428_011441	FAQ : Rest Mode{nl}1) Press the INSERT key to switch to Rest Mode. {nl}2) HP, SP, STA will be restored. {nl}3) You can light up a bonfire, craft items, enhance gems or combine cards in Rest Mode.{nl} You need "Firewood" to create a bonfire. {nl} HP, SP, STA is restored quicker when you use a bonfire.{nl}4) Other functions will be added in the near future.
+ETC_20150428_011441	FAQ：休息模式{nl}1) 使用 INSERT 鍵切換到休息模式。{nl}2) HP、SP、STA 會自動回復。{nl}3) 你可以在休息模式 點起篝火, 製作道具, 強化寶石, 合成卡片{nl} 你必須要用 "柴火" 來點起篝火. {nl}使用了篝火後 HP、SP、STA 的恢復速度增加。{nl}未來還會增加其他功能。
+ETC_20150428_011444	FAQ：特性{nl}1) 你可以向職業導師學習特性。{nl}2) 根據你的職業能學習到各式各樣的特性。{nl} 比如說你進階到 高地站是，你就可以向 高地戰士 導師 學習 雙手劍 特性，進而使用雙手劍武器。{nl}3) 導師們散佈在大陸的各個角落。
+ETC_20150428_011445	FAQ：詠唱技能{nl}1) 按住技能對應的快捷鍵來發動詠唱技能。{nl}2) 詠唱技能會在你被攻擊的時候中斷。
+ETC_20150428_011446	FAQ：系統選單{nl}1) 你可以切換到「手把模式」使用手把操作遊戲。{nl}2) 如果你的電腦配備不高，你可以嘗試使用「低配模式」。
+ETC_20150428_011447	FAQ : 聊天{nl}1) 廣播：在你想要輸入的文字前輸入 "/y" 可以讓所有玩家看到。{nl} 不過這會消耗「擴音器」。{nl}2) 組隊聊天：在你想要輸入的文字前面輸入 "/p" 可以與你的隊友聊天。 {nl}悄悄話：在你想要輸入的文字前面輸入 "/w 小屋名稱" 可以與該玩家進行悄悄話
+ETC_20150428_011448	FAQ : 背包重量{nl}1) 顯示你可以隨身攜帶的物品重量。{nl}2) 每升級一點體質都可增加 5 點負重。{nl}3) 如果超重，無論你的STA有多少，你都會走的非常緩慢。
+ETC_20150717_013498	FAQ : Enhancement{nl}1) Weapons and armors can be enhanced using the anvil item. {nl}2) You can buy anvils from the Tools Merchant in any town. {nl}3) Silver is required for enhancing items.{nl}4) The enhancement of weapons and armor have a 100% success rate till +5 and +3 respectively. The chance of failure after the next enhancement will increase.{nl} If an enhancement fails, your enhancement level will reset and the Potential of your item decreases.
+ETC_20150717_013498	FAQ：強化{nl}1) 武器和盔甲可以用鐵砧強化。{nl}2) 你可以向道具商人買鐵砧。{nl}3) 每次強化道具都需要銀幣。{nl}4)武器和裝甲的強化有100%的成功率，分別為+5和+3。下一次強化後失敗的機會會增加。{nl} 如果強化失敗，強化會被重置、潛力值會降低。
 
 #------已完成上面檢錯修正，不過圖紙部分沒有更動，若要更動就要一併更新對照表的武器對應名稱 by Trey-------#
 
