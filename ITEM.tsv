@@ -3,8 +3,8 @@ ITEM_20150317_000002	姆爾米洛頭盔
 ITEM_20150317_000003	空_護腕 
 ITEM_20150317_000004	紅護腕 
 ITEM_20150317_000005	護腕 
-ITEM_20150317_000006	打結的護腕 
-ITEM_20150317_000007	長護腕 
+ITEM_20150317_000006	扭結護腕 
+ITEM_20150317_000007	長筒護腕
 ITEM_20150317_000008	羽毛護腕 
 ITEM_20150317_000009	纓旒護腕 
 ITEM_20150317_000010	空_武器 
@@ -13,9 +13,9 @@ ITEM_20150317_000012	單手劍[斬擊]
 ITEM_20150317_000013	一種帝國士兵普遍攜帶和使用的武器. 
 ITEM_20150317_000014	短劍 
 ITEM_20150317_000015	這種製作出的武器比軍用版更有改進空間. 
-ITEM_20150317_000016	矮刀 
-ITEM_20150317_000017	這是一把異常鋒利的刀. 
-ITEM_20150317_000018	低等卡斯卡拉(Kaskara) 
+ITEM_20150317_000016	{memo X}矮刀 
+ITEM_20150317_000017	這是一把鋒利非凡的刀. 
+ITEM_20150317_000018	{memo X}低等卡斯卡拉(Kaskara) 
 ITEM_20150317_000019	由於製造簡易, 這把劍經常是冒險者替代訓練用劍的第一選擇. 
 ITEM_20150317_000020	五指劍 
 ITEM_20150317_000021	推薦給那些渴望使用更重更強劍的人. 
@@ -58,10 +58,10 @@ ITEM_20150317_000057	賽義夫彎刀
 ITEM_20150317_000058	細身劍 
 ITEM_20150317_000059	印度軍刀 
 ITEM_20150317_000060	刺刀 
-ITEM_20150317_000061	Demion 長劍 
+ITEM_20150317_000061	德米翁彎刃劍 
 ITEM_20150317_000062	主宰之劍 
-ITEM_20150317_000063	Panto 長劍 
-ITEM_20150317_000064	Panto製作的粗糙短劍, 你可以做一個更好的. 
+ITEM_20150317_000063	失語者長劍 
+ITEM_20150317_000064	失語者製作的粗糙短劍, 你可以做一個更好的. 
 ITEM_20150317_000065	弗洛納斯佩劍(Flonas) 
 ITEM_20150317_000066	有人說這把劍釋放了植物對動物的怨氣. 
 ITEM_20150317_000067	黃金彎刀 
@@ -82,8 +82,8 @@ ITEM_20150317_000081	密斯卡斯佩劍(Miskas)
 ITEM_20150317_000082	這把劍會讓你的劍速更快. 
 ITEM_20150317_000083	軸心之劍 
 ITEM_20150317_000084	退休的冒險者往往會跟你述說第一次握起這把劍時心中的激動. 
-ITEM_20150317_000085	Gritas 
-ITEM_20150317_000086	A sword used by valiant adventurers. Ironically, it is often found on strong monsters. A person who obtains this sword is unknowingly exacting revenge for its previous owner. 
+ITEM_20150317_000085	怨嚎 
+ITEM_20150317_000086	總是英勇的冒險者所持有, 諷刺的是總是在強大的怪物身上發現這把劍, 往往得到這把劍的主人會為前一位主人報仇. 
 ITEM_20150317_000087	羅馬劍 
 ITEM_20150317_000088	一個加長劍長度的改進型短劍. 
 ITEM_20150317_000089	阿拉斯彎刀 
@@ -265,7 +265,7 @@ ITEM_20150317_000264	瓦夏魔杖
 ITEM_20150317_000265	儘管祭司們不滿製造它的精神, 但巫師們並不在意這種事情. 
 ITEM_20150317_000266	魔杖 
 ITEM_20150317_000267	入門法師們易操作的簡單增魔武器. 
-ITEM_20150317_000268	Grinas 魔杖 
+ITEM_20150317_000268	純潔 魔杖 
 ITEM_20150317_000269	植物災變後暴增的惡魔太高了這把武器本來不菲的價格. 
 ITEM_20150317_000270	克米奈斯魔杖 
 ITEM_20150317_000271	儘管與另一把武器名字相近, 但這把武器與Winterspoon家族沒有直接關係. 
@@ -382,7 +382,7 @@ ITEM_20150317_000381	如果沒有其他弓可以購買, 可以先買著這把弓
 ITEM_20150317_000382	克萊維斯之弓(Klavis) 
 ITEM_20150317_000383	除去常規魔法弓之用, 會有意料之外的作用. 
 ITEM_20150317_000384	迪奧之弓(Dio) 
-ITEM_20150317_000385	Tresh 弓 
+ITEM_20150317_000385	多重 弓 
 ITEM_20150317_000386	賽絲托 弓 
 ITEM_20150317_000387	卓瑞特之弓 
 ITEM_20150317_000388	亞斯頓之弓(Aston) 
@@ -441,7 +441,7 @@ ITEM_20150317_000440	勁弩(Arbalest)
 ITEM_20150317_000441	佩帝米安精弓
 ITEM_20150317_000442	步槍 
 ITEM_20150317_000443	黑尖弓 
-ITEM_20150317_000444	尖十字弩(Spike) 
+ITEM_20150317_000444	尖十字弩(S長槍) 
 ITEM_20150317_000445	風空(Windless) 
 ITEM_20150317_000446	重型的 十字弓 
 ITEM_20150317_000447	看似很重的弓, 拿起來使用就感到必須有個法術加持才如虎添翼. 
@@ -465,7 +465,7 @@ ITEM_20150317_000464	鐵匠十字弓
 ITEM_20150317_000465	每次扣動扳機都期望它能打出預想的傷害. 
 ITEM_20150317_000466	克萊維斯十字弓(Klavis) 
 ITEM_20150317_000467	你可能是第一個描繪出這把弓潛能的人. 
-ITEM_20150317_000468	Tresh 弩 
+ITEM_20150317_000468	多重 弩 
 ITEM_20150317_000469	賽絲托 弩 
 ITEM_20150317_000470	卓瑞特之十字弓 
 ITEM_20150317_000471	亞斯頓之十字弓(Aston) 
@@ -652,7 +652,7 @@ ITEM_20150317_000651	甲蟲之背(Beetleback)
 ITEM_20150317_000652	這種盾牌的圖紙最近才被發現. 但巨植災變後它不太可能被打造出來了. 
 ITEM_20150317_000653	流星(隕石) 
 ITEM_20150317_000654	被擊中時有 1% 的概率在5秒內恢復 200 HP 
-ITEM_20150317_000655	賢者之墻(Sage Wall) 
+ITEM_20150317_000655	聖人之牆(Sage Wall) 
 ITEM_20150317_000656	有記載說Mayburn去世界探險之前, 在大教堂就用的這種盾牌. 
 ITEM_20150317_000657	熾天覆地之盾(Aias) 
 ITEM_20150317_000658	傳說Ruklyss從惡魔之王手中奪到圖紙後, 自己鍛造並使用著它. 
@@ -822,7 +822,7 @@ ITEM_20150317_000821	左手匕首
 ITEM_20150317_000822	作為副武器來說並不比盾牌差, 不僅可以用來招架, 還能撩開敵人武器. 
 ITEM_20150317_000823	這是一把兩側開刃的匕首, 由高地人使用的小刀延長髮展出的形態. 
 ITEM_20150317_000824	專為左手使用而定制的匕首, 可以用於防禦對方的劍技, 為了符合左手握持而將劍柄反轉. 
-ITEM_20150317_000825	Chula 
+ITEM_20150317_000825	截擊短刃 
 ITEM_20150317_000826	強化劍尖的單刃匕首, 專為刺擊設計. 
 ITEM_20150317_000827	佩斯卡尖刀（Persqabz） 
 ITEM_20150317_000828	極為鋒利的單刃匕首, 刀身呈s形, 刀柄沉重；看得出是精心打造的武器. 
@@ -877,17 +877,17 @@ ITEM_20150317_000876	寒冰術士大師說此魔杖是在某個高原的祕密�
 ITEM_20150317_000877	卡魯斯托魔杖 
 ITEM_20150317_000878	根據傳言, 此武器的配方公開之後, 時空術士大師感到非常的失望. 
 ITEM_20150317_000879	預言魔杖 
-ITEM_20150317_000880	Despite all attempts by the purchaser or the crafter to hide its production, the 烈焰術士 Master can sense when this 魔杖 is crafted.  
+ITEM_20150317_000880	烈焰大師感覺的到這把長杖是被製作出來的, 儘管工匠及買家打算隱瞞.  
 ITEM_20150317_000881	軸心魔杖 
-ITEM_20150317_000882	This is a proof that even ordinary ingredients can result in good equipment, if used appropriately. 
-ITEM_20150317_000883	Welsh 魔杖 
+ITEM_20150317_000882	這證明了儘管材料普通只要作法得當就會是個好的裝備. 
+ITEM_20150317_000883	威爾士魔杖 
 ITEM_20150317_000884	Although Black Market members are proficient weapon crafters, this 魔杖 is a fairly recent success in crafting a new weapon since the Imperni 魔杖. 
 ITEM_20150317_000885	魔樹魔杖
-ITEM_20150317_000886	There are wizards who prefer vast magical STA rather than magical power. 
+ITEM_20150317_000886	有哪個巫師喜歡龐大的耐力多過威力的呢. 
 ITEM_20150317_000887	鐵匠魔杖 
 ITEM_20150317_000888	This weapon shows that there are many ways to imbue magic into a weapon. 
 ITEM_20150317_000889	克萊維斯魔杖 
-ITEM_20150317_000890	No one has become famous yet using this weapon. Hopefully you will be the first one. 
+ITEM_20150317_000890	沒人使用這種武器成名, 希望你是第一個. 
 ITEM_20150317_000891	迪奧魔杖 
 ITEM_20150317_000892	多重 魔杖 
 ITEM_20150317_000893	賽絲托 魔杖 
@@ -1064,8 +1064,8 @@ ITEM_20150317_001063	Heavy 夾棉 褲子
 ITEM_20150317_001064	Heavy 夾棉 護甲 
 ITEM_20150317_001065	瓦布 褲子 
 ITEM_20150317_001066	瓦布 護甲 
-ITEM_20150317_001067	Panto 褲子 
-ITEM_20150317_001068	Panto 護甲 
+ITEM_20150317_001067	失語者 褲子 
+ITEM_20150317_001068	失語者 護甲 
 ITEM_20150317_001069	寺僧 手套 
 ITEM_20150317_001070	{memo X}算不上堅固的盔甲, 但穿起來輕便舒適. 
 ITEM_20150317_001071	寺僧 靴子 
@@ -1291,7 +1291,7 @@ ITEM_20150317_001290	HP 項鏈
 ITEM_20150317_001291	項鏈 
 ITEM_20150317_001292	SP 項鏈 
 ITEM_20150317_001293	STA 項鏈 
-ITEM_20150317_001294	Panto 項鏈 
+ITEM_20150317_001294	失語者 項鏈 
 ITEM_20150317_001295	骨頭 項鏈 
 ITEM_20150317_001296	Hogma 皮甲 項鏈 
 ITEM_20150317_001297	奇異魅力
@@ -1331,8 +1331,8 @@ ITEM_20150317_001330	項鏈 of Fury
 ITEM_20150317_001331	項鏈 of Deceit 
 ITEM_20150317_001332	String 項鏈 
 ITEM_20150317_001333	According to legend; after learning its secret 圖紙, Lydia Schaffen used to wear this necklace to polish her skills during her initial period as a poor apprentice. 
-ITEM_20150317_001334	Panto 護身符 
-ITEM_20150317_001335	It is said that a human wizard gave the 圖紙 for this necklace to the Pantos a long time ago as a gift when the Pantos and humankind were not hostile to one another. 
+ITEM_20150317_001334	失語者 護身符 
+ITEM_20150317_001335	It is said that a human wizard gave the 圖紙 for this necklace to the 失語者s a long time ago as a gift when the 失語者s and humankind were not hostile to one another. 
 ITEM_20150317_001336	Pyrlight 綴飾 
 ITEM_20150317_001337	Used to be awarded by the 烈焰術士 Master to beginners. This tradition ceased after the Goddesses disappeared. 
 ITEM_20150317_001338	Cryolight 綴飾 
@@ -2128,8 +2128,8 @@ ITEM_20150317_002127	水晶蜘蛛 Feelers
 ITEM_20150317_002128	Slim, black feelers. Obtained from 水晶蜘蛛s. 
 ITEM_20150317_002129	Yekubite Feeler 
 ITEM_20150317_002130	Thin and sharp feelers. Obtained from Yekubites. 
-ITEM_20150317_002131	Panto 的角
-ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. Obtained from Pantos. 
+ITEM_20150317_002131	失語者 的角
+ITEM_20150317_002132	It can be used to craft many tools thanks to its hardness. Obtained from 失語者s. 
 ITEM_20150317_002133	Zignuts 的莖 
 ITEM_20150317_002134	The stem can be processed into fabric. Not suitable for eating. Obtained from Zignuts. 
 ITEM_20150317_002135	Butterfly Wing 
@@ -2282,17 +2282,17 @@ ITEM_20150317_002281	瓦布 Hood
 ITEM_20150317_002282	According to a theory, 瓦布 wear these to look fancy. Obtained from 瓦布 Mages and 瓦布 Shamans. 
 ITEM_20150317_002283	Dandel Wing 
 ITEM_20150317_002284	Looks similar to a bat wing, but is actually a plant stem. Obtained from Dandels. 
-ITEM_20150317_002285	Panto Eyebrow 
-ITEM_20150317_002286	Panto 矛 Shaft 
-ITEM_20150317_002287	矛 used by the Panto. Obtained from Panto 矛men. 
+ITEM_20150317_002285	失語者 Eyebrow 
+ITEM_20150317_002286	失語者 矛 Shaft 
+ITEM_20150317_002287	矛 used by the 失語者. Obtained from 失語者 矛men. 
 ITEM_20150317_002288	Tipio Stamen 
 ITEM_20150317_002289	You will sneeze if you breathe in the pollen from this. Obtained from Tipios. 
 ITEM_20150317_002290	Doyor 葉片 Bunch 
 ITEM_20150317_002291	Perfect alternative to an umbrella. Obtained from Doyors. 
 ITEM_20150317_002292	Hogma Archer Belt 
 ITEM_20150317_002293	Very strong, but crude, belt. Obtained from Hogma Archers. 
-ITEM_20150317_002294	Panto 矛head 
-ITEM_20150317_002295	A Panto insignia is engraved onto the spear blade. Obtained from Panto 矛throwers. 
+ITEM_20150317_002294	失語者 矛head 
+ITEM_20150317_002295	A 失語者 insignia is engraved onto the spear blade. Obtained from 失語者 矛throwers. 
 ITEM_20150317_002296	Phylogistone 
 ITEM_20150317_002297	A mysterious stone infused with the power of fire. Obtained from 幼龍. 
 ITEM_20150317_002298	硫磺 
@@ -2380,7 +2380,7 @@ ITEM_20150317_002379	瓦布戰士的血
 ITEM_20150317_002380	瓦布 blood that is thicker and more viscous than normal. Obtained from 瓦布 Fighters. 
 ITEM_20150317_002381	Zignuts Fruit 
 ITEM_20150317_002382	Zignuts Seed 
-ITEM_20150317_002383	Panto 葉片 Decoration 
+ITEM_20150317_002383	失語者 葉片 Decoration 
 ITEM_20150317_002384	蜂鳥的翅膀
 ITEM_20150317_002385	A wing that has the shape of a flower petal. Obtained from 蜂鳥s. 
 ITEM_20150317_002386	蜂鳥的羽毛
@@ -2395,10 +2395,10 @@ ITEM_20150317_002394	Seedmia Pollen
 ITEM_20150317_002395	幼龍Epaulet 
 ITEM_20150317_002396	Firent Skin 
 ITEM_20150317_002397	It looks similar to a normal tree. Obtained from Firents. 
-ITEM_20150317_002398	Broken Panto 長劍 
-ITEM_20150317_002399	It might be usable if repaired. Obtained from Panto Fighters. 
-ITEM_20150317_002400	Panto Hoof 
-ITEM_20150317_002401	Panto Shaman 魔杖 Decoration 
+ITEM_20150317_002398	Broken 失語者 長劍 
+ITEM_20150317_002399	It might be usable if repaired. Obtained from 失語者 Fighters. 
+ITEM_20150317_002400	失語者 Hoof 
+ITEM_20150317_002401	失語者 Shaman 魔杖 Decoration 
 ITEM_20150317_002402	Mallardu 的肉 
 ITEM_20150317_002403	A good source of protein. Obtained from Mallardus. 
 ITEM_20150317_002404	Mallardu 羽毛 
@@ -3328,7 +3328,7 @@ ITEM_20150317_003327	Good medicine for when the atmosphere becomes contaminated 
 ITEM_20150317_003328	Blue Fragaras Petal 
 ITEM_20150317_003329	A Fragaras' resin is an effective exorcising material. 
 ITEM_20150317_003330	Ritualistic Rope 
-ITEM_20150317_003331	A ceremonial rope carried by a Panto Shaman 
+ITEM_20150317_003331	A ceremonial rope carried by a 失語者 Shaman 
 ITEM_20150317_003332	Enchanted Mane
 ITEM_20150317_003333	A mane taken from the nape of a defeated Mushcarian 
 ITEM_20150317_003334	Scripture Verses 
@@ -4847,13 +4847,13 @@ ITEM_20150428_004846	卓越 亞斯頓 矛
 ITEM_20150428_004847	Galatunis 矛 
 ITEM_20150428_004848	Gamble 
 ITEM_20150428_004849	Yorgis Alchupiz 
-ITEM_20150428_004850	卓越 賽絲托 Pike 
-ITEM_20150428_004851	卓瑞特 Pike 
-ITEM_20150428_004852	卓越 Dart Pike 
-ITEM_20150428_004853	亞斯頓 Pike 
-ITEM_20150428_004854	卓越 亞斯頓 Pike 
-ITEM_20150428_004855	Galatunis Pike 
-ITEM_20150428_004856	Eyestra Pike 
+ITEM_20150428_004850	卓越 賽絲托 長槍 
+ITEM_20150428_004851	卓瑞特 長槍 
+ITEM_20150428_004852	卓越 Dart 長槍 
+ITEM_20150428_004853	亞斯頓 長槍 
+ITEM_20150428_004854	卓越 亞斯頓 長槍 
+ITEM_20150428_004855	Galatunis 長槍 
+ITEM_20150428_004856	Eyestra 長槍 
 ITEM_20150428_004857	Yorgis Knife 
 ITEM_20150428_004858	Yorgis 鋼鐵 魔杖 
 ITEM_20150428_004859	卓越 迪奧魔杖 
@@ -5029,7 +5029,7 @@ ITEM_20150428_005028	提升移動速度 4 for 250 秒. {nl}右鍵點擊使用. �
 ITEM_20150428_005029	Master Genie 卡片 
 ITEM_20150428_005030	Merregina 卡片 
 ITEM_20150428_005031	Templeshooter 卡片 
-ITEM_20150428_005032	Panto Magician Cane Decoration 
+ITEM_20150428_005032	失語者 Magician Cane Decoration 
 ITEM_20150428_005033	如果你忘記了它安裝的方向, 那他有可能是對著你的。 
 ITEM_20150428_005034	Wire 
 ITEM_20150428_005035	硬質 to see because it is so thin. 
@@ -5056,7 +5056,7 @@ ITEM_20150428_005055	An order that was written and attached here a long time ago
 ITEM_20150428_005056	A document recorded in the time of the Great King 澤凱瑞爾. Readable. 
 ITEM_20150428_005057	警告 notices from hundreds of years ago. Read what's inside. 
 ITEM_20150428_005058	Carelessly crumpled message. It seems barely readable. 
-ITEM_20150428_005059	Ceremonial ropes that the Panto Magician was carrying around 
+ITEM_20150428_005059	Ceremonial ropes that the 失語者 Magician was carrying around 
 ITEM_20150428_005060	Mallardu Fat 
 ITEM_20150428_005061	The fat of a Mallardu that was well preserved and will burn easily. Wake 豬籠草 with it. 
 ITEM_20150428_005062	The first revelation found in the Crystal Mine. Readable. 
@@ -5435,7 +5435,7 @@ ITEM_20150714_005434	Vidotas's Special Incense Burner
 ITEM_20150714_005435	A censer in which Vidotas has put in a special combination of incenses. The scent weakens 瓦布. 
 ITEM_20150714_005436	Chemical agents that cause 瓦布 to hallucinate, preventing them from approaching the entrance. 
 ITEM_20150714_005437	Moa Lump 
-ITEM_20150714_005438	A lump from a Moa, a predator of Pantos. It smells awful. 
+ITEM_20150714_005438	A lump from a Moa, a predator of 失語者s. It smells awful. 
 ITEM_20150714_005439	漁夫的眼睛
 ITEM_20150714_005440	一個漁夫的眼睛。感覺好像在盯著你. 
 ITEM_20150714_005441	Ellom 精華 
@@ -5918,8 +5918,8 @@ ITEM_20150729_005917	묘지기의 주술 인형
 ITEM_20150729_005918	묘지기의 주술이 담긴 인형.
 ITEM_20150730_005919	迪奧雙手劍
 ITEM_20150730_005920	迪奧十字弓
-ITEM_20150730_005921	Tresh Spear
-ITEM_20150730_005922	賽絲托 Pike
+ITEM_20150730_005921	多重 長矛
+ITEM_20150730_005922	賽絲托 長槍
 ITEM_20150803_005923	Krausas 硬頭槌
 ITEM_20150803_005924	- 에피지의 추가대미지 보너스가 2회째 공격에 적용
 ITEM_20150803_005925	보코르의 힘을 강화시켜주기 위해 고안된 무기입니다. 제조방법이 잊혀졌다고하나 노력끝에 통해 복원할 수 있었습니다.
@@ -6062,12 +6062,12 @@ ITEM_20150918_006061	Escanciu Spear
 ITEM_20150918_006062	Krag Spear
 ITEM_20150918_006063	Pilgrim Spear
 ITEM_20150918_006064	Istora Spear
-ITEM_20150918_006065	Lukas Pike
-ITEM_20150918_006066	Philis Pike
-ITEM_20150918_006067	Escanciu Pike
-ITEM_20150918_006068	Krag Pike
-ITEM_20150918_006069	Pilgrim Pike
-ITEM_20150918_006070	Istora Pike
+ITEM_20150918_006065	Lukas 長槍
+ITEM_20150918_006066	Philis 長槍
+ITEM_20150918_006067	Escanciu 長槍
+ITEM_20150918_006068	Krag 長槍
+ITEM_20150918_006069	Pilgrim 長槍
+ITEM_20150918_006070	Istora 長槍
 ITEM_20150918_006071	Arde Dagger
 ITEM_20150918_006072	칼에서 뿜어져 나오는 열기는 사용자에게 화상을 입히기도 하지만 적을 태워버릴 수 있습니다.
 ITEM_20150918_006073	Karacha Dagger
@@ -6531,7 +6531,7 @@ ITEM_20150918_006530	Sweet tasting Plateau specialty sugar beets. Young animals 
 ITEM_20150918_006531	Parts acquired from around the broken cable car
 ITEM_20150918_006532	Good medicine for when the atmosphere becomes contaminated and hazy.
 ITEM_20150918_006533	A Fragaras' resin is an effective exorcising material.
-ITEM_20150918_006534	Ceremonial ropes that the Panto Magician was carrying around
+ITEM_20150918_006534	Ceremonial ropes that the 失語者 Magician was carrying around
 ITEM_20150918_006535	A mane taken from the nape of a defeated Mushcarian
 ITEM_20150918_006536	A legendary verse used to defeat Gesti. Seems like it's not the right time to use this.
 ITEM_20150918_006537	A legendary verse used to defeat Gesti. It needs to be recharged before it can be used.
@@ -6920,7 +6920,7 @@ ITEM_20150918_006919	The crystal which lead to a mysterious place.
 ITEM_20150918_006920	A special potion that only Charlotte knows how to make. It causes plants to wither die.
 ITEM_20150918_006921	A censer in which Vidotas has put in a special combination of incenses. The scent weakens Vubbes.
 ITEM_20150918_006922	Chemical agents that cause Vubbes to hallucinate, preventing them from approaching the entrance.
-ITEM_20150918_006923	A lump from a Moa, a predator of Pantos. It smells awful.
+ITEM_20150918_006923	A lump from a Moa, a predator of 失語者s. It smells awful.
 ITEM_20150918_006924	A Fisherman's eye. It feels like it's staring at you.
 ITEM_20150918_006925	A dying esssence found in an Ellom's body. It's sticky.
 ITEM_20150918_006926	An Eye of the Soul that can see hidden souls. It was made by the Bokor Master by request from Knight-Commander Oscar, who was investigating the Klaipeda Market missing person incident.
@@ -7524,13 +7524,13 @@ ITEM_20151022_007523	藍色寶珠: Crystal Spider
 ITEM_20151022_007524	藍色寶珠: Vubbe Shaman		
 ITEM_20151022_007525	藍色寶珠: Vubbe Fighter		
 ITEM_20151022_007526	藍色寶珠: Zignuts		
-ITEM_20151022_007527	藍色寶珠: Panto Pathfinder		
+ITEM_20151022_007527	藍色寶珠: 失語者 Pathfinder		
 ITEM_20151022_007528	藍色寶珠: Grummer		
 ITEM_20151022_007529	藍色寶珠: Mali		
 ITEM_20151022_007530	藍色寶珠: Leafly		
-ITEM_20151022_007531	藍色寶珠: Panto		
-ITEM_20151022_007532	藍色寶珠: Panto Wizard		
-ITEM_20151022_007533	藍色寶珠: Panto Warrior		
+ITEM_20151022_007531	藍色寶珠: 失語者		
+ITEM_20151022_007532	藍色寶珠: 失語者 Wizard		
+ITEM_20151022_007533	藍色寶珠: 失語者 Warrior		
 ITEM_20151022_007534	藍色寶珠: Spion Archer		
 ITEM_20151022_007535	藍色寶珠: Green Puragi		
 ITEM_20151022_007536	藍色寶珠: Firent		
@@ -7540,9 +7540,9 @@ ITEM_20151022_007539	藍色寶珠: Hummingbird
 ITEM_20151022_007540	藍色寶珠: Deadborn Scap Magician		
 ITEM_20151022_007541	藍色寶珠: Seedmia		
 ITEM_20151022_007542	藍色寶珠: Coliflower Archer		
-ITEM_20151022_007543	藍色寶珠: Panto Archer		
+ITEM_20151022_007543	藍色寶珠: 失語者 Archer		
 ITEM_20151022_007544	藍色寶珠: Mallardu		
-ITEM_20151022_007545	藍色寶珠: Large Panto Spearman		
+ITEM_20151022_007545	藍色寶珠: Large 失語者 Spearman		
 ITEM_20151022_007546	藍色寶珠: Brown Rodelin		
 ITEM_20151022_007547	藍色寶珠: Tanu		
 ITEM_20151022_007548	藍色寶珠: Tipio		
@@ -7902,13 +7902,13 @@ ITEM_20151022_007901	紅色寶珠: Crystal Spider
 ITEM_20151022_007902	紅色寶珠: Vubbe Shaman		
 ITEM_20151022_007903	紅色寶珠: Vubbe Fighter		
 ITEM_20151022_007904	紅色寶珠: Zignuts		
-ITEM_20151022_007905	紅色寶珠: Panto Pathfinder		
+ITEM_20151022_007905	紅色寶珠: 失語者 Pathfinder		
 ITEM_20151022_007906	紅色寶珠: Grummer		
 ITEM_20151022_007907	紅色寶珠: Mali		
 ITEM_20151022_007908	紅色寶珠: Leafly		
-ITEM_20151022_007909	紅色寶珠: Panto		
-ITEM_20151022_007910	紅色寶珠: Panto Wizard		
-ITEM_20151022_007911	紅色寶珠: Panto Warrior		
+ITEM_20151022_007909	紅色寶珠: 失語者		
+ITEM_20151022_007910	紅色寶珠: 失語者 Wizard		
+ITEM_20151022_007911	紅色寶珠: 失語者 Warrior		
 ITEM_20151022_007912	紅色寶珠: Spion Archer		
 ITEM_20151022_007913	紅色寶珠: Green Puragi		
 ITEM_20151022_007914	紅色寶珠: Firent		
@@ -7918,9 +7918,9 @@ ITEM_20151022_007917	紅色寶珠: Hummingbird
 ITEM_20151022_007918	紅色寶珠: Deadborn Scap Magician		
 ITEM_20151022_007919	紅色寶珠: Seedmia		
 ITEM_20151022_007920	紅色寶珠: Coliflower Archer		
-ITEM_20151022_007921	紅色寶珠: Panto Archer		
+ITEM_20151022_007921	紅色寶珠: 失語者 Archer		
 ITEM_20151022_007922	紅色寶珠: Mallardu		
-ITEM_20151022_007923	紅色寶珠: Large Panto Spearman		
+ITEM_20151022_007923	紅色寶珠: Large 失語者 Spearman		
 ITEM_20151022_007924	紅色寶珠: Brown Rodelin		
 ITEM_20151022_007925	紅色寶珠: Tanu		
 ITEM_20151022_007926	紅色寶珠: Tipio		
@@ -8361,6 +8361,167 @@ ITEM_20151022_008360	아슈롱의 기름덩어리
 ITEM_20151022_008361	아슈롱의 몸에 기름이 모여 생긴 기름진 살덩이입니다.		
 ITEM_20151022_008362	오래된 성물		
 ITEM_20151022_008363	큰아귀 길의 버려진 제단에 반응시킬 수 있다고 하는 낡은 목걸이입니다.		
-
+ITEM_20151102_008364	Bow [Missile]
+ITEM_20151102_008365	Crossbow [Missile]
+ITEM_20151102_008366
+ITEM_20151102_008367	Pistol [Missile]
+ITEM_20151102_008368	Cannon2
+ITEM_20151102_008369	Cannon3
+ITEM_20151102_008370	Cannon4
+ITEM_20151102_008371	Cannon5
+ITEM_20151102_008372	Musket
+ITEM_20151102_008373	Musket [Missile]
+ITEM_20151102_008374	Musket2
+ITEM_20151102_008375
+ITEM_20151102_008376
+ITEM_20151102_008377
+ITEM_20151102_008378
+ITEM_20151102_008379	Dye: Black
+ITEM_20151102_008380	Change your hair color to black. Right-click to use.
+ITEM_20151102_008381	Dye: Blue
+ITEM_20151102_008382	Change your hair color to blue. Right-click to use.
+ITEM_20151102_008383	Dye: White
+ITEM_20151102_008384	Change your hair color to white. Right-click to use.
+ITEM_20151102_008385	Dye: Pink
+ITEM_20151102_008386	Change your hair color to pink. Right-click to use.
+ITEM_20151102_008387
+ITEM_20151102_008388	Namott Holy Water
+ITEM_20151102_008389	Purification of Namott
+ITEM_20151102_008390	Suppression of Namott
+ITEM_20151102_008391
+ITEM_20151102_008392
+ITEM_20151102_008393
+ITEM_20151102_008394
+ITEM_20151102_008395
+ITEM_20151102_008396
+ITEM_20151102_008397	Frost Tome
+ITEM_20151102_008398
+ITEM_20151102_008399
+ITEM_20151102_008400
+ITEM_20151102_008401
+ITEM_20151102_008402
+ITEM_20151102_008403
+ITEM_20151102_008404
+ITEM_20151102_008405
+ITEM_20151102_008406
+ITEM_20151102_008407
+ITEM_20151102_008408
+ITEM_20151102_008409	Spirit Flask
+ITEM_20151102_008410
+ITEM_20151102_008411
+ITEM_20151102_008412
+ITEM_20151102_008413	Hunter's Seal
+ITEM_20151102_008414	Proof of passing the Hunter's test.
+ITEM_20151102_008415
+ITEM_20151102_008416
+ITEM_20151102_008417
+ITEM_20151102_008418
+ITEM_20151102_008419
+ITEM_20151102_008420	Wugushi's Urn
+ITEM_20151102_008421
+ITEM_20151102_008422	Scout Records
+ITEM_20151102_008423	Scout records used for reconnaissance missions
+ITEM_20151102_008424
+ITEM_20151102_008425
+ITEM_20151102_008426
+ITEM_20151102_008427
+ITEM_20151102_008428
+ITEM_20151102_008429
+ITEM_20151102_008430
+ITEM_20151102_008431
+ITEM_20151102_008432
+ITEM_20151102_008433
+ITEM_20151102_008434
+ITEM_20151102_008435	Zalia's Whistle
+ITEM_20151102_008436
+ITEM_20151102_008437
+ITEM_20151102_008438
+ITEM_20151102_008439
+ITEM_20151102_008440
+ITEM_20151102_008441
+ITEM_20151102_008442
+ITEM_20151102_008443
+ITEM_20151102_008444
+ITEM_20151102_008445
+ITEM_20151102_008446
+ITEM_20151102_008447
+ITEM_20151102_008448
+ITEM_20151102_008449	The first sculpture piece, engraved with Namott patterns.
+ITEM_20151102_008450	The second sculpture piece, engraved with Namott patterns.
+ITEM_20151102_008451	The third sculpture piece, engraved with Namott patterns.
+ITEM_20151102_008452	The fourth sculpture piece, engraved with Namott patterns.
+ITEM_20151102_008453	Green Infroholder Egg
+ITEM_20151102_008454	's essence
+ITEM_20151102_008455	Experiment Victim's Keepsakes
+ITEM_20151102_008456	Backpack
+ITEM_20151102_008457	Experiment Victim's Backpack
+ITEM_20151102_008458
+ITEM_20151102_008459
+ITEM_20151102_008460	Black Gem
+ITEM_20151102_008461	
+ITEM_20151102_008462	Essence of the Demon
+ITEM_20151102_008463	Experiment Journal: Chapter 1
+ITEM_20151102_008464	The experiment journal created by the wizard in question
+ITEM_20151102_008465	Experiment Journal: Chapter 2
+ITEM_20151102_008466	Experiment Journal: Chapter 3
+ITEM_20151102_008467
+ITEM_20151102_008468
+ITEM_20151102_008469
+ITEM_20151102_008470
+ITEM_20151102_008471	Statue of Widas
+ITEM_20151102_008472
+ITEM_20151102_008473
+ITEM_20151102_008474
+ITEM_20151102_008475
+ITEM_20151102_008476
+ITEM_20151102_008477
+ITEM_20151102_008478
+ITEM_20151102_008479
+ITEM_20151102_008480
+ITEM_20151102_008481
+ITEM_20151102_008482
+ITEM_20151102_008483
+ITEM_20151102_008484
+ITEM_20151102_008485
+ITEM_20151102_008486
+ITEM_20151102_008487
+ITEM_20151102_008488
+ITEM_20151102_008489
+ITEM_20151102_008490
+ITEM_20151102_008491
+ITEM_20151102_008492
+ITEM_20151102_008493
+ITEM_20151102_008494
+ITEM_20151102_008495
+ITEM_20151102_008496
+ITEM_20151102_008497
+ITEM_20151102_008498
+ITEM_20151102_008499
+ITEM_20151102_008500
+ITEM_20151102_008501
+ITEM_20151102_008502
+ITEM_20151102_008503
+ITEM_20151102_008504
+ITEM_20151102_008505
+ITEM_20151102_008506
+ITEM_20151102_008507
+ITEM_20151102_008508
+ITEM_20151102_008509
+ITEM_20151102_008510
+ITEM_20151102_008511
+ITEM_20151102_008512
+ITEM_20151102_008513
+ITEM_20151102_008514
+ITEM_20151102_008515
+ITEM_20151102_008516
+ITEM_20151102_008517
+ITEM_20151102_008518
+ITEM_20151102_008519
+ITEM_20151102_008520
+ITEM_20151102_008521
+ITEM_20151102_008522
+ITEM_20151102_008523
+ITEM_20151102_008524
+ITEM_20151102_008525
 
 xITEM_12345678-123456	20151003 By Ishanah
