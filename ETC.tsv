@@ -13613,85 +13613,85 @@ ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} 獲得銀幣。
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
 ETC_20150717_013615	{@st59}增加魔法攻擊力{/}
-ETC_20150729_013616	Colimen
-ETC_20150729_013617	Mine Trap
-ETC_20150729_013618	Basic Trap
-ETC_20150729_013619	Wendigo Archer
-ETC_20150729_013620	Earth Colimen
-ETC_20150729_013621	Giant Bat
+ETC_20150729_013616	彈幕攻擊
+ETC_20150729_013617	地雷陷阱
+ETC_20150729_013618	捕獸夾
+ETC_20150729_013619	溫迪戈搜查者
+ETC_20150729_013620	大地之彈幕
+ETC_20150729_013621	巨型蝙蝠
 ETC_20150729_013622	藍色 Grave傀儡
-ETC_20150729_013623	Team Battle League Tournament
-ETC_20150729_013624	Team Battle League
-ETC_20150729_013625	This way!
-ETC_20150729_013626	Let's go!!
-ETC_20150729_013627	Something is wrong with the holy relics!
-ETC_20150729_013628	Defeat Abomination!
+ETC_20150729_013623	組隊戰鬥淘汰賽
+ETC_20150729_013624	組隊戰鬥聯賽
+ETC_20150729_013625	沿著這條路！
+ETC_20150729_013626	出發吧！！
+ETC_20150729_013627	聖物的狀態出現異常！
+ETC_20150729_013628	殺死憤獸！
 ETC_20150729_013629	{memo X}Goddess Zemyna, the Goddess of Earth…
-ETC_20150729_013630	The delegates were sieged by the Werewolf{nl}Defeat the Werewolf!
-ETC_20150729_013631	Special Scent
-ETC_20150729_013632	The Jewel of Prominence is unstable.
-ETC_20150729_013633	Barrier Effect : STR
-ETC_20150729_013634	Receive STR increase effect from activated barrier.
-ETC_20150729_013635	Barrier Effect : CON
-ETC_20150729_013636	Receive CON increase effect from activated barrier.
-ETC_20150729_013637	Barrier Effect : INT
-ETC_20150729_013638	Receive INT increase effect from activated barrier.
-ETC_20150729_013639	Barrier Effect : DEX
-ETC_20150729_013640	Receive DEX increase effect from activated barrier.
-ETC_20150729_013641	Using Spirits
-ETC_20150729_013642	You feel exhausted and keep losing Stamina.
-ETC_20150729_013643	Sanctum's Blessing - Increased Attack
-ETC_20150729_013644	Increases your attack due to the received blessing from the sanctum.
-ETC_20150729_013645	A strong protective shield is blocking all attacks.
-ETC_20150729_013646	Divine power bestowed on unknown ruins.
-ETC_20150729_013647	Impose divine punishment on all divine things around the ruins.
-ETC_20150729_013648	Divine power bestowed on unknown pillars.
-ETC_20150729_013649	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013650	Divine power bestowed on unknown crystal.
-ETC_20150729_013651	Impose divine punishment on all divine things around.
-ETC_20150729_013652	Divine power bestowed on unknown stone pillar.
-ETC_20150729_013653	Received divine blessings. ATK and DEF increased.
-ETC_20150729_013654	Divine power bestowed on unknown tombstone
-ETC_20150729_013655	All injuries are healing through force of purification.
-ETC_20150729_013656	Received divine blessings. Your morale and bravery is boosting.
-ETC_20150729_013657	Received divine blessings. You are feeling sturdy.
+ETC_20150729_013630	使者像是被狼人襲擊了{nl}快殺死狼人！
+ETC_20150729_013631	特製香爐
+ETC_20150729_013632	紅焰寶石正在暴走狀態。
+ETC_20150729_013633	結界效果：力量
+ETC_20150729_013634	從活性結界中獲得力量增加的效果。
+ETC_20150729_013635	結界效果：體力
+ETC_20150729_013636	從活性結界中獲得體力增加的效果。
+ETC_20150729_013637	結界效果：智力
+ETC_20150729_013638	從活性結界中獲得智力增加的效果。
+ETC_20150729_013639	結界效果：敏捷
+ETC_20150729_013640	從活性結界中獲得敏捷增加的效果。
+ETC_20150729_013641	靈魂消耗殆盡中
+ETC_20150729_013642	四肢乏力的感覺，耐力正在流失。
+ETC_20150729_013643	聖所之祝福 - 攻擊力增加
+ETC_20150729_013644	受到聖所的祝福，攻擊力增加.
+ETC_20150729_013645	因受到強力的魔法保護盾，所有攻擊無效。
+ETC_20150729_013646	將神聖力量賜與來歷不明的遺址。
+ETC_20150729_013647	遺址周圍所有邪惡之物，都將受到神聖的懲罰。
+ETC_20150729_013648	將神聖力量賜與來歷不明的水晶柱。
+ETC_20150729_013649	受到神聖之祝福，攻擊力和防禦力得到短暫增加。
+ETC_20150729_013650	將神聖力量賜與來歷不明的水晶。
+ETC_20150729_013651	周圍所有邪惡之物，都將受到神聖的懲罰。
+ETC_20150729_013652	將神聖力量賜與來歷不明的石柱。
+ETC_20150729_013653	受到神聖之祝福，攻擊力和防禦力得到短暫增加。
+ETC_20150729_013654	將神聖力量賜與來歷不明的石碑。
+ETC_20150729_013655	受到淨化之氣息，所有傷口開始愈合。
+ETC_20150729_013656	受到神聖之祝福，萌生了勇氣。
+ETC_20150729_013657	受到神聖之祝福，感覺意念堅定。
 ETC_20150729_013658	{memo X}Corpse
 ETC_20150729_013659	{memo X}Corpse fell.
-ETC_20150729_013660	Hanging on 同伴
-ETC_20150729_013661	EXP Jackpot
-ETC_20150729_013662	Increased Evasion.
-ETC_20150729_013663	Explosion
-ETC_20150729_013664	Explose when dying.
-ETC_20150729_013665	Resistance
-ETC_20150729_013666	Damage Weapon
-ETC_20150729_013667	Potential decrease when using physical attack
-ETC_20150729_013668	Arrow Resistance
-ETC_20150729_013669	Increase resistance against arrow attacks.
-ETC_20150729_013670	Property Resistance
-ETC_20150729_013671	Magic resistance increase based on property
-ETC_20150729_013672	Level up
-ETC_20150729_013673	Mutant type monsters level up instead of sleeping when casted with sleep type debuff.
-ETC_20150729_013674	Quick Recovery
-ETC_20150729_013675	Increase recovery
-ETC_20150729_013676	 are used to move your character around.
-ETC_20150729_013677	 are used for character movement. {nl} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
-ETC_20150729_013678	Joypad : Press {img move_all 40 40} or {img stic_L 40 40} to move.
-ETC_20150729_013679	Mouse : {img mouseclick_left 40 40} on the area where you want to move the character.
-ETC_20150729_013680	When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40}, {img D 40 40} keys
-ETC_20150729_013681	For Swordsman types, double tap a directional key to 'Dash'。
-ETC_20150729_013682	To view this help list again, press {img F10 40 40}
-ETC_20150729_013683	Use Jump to cross over obstacles or up higher places.
-ETC_20150729_013684	Press {img X 40 40} to jump.
-ETC_20150729_013685	Joypad : Press {img a_on_button 40 40} to jump.
-ETC_20150729_013686	Mouse : Press {img space 40 40} to jump.
-ETC_20150729_013687	Press {img Z 40 40} for a basic attack.
-ETC_20150729_013688	Mouse : Press {img Z 40 40} or {img mouseclick_left 40 40} on an enemy to attack.{nl}{nl}Joypad : Press {img x_on_button 40 40} to attack.
-ETC_20150729_013689	Press {img ctrl 40 40} to lock a target.
-ETC_20150729_013690	Press {img Alt 40 40} to immediately stop movement of your character.
-ETC_20150729_013691	Press {img space 40 40} to face your target.
-ETC_20150729_013692	Use the map to check your current location and other important areas.
-ETC_20150729_013693	Press {img M 40 40} to view the map of your current area.
-ETC_20150729_013694	{nl} {nl}The minimap icon displays information and NPC locations of the current map you are in.{nl} {nl}{img minimap_leader 25 25} indicates your current location. {nl}{img minimap_1_MAIN 25 25} indicates a targeted quest in progress. {nl}{img minimap_0 25 25} indicates the location of important NPCs. {nl}{img minimap_goddess 25 25} indicates the Goddess Statue for Warping. {nl}{img minimap_board 25 25} indicates the Bulletin Board containing various information. {nl}{img minimap_portal 25 25} indicates the path to move to other areas.{nl} {nl}
+ETC_20150729_013660	同伴掛著
+ETC_20150729_013661	經驗值大幅度提升
+ETC_20150729_013662	迴避率增加。
+ETC_20150729_013663	爆炸
+ETC_20150729_013664	死亡時爆炸。
+ETC_20150729_013665	抗性
+ETC_20150729_013666	武器損傷
+ETC_20150729_013667	物理攻擊時耐久度下降
+ETC_20150729_013668	箭抗性
+ETC_20150729_013669	對箭的攻擊抗性上升。
+ETC_20150729_013670	屬性抗性
+ETC_20150729_013671	隨著屬性不同，魔法抗性上升。
+ETC_20150729_013672	升級
+ETC_20150729_013673	變異型怪物受到debuff不會睡著，等級提升
+ETC_20150729_013674	快速恢復能力
+ETC_20150729_013675	恢復能力上升。
+ETC_20150729_013676	可自由移動.
+ETC_20150729_013677	可以移動角色。{nl}{img arrowkey_up 40 40}{img arrowkey_down 40 40}{img arrowkey_left 40 40}{img arrowkey_right 40 40}
+ETC_20150729_013678	手把操作時，按{img move_all 40 40}鍵 {img stic_L 40 40}可移動。
+ETC_20150729_013679	滑鼠操作時，點擊 {img mouseclick_left 40 40}角色可移動至目標地點。
+ETC_20150729_013680	滑鼠操作時，{img W 40 40}。 {img A 40 40}, {img S 40 40}。 {img D 40 40}可使用這些按鍵。
+ETC_20150729_013681	戰士系在連續按兩次方向鍵時，可以前衝。
+ETC_20150729_013682	再次點擊 {img F10 40 40} 鍵時，可再次檢視說明功能。
+ETC_20150729_013683	彈跳時可以躍過低矮障礙物，跳往高處。
+ETC_20150729_013684	按 {img X 40 40} 鍵可以跳躍。
+ETC_20150729_013685	手把操作時，按 {img a_on_button 40 40} 鍵可以跳躍。
+ETC_20150729_013686	滑鼠操作時，按 {img space 40 40} 鍵可以使用。
+ETC_20150729_013687	{img Z 40 40}鍵是角色基本攻擊按鍵。
+ETC_20150729_013688	滑鼠操作時，按 {img Z 40 40} 鍵 或對怪物 {img mouseclick_left 40 40} 可基本攻擊。{nl}{nl}手把操作時，按 {img x_on_button 40 40} 來攻擊。
+ETC_20150729_013689	按{img ctrl 40 40}鍵可以鎖定目標。
+ETC_20150729_013690	按{img Alt 40 40}鍵可使移動中的角色立即停止動作。
+ETC_20150729_013691	按{img space 40 40}鍵可以與目標互動。
+ETC_20150729_013692	地圖上可確認現在自身位置和重要的區域。
+ETC_20150729_013693	按{img M 40 40}鍵可確認目前所在的位置。
+ETC_20150729_013694	{nl} {nl}小地圖上的圖標標示出自身位置信息以及 {nl}其他NPC信息.{nl}{img minimap_leader 25 25} : 出現玩家的位置圖標.{nl}{img minimap_1_MAIN 25 25} : 現在進行中的任務出現指定目標.{nl}{img minimap_0 25 25} : 現在地區的重要NPC位置.{nl}{img minimap_女神 25 25} : 可移動至遠方的女神像位置.{nl}{img minimap_board 25 25} : 出現各種信息情報的告示板.{nl}{img minimap_portal 25 25} : 可通往其他地區的通路.{nl} {nl}
 ETC_20150729_013695	Press {img N 40 40} to open the World Map.
 ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
 ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
