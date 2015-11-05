@@ -1,346 +1,347 @@
-QUEST_JOBSTEP_20150317_000001	$Bokor. You’ve chosen a difficult path. {nl}Refer to the instructions in your Adventure Journal and make your own doll.
-QUEST_JOBSTEP_20150317_000002	$You must make a doll by yourself. {nl}Check your Adventure Journal to see how you can make the doll. 
-QUEST_JOBSTEP_20150317_000003	{memo X}Congratulations, a new Bokor is born. {nl}When I first chose the path of a Bokor, I started by creating a doll of my own. 
-QUEST_JOBSTEP_20150317_000004	$Peltasta Master
-QUEST_JOBSTEP_20150317_000005	{memo X}$If you want to receive my teachings then you have to prove your worth first.{nl}Here’s a challenge: Defeat some Vubbes on the 1st Floor of the Crystal Mine.
-QUEST_JOBSTEP_20150317_000006	$How can you bear the title of Peltasta if you can't even handle that much? 
-QUEST_JOBSTEP_20150317_000007	$Good. {nl}I hope your new growth leads to you saving the world. 
-QUEST_JOBSTEP_20150317_000008	$Highlander Master
-QUEST_JOBSTEP_20150317_000009	{memo X}I'm so thankful that you want to be the successor of my swordsmanship, but I suspect that you won't follow my teachings well.{nl}I will test you by having you defeat the Vubbes that are occupying the 1st floor of the Crystal Mine.
-QUEST_JOBSTEP_20150317_000010	$Hurry. {nl} Although this is your initiation challenge, the Vubbes are a threat to the Miners' Village.
-QUEST_JOBSTEP_20150317_000011	$Good work, you've completed your initiation in becoming a Highlander. {nl} Keep up the hard work and dedication.
-QUEST_JOBSTEP_20150317_000012	$Pyromancer Master
-QUEST_JOBSTEP_20150317_000013	{memo X}I can see that you want to learn magic from me, but I can't teach just anyone. {nl}I will see how well you can assist my research and then decide. 
-QUEST_JOBSTEP_20150317_000014	{memo X}Good work. Thanks to you I can start the next step of my research. {nl}I will teach you Pyromancer magic as promised. 
-QUEST_JOBSTEP_20150317_000015	{memo X}Good, you're here. I need you to defeat the evil spirits that I will summon. {nl}I will record the unique wavelength that is transmitted in the process. 
-QUEST_JOBSTEP_20150317_000016	{memo X}$I am doing research on the 4th state of matter. {nl}It is impossible without the cooperation of the Bokor Master, who deals with spirits. 
-QUEST_JOBSTEP_20150317_000017	$Yes, splendid. {nl}Tell the Pyromancer Master that we have all the materials we need. 
-QUEST_JOBSTEP_20150317_000018	{memo X}Good. {nl}That study is being done with the Bokor Master. So go pay her a visit and she'll tell you what to do. 
-QUEST_JOBSTEP_20150317_000019	$Cryomancer Master
-QUEST_JOBSTEP_20150317_000020	{memo X}$You want to learn Cryomancer magic from me? {nl}Sure, I'll teach you, but only if you take care of something first! 
-QUEST_JOBSTEP_20150317_000021	$The Pyromancer Master should not be around. {nl}So it'll be an easy task.
-QUEST_JOBSTEP_20150317_000022	$Don't feel guilty about it. You did a good job. {nl}I've got your back from now on, so you don't need to worry. 
-QUEST_JOBSTEP_20150317_000023	{memo X}It's sneaking into the Pyromancer Master's room and opening a box. {nl}As for what's inside the box...Well, you'll just have to kill it off.
-QUEST_JOBSTEP_20150317_000024	{memo X}This will be enough. {nl}My magic is not easy, so you will need to work hard to keep up. 
-QUEST_JOBSTEP_20150317_000025	$Your will to learn from me is good, but first I have a favor to ask. {nl}We can continue our talk if you are up for it. {nl}
-QUEST_JOBSTEP_20150317_000026	$Lydia Schaffen's gears are like divine materials to us archers. {nl}I would give up my entire fortune just to have them.
-QUEST_JOBSTEP_20150317_000027	$I never imagined that I would see this myself. {nl}Thank you. I will teach you thoroughly from now on, so you better be prepared. 
-QUEST_JOBSTEP_20150317_000028	$I heard the lost telescope lens from the Star Tower is in Crystal Mine 1F. {nl}Get me that lens before the other masters find out and I'll teach you my techniques. 
-QUEST_JOBSTEP_20150317_000029	{memo X}So you want to learn the way of the arrow from me...Then I have a mission for you. {nl}I will base my decision on how well you accomplish the mission. 
-QUEST_JOBSTEP_20150317_000030	$Evoniphon...I will never forgive him.
-QUEST_JOBSTEP_20150317_000031	$Hunter Master
-QUEST_JOBSTEP_20150317_000032	{memo X}You collected all the books. Good job. {nl}I will teach you the way of a Hunter as promised. 
-QUEST_JOBSTEP_20150317_000033	{memo X}You got some good results. I will teach you from now on. {nl}I hope you live up to my expectations. 
-QUEST_JOBSTEP_20150317_000034	$I heard the bats in Crystal Mine 1F have a special type of venom. {nl}I'm sure it's the same venom used by the assassin Evoniphon. Bring me that venom.
-QUEST_JOBSTEP_20150317_000035	$Barbarian Master
-QUEST_JOBSTEP_20150317_000036	{memo X}You can understand an opponent's abilities by facing them sword to sword. {nl}Prove to me that you are a true warrior, and I will lead you in becoming a real Barbarian. 
-QUEST_JOBSTEP_20150317_000037	{memo X}You indeed qualify as a warrior. {nl}I will make you become a true Barbarian. 
-QUEST_JOBSTEP_20150317_000038	{memo X}I understand that you want to be stronger with a spear. {nl}Complete the mission I assign to you, and I will teach you my spearmanship.
-QUEST_JOBSTEP_20150317_000039	{memo X}Please bring me Groll Leather from Spineheart Dale, Chafperor Poison Darts from the Fallen Worry Forest, and Jukopus Black Powder from Miners' Village.
-QUEST_JOBSTEP_20150317_000040	$I understand your will to become stronger. {nl}I also see that you may have what it takes to be good with spears.
-QUEST_JOBSTEP_20150317_000041	$Psychokino Master
-QUEST_JOBSTEP_20150317_000042	{memo X}If you want to understand Psychokino, then how about you work as my assistant?{nl}I will guarantee you that it is an attractive job.
-QUEST_JOBSTEP_20150317_000043	{memo X}Please, first defeat Matsums from Spine Heart Dale and collect their flower alcohol.{nl}They break easily so it's hard to get the decent ones.
-QUEST_JOBSTEP_20150317_000044	{memo X}Good. The flower alcohol from the Matsums is okay.{nl}You will see something interesting soon.
-QUEST_JOBSTEP_20150317_000045	{memo X}Now go to Gintara Highway at Spine Heart Dale.{nl}Sprinkle this liquid medicine onto the experimental Matsum doll that I installed and let me know the result.
-QUEST_JOBSTEP_20150317_000046	{memo X}The Matsums attacked you? {nl}Since the Matsums accepted the Matsum dolls as their friends, I consider it successful. 
-QUEST_JOBSTEP_20150317_000047	{memo X}Good work. {nl}You've done a good job as my assistant, so I'll teach you what being a Psychokino truly means. 
-QUEST_JOBSTEP_20150317_000048	{memo X}My research is about the methods of shifting psychokinesis to the substance of matter. {nl}In other words...It's a method of brainwashing by using medicine. 
-QUEST_JOBSTEP_20150317_000049	$Linker Master
-QUEST_JOBSTEP_20150317_000050	$Temperament is very important for Linkers. {nl}While it may be easy to shut out one's heart, opening it up requires a special kind of temperament. {nl}
-QUEST_JOBSTEP_20150317_000051	$I will test you to see if you have such temperament. 
-QUEST_JOBSTEP_20150317_000052	{memo X}Good. However, you must prepare some materials before taking the test.{nl}Bring me a Dunball’s thorn and Velwriggler’s carving at the Gate Route.{nl} [?]
-QUEST_JOBSTEP_20150317_000053	$Excellent! {nl}But this is just to prepare you for the test. {nl}
-QUEST_JOBSTEP_20150317_000054	{memo X}I will start the test now. {nl}Behind the Gate Route is a rip in the space of the world.{nl}
-QUEST_JOBSTEP_20150317_000055	$Normal people are only capable of seeing reality as is, but if you have the temperament of a Linker, {nl}you should be able to perceive a hidden world. {nl}Find the book from there and bring it to me. 
-QUEST_JOBSTEP_20150317_000056	{memo X}Have you gone there yet? {nl}Just go to the Gate Route and check. I’ve marked the location on the map.{nl}
-QUEST_JOBSTEP_20150317_000057	$Looks like you found the book. With this, you have passed my test. {nl} Nevertheless, please read that book to demonstrate your determination as a Linker. 
-QUEST_JOBSTEP_20150317_000058	$So you want me to teach you the skills of a Sapper... well then you must customarily pay a fee for my service. {nl}Not to me. But rather, I want you to give a donation to the Cleric Master in Klaipeda. {nl}Let's say, around 5000 silver? 
-QUEST_JOBSTEP_20150317_000059	{memo X}Wait, there’s one more thing. {nl}I hid some objects at Flude Island in the Siaulai Western Woods.{nl}Before you go to Klaipeda, find the objects first and return them to their original owners in Klaipeda.{nl}{nl} 
-QUEST_JOBSTEP_20150317_000060	$Oh, this. I saw it somewhere...hmm...it looks familiar...{nl}Well I'll take it with gratitude since you're giving it to me.
-QUEST_JOBSTEP_20150317_000061	$Ah, this is the tool I lost. {nl}Thanks. Where was it?
-QUEST_JOBSTEP_20150317_000062	$Did you forget about the donation? {nl}It's 5000 silver.
-QUEST_JOBSTEP_20150317_000063	$Cleric Master
-QUEST_JOBSTEP_20150317_000064	$Thank you, in the name of the Goddess.{nl}I promise the donations will be used for those injured by monsters. {nl}
-QUEST_JOBSTEP_20150317_000065	$I used to be a thief, but I came to realize certain things and I stopped my criminal life. {nl}But there is a small matter left on my mind... and I want to resolve it now. {nl}
-QUEST_JOBSTEP_20150317_000066	{memo X}Anyway, you did a good job. {nl}Let's cooperate from now on, teaching and learning from each other. 
-QUEST_JOBSTEP_20150317_000067	{memo X}I'm looking for a book. Four books by Lydia Schaffen. {nl}If you help me find the books, I will teach you my skills. 
-QUEST_JOBSTEP_20150317_000068	$The book used to be in Miners' Village, but it was lost when the Vubbes raided. {nl} Try visiting the Vubbe Outpost.
-QUEST_JOBSTEP_20150317_000069	$This is the book. You will need this book if you dream to be the best Archer. {nl}I will make you a copy if you can gather the entire book collection. 
-QUEST_JOBSTEP_20150317_000070	{memo X}$The Quarrel Shooter Master holds the next book. {nl}He was looking for Merog leather earlier. Maybe you can try making a deal with him using that.
-QUEST_JOBSTEP_20150317_000071	{memo X}Do you have the Merog leather yet from the Hunter Master?
-QUEST_JOBSTEP_20150317_000072	$This is of good quality. The Hunter Master will be pleased. {nl}You can take the book. {nl}
-QUEST_JOBSTEP_20150317_000073	{memo X}$Merogs are in the Fallen Worry Forest, and the Quarrel Shooter Master is in Klaipeda. {nl}Someone might get ahead of you, so better hurry.
-QUEST_JOBSTEP_20150317_000074	$The Archer Master in Klaipeda has the next book. {nl}He's not a mean person, so he will give you the book if you ask nicely. {nl}
-QUEST_JOBSTEP_20150317_000075	$He is helping with the repair of the damaged city wall. {nl}I heard the rocks are delivered from the Miners' Village, so bringing some to him can be a way to ask. 
-QUEST_JOBSTEP_20150317_000076	$Did the Hunter Master told you to send this? {nl}If you're looking for Lydia Schaffen's book, you could have just asked. But thanks anyway. 
-QUEST_JOBSTEP_20150317_000077	$The last book is with the Ranger Master in Klaipeda. {nl}Give her this pouch. {nl}I could go myself, but we're not really comfortable seeing each other. 
-QUEST_JOBSTEP_20150317_000078	$Don't ask why. Work is work, and it's a fact that we don't want to see each other. 
-QUEST_JOBSTEP_20150317_000079	$This pouch...Did you come from the Hunter Master? {nl}Here. Take this book to her. 
-QUEST_JOBSTEP_20150317_000080	$Although that woman acted humble to you, she's pretty scary whenever she approaches me. 
-QUEST_JOBSTEP_20150317_000081	$This will be enough leather. {nl}Bring them to the Quarrel Shooter Master before someone else does. 
-QUEST_JOBSTEP_20150317_000082	$This rock will be useful in repairing the wall. {nl}Bring it to the Archer Master quickly. 
-QUEST_JOBSTEP_20150317_000083	{memo X}$Are you the one who wants to learn my skills? {nl}Great, I was just looking for someone to help me find Lydia Schaffen's book. {nl}You're going to help, right? 
-QUEST_JOBSTEP_20150317_000084	$There was one volume in the Miners' Village, but it was lost when the Vubbes raided. {nl} I'm pretty sure it's in the Vubbe Outpost now.
-QUEST_JOBSTEP_20150317_000085	$Ho-ho yep, this is it. {nl}This will be helpful for people like you, who dream of becoming a Quarrel Shooter. {nl}I will give you a copy if you collect the entire book collection. 
-QUEST_JOBSTEP_20150317_000086	$Three more left. {nl}I think you can get one of them by giving some money to the Hunter Master.
-QUEST_JOBSTEP_20150317_000087	$The problem is, I'm broke. 
-QUEST_JOBSTEP_20150317_000088	$You mean Lydia Schaffen's book that I have? {nl}I'll hand it over for 5000 silver.
-QUEST_JOBSTEP_20150317_000089	$You heard me right, please pay the price . {nl}Around 5000 silver will do. {nl}
-QUEST_JOBSTEP_20150317_000090	$5000 silver...Yup, that's right. {nl}I'll give you the book as promised. 
-QUEST_JOBSTEP_20150317_000091	$Well...the Archer Master must have the next book. {nl}He's still helping repair the wall, so wouldn't he appreciate it if you got him some rocks? {nl}I could take them to him myself, but...owwww...my back.
-QUEST_JOBSTEP_20150317_000092	$The Archer Master has the next book. {nl}He's not a mean person, so he will give you the book if you ask nicely. {nl}
-QUEST_JOBSTEP_20150317_000093	$I heard he is helping repair the damaged city wall. {nl}Rocks were delivered from the Miners' Village, and he'll be moved if you bring him one. 
-QUEST_JOBSTEP_20150317_000094	$Did the Hunter Master told you to send this? {nl}If you're here for Lydia Schaffen's book, you could have just asked. But thank you anyway. 
-QUEST_JOBSTEP_20150317_000095	$Now, for the last book. {nl}Give this pouch to the Ranger Master and get the book. 
-QUEST_JOBSTEP_20150317_000096	$Did the Quarrel Shooter Master send this? {nl}Thanks. I'll hand over the book as promised. 
-QUEST_JOBSTEP_20150317_000097	$Bring the book quickly. {nl}I can't hold it. 
-QUEST_JOBSTEP_20150317_000098	{memo X}Great, it's this one! {nl}I'll teach you the skills of a Quarrel Shooter as promised. {nl}
-QUEST_JOBSTEP_20150317_000099	$This rock will be useful in repairing the wall. {nl}Bring it to the Archer Master quickly. 
-QUEST_JOBSTEP_20150317_000100	{memo X}If you want to learn more of my skills, there is a condition. {nl}I want you to help me find the four books by Lydia Schaffen. 
-QUEST_JOBSTEP_20150317_000101	$I heard the first book was with a resident in Miners' Village before the Vubbes attacked. {nl}So I think it could be in the Vubbe Outpost now. 
-QUEST_JOBSTEP_20150317_000102	$I'm surprised you found it so fast! {nl}And it's in good condition. {nl}
-QUEST_JOBSTEP_20150317_000103	$I think you might be able to buy the next book from the Hunter Master...{nl}I'm broke after paying to fix the wall. Haha...
-QUEST_JOBSTEP_20150317_000104	$You mean the second book by Lydia Schaffen? {nl}I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000105	$I think around 5000 silver will do. {nl}I heard that's the book's value. 
-QUEST_JOBSTEP_20150317_000106	{memo X}Ah, you came at the right time.{nl}If you could take Merog leather to the Quarrel Shooter Master, he will make you a copy of the next volume.
-QUEST_JOBSTEP_20150317_000107	{memo X}Did the Merog leather come from the Archer Master?
-QUEST_JOBSTEP_20150317_000108	{memo X}You will find Merogs at the Fallen Worry Forest.{nl}Take those to the Quarrel Shooter Master in Klaipeda.
-QUEST_JOBSTEP_20150317_000109	$The quality is fine enough. The Archer Master will be pleased. {nl}Here, I've prepared a copy, so take it. 
-QUEST_JOBSTEP_20150317_000110	$Now there is one book left. {nl}Give this pouch to the Ranger Master and get the book. {nl}
-QUEST_JOBSTEP_20150317_000111	$Did the Archer Master send you? {nl}Well, good work. I'll give you the book as promised. 
-QUEST_JOBSTEP_20150317_000112	$Isn't the book ready yet? {nl}I want to see all of Lydia Schaffen's book as soon as possible...
-QUEST_JOBSTEP_20150317_000113	{memo X}$Finally, it's all here. {nl}I'll teach you my skills as promised. 
-QUEST_JOBSTEP_20150317_000114	{memo X}$I have some books to collect. They're Lydia Schaffen's books. {nl}I'll teach you my skills if you collect the books. What do you say? 
-QUEST_JOBSTEP_20150317_000115	$The first book was in the Miners' Village, but it disappeared after the Vubbes attacked. {nl}I assume the book is in the Vubbe Outpost? 
-QUEST_JOBSTEP_20150317_000116	$Oh, that's pretty good. {nl}It will be helpful for you to read it too. 
-QUEST_JOBSTEP_20150317_000117	{memo X}The problem is the Hunter Master. I really don't want to see her face. {nl}So you go and get the next book from her. 
-QUEST_JOBSTEP_20150317_000118	$You mean the book I have? {nl}Well, okay. I'll hand it over for 5000 silver. 
-QUEST_JOBSTEP_20150317_000119	{memo X}I think around 5000 silver will do. {nl}Can you spare that much? 
-QUEST_JOBSTEP_20150317_000120	{memo X}You came at the right time.{nl}The Quarrel Shooter Master told you that if you could bring Merog leather, he will make you a copy of the next volume.
-QUEST_JOBSTEP_20150317_000121	{memo X}Didn't the Ranger Master tell you anything?{nl}I asked him for Merog leather.
-QUEST_JOBSTEP_20150317_000122	{memo X}$Merogs are at the Fallen Worry Forest and the Quarrel Shooter Master is in Klaipeda. {nl}Someone may go there and get the book faster than you, so please hurry.
-QUEST_JOBSTEP_20150317_000123	$The book is in good condition.{nl}Now, bring the book to the Archer Master. {nl}
-QUEST_JOBSTEP_20150317_000124	$The Archer Master in Klaipeda has the last book. {nl}I heard he is repairing the wall, so this might help you get the book. 
-QUEST_JOBSTEP_20150317_000125	$I heard there is a rock that will be useful for repairing the wall in the Miners' Village. {nl}Bring that to the Archer Master as a present. 
-QUEST_JOBSTEP_20150317_000126	$Did the Hunter Master told you to send this? {nl}If you're here for Lydia Schaffen's book, you could have just asked. But thank you anyway. 
-QUEST_JOBSTEP_20150317_000127	{memo X}$You finally collected them all. Good work. {nl}I will teach you my skills as promised, but it's your job to keep track and follow along.
-QUEST_JOBSTEP_20150317_000128	$You got some good quality leather. {nl}Bring it to the Quarrel Shooter Master. 
-QUEST_JOBSTEP_20150317_000129	$Why did you bring that to me? Take it to the Archer Master quickly.
-QUEST_JOBSTEP_20150317_000130	$Sculptor Tesla
+
+QUEST_JOBSTEP_20150317_000001	邪靈祭司，你將踏上艱難的路途。{nl}閱讀介紹之後就準備好開始製作你的娃娃。
+QUEST_JOBSTEP_20150317_000002	這是專屬於你能製作的東西 {nl}也順便看看該如何使用吧。
+QUEST_JOBSTEP_20150317_000003	恭喜！一位新的邪靈祭司誕生了！ {nl}當我選擇了成為邪靈祭司這條路之後，我便致力於研究如何製作屬於自己的巫毒娃娃。
+QUEST_JOBSTEP_20150317_000004	輕裝盾兵 導師
+QUEST_JOBSTEP_20150317_000005	如果你想得到我的指導，那麼你得先證明你有這個價值。{nl}剛好這兒有個任務可以讓你試試身手。到水晶礦山 1 層去打倒些瓦布。
+QUEST_JOBSTEP_20150317_000006	如果你連這點事情都做不了，那又怎麼擔當得起輕裝盾兵之名呢？
+QUEST_JOBSTEP_20150317_000007	很好。{nl}希望你能用這股力量好好保護世界。 
+QUEST_JOBSTEP_20150317_000008	高地戰士 導師
+QUEST_JOBSTEP_20150317_000009	很榮幸你選擇了劍士的成功之道，但在這之前我必須先知道你是否有這個能耐能夠好好地跟我學習。{nl}所以到水晶礦山 1 層去打倒些瓦布來證明吧。
+QUEST_JOBSTEP_20150317_000010	我令你馬上行動。{nl}雖然瓦布的威脅並不大，但對那些礦工來說可就不是這樣了。
+QUEST_JOBSTEP_20150317_000011	非常好，你完成了這項成為高原戰士的必經路程。保持自我鍛鍊，勝利便手到擒來。
+QUEST_JOBSTEP_20150317_000012	烈焰術士 導師
+QUEST_JOBSTEP_20150317_000013	我看見了你渴望學習魔法的求知慾，但我並不是來者不拒。{nl} 你先協助我完成研究，我再考慮看看。
+QUEST_JOBSTEP_20150317_000014	做得好，這樣我就能進行下一步了。 {nl}我答應教導你關於魔法的知識。
+QUEST_JOBSTEP_20150317_000015	原來你在這，我需要紀錄這些惡靈在戰鬥時發出的特殊波長。{nl}所以就由你來打倒它們。
+QUEST_JOBSTEP_20150317_000016	我正在研究這些第四階段元素。 {nl}但如果沒有邪靈祭司的亡靈們幫忙的話很難完成。 
+QUEST_JOBSTEP_20150317_000017	就是這樣，太棒了。 {nl}快去跟烈焰術士報告已經湊齊需要的所有元素了。 
+QUEST_JOBSTEP_20150317_000018	做得好。{nl}這次研究邪靈祭司也有功，去找她談談，她會跟你說該怎麼做。 
+QUEST_JOBSTEP_20150317_000019	寒冰術士 導師
+QUEST_JOBSTEP_20150317_000020	你想向我學習寒冰魔法？ {nl}當然，我很樂意。但是你得先注意幾件事。 
+QUEST_JOBSTEP_20150317_000021	用火的那傢伙剛好不在嘛。 {nl}那這樣就好辦了。
+QUEST_JOBSTEP_20150317_000022	話先說在前頭，這不是教唆犯罪。 {nl}我會在你背後把風，所以別擔心
+QUEST_JOBSTEP_20150317_000023	潛進烈焰術士導師的房間，裡頭有個盒子，打開它。 {nl}裡面會…總之不管裡面有什麼，殺掉就對了。 
+QUEST_JOBSTEP_20150317_000024	這樣就夠了。 {nl}但我的魔法可不簡單，你需要勤加練習才能完全掌握。
+QUEST_JOBSTEP_20150317_000025	看來你是下定決心要跟隨我了。但我還有些話想問。 {nl}等到你準備好了再來找我。 {nl}
+QUEST_JOBSTEP_20150317_000026	Lydia Schaffen的東西對於我們弓箭手來說就像寶物一樣。 {nl}我可以為了取得那樣的東西而放棄一切。
+QUEST_JOBSTEP_20150317_000027	我從來都不敢想像會有這麼一天… {nl}謝謝，我可以開始指導你我所會的東西了。但你得先準備好才行。 
+QUEST_JOBSTEP_20150317_000028	我聽說星之塔遺失的望遠鏡用鏡頭似乎在水晶礦山 1層 {nl}在其他大師找到前先把它拿來給我。
+QUEST_JOBSTEP_20150317_000029	所以你想從我這邊學習箭之道…那麼你得先完成我的考驗。 {nl}我會等你完成考驗之後再來做決定。
+QUEST_JOBSTEP_20150317_000030	艾佛尼芬…我不會忘記他的。
+QUEST_JOBSTEP_20150317_000031	獵人 導師
+QUEST_JOBSTEP_20150317_000032	你終於收集到所有書了，做得好。 {nl}我會依照承諾來教導你如何成為獵人。
+QUEST_JOBSTEP_20150317_000033	至少你是往對的方向前進。那麼從現在開始我就是你的導師了。 {nl}希望你能符合我的期望。
+QUEST_JOBSTEP_20150317_000034	聽說在水晶礦山 1層裡的蝙蝠有特殊毒液。{nl}我很確定刺客艾佛尼分就是用那種毒液。去帶一些來給我。
+QUEST_JOBSTEP_20150317_000035	野蠻人 導師
+QUEST_JOBSTEP_20150317_000036	我相信如果以武交會的話就能了解對手的想法。 {nl}證明給我看你有真實力來讓我信服。 
+QUEST_JOBSTEP_20150317_000037	你體現了身為一名戰士的價值。 {nl}我會教導你如何成為野蠻人的。
+QUEST_JOBSTEP_20150317_000038	我已經了解你想與矛共進的決心了。 {nl}完成我給你的任務，讓我知道你真的有成為一名優秀矛兵的毅力。
+QUEST_JOBSTEP_20150317_000039	
+QUEST_JOBSTEP_20150317_000040	我已經看到你想變強的決心。 {nl}我想你已經準備好向我學習如何成為一名優秀的矛兵了。
+QUEST_JOBSTEP_20150317_000041	念力法師 導師
+QUEST_JOBSTEP_20150317_000042	若你想精進你的念力，那麼就完成我給予你的考驗吧{nl}我保證這會是個很棒的考驗。
+QUEST_JOBSTEP_20150317_000043	到棘心峽谷去討伐些 Matsums 並收集 flower alcohol 來給我。{nl}小心，那東西非常容易飄散到空氣中，要好好保存。
+QUEST_JOBSTEP_20150317_000044	做得好。你已經收集完 lower alcohol of Matsum 了。{nl}待會你就會看到很有趣的東西。
+QUEST_JOBSTEP_20150317_000045	現在我要你到位於棘心山谷的吉泰拉狹長直道。{nl}把這些藥水灑在我裝好的實驗 Matsum 娃娃上，接著把結果回報給我。
+QUEST_JOBSTEP_20150317_000046	Matsum跑來攻擊你？ {nl}我還以為計畫會成功，畢竟Matsum已經把Matsum娃娃看作是它們的同伴了。
+QUEST_JOBSTEP_20150317_000047	總之做得好。 {nl}你順利地完成我給你的考驗，現在開始我會教導你關於念力的奧秘。 
+QUEST_JOBSTEP_20150317_000048	我所鑽研的是以意志念力直接移動物體的方法。 {nl}換句話說…這就像是用藥物來洗腦一樣。 
+QUEST_JOBSTEP_20150317_000049	鎖鏈法師 導師
+QUEST_JOBSTEP_20150317_000050	對於鎖鍊法師來說，天分是非常重要的。 {nl}以心交會，就能夠開啟更多你不知道的天賦。 {nl}
+QUEST_JOBSTEP_20150317_000051	而我會測試你是否有足夠的天分。 
+QUEST_JOBSTEP_20150317_000052	做得好。但在開始測試前，你還必須先準備一些材料。{nl}把關門路裡掉落的 Dunball’s thorn 和 Velwriggler’s carving 帶給我。{nl} [?]
+QUEST_JOBSTEP_20150317_000053	做得非常好。{nl}但別忘了，這只是測試的前置作業。 {nl}
+QUEST_JOBSTEP_20150317_000054	我們現在正式開始測試。{nl}在關門路那邊有個世界的裂縫。{nl}
+QUEST_JOBSTEP_20150317_000055	但一般人沒有辦法察覺不同，若你具有成為鎖鏈法師的資質的話 {nl}你就有辦法找到裂縫的開口在哪。 {nl}在裂縫裡找到那本書，然後帶回來給我。 
+QUEST_JOBSTEP_20150317_000056	你還沒去嗎？ {nl}到關門路去調查一下，然後帶回我要的東西。{nl}
+QUEST_JOBSTEP_20150317_000057	你把書帶回來了啊。如此一來測試就算是完成了。 {nl}讀一下那本書來學習怎麼成為鎖鏈法師吧。
+QUEST_JOBSTEP_20150317_000058	工兵的技能啊…你得先負擔得起代價再說。 {nl}不是給我，是要給位於克拉佩達的牧師 導師。{nl}大概5000銀幣吧？
+QUEST_JOBSTEP_20150317_000059	等等，還有一件事。 {nl}我先前藏了一些東西在希奧利艾西部森林的浮路德島上。{nl}在你到克拉佩達之前先去把這些東西找出來，然後物歸原主。{nl}{nl} 
+QUEST_JOBSTEP_20150317_000060	哦，這個。我好像在哪見過…嗯…看起來好眼熟。{nl}總之我會感恩地收下，畢竟這是你特地送來給我的。
+QUEST_JOBSTEP_20150317_000061	這、這不就是我之前丟到的工具嗎。 {nl}無論如何，真的很謝謝你。
+QUEST_JOBSTEP_20150317_000062	你是不是忘了捐款的事。 {nl}5000銀幣呢！
+QUEST_JOBSTEP_20150317_000063	牧師 導師
+QUEST_JOBSTEP_20150317_000064	以女神之名感謝你。{nl}這些錢將會用來救助被怪物們所傷的人們。 {nl}
+QUEST_JOBSTEP_20150317_000065	我曾經是個小偷，但某天，我悟懂了某些事，所以我便退出了犯罪生涯。 {nl}但現在有些小疙瘩在干擾著我…這次一定要永絕後患。 {nl}
+QUEST_JOBSTEP_20150317_000066	無論如何，你做得很好。 {nl}從現在開始我們就能互相指導對方了，讓我們一起努力吧。 
+QUEST_JOBSTEP_20150317_000067	我在找一種書，四本屬於Lydia Schaffen的書。 {nl}如果你幫我找到這些書，我就答應成為你的導師。 
+QUEST_JOBSTEP_20150317_000068	那些書原本放在礦工的村子，但是在之前瓦布的襲擊中遺失了。 {nl} 去瓦布們的哨營找找看吧
+QUEST_JOBSTEP_20150317_000069	就是這些書，這事成為一個完美弓箭手所不可或缺的教科書。 {nl}如果你找回所有書的話，我會複製一份給你。
+QUEST_JOBSTEP_20150317_000070	下一本書在弩箭手 導師身上。 {nl}他之前似乎想要梅洛格的皮甲，或許你可以試著用那個東西跟他交易看看。
+QUEST_JOBSTEP_20150317_000071	你沒有從獵人導師那邊拿到梅洛格的皮甲嗎？
+QUEST_JOBSTEP_20150317_000072	這品質真不錯，我相信獵人導師會很開心的。 {nl}你可以拿走書了。 {nl}
+QUEST_JOBSTEP_20150317_000073	皮甲在落葉林，而弩箭手 導師在克拉佩達. {nl}你得加緊腳步，不是只有你一個人在準備。
+QUEST_JOBSTEP_20150317_000074	接著是下一本，這本書在克拉佩達的弓箭手 導師身上。 {nl}我想如果你用好一點的語氣跟他談談，他應該會把書讓給你。 {nl}
+QUEST_JOBSTEP_20150317_000075	他最近在幫忙修復毀壞的城牆。 {nl}我想如果把最近進到礦工小鎮的石頭帶給他的話，對話會順利很多。 
+QUEST_JOBSTEP_20150317_000076	是獵人 導師要你送來這批石頭的嗎？ {nl}如果是為了Lydia Schaffen的書的話，你就儘管拿去吧，不過還是非常感謝你。 
+QUEST_JOBSTEP_20150317_000077	最後一本書在同樣位於克拉佩達的遊俠 導師身上。 {nl}直接把這帶東西給他。 {nl}雖然我可以自己去，不過我們兩個最近有些不愉快。
+QUEST_JOBSTEP_20150317_000078	別問為什麼。 一碼歸一碼，不過這袋子裡面的東西也是為什麼我最近跟他鬧得不愉快的原因。
+QUEST_JOBSTEP_20150317_000079	這是獵人 導師要你帶給我的嗎？ {nl}來，把這本書帶給她。
+QUEST_JOBSTEP_20150317_000080	畢竟她都這麼誠懇地拿這個來給我了，我也不好意思繼續自私下去。
+QUEST_JOBSTEP_20150317_000081	這些皮甲應該夠了。 {nl}趕快在其他人之前把東西拿給弩箭手 導師。 
+QUEST_JOBSTEP_20150317_000082	我想這些石頭用來修補城牆應該很足夠了。 {nl}快點把書拿去給你的導師吧。 
+QUEST_JOBSTEP_20150317_000083	你說你想學習我的技能？ {nl}非常好，正好我正在找個幫手來幫我收集Lydia Shaffen的書。 {nl}你應該覺得自己能夠勝任吧？
+QUEST_JOBSTEP_20150317_000084	那些書原本放在礦工的村子，但是在之前瓦布的襲擊中遺失了。 {nl} 去瓦布們的哨營找找看吧
+QUEST_JOBSTEP_20150317_000085	對，就是它。 {nl}那些人一定會很感激你的。 {nl}如果你找回所有書的話，我會複製一份給你。
+QUEST_JOBSTEP_20150317_000086	還有三本。 {nl}如果塞點錢給獵人 導師的話，她說不定就會把書給你…
+QUEST_JOBSTEP_20150317_000087	但問題在於，我破產了。 
+QUEST_JOBSTEP_20150317_000088	你想要這本Lydia Schaffen的書？ {nl}你出個價，底價5000銀幣。
+QUEST_JOBSTEP_20150317_000089	這樣啊，感謝你的幫忙。 {nl}大約5000銀幣就夠了。 {nl}
+QUEST_JOBSTEP_20150317_000090	5000銀幣…對，數目沒錯。 {nl}那就依照承諾把書給你吧。 
+QUEST_JOBSTEP_20150317_000091	接著…下一本書在弓箭手 導師身上。 {nl}我想帶一點石頭給她，應該會對她修補城牆的作業挺有幫助的。 {nl}雖然我很想這麼做，但是…嗚喔喔…我的背…
+QUEST_JOBSTEP_20150317_000092	下一本書在弓箭手 導師身上。 {nl}我想如果你用好一點的語氣跟他談談，他應該會把書讓給你。 {nl}
+QUEST_JOBSTEP_20150317_000093	他最近在幫忙修復毀壞的城牆。 {nl}我想如果把最近進到礦工小鎮的石頭帶給他的話，對話會順利很多。 
+QUEST_JOBSTEP_20150317_000094	是獵人 導師要你送來這批石頭的嗎？ {nl}如果是為了Lydia Schaffen的書的話，你就儘管拿去吧，不過還是非常感謝你。 
+QUEST_JOBSTEP_20150317_000095	好，最後一本。{nl}你就把這個袋子拿給遊俠 導師，然後換回書。 
+QUEST_JOBSTEP_20150317_000096	是弩箭手 導師要你帶來這袋子的？ {nl}謝謝，那麼書就給你吧。 
+QUEST_JOBSTEP_20150317_000097	快把書拿來！ {nl}我快等不及了！ 
+QUEST_JOBSTEP_20150317_000098	太棒了！就是它。 {nl}我會履行承諾教導你如何成為一名優秀的弩箭手。 {nl}
+QUEST_JOBSTEP_20150317_000099	我想這些石頭用來修補城牆應該很足夠了。 {nl}快點把書拿去給你的導師吧。 
+QUEST_JOBSTEP_20150317_000100	如果你想學我的技能的話，我這有個提議。 {nl}我正好缺個幫手來幫我收集Lydia Schaffen的書。 
+QUEST_JOBSTEP_20150317_000101	聽說有本書在礦工小鎮，但因為之前的瓦布襲擊而遺失了。 {nl}所以你可以到瓦布哨營去找找看。
+QUEST_JOBSTEP_20150317_000102	沒想到你這麼快就找到了。 {nl}而且書的狀態保持得不錯。 {nl}
+QUEST_JOBSTEP_20150317_000103	我想下一本應該在獵人 導師的身上…{nl}但之前修理城牆的時候就把我的錢給花光了…哈哈…
+QUEST_JOBSTEP_20150317_000104	你是說那本Lydia Schaffen的書嗎？ {nl}你出個價，底價5000銀幣。
+QUEST_JOBSTEP_20150317_000105	大概5000銀幣就夠了。{nl}這應該是那本書的約略價格。 
+QUEST_JOBSTEP_20150317_000106	你來對時間了。{nl}如果你可以弄到梅洛格的皮甲給弩箭手 導師的話，她應該會弄一份書的複印本給你。
+QUEST_JOBSTEP_20150317_000107	這皮甲是弓箭手 導師要你帶來的嗎？
+QUEST_JOBSTEP_20150317_000108	皮甲在希奧利艾西部森林。{nl}找到之後拿去給在克拉佩達的弩箭手 導師。
+QUEST_JOBSTEP_20150317_000109	這品質不錯，我相信弓箭手 導師也會很開心的。 {nl}來，我準備了一份複印本，拿給她吧。 
+QUEST_JOBSTEP_20150317_000110	現在剩下最後一本書。 {nl}你就把這個袋子拿給遊俠 導師，然後換回書。{nl}
+QUEST_JOBSTEP_20150317_000111	是弓箭手 導師要你帶來的嗎？ {nl}嗯，做得好，我會履行承諾把書交給你。 
+QUEST_JOBSTEP_20150317_000112	書還沒來嗎？ {nl}我已經等不及想看到所有書了…
+QUEST_JOBSTEP_20150317_000113	終於收集完成了！ {nl}我一定會教你我的畢生絕活的！ 
+QUEST_JOBSTEP_20150317_000114	我正在收集一些書。是Lydia Schaffen的書。 {nl}如果你能收集到所有書的話，我就當你的導師。
+QUEST_JOBSTEP_20150317_000115	第一本書在礦工小鎮，但因為之前的瓦布襲擊而遺失了。 {nl}我猜那書應該在瓦布哨營裡？
+QUEST_JOBSTEP_20150317_000116	哇，做得太好了。 {nl}我想這書應該對你也很有幫助。
+QUEST_JOBSTEP_20150317_000117	現在的問題在於獵人 導師{nl}我真的不想親眼去見她。 {nl}所以就由你代替我去吧。
+QUEST_JOBSTEP_20150317_000118	你想要我的書？ {nl}嗯，沒問題，只要你的出價大於5000銀幣就行。 
+QUEST_JOBSTEP_20150317_000119	我想5000銀幣應該就夠了。 {nl}你身上的錢還夠嗎？
+QUEST_JOBSTEP_20150317_000120	你來對時間了。{nl}弩箭手 導師剛剛跟我說，只要你可以把梅洛格的皮甲帶給她，她就會給你一份書的複印本。
+QUEST_JOBSTEP_20150317_000121	遊俠 導師沒有跟你說清楚嗎？{nl}我要的是梅洛格的皮甲。
+QUEST_JOBSTEP_20150317_000122	皮甲在希奧利艾的西部森林，而弩箭手 導師在克拉佩達. {nl}你的動作得快一點，免得有人搶先你一步。
+QUEST_JOBSTEP_20150317_000123	書的狀態保持得很好。{nl}現在就把它拿去給弓箭手 導師 {nl}
+QUEST_JOBSTEP_20150317_000124	克拉佩達的弓箭手 導師身上有我要的最後一本書。 {nl}我想她應該在幫忙修補毀壞的城牆？ 
+QUEST_JOBSTEP_20150317_000125	礦工小鎮裡好像有她需要的石頭。 {nl}把那個當作伴手禮帶去給她吧。 
+QUEST_JOBSTEP_20150317_000126	是遊俠 導師要你帶來的？{nl}如果是為了Lydia Schaffen的書的話，你就儘管拿去吧，不過還是非常感謝你。 
+QUEST_JOBSTEP_20150317_000127	你終於成功收集完了。做得好。 {nl}我會教你成為一名遊俠，保持專注，這是你的第一堂課。
+QUEST_JOBSTEP_20150317_000128	這皮甲看起來不錯。 {nl}把書拿去給弩箭手 導師吧。
+QUEST_JOBSTEP_20150317_000129	你怎麼把東西拿來給我？趕快拿去給遊俠 導師吧！
+QUEST_JOBSTEP_20150317_000130	Sculptor Tesla
 QUEST_JOBSTEP_20150317_000131	{memo X}A sculptor's talent is important, but so is having an eye for seeing important materials. {nl}I will help you learn my skills if you bring me the blue crystals I'm looking for. 
-QUEST_JOBSTEP_20150317_000132	$That is the problem. {nl}The Yekub swallowed it as soon as it was found on the 2nd Floor of the Miners' Village. 
-QUEST_JOBSTEP_20150317_000133	$Oh, this is it. {nl}I have a lot of time, so I will teach you thoroughly.
+QUEST_JOBSTEP_20150317_000132	這就是問題所在！ {nl}The Yekub swallowed it as soon as it was found on the 2nd Floor of the Miners' Village. 
+QUEST_JOBSTEP_20150317_000133	對，就是它。 {nl}這樣吧，反正我有很多時間，你就好好跟在我身邊學習吧。
 QUEST_JOBSTEP_20150317_000134	{memo X}You want to learn the swordsmanship of a Highlander from me? {nl}I will consider it if you can get cooperation from the Peltastas.
 QUEST_JOBSTEP_20150317_000135	{memo X}As compensation for seeking cooperation, just support 5 boards of wooden buckler type.{nl}Defeating Upents at Indigo Trees Plateau will be enough.
-QUEST_JOBSTEP_20150317_000136	$Thank you for the supplies, but the Highlander Master wouldn't have sent you for just that. {nl}Tell me what you want. {nl}
-QUEST_JOBSTEP_20150317_000137	$An overall cooperation between the Masters? Certainly. {nl}Tell him that the Peltastas will cooperate. 
+QUEST_JOBSTEP_20150317_000136	感謝你的幫忙，但高地戰士 導師不會就這樣把東西給你的。 {nl}跟我說還需要些什麼。 {nl}
+QUEST_JOBSTEP_20150317_000137	所有導師的齊力合作？真有趣。 {nl}告訴他輕裝盾兵 導師說會幫忙的。
 QUEST_JOBSTEP_20150317_000138	{memo X}If the Masters unite, it won't be long until the kingdom rises again. {nl}You did a good job. I will teach you my swordsmanship.
-QUEST_JOBSTEP_20150317_000139	$That should be enough. {nl}Now go seek the cooperation with the Peltasta Master. 
-QUEST_JOBSTEP_20150317_000140	{memo X}$We Peltastas promised the Highlanders we would lend our forces to rebuild the kingdom.{nl}So if you want to learn from me, you should also be responsible.{nl}
+QUEST_JOBSTEP_20150317_000139	這樣應該就夠了。 {nl}現在去問問輕裝盾兵 導師院不願意出一份力。
+QUEST_JOBSTEP_20150317_000140	{memo X}We Peltastas promised the Highlanders we would lend our forces to rebuild the kingdom.{nl}So if you want to learn from me, you should also be responsible.{nl}
 QUEST_JOBSTEP_20150317_000141	{memo X}Meet Uska and lend your force.
 QUEST_JOBSTEP_20150317_000142	{memo X}So you came here at the request of the Peltasta Master.{nl}The Highlander Master once guaranteed that he would get support from the other masters. {nl}
 QUEST_JOBSTEP_20150317_000143	{memo X}We, Peltastas, consider our duties as humans to be most important. 
 QUEST_JOBSTEP_20150317_000144	{memo X}We, Peltastas, consider our duties as humans to be most important. 
 QUEST_JOBSTEP_20150317_000145	{memo X}I was about to ask for aid in the search. {nl}
 QUEST_JOBSTEP_20150317_000146	{memo X}I sent 4 scouts to the Spine Heart Dale, but they all disappeared.{nl}Maybe they didn't think the Thorn Forest was that dangerous... Please find them.
-QUEST_JOBSTEP_20150317_000147	{memo X}$Some issue may have emerged.{nl}Please go to the Spine Heart Dale quickly.
+QUEST_JOBSTEP_20150317_000147	{memo X}Some issue may have emerged.{nl}Please go to the Spine Heart Dale quickly.
 QUEST_JOBSTEP_20150317_000148	{memo X}These...were their keepsakes. {nl}We can at least give the keepsakes to their families. Thank you. {nl}
 QUEST_JOBSTEP_20150317_000149	{memo X}I will tell the Highlander Master myself, so please go back. {nl}Good work. 
 QUEST_JOBSTEP_20150317_000150	{memo X}It might not be a pleasant feeling, but that's good enough. {nl}I will allow you to learn the way of the Peltasta as promised. 
 QUEST_JOBSTEP_20150317_000151	{memo X}I need to gather the energy of fire for my research, but I just don't have time. {nl}If you gather it for me, I will help you learn the magic of Pyromancers.
-QUEST_JOBSTEP_20150317_000152	$Be careful. The pot will break if you don't keep an eye on it. 
+QUEST_JOBSTEP_20150317_000152	小心點，如果你沒有看著鍋子的話，它很可能會爆炸。 
 QUEST_JOBSTEP_20150317_000153	{memo X}Please put this pot on the ground when you go to the Descended Tree Garden.{nl}After that, when you defeat the enemies nearby, energies will be accumulated in the pot.
 QUEST_JOBSTEP_20150317_000154	{memo X}There is an important book that I'm looking for. {nl}If you get me that book, I will help you learn the magic of Cryomancers. 
-QUEST_JOBSTEP_20150317_000155	$Did you say you'll find the book? {nl}Sorry, but you're late. 
-QUEST_JOBSTEP_20150317_000156	$I heard rumors that it's in the Miners' Village, but I don't know the exact location of it. {nl}Maybe the Mayor would know...
-QUEST_JOBSTEP_20150317_000157	$The Vubbes took all the books when they attacked. {nl}Maybe they will use it for fire in their outpost. 
-QUEST_JOBSTEP_20150317_000158	If there was something like that, we would have taken care of it. {nl}You can go and try looking for it. 
-QUEST_JOBSTEP_20150317_000159	$You found it. Great job. {nl}You'll have to work really hard to follow my training. 
-QUEST_JOBSTEP_20150317_000160	$I heard the book was last seen in the Miners' Village. {nl}It's a very important book, so maybe the Mayor might know something about it.
-QUEST_JOBSTEP_20150317_000161	You must have found the book. I don't know how, but congratulations. {nl}Why don't you go back to the one who's waiting for that book? 
-QUEST_JOBSTEP_20150317_000162	Krivis Master
+QUEST_JOBSTEP_20150317_000155	你說你想找那本書？ {nl}抱歉，你來晚了。
+QUEST_JOBSTEP_20150317_000156	有傳聞說東西可能在礦工小鎮，但確切的位置我並不知道。 {nl}或許你可以去問問鎮長…
+QUEST_JOBSTEP_20150317_000157	瓦布在襲擊我們鎮上的時候就把所有書都搜刮走了。 {nl}我想他們應該是想拿書來當生火的原料。
+QUEST_JOBSTEP_20150317_000158	如果我們有任何發現的話會特別關注的。 {nl}你盡可能地往外去找。 
+QUEST_JOBSTEP_20150317_000159	你找到了呀，做得好。 {nl}看來你真的很想要在我的麾下學習。 
+QUEST_JOBSTEP_20150317_000160	聽說書最後出現在礦工小鎮。 {nl}那本書非常重要，去問問鎮長看他知不知道什麼。
+QUEST_JOBSTEP_20150317_000161	你一定是在找這本書，隨便啦，恭喜你！ {nl}趕快拿回去給需要的人。 
+QUEST_JOBSTEP_20150317_000162	聖火祭司 導師
 QUEST_JOBSTEP_20150317_000163	{memo X}A Krivis should be free from the constraints of humans and dedicate themselves to the clergy. {nl}This is done by offering dedication prayers to all the Goddess Statues in Siauliai. {nl}
-QUEST_JOBSTEP_20150317_000164	Repent. {nl}Ask the Goddess for forgiveness and be born anew. 
-QUEST_JOBSTEP_20150317_000165	{memo X}$I can feel that you are full of the Goddess' blessings. {nl}Welcome to your new life as a Krivis. 
-QUEST_JOBSTEP_20150317_000166	Swordsman Master
+QUEST_JOBSTEP_20150317_000164	懺悔吧。 {nl}向女神祈求重獲新生吧。
+QUEST_JOBSTEP_20150317_000165	{memo X}I can feel that you are full of the Goddess' blessings. {nl}Welcome to your new life as a Krivis. 
+QUEST_JOBSTEP_20150317_000166	劍士 導師
 QUEST_JOBSTEP_20150317_000167	{memo X}An old saying goes, fight to the death and you will survive. {nl}I will be able to teach you if you come to realize what it means. 
-QUEST_JOBSTEP_20150317_000168	$You haven't realized what it means. {nl}Fight a bit more. 
-QUEST_JOBSTEP_20150317_000169	$Right... Now do you understand? {nl}Remember that you're a Swordsman and devote yourself to being one. 
+QUEST_JOBSTEP_20150317_000168	你還沒了解我的意思。 {nl}繼續去戰鬥！ 
+QUEST_JOBSTEP_20150317_000169	好…現在你總該了解我的意思了。 {nl}記住，一名傑出的劍士要以奉獻自身作為榮耀。 
 QUEST_JOBSTEP_20150317_000170	{memo X}Then fight against Mentiwoods at the Seven Hues Mesa.{nl}You may learn something from doing this.
 QUEST_JOBSTEP_20150317_000171	{memo X}The most important thing for a Priest is to believe in the Goddess, and prove it. {nl}Exorcise the soldiers possessed with evil spirits in the name of Goddess. 
-QUEST_JOBSTEP_20150317_000172	The soldier is being taken care of in the Miners' Village. {nl}Your sincerity will become your strength. 
-QUEST_JOBSTEP_20150317_000173	Your sincerity has been proven. {nl}We will walk together in the name of the Goddess. 
+QUEST_JOBSTEP_20150317_000172	那明是兵應該在外頭戒備著。 {nl}保持誠意我想會比較好。 
+QUEST_JOBSTEP_20150317_000173	你還挺有誠意的。 {nl}看來女神之名註定我們兩個要共步了。
 QUEST_JOBSTEP_20150317_000174	{memo X}Learning magic from me comes after helping my research. {nl}Let's talk about the talent problem afterwards. 
-QUEST_JOBSTEP_20150317_000175	{memo X}$First get me Skins of Grolls from the Spine Heart Dale, Feelers of Chafperors from Fallen Worry Forest, {nl}And lastly, the nuclei from Jukopus. I am counting on you.
-QUEST_JOBSTEP_20150317_000176	You've gathered everything. {nl}Now let's move on to the next step. 
-QUEST_JOBSTEP_20150317_000177	$Klaipeda is far from the capital and was barely attacked by the monsters. {nl}I paid attention to that point, and I am studying to make a great magic circle. {nl}
-QUEST_JOBSTEP_20150317_000178	And for that, I need to accumulate data. {nl}Can you use this scroll around the city? 
-QUEST_JOBSTEP_20150317_000179	I've marked on the map where you need to install it. {nl}You need to use it on every single point. 
+QUEST_JOBSTEP_20150317_000175	{memo X}First get me Skins of Grolls from the Spine Heart Dale, Feelers of Chafperors from Fallen Worry Forest, {nl}And lastly, the nuclei from Jukopus. I am counting on you.
+QUEST_JOBSTEP_20150317_000176	你已經混合了所有東西了啊。 {nl}這樣就可以進行下個步驟了。
+QUEST_JOBSTEP_20150317_000177	克萊佩達距離首都太遠，而且剛被魔物襲擊過。 {nl}所以我正以這點為重心，試著寫出最好的魔法陣。 {nl}
+QUEST_JOBSTEP_20150317_000178	對了，因為我需要收集一些數據。 {nl}所以你能不能帶著這捲軸跑一趟？
+QUEST_JOBSTEP_20150317_000179	我已經在你的地圖上標記你應該到哪裡去設置魔法了。 {nl}一個地方都不能漏掉喔。 
 QUEST_JOBSTEP_20150317_000180	{memo X}Good work. I've gathered some useful data with your help. {nl}My research is complete so you can come to train anytime.
 QUEST_JOBSTEP_20150317_000181	{memo X}You must have come to learn the faith of Clerics. {nl}I will teach you if you help by treating the injured soldiers of Miners' Village. 
-QUEST_JOBSTEP_20150317_000182	$The Cleric Master shines light on many at such a young age. {nl}Take this holy water and go to the patients quickly. 
-QUEST_JOBSTEP_20150317_000183	$You need holy water to treat them. {nl}You should get holy water from the Priest Master and Krivis Master first. 
+QUEST_JOBSTEP_20150317_000182	牧師 導師在年輕的時候就顯露出他異於常人的聖光天賦。 {nl}趕快把這些聖水拿到傷者那裡去。 
+QUEST_JOBSTEP_20150317_000183	要治療他們就需要聖水。 {nl}聖水可以在聖水祭司 導師還有牧師 導師那裡拿到。 
 QUEST_JOBSTEP_20150317_000184	{memo X}If it's for the Cleric Master, take as much holy water as you need. {nl}She has a beautiful heart that even this old priest would envy. 
-QUEST_JOBSTEP_20150317_000185	$Please send my regards to the Cleric Master. {nl}May the blessings of the Goddess be with you. 
+QUEST_JOBSTEP_20150317_000185	請代替我向牧師 導師致上最高的敬意。 {nl}願女神祝福永隨身邊。
 QUEST_JOBSTEP_20150317_000186	{memo X}Please send them my regards while you get holy water from the masters. 
-QUEST_JOBSTEP_20150317_000187	$Service is what you do for others, but it is also a way of cleansing your own reflection. {nl}I hope your wandering soul will be cleansed as you treat patients. 
-QUEST_JOBSTEP_20150317_000188	{memo X}$Good job. {nl}I will teach you the faith of Clerics, as promised. 
-QUEST_JOBSTEP_20150317_000189	$I think that you may not have a great spear right away, {nl}but you must have a spear that you are strongly attached to. {nl}What do you think about it? 
-QUEST_JOBSTEP_20150317_000190	$Spears are the pride of Hoplites. {nl}A strong spear is something that Hoplites can boast, like their name.
+QUEST_JOBSTEP_20150317_000187	服務就是幫助他人，同時也可以淨化自己不純潔的那一面。 {nl}希望你透過治療這些傷者有學到些東西。 
+QUEST_JOBSTEP_20150317_000188	{memo X}Good job. {nl}I will teach you the faith of Clerics, as promised. 
+QUEST_JOBSTEP_20150317_000189	我想你應該還沒找到一把合適的矛。 {nl}這事關重大，你非得去找一把。 {nl}你不這麼想嗎？
+QUEST_JOBSTEP_20150317_000190	矛就等同於重裝盾兵的榮耀。 {nl}一把合適且強大的矛可以為重裝盾兵帶來無比強大的助力，就像它們怎麼被稱呼的一樣。
 QUEST_JOBSTEP_20150317_000191	{memo X}That's great. {nl}Alright. You have what it takes to learn spearmanship from me. 
 QUEST_JOBSTEP_20150317_000192	{memo X}Alright. {nl}If you want my recognition, show me a spear upgraded to level 6.{nl}
-QUEST_JOBSTEP_20150317_000193	{memo X}$The reality changes as you think. And only thoughts make it possible.{nl}That's called supernatural power. {nl}And the intensity of it will vary based on how much one trusts himself...{nl}
-QUEST_JOBSTEP_20150317_000194	{memo X}$Ah, I only told you boring things.{nl}You want to be a Psychokino, right?{nl}If you could help me a bit, then I will help you so that you can release the strong supernatural power that is hidden inside of you. 
+QUEST_JOBSTEP_20150317_000193	{memo X}The reality changes as you think. And only thoughts make it possible.{nl}That's called supernatural power. {nl}And the intensity of it will vary based on how much one trusts himself...{nl}
+QUEST_JOBSTEP_20150317_000194	{memo X}Ah, I only told you boring things.{nl}You want to be a Psychokino, right?{nl}If you could help me a bit, then I will help you so that you can release the strong supernatural power that is hidden inside of you. 
 QUEST_JOBSTEP_20150317_000195	{memo X}Go to the Nardymo Twin Waterfall in the Goddess' Ancient Garden. {nl}Please bring me the Essence of Demons there.{nl}Okay... I am counting on you.
-QUEST_JOBSTEP_20150317_000196	{memo X}$Okay. This is it.{nl}By looking at its color, I can see it is full of demonic power.{nl}Haha! I will teach you the true power of a Psychokino from now on, so be ready!
+QUEST_JOBSTEP_20150317_000196	{memo X}Okay. This is it.{nl}By looking at its color, I can see it is full of demonic power.{nl}Haha! I will teach you the true power of a Psychokino from now on, so be ready!
 QUEST_JOBSTEP_20150317_000197	{memo X}You want to learn Quarrel Shooter Skills from me? {nl}Right on time. I was also looking for someone to help me.
-QUEST_JOBSTEP_20150317_000198	$You were sent by the Quarrel Shooter Master, right? {nl}You must find a map. A map hidden with the Fletcher's secrets. 
-QUEST_JOBSTEP_20150317_000199	$The Sapper Master says he found some information about the book I'm looking for. {nl}Go to the East Siauliai Woods and meet him. 
+QUEST_JOBSTEP_20150317_000198	是弩箭手 導師要你來的嗎？ {nl}你一定是在找那份地圖，但那地圖藏在造箭者的秘密裡。 
+QUEST_JOBSTEP_20150317_000199	剛剛工兵 導師通知我說他找到了有關我在找的書的線索。 {nl}趕快到希奧利艾 東側森林去找他。
 QUEST_JOBSTEP_20150317_000200	{memo X}The colleague of mine who sneaked into the Mage Tower some time ago told me that he saw a strange map.{nl}I think the map is what I am looking for.
 QUEST_JOBSTEP_20150317_000201	{memo X}He told me a Minotaur has it somewhere on the 3rd floor.{nl}He had troubles because of that monster, so you should prepare yourself well.
 QUEST_JOBSTEP_20150317_000202	{memo X}Oh, is this the map? Good job. {nl}I'll teach you my skills as promised. 
-QUEST_JOBSTEP_20150317_000203	$Is this the map? I really can't tell. {nl}Take it to the Quarrel Shooter Master. 
-QUEST_JOBSTEP_20150317_000204	So you came to learn more skills from me. {nl}Then go help the Rodelero Master in Fedimian. I will evaluate you based on that. 
+QUEST_JOBSTEP_20150317_000203	這就是那張地圖嗎？我快驚訝得說不出話來了。 {nl}趕緊把它拿去給弩箭手 導師。 
+QUEST_JOBSTEP_20150317_000204	我想你是來跟我學習更多技倆的。 {nl}那就現在到佩帝米安去找劍盾兵 導師，我會先觀察你的表現之後再決定。 
 QUEST_JOBSTEP_20150317_000205	{memo X}Did the Archer Master send you?{nl}Klaipeda is becoming stable but Fedimian is still at risk. 
-QUEST_JOBSTEP_20150317_000206	I hear that most of Fedimian, aside from Holy District, is buried and in need of help. 
+QUEST_JOBSTEP_20150317_000206	我所聽到佩帝米安的形容大多都是殘破不堪、失去聖光等等。 
 QUEST_JOBSTEP_20150317_000207	{memo X}I want you to defeat the boss monster in the Mage Tower. {nl}Monsters are pouring out of the tower {nl}and we are having troubles as it is rebuilding Fedimian.
 QUEST_JOBSTEP_20150317_000208	{memo X}According to the scout who made it in, there was a Minotaur on the 3rd Floor of the Mage Tower. {nl}Defeating it will be good enough to serve as a warning. 
 QUEST_JOBSTEP_20150317_000209	{memo X}Well done. Thanks to you, the monsters have been warded off. {nl}Extend my gratitude to the Archer Master as well. 
-QUEST_JOBSTEP_20150317_000210	Well done. {nl}I will train you to be stronger as promised. 
+QUEST_JOBSTEP_20150317_000210	做得好。 {nl}我會依照承諾成為你的導師。
 QUEST_JOBSTEP_20150317_000211	{memo X}You want to learn the skill of a Ranger from me? {nl}Okay. If you help me, I'll consider it depending on how you do. 
 QUEST_JOBSTEP_20150317_000212	{memo X}Evoniphon. {nl}It seems that the Ranger Master still has some regrets.{nl}
 QUEST_JOBSTEP_20150317_000213	{memo X}I saw the Elementalist Master talking to the man in a hoodie.{nl}I can't guarantee if that was him, but I can't forget that unique fragrance.
-QUEST_JOBSTEP_20150317_000214	I heard you're looking for someone who wears a hoodie and has a unique scent. {nl}
-QUEST_JOBSTEP_20150317_000215	Of course I remember. It was a man with a dangerous scent. {nl}He asked about materials that not many people know about so I thought he was strange. {nl}
-QUEST_JOBSTEP_20150317_000216	Evoniphon... I will never forget it. 
+QUEST_JOBSTEP_20150317_000214	聽說你在找個身上有獨特氣味的帽兜男。 {nl}
+QUEST_JOBSTEP_20150317_000215	那個傢伙我當然記得了…我從他身上嗅得到一股危險的味道。 {nl}這是因為他問了一種只有極少人知道的原料，所以我才認為他很詭異。 {nl}
+QUEST_JOBSTEP_20150317_000216	艾佛妮芬…我永遠忘不了她… 
 QUEST_JOBSTEP_20150317_000217	{memo X}After talking with the Elementalist Master briefly, he disappeared into the darkness.{nl}Please go see him.
-QUEST_JOBSTEP_20150317_000218	How would I know his whereabouts. {nl}He asked about materials I did not have so I told him where he could get it. 
+QUEST_JOBSTEP_20150317_000218	我怎麼可能會知道他會去哪。 {nl}我只跟他說了他要的原料在哪裡可能會有而已。 
 QUEST_JOBSTEP_20150317_000219	{memo X}I told him that he would be able escape from the 3rd floor of Mage Tower.{nl}That is the place where the famous Rodelero's search squad also ran away from.
 QUEST_JOBSTEP_20150317_000220	{memo X}This scent... yes, it's Evoniphon's.{nl}This will be enough. I will teach you my skills as promised. 
-QUEST_JOBSTEP_20150317_000221	Yes, this is the scent. {nl}It was very unique so I couldn't forget it even if I wanted to. {nl}
+QUEST_JOBSTEP_20150317_000221	對，就是這個味道。 {nl}這股我想忘都忘不掉的味道。 {nl}
 QUEST_JOBSTEP_20150317_000222	{memo X}I am looking for traces of one man. His name is Evoniphon.{nl}I heard the Squire Master in Fedimian has information about him so please go see him.
 QUEST_JOBSTEP_20150317_000223	{memo X}Hey, if you came here to be stronger, you've come to the right place. {nl}But you can't have it for nothing. You have to do me a favor. {nl}
 QUEST_JOBSTEP_20150317_000224	{memo X}It's not a big task. I want you to help one of my experiments...{nl}First defeat Drakes at the 1st Floor of the Mage Tower and collect flame catalysts.
 QUEST_JOBSTEP_20150317_000225	{memo X}Drakes are actually nothing, but the problem is that the monsters nearby are more dangerous.{nl}Umm... Cheer up!
-QUEST_JOBSTEP_20150317_000226	Oh, right. You should be able to do it easily if you want to become a Sapper. {nl}Now you just have to help with the experiment. 
-QUEST_JOBSTEP_20150317_000227	Well, it's pretty simple. {nl}Check how effective this bomb is on the monsters in East Siauliai Woods.
-QUEST_JOBSTEP_20150317_000228	I hope it works this time...
-QUEST_JOBSTEP_20150317_000229	They fell back without much damage? {nl}Hmm, what could the problem be...I'll need to check from the beginning again. {nl}
+QUEST_JOBSTEP_20150317_000226	哦，對了，將事情盡量地簡化才能成為一名優秀的工兵。 {nl}那現在你得先幫我完成這個實驗。 
+QUEST_JOBSTEP_20150317_000227	這很簡單，不用怕。 {nl}把這個炸彈丟到希奧利艾 西側森林的怪物身上，測試看看效果如何，接著把結果跟我說。
+QUEST_JOBSTEP_20150317_000228	希望這次沒問題…
+QUEST_JOBSTEP_20150317_000229	完全沒有效果？ {nl}嗯…問題會在哪裡呢，看旯我必須從頭開始好好思考設計問題了。 {nl}
 QUEST_JOBSTEP_20150317_000230	{memo X}Anyways, Thanks. {nl}You can come back anytime if you want to learn my skills. 
 QUEST_JOBSTEP_20150317_000231	{memo X}You want to learn about the Bokors? {nl}Then first, get me a card from a powerful monster out there. 
-QUEST_JOBSTEP_20150317_000232	It doesn't matter which card it is as long as it's from a powerful monster. {nl}What you will bring to me is already decided. 
-QUEST_JOBSTEP_20150317_000233	Complete. Traveler. Promised victory. Perfected world. {nl}Finding a full interpretation is up to you.
+QUEST_JOBSTEP_20150317_000232	不必執意直接在比較強的怪物身上拿到卡片。 {nl}在我看來，你拿什麼來給我都是一樣的。 
+QUEST_JOBSTEP_20150317_000233	解決事件、旅遊各地、堅守榮耀、讚嘆世界。 {nl}找個理由讓自己有繼續下去的動力。
 QUEST_JOBSTEP_20150317_000234	{memo X}Sometimes the destined, harsh fate can lead to a dark future. {nl}I will lead you through the path of the Bokor as promised. 
 QUEST_JOBSTEP_20150317_000235	{memo X}I'm looking for a cat that can model but I'm old and it's not easy. {nl}Bring a suitable cat and I'll teach you my skills. 
-QUEST_JOBSTEP_20150317_000236	Grandpa Tesla wants a cat? {nl}There are plenty of cats over at Klaipeda Plaza, but {nl}it won't be easy to catch one without special food. 
-QUEST_JOBSTEP_20150317_000237	I like cats because they do the basics. {nl}The cats have all lines. 
-QUEST_JOBSTEP_20150317_000238	$I can give you special cat food for catching a cat. {nl}If you find my father, I will give it to you for free!
+QUEST_JOBSTEP_20150317_000236	特斯拉爺爺想要一隻貓？ {nl}克萊佩達的廣場上有一堆貓，但是 {nl}如果沒有用特別飼料引誘它們的話是很難抓到的。 
+QUEST_JOBSTEP_20150317_000237	我喜歡貓事因為他們的基本工很足。 {nl}動作的線條也很優美。
+QUEST_JOBSTEP_20150317_000238	只要你幫我找到我的爸爸。 {nl}我就免費把這些飼料都給你。
 QUEST_JOBSTEP_20150317_000239	{memo X}My father is a merchant who used to often come to Fedimian.{nl}He told me he would go to the Mage Tower to do some trades and never returned.{nl}
 QUEST_JOBSTEP_20150317_000240	{memo X}One of Fedimian's soldiers told me that he saw a merchant's luggage on the 3rd floor of the Mage Tower.{nl}You are the only one I can ask for a favor. I am counting on you!
 QUEST_JOBSTEP_20150317_000241	{memo X}This is the symbol that I engraved on my father's sleeve..{nl}This is very precious to me. Thanks.
-QUEST_JOBSTEP_20150317_000242	$I'll give you the special cat food as promised. {nl}It's made with stuff that the cats like so it should work.
-QUEST_JOBSTEP_20150317_000243	$Oh oh, it's that cat. {nl} As promised, let me lead you to a higher ground. {nl}
+QUEST_JOBSTEP_20150317_000242	那麼這些飼料就都給你吧。 {nl}因為全都是手工製作的，所以貓咪一定很喜歡。
+QUEST_JOBSTEP_20150317_000243	喔、喔，貓來了啊。 {nl}依照約定，我會把你的技術磨練上新的境界。 {nl}
 QUEST_JOBSTEP_20150317_000244	{memo X}I've traded for a long time with a Klaipeda Item Merchant, so they might help you. 
 QUEST_JOBSTEP_20150317_000245	{memo X}I want you to do something in return for learning magic from me. {nl}It's simple but a little dangerous. Would you like to give it a try? {nl}
 QUEST_JOBSTEP_20150317_000246	{memo X}Just put this pot in the reading room that is at the 1st floor of the Mage Tower.{nl}The problem is that there are Chapparitions that are standing in the reading room.. I think you would be more than able to defeat them.
-QUEST_JOBSTEP_20150317_000247	$If you find it dangerous, please get out quickly. {nl}I'll just have to find another disciple. 
+QUEST_JOBSTEP_20150317_000247	如果你覺得很危險的話。就直接離開吧。 {nl}我只不過是損失一個準弟子而已。 
 QUEST_JOBSTEP_20150317_000248	{memo X}Good work. {nl}I will teach Pyromancy as promised. {nl}
 QUEST_JOBSTEP_20150317_000249	{memo X}I can promise you a higher level of strength. {nl}Of course, it won't come for free.
 QUEST_JOBSTEP_20150317_000250	{memo X}Please bring the Beaks of Cockatrices from the Crystal Brook, and Scales of Arma from the 3rd floor of the Mage Tower.{nl}It shouldn't be too hard for you.{nl}
 QUEST_JOBSTEP_20150317_000251	{memo X}Well done. {nl}I'll help you become stronger.
-QUEST_JOBSTEP_20150317_000252	You've come to the right place if you want to practice stronger magic. {nl}But you can't learn from me with your weak determination.
-QUEST_JOBSTEP_20150317_000253	I can see your passion, but what about your abilities? {nl}Bring me a Phyracon Fragment and a Green Drake Scale in the Mage Tower.
-QUEST_JOBSTEP_20150317_000254	$Great job. But I still have my doubts. {nl}I'll decide depending on how well you assist my work.
-QUEST_JOBSTEP_20150317_000255	I used to do research on town defense magic and I think we can try that in Fedimian. {nl}But in order to do that I'll need a lot of data. {nl}
-QUEST_JOBSTEP_20150317_000256	Your job is to use this data recording scroll in Fedimian.
-QUEST_JOBSTEP_20150317_000257	I've marked on your map where you should use it. {nl}Use it at each location.
-QUEST_JOBSTEP_20150317_000258	Good work. You wanted to take magic to the next level right? {nl}I'm very strict so I hope you follow along well.
-QUEST_JOBSTEP_20150317_000259	Healing the body also heals the soul. {nl}If you want to take yourself to the next level, then service others by healing them.
-QUEST_JOBSTEP_20150317_000260	There are still many people who need treatment. {nl}Share your kindness with them.
-QUEST_JOBSTEP_20150317_000261	The Goddess helps those who help. {nl}It may not be much, but I hope I can be of assistance in taking you to the next level.
+QUEST_JOBSTEP_20150317_000252	如果你想學習很強的魔法，那你就來對地方了。 {nl}但我看你的決心依然不足。
+QUEST_JOBSTEP_20150317_000253	有熱情是很棒，但你的能力還需要證明。 {nl}從魔法塔把賽拉肯的碎片還有綠色德雷克的鱗片帶來給我。
+QUEST_JOBSTEP_20150317_000254	做得好，但我還是沒辦法完全信任你。 {nl}我會評斷你是否能勝任這些工作再來考慮。
+QUEST_JOBSTEP_20150317_000255	我正在佩帝米安時驗一種大規模的城鎮型防禦術。 {nl}但我還需要一些資料來修正魔法陣的參數。 {nl}
+QUEST_JOBSTEP_20150317_000256	你的任務就是到佩帝米安的四周圍去收集放在各處捲軸上所紀錄的資料。
+QUEST_JOBSTEP_20150317_000257	我已經在你的地圖上標記好了。 {nl}一個都不能漏喔。
+QUEST_JOBSTEP_20150317_000258	做得好，你的確有資格向我學習更高級的魔法。 {nl}但你可得好好跟緊我的腳步。
+QUEST_JOBSTEP_20150317_000259	治療傷口的同時也能淨化靈魂。 {nl}如果你想向我追求更高境界的話，就到外面去試著這麼做。
+QUEST_JOBSTEP_20150317_000260	外頭還有很多人需要治療。 {nl}將你的善心散播出去吧。
+QUEST_JOBSTEP_20150317_000261	女神一向助人所需。 {nl}但有時候可能不太夠，所以我希望我能藉由訓練你來讓女神的善意遠播。
 QUEST_JOBSTEP_20150317_000262	{memo X}Cataphract...{nl}I'm not sure if you have the strength to learn.
 QUEST_JOBSTEP_20150317_000263	{memo X}I like your courage.{nl}Show your skills by defeating Sparnasman in the Rhombuspaving Dale. 
-QUEST_JOBSTEP_20150317_000264	Great work. You seem qualified to learn my skills. {nl}Oh, and I apologize for underestimating you.
+QUEST_JOBSTEP_20150317_000264	做得好。你確實向我證明了你的價值。 {nl}哦，之前很抱歉低估你的實力了。
 QUEST_JOBSTEP_20150317_000265	{memo X}A Cataphract is the one who stands at the front lines and fights.{nl}Destroy everything that is an obstacle to completing your task.{nl}I just remembered something appropriate.
 QUEST_JOBSTEP_20150317_000266	{memo X}There are monsters that attack tourists in Sunset Flag Forest.{nl}You should eliminate such dangerous monsters as quickly as possible.{nl}If you complete the task without any problems, I will acknowledge your skill.
 QUEST_JOBSTEP_20150317_000267	{memo X}Congratulations on passing the test.
-QUEST_JOBSTEP_20150317_000268	Put all of your focus on one point and pierce the enemy. {nl}Of course, you're not yet at that level so I'll approve if you just defeat it.
-QUEST_JOBSTEP_20150317_000269	Sorcerer Master
-QUEST_JOBSTEP_20150317_000270	If you want to learn magic from me, you must show me how strong you are. {nl}It's simple, win a magic duel against me.
-QUEST_JOBSTEP_20150317_000271	Don't be scared. I'll take it down to your level. {nl}I'll meet you in the vacant area of the plaza.
-QUEST_JOBSTEP_20150317_000272	Alright. You seem tough enough. {nl}You can come to me anytime you want to learn magic.
-QUEST_JOBSTEP_20150317_000273	Necromancer Master
-QUEST_JOBSTEP_20150317_000274	Necromancer spells will devour the spell caster if their soul is not well trained. {nl}Fight me and prove how strong your soul is.
-QUEST_JOBSTEP_20150317_000275	Wait in the vacant area of the plaza.
-QUEST_JOBSTEP_20150317_000276	Well, that's good enough to start. {nl}I'll teach you the spell of Necromancers.
-QUEST_JOBSTEP_20150317_000277	Druid Master
-QUEST_JOBSTEP_20150317_000278	You need to awaken your senses first if you want to become a Druid. {nl}I'll awaken your senses to flow with nature through a duel.
-QUEST_JOBSTEP_20150317_000279	There's not enough space here so I'll see you at the vacant area of the plaza.
-QUEST_JOBSTEP_20150317_000280	You have some special senses. {nl}If I can lead you well as a Druid, your future will look promising.
+QUEST_JOBSTEP_20150317_000268	將你的視線專注在一點上，接著放箭貫穿你的目標。 {nl}不過我認為你做不到。當然，只要你有辦法證明給我看，我或許就會改變心意。
+QUEST_JOBSTEP_20150317_000269	巫師 導師
+QUEST_JOBSTEP_20150317_000270	有想要學習魔法的求知慾是很棒，但那也得要你有相等的實力才行。 {nl}很簡單，在魔法比試中打贏我就行了。
+QUEST_JOBSTEP_20150317_000271	別緊張。我不會刻意用超出你的等級的魔法。 {nl}到廣場上等我。
+QUEST_JOBSTEP_20150317_000272	很好，你合格了。 {nl}遇到學習上的迷惘的話就隨時來找我。
+QUEST_JOBSTEP_20150317_000273	死靈法師 導師
+QUEST_JOBSTEP_20150317_000274	死靈法師守則第一條，不要讓你的靈魂被召喚出來的東西給反噬了。 {nl}所以我先來測試你的靈魂到底能不能耐得住。
+QUEST_JOBSTEP_20150317_000275	到廣場上等我。
+QUEST_JOBSTEP_20150317_000276	嗯，看來應該沒有問題。 {nl}準備好開始學習死靈法術吧。
+QUEST_JOBSTEP_20150317_000277	德魯伊 導師
+QUEST_JOBSTEP_20150317_000278	德魯伊最重要的東西就是野性知覺。 {nl}所以我得先測試你的知覺資質如何。
+QUEST_JOBSTEP_20150317_000279	這裡的空間不夠，到廣場上去吧。
+QUEST_JOBSTEP_20150317_000280	你的野性知覺已經準備好讓你成為德魯伊了。 {nl}我會在你的德魯伊之路上好好帶領你的。
 QUEST_JOBSTEP_20150317_000281	{memo X}Only combat makes us stronger. {nl}Prove yourself if you want to learn from me!
 QUEST_JOBSTEP_20150317_000282	{memo X}Our ways are simple. {nl}If you live, you have what it takes and if not, you don't. {nl}Since you are alive, you are worth it.
 QUEST_JOBSTEP_20150317_000283	{memo X}If you're qualified, I'll take your mana to the next level as a Linker. {nl}It doesn't matter which magic it is. I'll test you through a duel.
-QUEST_JOBSTEP_20150317_000284	I tested you at your level and you appear qualified. {nl} As promised, I will help you sharpen your mana.
+QUEST_JOBSTEP_20150317_000284	在這個水平下，你的確發揮出了超乎我想像的能力。 {nl}我會依照約定來教你魔法。
 QUEST_JOBSTEP_20150317_000285	{memo X}Hunters talk only with arrows. {nl}I will tone it down to your level so if you want to learn from me, {nl}you have to overcome me.
-QUEST_JOBSTEP_20150317_000286	You won this duel. {nl}I will train you as promised.
+QUEST_JOBSTEP_20150317_000286	你贏得比試了。 {nl}我會依照承諾訓練你。
 QUEST_JOBSTEP_20150317_000287	{memo X}You must have strength if you want to learn the Highlander's sword. {nl}Show me what you have. {nl}{nl}
-QUEST_JOBSTEP_20150317_000288	I see that you have the bravery and strength that suits a Highlander. {nl}I will take you to the next level with the honor of becoming a Highlander.
+QUEST_JOBSTEP_20150317_000288	我見識到你足以擔當高地戰士的勇氣跟膽魄了。 {nl}我會將你訓練得更強，放心吧。
 QUEST_JOBSTEP_20150317_000289	{memo X}I heard Sparnasman at the Rhombuspaving Dale is threatening people.{nl}It will not be easy, but it will be enough to test your skills. 
 QUEST_JOBSTEP_20150317_000290	{memo X}When you're holding a shield, your courage is important since you should not avoid enemy's attack, but return the attack instead.{nl}Before you learn from me, you should show me how brave you are.{nl}{nl}
 QUEST_JOBSTEP_20150317_000291	{memo X}Defeat Chapparitions at the 1st floor of the Mage Tower.{nl}That bleakness will be enough to test your courage.
-QUEST_JOBSTEP_20150317_000292	I understand your bravery from this. {nl}Always make yourself a proud one for your shield.
+QUEST_JOBSTEP_20150317_000292	勇氣可嘉，做得好。 {nl}以盾為榮，捨我其誰，加油。
 QUEST_JOBSTEP_20150317_000293	{memo X}Sincerity is the strength of a Krivis. {nl}Prove your sincerity through a duel with me.
-QUEST_JOBSTEP_20150317_000294	The duel will take place in my Training Room. {nl}I will see you there.
+QUEST_JOBSTEP_20150317_000294	我想在訓練室來進行決鬥比較好。 {nl}我會在那等你。
 QUEST_JOBSTEP_20150317_000295	{memo X}Your sincerity is as firm as stone pillars. {nl}I'll lead you to a higher level as promised.
 QUEST_JOBSTEP_20150317_000296	{memo X}The faith of a Priest should be unshakable no matter what. {nl}I will test you to see how strong your faith is through a duel. {nl}
-QUEST_JOBSTEP_20150317_000297	The duel will take place in my Training Room. {nl}You go first.
-QUEST_JOBSTEP_20150317_000298	I see that your faith is strong from the outside but deep inside, I still see hesitation. {nl}
+QUEST_JOBSTEP_20150317_000297	我們到訓練室去吧。 {nl}你先請。
+QUEST_JOBSTEP_20150317_000298	雖然你十分地有誠意來到我這，但…你的心中仍有所猶豫。 {nl}
 QUEST_JOBSTEP_20150317_000299	{memo X}Throw away the hesitation and fill it with the grace of the Goddess. {nl}I will help you reach a higher level through this grace.
-QUEST_JOBSTEP_20150317_000300	A Swordsman should swing their sword with no hesitation. {nl}Hesitation is a gap in one's heart. The enemy will always be looking for that gap. {nl}
-QUEST_JOBSTEP_20150317_000301	There's a Minotaur on Mage Tower 3F. {nl}Fight it and throw away any hesitation of the sword.
-QUEST_JOBSTEP_20150317_000302	Hesitation is a dangerous weakness. {nl}I hope you are able to realize that.
-QUEST_JOBSTEP_20150317_000303	Alright... You have what it takes to further develop yourself. {nl}Keep devoting yourself to training.
-QUEST_JOBSTEP_20150317_000304	Centurion Master
-QUEST_JOBSTEP_20150317_000305	The path of a Centurion, is by no means an easy path to take. {nl}But it's a different story if you win a duel with me. What do you think?
-QUEST_JOBSTEP_20150317_000306	The duel will take place in the vacant area of the plaza, so be there first.
-QUEST_JOBSTEP_20150317_000307	That is enough. {nl}I will take the responsibility of teaching you.
-QUEST_JOBSTEP_20150317_000308	Sadhus train by training their soul to become stronger. {nl}I will check through a duel...to see if your soul is prepared enough to take on our training.
+QUEST_JOBSTEP_20150317_000300	劍士就該毫無顧忌地揮舞手中的武器。 {nl}而猶豫，就是怪物能趁隙而入的空檔。 {nl}
+QUEST_JOBSTEP_20150317_000301	你應該知道魔法塔 3層有邁諾陶出沒。 {nl}試著放開心懷，全力跟他們戰鬥。
+QUEST_JOBSTEP_20150317_000302	在戰鬥中猶豫是非常危險的，你千萬要記住。 {nl}希望經過這次的教訓，你可以學乖一點。
+QUEST_JOBSTEP_20150317_000303	好吧…看來你真的等不及想要學更多東西了。 {nl}但也別忘了自我訓練。
+QUEST_JOBSTEP_20150317_000304	百夫長 導師
+QUEST_JOBSTEP_20150317_000305	你要知道，百夫長這條路並不好走。 {nl}當然，如果你能在比試中贏過我，那就另當別論了。
+QUEST_JOBSTEP_20150317_000306	我想比試就在廣場上來好了，但你最好腳步快一點，時間不等人。
+QUEST_JOBSTEP_20150317_000307	夠了。 {nl}我會依照約定指導你。
+QUEST_JOBSTEP_20150317_000308	聖者們會利用靈魂修練來提升自我。 {nl}那麼我想…我們可以來場對決，好讓我看看你的靈魂夠不夠資格。
 QUEST_JOBSTEP_20150317_000309	{memo X}Let's duel at the empty lot in the square.{nl}I will adjust to your level so don't worry too much.
-QUEST_JOBSTEP_20150317_000310	I can see your will. {nl}Welcome to the Sadhu.
-QUEST_JOBSTEP_20150317_000311	Hackapell Master
-QUEST_JOBSTEP_20150317_000312	It's good that you want to learn my combat skills, but first I need to check your abilities. {nl}I'll need to know your weaknesses in order to teach you.
-QUEST_JOBSTEP_20150317_000313	I'll see you at the vacant area in the plaza. {nl}Be there first.
-QUEST_JOBSTEP_20150317_000314	This seems enough. {nl}Harsh training will begin now.
-QUEST_JOBSTEP_20150317_000315	Wugushi Master
+QUEST_JOBSTEP_20150317_000310	你的決心非常充足。 {nl}歡迎加入聖者的行列。
+QUEST_JOBSTEP_20150317_000311	瑞典輕騎兵 導師
+QUEST_JOBSTEP_20150317_000312	我很高興你願意向我學習格鬥技巧。但首先我得先知道你的能力如何。 {nl}至少我必須知道你的弱點在哪，這樣教起來會容易些。
+QUEST_JOBSTEP_20150317_000313	那我們就在廣場上的空地見。{nl}馬上行動！
+QUEST_JOBSTEP_20150317_000314	我想應該夠了。 {nl}結果相當不錯，我想你應該準備好接受嚴格的鍛鍊了吧？
+QUEST_JOBSTEP_20150317_000315	巫蠱師 導師
 QUEST_JOBSTEP_20150317_000316	{memo X}Wugushis don't hesitate to use poison. {nl}Before you learn anything, I'll show you how we fight. {nl}Arrows or airguns, I'll show you with whatever it takes.
 QUEST_JOBSTEP_20150317_000317	{memo X}Let's meet in the vacant area of the plaza. {nl}This place is too small, others might get hurt.
-QUEST_JOBSTEP_20150317_000318	See that? This is how Wugushis fight. {nl}You'll need to throw away your guilt of using foul methods if you want to be a Wugushi.
+QUEST_JOBSTEP_20150317_000318	看到沒？這就是巫蠱師的戰鬥方式。 {nl}你必須先捨棄罪惡感，然後用些下流的手段來取得勝利。
 QUEST_JOBSTEP_20150317_000319	{memo X}If you really want to be a Rodelero, check your shield again. {nl}When I first chose the path of Rodelero, I began with getting a Level 6 Shield.
 QUEST_JOBSTEP_20150317_000320	{memo X}Prepare a Level 6 Shield. {nl}I need to check your will at least.
 QUEST_JOBSTEP_20150317_000321	{memo X}You have perseverance unlike the rest of the youth nowadays. {nl}Come by anytime you want to learn.
-QUEST_JOBSTEP_20150317_000322	I trust my judgment more than anybody. {nl}I will check through a duel if you have what it takes to be with the Squires.
-QUEST_JOBSTEP_20150317_000323	The sword is sharper when you believe in yourself.
-QUEST_JOBSTEP_20150317_000324	I can see your skills. {nl}I hope you will become even greater from now on with my teachings.
-QUEST_JOBSTEP_20150317_000325	Thaumaturge Master
+QUEST_JOBSTEP_20150317_000322	我相信我的正義感遠勝於其他人。 {nl}但你得先跟我來場比試，我才能確定你能不能成為一名及格的侍從。
+QUEST_JOBSTEP_20150317_000323	劍之鋒為自信而銳利。
+QUEST_JOBSTEP_20150317_000324	你的技巧相當不錯。 {nl}但我希望你可以在我的指導之下更進步。
+QUEST_JOBSTEP_20150317_000325	奇術師 導師
 QUEST_JOBSTEP_20150317_000326	{memo X}Thaumaturge magic is one of the most difficult magic but I can lead you well. {nl}Do me a favor and I will guide you in the path of the Thaumaturge.
 QUEST_JOBSTEP_20150317_000327	{memo X}There are many research documents which the Magicians left at the Mage Tower when they ran away from the tower.{nl}Please bring back the research documents from the 3rd floor of the Mage Tower.
 QUEST_JOBSTEP_20150317_000328	{memo X}You completed it faster than I expected.{nl}That's good. I'll help you pull out the abilities of the Thaumaturge inside you.
-QUEST_JOBSTEP_20150317_000329	Put aside the boring theories and get to the actual battle. {nl}It's a simple mission. Go back if you don't wish to fulfill it.
+QUEST_JOBSTEP_20150317_000329	先把無聊的理論擺在一邊，我們先來場實際的測試。 {nl}這個任務很簡單，你只需要回頭然後放棄。
 QUEST_JOBSTEP_20150317_000330	{memo X}Please collect the body fluids of Slimes, and bone fragments from Hallowventers at the Crystal Brook,{nl}and lastly activate the nucleus of Grave Golems at Remaining Tree Dale.
 QUEST_JOBSTEP_20150317_000331	{memo X}Good work. {nl}Since you've completed your mission, let's begin the duel right away.
-QUEST_JOBSTEP_20150317_000332	Scout Master
-QUEST_JOBSTEP_20150317_000333	Being a Scout doesn't mean you're only good at hiding and infiltration. {nl}You also need to have combat skills to be a true Scout. {nl}
+QUEST_JOBSTEP_20150317_000332	斥侯 導師
+QUEST_JOBSTEP_20150317_000333	你可能以為斥侯就是那種隱蔽潛入的角色。 {nl}這樣說也沒錯，但格鬥技巧也必須勤加磨練。 {nl}
 QUEST_JOBSTEP_20150317_000334	{memo X}Prove yourself in a duel against me, then I'll teach you my secret skills.
-QUEST_JOBSTEP_20150317_000335	You have pretty good senses. {nl}But my training can't be done by sense alone so better keep up.
-QUEST_JOBSTEP_20150317_000336	Paladin Master
-QUEST_JOBSTEP_20150317_000337	We have followed the Goddess and fought for justice and belief.{nl}If you truly want to learn from the Paladins, you need to prove your faith.
+QUEST_JOBSTEP_20150317_000335	你的直覺不錯。 {nl}但我接下來要給你的訓練可不只是靠著直覺就能解決的。
+QUEST_JOBSTEP_20150317_000336	聖騎士 導師
+QUEST_JOBSTEP_20150317_000337	我們一直以來都是為了女神之名守護正義及信仰而戰鬥。{nl}如果你真的想成為聖騎士，那麼先讓我看看你的決心。
 QUEST_JOBSTEP_20150317_000338	{memo X}Sparnasman at Rhombuspaving Dale would be enough for your reputation. {nl}Please show us the power of the knight who serves the Goddesses.
-QUEST_JOBSTEP_20150317_000339	At least you weren't bluffing. {nl}Good. You're approved to learn as a Paladin.
-QUEST_JOBSTEP_20150317_000340	So you want to learn from the Highlanders. {nl}Alright. But there is a condition.
-QUEST_JOBSTEP_20150317_000341	You're the support from the Highlander Master. {nl}It's urgent so I'll get straight to the point.
-QUEST_JOBSTEP_20150317_000342	There's a problem in the Crystal Mine and Commander Uska asked us for support. {nl}But we, the Peltastas, don't have the time right now.{nl}
-QUEST_JOBSTEP_20150317_000343	So I want you to help Commander Uska for us.
+QUEST_JOBSTEP_20150317_000339	至少我相信你不是虛有其表。 {nl}很好，我想你應該能成為一位不錯的聖騎士。
+QUEST_JOBSTEP_20150317_000340	你說你是想和高地戰士 導師練習，而他讓你來這邊幫忙？ {nl}好，但我有個條件。
+QUEST_JOBSTEP_20150317_000341	你是那傢伙派來的助手，這樣應該沒問題。 {nl}因為事態緊急，我就不拐彎抹角了。
+QUEST_JOBSTEP_20150317_000342	因為最近水晶礦山發生了點問題，所以烏斯卡指揮官要我找人去幫忙。 {nl}但我們輕裝盾兵現在有事在身，沒辦法撥空幫忙。{nl}
+QUEST_JOBSTEP_20150317_000343	我以我要你代替我們去幫忙指揮官。
 QUEST_JOBSTEP_20150317_000344	A pledge is important. {nl}I cannot accept anything that breaks the trust in the current confusing state.
 QUEST_JOBSTEP_20150317_000345	I thought it would be difficult even when we were asking for support. {nl}But now we're relieved that you're the support.
 QUEST_JOBSTEP_20150317_000346	The Highlanders and Peltastas' honor is on the line. {nl}Please help Commander Uska.
@@ -620,13 +621,13 @@ QUEST_JOBSTEP_20150317_000619	{memo X}You should prove your determination to rem
 QUEST_JOBSTEP_20150317_000620	{memo X}Please talk to the elder of the Crystal Mine if you have a hard time entering the Crystal Mine.
 QUEST_JOBSTEP_20150317_000621	I will purify these pockets so that they won't release demonic power anymore.{nl}Brother, I welcome you to be a priest.
 QUEST_JOBSTEP_20150317_000622	Brother. You came far to learn the religious belief of a Krivis, but I don't have the time to greet you at the moment.
-QUEST_JOBSTEP_20150317_000623	The brother that was bringing the divine objects disappeared.{nl}I beg you for the mercy of the Goddess. Can you find our brother?
-QUEST_JOBSTEP_20150317_000624	Krivis siblings
-QUEST_JOBSTEP_20150317_000625	Don't come near!{nl}The monsters that are after the divine objects are coming!
-QUEST_JOBSTEP_20150317_000626	I was so afraid that I would not be able to bring the divine objects to Klaipeda.{nl}Brother, you must be a messenger that the Goddess sent.
+QUEST_JOBSTEP_20150317_000623	The brother that was bringing the divine object disappeared.{nl}I beg you for the mercy of the Goddess. Can you find our brother?
+QUEST_JOBSTEP_20150317_000624	Krivis Brother
+QUEST_JOBSTEP_20150317_000625	Don't come near!{nl}The monsters that are after the divine object are coming!
+QUEST_JOBSTEP_20150317_000626	I was so afraid that I would not be able to bring the divine object to Klaipeda.{nl}Brother, you must be a messenger that the Goddess sent.
 QUEST_JOBSTEP_20150317_000627	The last call stopped at the Crystal Mine.{nl}The brother should be safe...I am so worried.
-QUEST_JOBSTEP_20150317_000628	I have a lot more to do.{nl}Don't worry and please pass this divine object to the Krivis Master.
-QUEST_JOBSTEP_20150317_000629	How can I say that this object is more important than a person.{nl}This is all due to the blessing of the Goddess that our brother and him are both safe.{nl}
+QUEST_JOBSTEP_20150317_000628	I have a lot more to do.{nl}Don't worry, please pass this divine object to the Krivis Master.
+QUEST_JOBSTEP_20150317_000629	How can I say that this object is more important than a person.{nl}This is all due to the blessing of the Goddess that our brother is safe.{nl}
 QUEST_JOBSTEP_20150317_000630	Anyway, we welcome you to be a member of the Krivis.{nl}The Goddess must be happy to see you.
 QUEST_JOBSTEP_20150317_000631	You should prove that you are suited to use a sword if you want to reach a higher level of swordsmanship.{nl}Please obtain the heart of Stone Orca at the 1st Floor of the Crystal Mine.
 QUEST_JOBSTEP_20150317_000632	There is nothing more important than life.{nl}If you want to use a sword, you should be determined.
@@ -814,7 +815,7 @@ QUEST_JOBSTEP_20150317_000813	Upon visiting the location of the fortress, my con
 QUEST_JOBSTEP_20150317_000814	
 QUEST_JOBSTEP_20150317_000815	Judging from the clues discovered, Ruklys should have been wearing a magic resistant armor at the time.{nl}{nl}Combined with other clues during that period of time, the armour Ruklys was wearing must have been produced using a large amount of mana metal.
 QUEST_JOBSTEP_20150317_000816	So I shall call this Mana Metal
-QUEST_JOBSTEP_20150317_000817	Han Steel
+QUEST_JOBSTEP_20150317_000817	Cold Iron
 QUEST_JOBSTEP_20150317_000818	temporarily. {nl}{nl}
 QUEST_JOBSTEP_20150317_000819	Basic Type
 QUEST_JOBSTEP_20150317_000820	Rough Advancement [Barbarian Advancement]
@@ -825,7 +826,7 @@ QUEST_JOBSTEP_20150317_000824	I'll take on the assignment
 QUEST_JOBSTEP_20150317_000825	Bothersome Mission [Psychokino Advancement] (1)
 QUEST_JOBSTEP_20150317_000826	I'll be the assistant
 QUEST_JOBSTEP_20150317_000827	I don't need it
-QUEST_JOBSTEP_20150317_000828	{memo X}Bothering Mission[Psychokino Advancement] (2)
+QUEST_JOBSTEP_20150317_000828	{memo X}Bothering Mission [Psychokino Advancement] (2)
 QUEST_JOBSTEP_20150317_000829	{memo X}I will check out the results of the research
 QUEST_JOBSTEP_20150317_000830	{memo X}Tell him that it looks somewhat dangerous
 QUEST_JOBSTEP_20150317_000831	Non-existent Book [Linker Advancement] (1)
@@ -841,34 +842,34 @@ QUEST_JOBSTEP_20150317_000840	{memo X}Notice/Deliver the Sapper Master's stuff t
 QUEST_JOBSTEP_20150317_000841	{memo X}Notice/Gather donations and give it to the Cleric Master!#7
 QUEST_JOBSTEP_20150317_000842	Guilty Conscience [Sapper Advancement] (3)
 QUEST_JOBSTEP_20150317_000843	Guilty Conscience [Sapper Advancement] (4)
-QUEST_JOBSTEP_20150317_000844	Bow's Book of Dream [Hunter Advancement] (1)
+QUEST_JOBSTEP_20150317_000844	A Bower's Dream Book [Hunter Advancement] (1)
 QUEST_JOBSTEP_20150317_000845	I'll go find the book
 QUEST_JOBSTEP_20150317_000846	I don't have time for that
-QUEST_JOBSTEP_20150317_000847	Bow's Book of Dream [Hunter Advancement] (2)
+QUEST_JOBSTEP_20150317_000847	Dream Book of the Bow [Hunter Advancement] (2)
 QUEST_JOBSTEP_20150317_000848	I will get the leather and bring the book
-QUEST_JOBSTEP_20150317_000849	Bow's Book of Dream [Hunter Advancement] (3)
+QUEST_JOBSTEP_20150317_000849	Dream Book of the Bow [Hunter Advancement] (3)
 QUEST_JOBSTEP_20150317_000850	I'll go to the Archer Master
-QUEST_JOBSTEP_20150317_000851	Bow's Book of Dream [Hunter Advancement] (4)
+QUEST_JOBSTEP_20150317_000851	Dream Book of the Bow [Hunter Advancement] (4)
 QUEST_JOBSTEP_20150317_000852	I'll deliver the pouch
-QUEST_JOBSTEP_20150317_000853	Bow's Book of Dream2 [Quarrel Shooter Advancement] (1)
-QUEST_JOBSTEP_20150317_000854	Bow's Book of Dream2 [Quarrel Shooter Advancement] (2)
+QUEST_JOBSTEP_20150317_000853	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (1)
+QUEST_JOBSTEP_20150317_000854	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (2)
 QUEST_JOBSTEP_20150317_000855	I'll pay for the book
 QUEST_JOBSTEP_20150317_000856	I don't have money either
-QUEST_JOBSTEP_20150317_000857	Bow's Book of Dream2 [Quarrel Shooter Advancement] (3)
+QUEST_JOBSTEP_20150317_000857	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (3)
 QUEST_JOBSTEP_20150317_000858	I'll go to the Archer Master
 QUEST_JOBSTEP_20150317_000859	I'll quit here
-QUEST_JOBSTEP_20150317_000860	Bow's Book of Dream2 [Quarrel Shooter Advancement] (4)
-QUEST_JOBSTEP_20150317_000861	Bow's Book of Dream3 [Archer Advancement] (1)
+QUEST_JOBSTEP_20150317_000860	Dream Book of the Bow 2 [Quarrel Shooter Advancement] (4)
+QUEST_JOBSTEP_20150317_000861	Dream Book of the Bow 3 [Archer Advancement] (1)
 QUEST_JOBSTEP_20150317_000862	I will get it again later
-QUEST_JOBSTEP_20150317_000863	Bow's Book of Dream3 [Archer Advancement] (2)
+QUEST_JOBSTEP_20150317_000863	Dream Book of the Bow 3 [Archer Advancement] (2)
 QUEST_JOBSTEP_20150317_000864	I need time to prepare money for the book
-QUEST_JOBSTEP_20150317_000865	Bow's Book of Dream3 [Archer Advancement] (3)
+QUEST_JOBSTEP_20150317_000865	Dream Book of the Bow 3 [Archer Advancement] (3)
 QUEST_JOBSTEP_20150317_000866	I need some time to prepare
-QUEST_JOBSTEP_20150317_000867	Bow's Book of Dream3 [Archer Advancement] (4)
-QUEST_JOBSTEP_20150317_000868	Bow's Book of Dream4 [Ranger Advancement] (1)
-QUEST_JOBSTEP_20150317_000869	Bow's Book of Dream4 [Ranger Advancement] (2)
-QUEST_JOBSTEP_20150317_000870	Bow's Book of Dream4 [Ranger Advancement] (3)
-QUEST_JOBSTEP_20150317_000871	Bow's Book of Dream4 [Ranger Advancement] (4)
+QUEST_JOBSTEP_20150317_000867	Dream Book of the Bow 3 [Archer Advancement] (4)
+QUEST_JOBSTEP_20150317_000868	Dream Book of the Bow 4 [Ranger Advancement] (1)
+QUEST_JOBSTEP_20150317_000869	Dream Book of the Bow 4 [Ranger Advancement] (2)
+QUEST_JOBSTEP_20150317_000870	Dream Book of the Bow 4 [Ranger Advancement] (3)
+QUEST_JOBSTEP_20150317_000871	Dream Book of the Bow 4 [Ranger Advancement] (4)
 QUEST_JOBSTEP_20150317_000872	How is it used?
 QUEST_JOBSTEP_20150317_000873	Dream Book of the Bow 4 [Ranger Advancement] (5)
 QUEST_JOBSTEP_20150317_000874	The Best Material [Dievdirbys Advancement]
@@ -885,20 +886,20 @@ QUEST_JOBSTEP_20150317_000884	{memo X}Notice/Let's look for Reconnaissance Squad
 QUEST_JOBSTEP_20150317_000885	{memo X}Duty of the Pledge [Peltasta Advancement] (4)
 QUEST_JOBSTEP_20150317_000886	Essence of Fire [Pyromancer Advancement]
 QUEST_JOBSTEP_20150317_000887	I will collect the energies of fire for you
-QUEST_JOBSTEP_20150317_000888	Legend of the Metal Han [Cryomancer Advancement] (1)
-QUEST_JOBSTEP_20150317_000889	Legend of the Metal Han [Cryomancer Advancement] (2)
+QUEST_JOBSTEP_20150317_000888	Legend of the Cold Iron [Cryomancer Advancement] (1)
+QUEST_JOBSTEP_20150317_000889	Legend of the Cold Iron [Cryomancer Advancement] (2)
 QUEST_JOBSTEP_20150317_000890	I'll try to find them
 QUEST_JOBSTEP_20150317_000891	I'll wish for it next time
 QUEST_JOBSTEP_20150317_000892	Religious Mission [Krivis Advancement]
 QUEST_JOBSTEP_20150317_000893	I'll offer prayers
-QUEST_JOBSTEP_20150317_000894	Fit for Site [Swordsman Advancement]
+QUEST_JOBSTEP_20150317_000894	The Origin of Physique[Swordsman Advancement]
 QUEST_JOBSTEP_20150317_000895	How do you receive enlightenment?
 QUEST_JOBSTEP_20150317_000896	I will come back later
-QUEST_JOBSTEP_20150317_000897	Excorcism [Priest Advancement]
-QUEST_JOBSTEP_20150317_000898	I will perform the excorcism
-QUEST_JOBSTEP_20150317_000899	Hardwork does not Betray [Wizard Advancement] (1)
+QUEST_JOBSTEP_20150317_000897	Exorcism [Priest Advancement]
+QUEST_JOBSTEP_20150317_000898	I will perform the exorcism
+QUEST_JOBSTEP_20150317_000899	Hard Work does not Betray [Wizard Advancement] (1)
 QUEST_JOBSTEP_20150317_000900	I'll help with the research
-QUEST_JOBSTEP_20150317_000901	Hardwork does not Betray [Wizard Advancement] (2)
+QUEST_JOBSTEP_20150317_000901	Hard Work does not Betray [Wizard Advancement] (2)
 QUEST_JOBSTEP_20150317_000902	I will go and use the scroll to collect data
 QUEST_JOBSTEP_20150317_000903	Perfect Holy water [Cleric Advancement] (1)
 QUEST_JOBSTEP_20150317_000904	I'll treat the patients
@@ -944,7 +945,7 @@ QUEST_JOBSTEP_20150317_000943	Where the Sun Shines [Pyromancer Advancement] (1)
 QUEST_JOBSTEP_20150317_000944	I'll do it
 QUEST_JOBSTEP_20150317_000945	Where the Sun Shines [Pyromancer Advancement] (2)
 QUEST_JOBSTEP_20150317_000946	{memo X}Notice/Put the Pot of the Sun at the center of the Reading Room!#8
-QUEST_JOBSTEP_20150317_000947	Mystery of Metal Han [Cryomancer Advancement]
+QUEST_JOBSTEP_20150317_000947	Mystery of Cold Iron [Cryomancer Advancement]
 QUEST_JOBSTEP_20150317_000948	I accept the conditions
 QUEST_JOBSTEP_20150317_000949	Guardian of Fedimian [Wizard Advancement] (1)
 QUEST_JOBSTEP_20150317_000950	I'll do anything for magic
@@ -973,7 +974,7 @@ QUEST_JOBSTEP_20150317_000972	I'll prove myself through a duel
 QUEST_JOBSTEP_20150317_000973	Training for Holiness [Priest Advancement]
 QUEST_JOBSTEP_20150317_000974	Test of the Blades [Swordsman Advancement]
 QUEST_JOBSTEP_20150317_000975	I will defeat the Minotaur
-QUEST_JOBSTEP_20150317_000976	Alcor's Trial [Centurion]
+QUEST_JOBSTEP_20150317_000976	Alcor's Trial [Centurion Advancement]
 QUEST_JOBSTEP_20150317_000977	Duel of the Soul [Sadhu Advancement]
 QUEST_JOBSTEP_20150317_000978	Farrier and Funeral [Hackapell Advancement]
 QUEST_JOBSTEP_20150317_000979	I'll accept the duel
@@ -1013,11 +1014,11 @@ QUEST_JOBSTEP_20150317_001012	Pirate on Land [Corsair Advancement]
 QUEST_JOBSTEP_20150317_001013	I'll get everything back
 QUEST_JOBSTEP_20150317_001014	Wall of Sword and Shield [Rodelero Advancement]
 QUEST_JOBSTEP_20150317_001015	Accept the duel with the Master
-QUEST_JOBSTEP_20150317_001016	The first arrow [Archer Advancement] (1)
+QUEST_JOBSTEP_20150317_001016	The First Arrow [Archer Advancement] (1)
 QUEST_JOBSTEP_20150317_001017	I'll go to the Fletcher Master
-QUEST_JOBSTEP_20150317_001018	The first arrow [Archer Advancement] (2)
+QUEST_JOBSTEP_20150317_001018	The First Arrow [Archer Advancement] (2)
 QUEST_JOBSTEP_20150317_001019	I'll go find some quality Charcoal Stones.
-QUEST_JOBSTEP_20150317_001020	The first arrow [Archer Advancement] (3)
+QUEST_JOBSTEP_20150317_001020	The First Arrow [Archer Advancement] (3)
 QUEST_JOBSTEP_20150317_001021	I'll return to the Archer Master
 QUEST_JOBSTEP_20150317_001022	I'll go in a while
 QUEST_JOBSTEP_20150317_001023	Traces of the Shadow [Ranger Advancement]
@@ -1028,12 +1029,12 @@ QUEST_JOBSTEP_20150317_001027	Sound of the Wood [Fletcher Advancement]
 QUEST_JOBSTEP_20150317_001028	How can I get that?
 QUEST_JOBSTEP_20150317_001029	Hunting Standards [Hunter Advancement]
 QUEST_JOBSTEP_20150317_001030	{memo X}I will hunt for the monster mothers.
-QUEST_JOBSTEP_20150317_001031	Poison to Use [Wugushi Advancement]
+QUEST_JOBSTEP_20150317_001031	Poisons to Use [Wugushi Advancement]
 QUEST_JOBSTEP_20150317_001032	I will collect the poison
 QUEST_JOBSTEP_20150317_001033	Sorry, it's too dangerous
 QUEST_JOBSTEP_20150317_001034	In the Palm of the Hand [Scout Advancement]
 QUEST_JOBSTEP_20150317_001035	In search of the Legend [Quarrel Shooter Advancement]
-QUEST_JOBSTEP_20150317_001036	I'll rub a copy.
+QUEST_JOBSTEP_20150317_001036	I'll rub a copy
 QUEST_JOBSTEP_20150317_001037	A Gust [Rogue Advancement]
 QUEST_JOBSTEP_20150317_001038	I'll accept the test
 QUEST_JOBSTEP_20150317_001039	Proving Skills [Hoplite Advancement]
@@ -1088,7 +1089,7 @@ QUEST_JOBSTEP_20150317_001087	Advisor's Choice [Oracle Advancement]
 QUEST_JOBSTEP_20150317_001088	Evil Energy Purification [Priest Advancement]
 QUEST_JOBSTEP_20150317_001089	I will go through the trial
 QUEST_JOBSTEP_20150317_001090	Save the Holy Offering [Krivis Advancement]
-QUEST_JOBSTEP_20150317_001091	I will find the Krivis brothers
+QUEST_JOBSTEP_20150317_001091	I will find the Krivis brother
 QUEST_JOBSTEP_20150317_001092	{memo X}KnickingKNOCK/1/TRACK_BEFORE/None
 QUEST_JOBSTEP_20150317_001093	Swordsman's Path [Swordsman Advancement]
 QUEST_JOBSTEP_20150317_001094	I'll gather the heart of Stone Orca
@@ -1157,7 +1158,7 @@ QUEST_JOBSTEP_20150317_001156	Activities of a Wizard [Wizard Advancement]
 QUEST_JOBSTEP_20150317_001157	I will take the test
 QUEST_JOBSTEP_20150317_001158	Piercing Through [Cataphract Advancement]
 QUEST_JOBSTEP_20150317_001159	Activities of a Pyromancer [Pyromancer Advancement]
-QUEST_JOBSTEP_20150317_001160	I will defeat 솓 Poata
+QUEST_JOBSTEP_20150317_001160	I will defeat Poata
 QUEST_JOBSTEP_20150317_001161	Activities of a Cryomancer [Cryomancer Advancement]
 QUEST_JOBSTEP_20150317_001162	I will get rid of the Mushcaria
 QUEST_JOBSTEP_20150317_001163	Activities of a Psychokino [Psychokino Advancement]
@@ -1195,9 +1196,9 @@ QUEST_JOBSTEP_20150317_001194	Activities of a Chronomancer [Chronomancer Advance
 QUEST_JOBSTEP_20150317_001195	Complete the Mission of a Wizard [Wizard Advancement]
 QUEST_JOBSTEP_20150317_001196	I'll defeat Ironbaum
 QUEST_JOBSTEP_20150317_001197	I'll come back later
-QUEST_JOBSTEP_20150317_001198	Complete the Mission of a Pyromancer [Pyromancer Advancement]
-QUEST_JOBSTEP_20150317_001199	Complete the Mission of a Cryomancer [Cryomancer Advancement]
-QUEST_JOBSTEP_20150317_001200	Complete the Mission of a Psychokino [Psychokino Advancement]
+QUEST_JOBSTEP_20150317_001198	Complete the Pyromancer's Mission [Pyromancer Advancement]
+QUEST_JOBSTEP_20150317_001199	Complete the Cryomancer's Mission [Cryomancer Advancement]
+QUEST_JOBSTEP_20150317_001200	Complete the Psychokino 's Mission [Psychokino Advancement]
 QUEST_JOBSTEP_20150317_001201	I'll complete the mission for you
 QUEST_JOBSTEP_20150317_001202	Complete the Mission of a Linker [Linker Advancement]
 QUEST_JOBSTEP_20150317_001203	I will defeat the Werewolf
@@ -1273,7 +1274,7 @@ QUEST_JOBSTEP_20150317_001272	Explore the area mentioned by the Hunter Master.
 QUEST_JOBSTEP_20150317_001273	{memo X}The Hunter Master is looking for a book, and he says he'll take you as a Hunter if you help him find it. Search Vubbe Outpost and check if  you can find the book there.
 QUEST_JOBSTEP_20150317_001274	Give the book to the Hunter Master.
 QUEST_JOBSTEP_20150317_001275	Found the book the Hunter Master is looking for. Give it to the Hunter Master.
-QUEST_JOBSTEP_20150317_001276	Defeated Vubbe Fighter and obtained %s
+QUEST_JOBSTEP_20150317_001276	Defeat Vubbe Fighter and obtain %s
 QUEST_JOBSTEP_20150317_001277	This isn't the only book the Hunter Master is looking for. Talk to the Hunter Master again.
 QUEST_JOBSTEP_20150317_001278	{memo X}Collect the Merrog Leather.
 QUEST_JOBSTEP_20150317_001279	{memo X}The Hunter Master told you that you may be able to trade with the Quarrel Shooter Master with the Merrogg Leather you have for the book. Obtain the Merrogg Leather from Fallen Worry Forest.
@@ -1302,7 +1303,7 @@ QUEST_JOBSTEP_20150317_001301	Give silver to the Hunter Master
 QUEST_JOBSTEP_20150317_001302	Prepared enough money for the book. Give 5000 silver to the Hunter Master in exchange for the book and take the book to the Quarrel Shooter Master.
 QUEST_JOBSTEP_20150317_001303	The Quarrel Shooter Master seems utterly happy to get the book. Talk to him to find the next book.
 QUEST_JOBSTEP_20150317_001304	Collect rocks at Miners' Village
-QUEST_JOBSTEP_20150317_001305	Give the rock to the Archer Master
+QUEST_JOBSTEP_20150317_001305	Give the rock to the Alchemist Master
 QUEST_JOBSTEP_20150317_001306	The Quarrel Shooter Master is utterly happy to have found the book. Talk to him to find the next book.
 QUEST_JOBSTEP_20150317_001307	The Quarrel Shooter Master asked you to give the pouch to the Ranger Master. Deliver it to the Ranger Master in Klaipeda and exchange it for the book.
 QUEST_JOBSTEP_20150317_001308	Gave the pouch to the Ranger Master in exchange for the book. Take the book to the Quarrel Shooter Master.
@@ -1374,16 +1375,16 @@ QUEST_JOBSTEP_20150317_001373	Gathered the Essence of Fire. Give the pot of fire
 QUEST_JOBSTEP_20150317_001374	Talk to the Cryomancer Master
 QUEST_JOBSTEP_20150317_001375	Talk to the Cryomancer Master in Klaipeda.
 QUEST_JOBSTEP_20150317_001376	{memo X}Chose the path of Cryomancer. Talk to the Cryomancer Master in Klaipeda.
-QUEST_JOBSTEP_20150317_001377	Ask the Miners' Village mayor about the whereabouts of the book
+QUEST_JOBSTEP_20150317_001377	Ask the Miners' Village Mayor about the whereabouts of the book
 QUEST_JOBSTEP_20150317_001378	The Cryomancer Master says he's looking for a precious book and he'll help you become a Cryomancer if you find the book for him. Ask the Mayor at the Miners' Village about the book.
-QUEST_JOBSTEP_20150317_001379	Search for the book in Vubbe outpost
-QUEST_JOBSTEP_20150317_001380	The Miners' Village mayor says the Vubbes stole everything during their previous raid. Go to the Vubbe outpost and look for the book.
+QUEST_JOBSTEP_20150317_001379	Search for the book at the Vubbe Outpost
+QUEST_JOBSTEP_20150317_001380	The Miners' Village Mayor says the Vubbes stole everything during their previous raid. Go to the Vubbe Outpost and look for the book.
 QUEST_JOBSTEP_20150317_001381	Give the book to the Cryomancer Master
 QUEST_JOBSTEP_20150317_001382	Found the book. Take it to the Cryomancer Master.
 QUEST_JOBSTEP_20150317_001383	Talk to the Krivis Master
 QUEST_JOBSTEP_20150317_001384	Go to the Krivis Master in Klaipeda
 QUEST_JOBSTEP_20150317_001385	Offer prayers to Goddess Statue
-QUEST_JOBSTEP_20150317_001386	The Krivis Masters says it is important to throw away everything and offer yourself to the Goddess. Offer prayters to all Goddess Statues in Siauliai Woods.
+QUEST_JOBSTEP_20150317_001386	The Krivis Masters says it is important to throw away everything and offer yourself to the Goddess. Offer prayers to all Goddess Statues in Siauliai Woods.
 QUEST_JOBSTEP_20150317_001387	Offered prayers to all Goddess Statues in Siauliai Woods. Return to the Krivis Master.
 QUEST_JOBSTEP_20150317_001388	Talk to the Swordsman Master
 QUEST_JOBSTEP_20150317_001389	Talk to the Swordsman Master in Klaipeda.
@@ -1633,11 +1634,11 @@ QUEST_JOBSTEP_20150317_001632	Give the pouches to the Priest Master
 QUEST_JOBSTEP_20150317_001633	Gathered the pouches with evil energy. Take them to the Priest Master.
 QUEST_JOBSTEP_20150317_001634	Got the pouch with evil energy.
 QUEST_JOBSTEP_20150317_001635	Talk to the Krivis Master in Klaipeda.
-QUEST_JOBSTEP_20150317_001636	Krivis Siblings Investigation
-QUEST_JOBSTEP_20150317_001637	The Krivis Master told you that Krivis siblings who were transporting divine objects disappeared. Look for the Krivis siblings at the Miners' Village of Siauliai.
-QUEST_JOBSTEP_20150317_001638	Talk to the Krivis siblings
-QUEST_JOBSTEP_20150317_001639	You've found the Krivis siblings who disappeared. Talk to them.
-QUEST_JOBSTEP_20150317_001640	Defeat the Vubbes who are after the divine objects
+QUEST_JOBSTEP_20150317_001636	Krivis Brother Investigation
+QUEST_JOBSTEP_20150317_001637	The Krivis Master told you that another Krivis brother who was transporting the divine object disappeared. Look for the Krivis brother at Siauliai Miners' Village.
+QUEST_JOBSTEP_20150317_001638	Talk to Krivis Brother
+QUEST_JOBSTEP_20150317_001639	You've found the Krivis brother who disappeared. Talk to him.
+QUEST_JOBSTEP_20150317_001640	Defeat the Vubbes who are after the divine object
 QUEST_JOBSTEP_20150317_001641	Talk to the Swordsman Master
 QUEST_JOBSTEP_20150317_001642	{memo X}Collect the hearts of Stone Orcas in Crystal Mine 1F
 QUEST_JOBSTEP_20150317_001643	The Swordsman Master asked you prove that you are good at handling swords. Defeat Stone Orcas at Crystal Mine 1F and collect the hearts of Stone Orca.
@@ -1662,9 +1663,9 @@ QUEST_JOBSTEP_20150317_001661	Give them to the Cleric Master
 QUEST_JOBSTEP_20150317_001662	Gathered enough green ointment. Take them to the Cleric Master.
 QUEST_JOBSTEP_20150317_001663	Collect %s from Vubbes
 QUEST_JOBSTEP_20150317_001664	Obtained green ointment
-QUEST_JOBSTEP_20150317_001665	Krivis siblings found. Try to talk to the siblings and make them return safely.
-QUEST_JOBSTEP_20150317_001666	Hand over the divine objects to the Krivis Master
-QUEST_JOBSTEP_20150317_001667	The Krivis siblings told you to go first with the divine objects since they have something to do left. Hand the divine objects to the Krivis Master.
+QUEST_JOBSTEP_20150317_001665	Found the Krivis brother found. Talk to him and return him back safely.
+QUEST_JOBSTEP_20150317_001666	Hand over the divine object to the Krivis Master
+QUEST_JOBSTEP_20150317_001667	The Krivis brother told you to go first with the divine object since they have something to do left. Hand the divine object to the Krivis Master.
 QUEST_JOBSTEP_20150317_001668	Meet the Swordsman Master
 QUEST_JOBSTEP_20150317_001669	Meet the Swordsman Master in Klaipeda
 QUEST_JOBSTEP_20150317_001670	Use the provoking orb at Penitence Route of Cathedral
@@ -2272,7 +2273,7 @@ QUEST_JOBSTEP_20150323_002271	{memo X}This is the rope to tie people up.{nl}Prac
 QUEST_JOBSTEP_20150323_002272	{memo X}Bitereginas are threatening people at Owls' Village.{nl}What do you think? I want you defeat them as compensation for my lessons.
 QUEST_JOBSTEP_20150323_002273	{memo X}With the name of Master, I should help others around, but I just don't have the time.{nl}Anyways, I will teach you my skills as I promised to you.
 QUEST_JOBSTEP_20150323_002274	{memo X}If you tell me like that, I can tell you there is a solution.{nl}If you could defeat Moas at the outer edge of Fedimian, who destroyed all my ingredients, I will change your turn.
-QUEST_JOBSTEP_20150323_002275	I heard the Hackapell Master will defeat Shadowgaler at Owls' Village...{nl}It will be good to see if you could defeat them first.
+QUEST_JOBSTEP_20150323_002275	I heard the Hackapell Master is going to defeat the Shadowgaler at the Owl Burial Ground...{nl}It will be good for him to see you defeat it first.
 QUEST_JOBSTEP_20150323_002276	A skilled person like you could defeat Reaverpede at Roxona Marketplace easily.{nl}If you can't do this, I can't accept you as a Ranger applicant.
 QUEST_JOBSTEP_20150323_002277	{memo X}Some idiot baron opened a portal that was connected to the Demon Prison.{nl}I heard that the demons there keep trying to come out.{nl}
 QUEST_JOBSTEP_20150323_002278	{memo X}Defeat Deadborn which is the most dangerous demon there.{nl}It will be a good hunt, don't you think?
@@ -2329,7 +2330,7 @@ QUEST_JOBSTEP_20150323_002328	Tell him it won't be helpful
 QUEST_JOBSTEP_20150323_002329	Important Test [Elementalist]
 QUEST_JOBSTEP_20150323_002330	Decline since it seems too dangerous
 QUEST_JOBSTEP_20150323_002331	Ask him what the gift is
-QUEST_JOBSTEP_20150323_002332	Complete the mission of the Elementalist [Elementalist Advancement]
+QUEST_JOBSTEP_20150323_002332	Complete the Elementalist's mission [Elementalist Advancement]
 QUEST_JOBSTEP_20150323_002333	Defeat %s
 QUEST_JOBSTEP_20150323_002334	To prove your determination to be stronger, please collect Glizardon's Leather in Tenet Chapel B1, Galok's Canine in 1F, and Black Powders from Egnome in 2F.
 QUEST_JOBSTEP_20150323_002335	{memo X}Collect the flower alcohol of Doyor from Veya Valley
@@ -2349,7 +2350,7 @@ QUEST_JOBSTEP_20150323_002348	Meet the Sculptor Tesla at West Siauliai Woods
 QUEST_JOBSTEP_20150323_002349	{memo X}Obtain the coarse tree barks from Tipios in Grass Riverside
 QUEST_JOBSTEP_20150323_002350	{memo X}As a compensation for getting support from the Peltasta Master in Klaipeda, obtain 5 Tipio's tree barks and give them to him.
 QUEST_JOBSTEP_20150323_002351	Cobalt Forest
-QUEST_JOBSTEP_20150323_002352	Hand it over to the Peltasta Master in Klaipeda
+QUEST_JOBSTEP_20150323_002352	Hand them over to the Peltasta Master in Klaipeda
 QUEST_JOBSTEP_20150323_002353	You have obtained the tree barks to make the shield. With these, go meet the Peltasta Master to request support.
 QUEST_JOBSTEP_20150323_002354	{memo X}Collect %s from Tipios in Grass Riverside
 QUEST_JOBSTEP_20150323_002355	{memo X}Collect Beetow toe nails from Veya Valley
@@ -2387,8 +2388,8 @@ QUEST_JOBSTEP_20150323_002386	Put the pot of the sun at Ramstis Ridge
 QUEST_JOBSTEP_20150323_002387	{memo X}The Pyromancer Master requested you something in return for teaching his magic. Put the pot of the sun at Ramstis Ridge.
 QUEST_JOBSTEP_20150323_002388	Pyromancer asked you to do something for her as a reward for teaching her magic. Put the pot of the sun at Ramstis Ridge.
 QUEST_JOBSTEP_20150323_002389	{memo X}Please get Hogma speller at the King's Plateau and the canine of the guard which are the ingredients that the Cryomancer wants.
-QUEST_JOBSTEP_20150323_002390	Defeat Sparnasman at Vieta Canyon
-QUEST_JOBSTEP_20150323_002391	The Highlander Master wants you to show yourself that you are qualified. Prove yourself that you are qualified by defeating Sparnasman at Vieta Canyon.
+QUEST_JOBSTEP_20150323_002390	Defeat Sparnasman at Vieta Gorge
+QUEST_JOBSTEP_20150323_002391	The Highlander Master wants you to show yourself that you are qualified. Prove yourself that you are qualified by defeating Sparnasman at Vieta Gorge.
 QUEST_JOBSTEP_20150323_002392	Defeat Chapparition at Ramstis Ridge
 QUEST_JOBSTEP_20150323_002393	The Peltasta Master told you that you should possess the courage in order to handle the shield. Defeat Chapparition at Ramstis Ridge.
 QUEST_JOBSTEP_20150323_002394	Talk to the Sadhu Master at Akmens Ridge.
@@ -2408,7 +2409,7 @@ QUEST_JOBSTEP_20150323_002407	{memo X}Talk to the Scout Master at Overlong Bridg
 QUEST_JOBSTEP_20150323_002408	Talk to the Paladin Master at Nefritas Cliffs.
 QUEST_JOBSTEP_20150323_002409	The Paladin Master told you that it is important that you act with justice and faith in the name of the Goddess. Defeat Sparnasman at Vieta Gorge and prove your religious belief.
 QUEST_JOBSTEP_20150323_002410	{memo X}Talk to the Cataphract Master at Overlong Bridge Valley.
-QUEST_JOBSTEP_20150323_002411	Defeat Sparnasman at Vieta Canyon to prove your skills to the Cataphract Master
+QUEST_JOBSTEP_20150323_002411	Defeat Sparnasman at Vieta Gorge to prove your skills to the Cataphract Master
 QUEST_JOBSTEP_20150323_002412	Something wrong happened to the Fletcher Master whom the Highlander Master requested to. Find the Fletcher Master at Escanciu Village.
 QUEST_JOBSTEP_20150323_002413	Defeat Moas at the outer edge of Fedimian
 QUEST_JOBSTEP_20150323_002414	The Fletcher Master told you that if you could defeat Moas who broke the ingredients, he will change the turns. Defeat the Moas at the outer edge of Fedimian that are attacking the merchants.
@@ -2598,7 +2599,7 @@ QUEST_JOBSTEP_20150511_002597	{memo X}You should be quick in order to learn from
 QUEST_JOBSTEP_20150511_002598	First, you should gather the perfumed oil that is needed for the maintenance of the statue of the Goddess.{nl}If you request it to the priests in Klaipeda, they will give it to you.
 QUEST_JOBSTEP_20150511_002599	{memo X}If you want to learn from me, you should first show me your skills.{nl}Honeypin at Tenant's Farm would be good.
 QUEST_JOBSTEP_20150714_002600	Congratulations for the birth of new Bokor.{nl}When I selected the way of Bokor, I started off by making my own doll.{nl}
-QUEST_JOBSTEP_20150714_002601	We don't accept any one as a Peltasta.{nl}I will give you an assignment. First, defeat all Vubbes that are occupying the 1st floor of Crystal Mine.
+QUEST_JOBSTEP_20150714_002601	We don't accept just anyone as a Peltasta.{nl}I will give you an assignment. First, defeat all Vubbes that are occupying the 1st floor of Crystal Mine.
 QUEST_JOBSTEP_20150714_002602	I can see your passion to become a Pyromancer, but that passion is not enough.{nl}I will make the decision based on how well you support my research.
 QUEST_JOBSTEP_20150714_002603	I can now move on to the next stage of the research because of you.{nl}You can always come to learn magic. Well done.
 QUEST_JOBSTEP_20150714_002604	Welcome. You shall eliminate the evil that I summon.{nl}I will record the unique wavelength that will come out of this process.
@@ -2620,7 +2621,7 @@ QUEST_JOBSTEP_20150714_002619	{memo X}Defeat Carcashus at Septyni Glen to collec
 QUEST_JOBSTEP_20150714_002620	{memo X}Good. The seeds are okay.{nl}When you start to learn from me, you will realize how great this is.
 QUEST_JOBSTEP_20150714_002621	Anyway, well done.{nl}Let's get along well from now on.
 QUEST_JOBSTEP_20150714_002622	I was looking for a book. Four books of Lydia Schaffen.{nl}If you could help me finding those books, I will permit you to become a Hunter.
-QUEST_JOBSTEP_20150714_002623	I heard enough about your achivements. You still have lots of potentials.{nl}We are looking for someone who could find the books of Lydia Schaffen and you've shown up at the right time. You will help us right?
+QUEST_JOBSTEP_20150714_002623	I heard enough about your achievements. You still have lots of potentials.{nl}We are looking for someone who could find the books of Lydia Schaffen and you've shown up at the right time. You will help us right?
 QUEST_JOBSTEP_20150714_002624	Good. This is it!{nl}As I promised to you, I will teach you high level Quarrel Shooter skills.{nl}
 QUEST_JOBSTEP_20150714_002625	If you want to learn skills of Archer, I have a request to you.{nl}I hope you help us finding the books of Lydia Schaffen.
 QUEST_JOBSTEP_20150714_002626	Finally, I am seeing this with my own eyes!{nl}Well done. I will teach you a new skill right away.
@@ -2629,30 +2630,30 @@ QUEST_JOBSTEP_20150714_002628	The problem is the Hunter Master. I don't want to 
 QUEST_JOBSTEP_20150714_002629	I think about 5,000 silver should be enough.{nl}You can afford it right?
 QUEST_JOBSTEP_20150714_002630	Finally, I collected them all. Well done.{nl}It's easy to teach, but it's your responsibility to follow well.
 QUEST_JOBSTEP_20150714_002631	A sculptor needs to be competent, but he also needs to identify good ingredients.{nl}If you could bring me Blue Crystal which I am looking for, I will help you to become a Dievdirbys.
-QUEST_JOBSTEP_20150714_002632	Finally, you don't look like a newbie anymore. I will give you an important task.{nl}If you could complete it well, I will promise you to become the next level Highlander.
+QUEST_JOBSTEP_20150714_002632	Finally, you don't look like a newbie anymore. I will give you an important task.{nl}If you do a good job, I will promise to help you become the next level Highlander.
 QUEST_JOBSTEP_20150714_002633	{memo X}The task is to receive help from Peltastas.{nl}They will welcome you if you could bring coarse tree barks of Mentiwood from Septyni Glen.
-QUEST_JOBSTEP_20150714_002634	You've completed the mission well.{nl}The kingdom's rebuild will not be far if we, masters keep the close relationship.
+QUEST_JOBSTEP_20150714_002634	You've done a good job completing the mission.{nl}The kingdom's rebuild will not be far if we, the masters, keep a close relationship.
 QUEST_JOBSTEP_20150714_002635	You seem to be ready to progress to the next level Peltasta.{nl}Good, but you should complete the task well in order to receive the learning.
 QUEST_JOBSTEP_20150714_002636	I once receive a help from the Highlander Master.{nl}We, Peltastas value the moral rights that humans should abide the most.
 QUEST_JOBSTEP_20150714_002637	It's good to hear that the Highlander Master liked it.{nl}Now, come to me anytime.
 QUEST_JOBSTEP_20150714_002638	{memo X}Collect the toe nails of Biteroses at Septyni Glen and hand them over to the Highlander Master.{nl}I think that task should be appropriate for you.
 QUEST_JOBSTEP_20150714_002639	It's not hard to teach you high level magic... but, you should help be before I teach them to you.{nl}I should collect the energies of fire that are needed for the research, but I just don't have time for that.
-QUEST_JOBSTEP_20150714_002640	The book I am looking for is very valuable.{nl}If you could find that book for me, I will help you learning new magic of Cryomancer.
+QUEST_JOBSTEP_20150714_002640	The book I am looking for is very valuable.{nl}If you could find that book for me, I will help you learn new magic of the Cryomancer.
 QUEST_JOBSTEP_20150714_002641	A true Krivis should be humble and make offerings to the Goddesses.{nl}By praying and make offerings to all statues of the Goddesses in Siaulai Forest.{nl}
 QUEST_JOBSTEP_20150714_002642	I can sense that you are full of blessings from the Goddesses.{nl}Brother, I will lead you the way of a true Krivis.
 QUEST_JOBSTEP_20150714_002643	According to an old saying, those who seek death shall live.{nl}You should first realize the meaning of this saying before I teach you further.
-QUEST_JOBSTEP_20150714_002644	{memo X}If that's so, fight Carcashus at Septiny Glen.{nl}You will learn something from it.
+QUEST_JOBSTEP_20150714_002644	{memo X}If that's so, fight Carcashus at Septyni Glen.{nl}You will learn something from it.
 QUEST_JOBSTEP_20150714_002645	The most important thing for a true Priest is to trust the Goddesses and prove it to them.{nl}Please exorcise the evil spirit from a soldier in the name of the Goddesses.
 QUEST_JOBSTEP_20150714_002646	You can learn high level magic after helping my research first.{nl}Let's see whether you are qualified to learn them after you help me first.
 QUEST_JOBSTEP_20150714_002647	First, get me Glizardon Horn from Tenet Chapel Basement 1st Floor, Galok Feather from 1st Floor, {nl}and Inoum Fragment from 2nd Floor. Thanks.
-QUEST_JOBSTEP_20150714_002648	Well done. We've collected good documents as a result.{nl}Since we sucessfully completed the urgent research, let's start the lesson again.
-QUEST_JOBSTEP_20150714_002649	As a Cleric, I think the most effective way to get nearest to the Goddess is dedication.{nl}If you could help me curing the soliders at Crystal Mine, I will centainly help you.
+QUEST_JOBSTEP_20150714_002648	Well done. We've collected good documents as a result.{nl}Since we successfully completed the urgent research, let's start the lesson again.
+QUEST_JOBSTEP_20150714_002649	As a Cleric, I think the most effective way to get nearest to the Goddess is dedication.{nl}If you could help me curing the soldiers at Crystal Mine, I will centainly help you.
 QUEST_JOBSTEP_20150714_002650	You can use the divine water as much as you want in the name of the Cleric Master.{nl}He is so kind, I am jealous of him.
 QUEST_JOBSTEP_20150714_002651	When you are getting the divine water from the Masters, I want you to pass my regards as well.
 QUEST_JOBSTEP_20150714_002652	Well done.{nl}I may not be competent enough, but I will help with my best so you could bet nearer to the Goddesses.
 QUEST_JOBSTEP_20150714_002653	If I were to be your spear, I would be really happy.{nl}Good. Are you ready to become the owner of the spear?
 QUEST_JOBSTEP_20150714_002654	Good.{nl}Please show me the spear that is completed to level 6.
-QUEST_JOBSTEP_20150714_002655	The realilty moves as I imagine. Thoughts solely make it possible!{nl}The power of them differs by how one trusts himself...{nl}
+QUEST_JOBSTEP_20150714_002655	The reality moves as I imagine. Thoughts solely make it possible!{nl}The power of them differs by how one trusts himself...{nl}
 QUEST_JOBSTEP_20150714_002656	That's called the super natural power.{nl}Okay. If you could help my task, I will help you so that you could show your real abilities.
 QUEST_JOBSTEP_20150714_002657	Asking me to help you become the greatest Quarrel Shooter, you have such a high ambition. {nl}That's good to hear. I was looking for someone who could help me as well.
 QUEST_JOBSTEP_20150714_002658	Oh, so this is the map. Well done.{nl}I think you may surpass me.
@@ -2672,7 +2673,7 @@ QUEST_JOBSTEP_20150714_002671	I can promise you the higher stage power if it wer
 QUEST_JOBSTEP_20150714_002672	{memo X}From the 1st floor of Royal Mausoleum, please bring me hard skins of Varvs and rigid horns of Zinutekas.{nl}It will not be hard since you are my disciple.
 QUEST_JOBSTEP_20150714_002673	Well done.{nl}I will help you to Cryomancer Master.
 QUEST_JOBSTEP_20150714_002674	Cataphract. {nl}I am not sure if that's going to suitable for you.
-QUEST_JOBSTEP_20150714_002675	A true Cataphract is the warrior who fights at the front.{nl}If anything distubes the way of Cataphract, just destroy it.{nl}Ah, I just remembered something.
+QUEST_JOBSTEP_20150714_002675	A true Cataphract is the warrior who fights at the front.{nl}If anything obstructs the way of a Cataphract, just destroy it.{nl}Ah, I just remembered something.
 QUEST_JOBSTEP_20150714_002676	I heard monsters called Bitereginas attack the tourists at Mannacle Grave.{nl}If you could defeat them, I will teach you what is the true Cataphract.
 QUEST_JOBSTEP_20150714_002677	I knew you would do it.{nl}It will be hard from now on, so follow me well.
 QUEST_JOBSTEP_20150714_002678	Only battles can make us strong.{nl}If you want to be a true Barbarian, prove yourself!
@@ -2681,7 +2682,7 @@ QUEST_JOBSTEP_20150714_002680	Follow me to the north of the base camp. {nl}I sha
 QUEST_JOBSTEP_20150714_002681	Not here, it's north of the base camp.
 QUEST_JOBSTEP_20150714_002682	{memo X}Now is the time to enhance the qualities of Manas that you possess as a Linker.{nl}Any magic is okay. I will test you by dueling.
 QUEST_JOBSTEP_20150714_002683	Hunters only speak in terms of bows. {nl}I will adjust myself to your level, so if you want to be a stronger Hunter, try defeating me.
-QUEST_JOBSTEP_20150714_002684	The highest level of Highlander... You seem to be still hesitating.{nl}But, cutting the hesitation is also the part of the way of Highlander. Are you ready?
+QUEST_JOBSTEP_20150714_002684	The highest level of Highlander... You seem to still be hesitating.{nl}But, having no hesitation is also the part of the way of the Highlander. Are you ready?
 QUEST_JOBSTEP_20150714_002685	Respond with a shield without avoiding enemies' attacks.{nl}Bravery is the most important quality in Peltastas.
 QUEST_JOBSTEP_20150714_002686	I can open up the way to become the highest level Peltasta for you.{nl}But, you should also prove to me your bravery.
 QUEST_JOBSTEP_20150714_002687	Now is the time, brother. Sincerity is the power of Krivis.{nl}Prove your sincerity that you've accumulated so far by dueling against me.
@@ -2689,16 +2690,16 @@ QUEST_JOBSTEP_20150714_002688	Your sincerity is like the rigid stone pole.{nl}I 
 QUEST_JOBSTEP_20150714_002689	The devotion of Priests shall not change in any circumstances.{nl}I will test whether your devotion would stand still even in the worst circumstances by dueling against you.
 QUEST_JOBSTEP_20150714_002690	Throw away your hesitation and fill your heart in with the blessings of the Goddesses.{nl}With the blessings, I will help you to reach the highest level.
 QUEST_JOBSTEP_20150714_002691	We Wugushis do not hesitate using poison.{nl}We will first show you how to fight. We will use bows, airguns, whatever we could use.
-QUEST_JOBSTEP_20150714_002692	Good. Let me teach you a lesson. {nl}This place is too tight so go ahead to the vacant lot down the Kapas Highway.
-QUEST_JOBSTEP_20150714_002693	You must be scared, still standing there. {nl}If not, then wait in Kapas Highway.
-QUEST_JOBSTEP_20150714_002694	Do you really want to be a Rodelero? Then check your shield first. {nl}When I first chose this road, I started by getting a 4th degree shield.
+QUEST_JOBSTEP_20150714_002692	Good. Let me teach you a lesson. {nl}This place is too tight so go ahead to the vacant lot down the Karas Highway.
+QUEST_JOBSTEP_20150714_002693	You must be scared, still standing there. {nl}If not, then wait in Karas Highway.
+QUEST_JOBSTEP_20150714_002694	So you want to be a Rodelero? Then check your shield first. {nl}When I first chose this path, I started out by getting a 4th degree shield.
 QUEST_JOBSTEP_20150714_002695	{memo X}Prepare a shield enhanced 4 degrees. {nl}I need to check your will at least.
 QUEST_JOBSTEP_20150714_002696	If you wish to become a Thaumaturge, it is an honor for me.{nl}But, before that, I want you to do a simple errand.
 QUEST_JOBSTEP_20150714_002697	You found it faster than I expected.{nl}Okay then let's start the lesson right away.
 QUEST_JOBSTEP_20150714_002698	Please get me Varb Resin, Zinutekas Tail Fragments, and Boowook Activation Cores.
 QUEST_JOBSTEP_20150714_002699	Well done indeed.{nl}Since you've completed the mission, I will start the lesson of Elementalist right away.
 QUEST_JOBSTEP_20150714_002700	If you could prove your skills by dueling against me, I will teach you the true skills of Scout.
-QUEST_JOBSTEP_20150714_002701	As there's a lot to prepare, go on ahead to the vacant lot below Karas Highway. I'll go there as soon as I finish.
+QUEST_JOBSTEP_20150714_002701	As there's a lot to prepare, go on ahead to the vacant lot below Karas Highway, I'll go there as soon as I finish.
 QUEST_JOBSTEP_20150714_002702	It's troublesome to duel here. There is a vacant lot below Karas Highway, I'll meet you there.
 QUEST_JOBSTEP_20150714_002703	It is so impressive to find someone who wants to learn from me.{nl}Okay. If could find my belongings, I will accept you as a Corsair.
 QUEST_JOBSTEP_20150714_002704	That idiot assistant captain took everything and fled to the Forest of Prayer.{nl}It's possible that monsters may have taken them. I hope that's the case.
@@ -2714,10 +2715,10 @@ QUEST_JOBSTEP_20150714_002713	It is your assignment to hunt for the monsters tha
 QUEST_JOBSTEP_20150714_002714	You've done it easily.{nl}Okay then, shall me move on to the Intensified stage?{nl}
 QUEST_JOBSTEP_20150714_002715	Rogues should be fast.{nl}Fight against the monsters at the training field near the entrance of Kateen Forest using smoke bombs.{nl}Some of them are really strong so you should aware of them.
 QUEST_JOBSTEP_20150714_002716	Elusiveness is the most attractive property of Rogue.{nl}With swift movements, Rogue makes it's enemies dizzy.
-QUEST_JOBSTEP_20150714_002717	The perfect stage of Hoplite destroys everything.{nl}Unfortunately, my colleague the Hackapell Master does not believe in such thing.
-QUEST_JOBSTEP_20150714_002718	If you could help instead of me, he will realize something.{nl}How about it?
+QUEST_JOBSTEP_20150714_002717	The perfect stage of Hoplite destroys everything.{nl}Unfortunately, my colleague the Hackapell Master does not believe in such a thing.
+QUEST_JOBSTEP_20150714_002718	If you could help prove it for me, he will realize the truth.{nl}How about it?
 QUEST_JOBSTEP_20150714_002719	{memo X}Spears are mighty and never lose.{nl}I want to see the guy's pitiful face after Shadowgaler is dead.
-QUEST_JOBSTEP_20150714_002720	If the friend asks us, I will tell him that our competent Hoplite defeated it.{nl}You reached the level of a master, but if you need any help, you can come to me.
+QUEST_JOBSTEP_20150714_002720	If my friend asks us, I will tell him that our competent Hoplite defeated it.{nl}You reached the level of a master, but if you need any help, you can come to me.
 QUEST_JOBSTEP_20150714_002721	You want to become the greatest Barbarian.{nl}There's something you should do.{nl}
 QUEST_JOBSTEP_20150714_002722	The other masters sent the disciples to Owl Burial Ground to eliminate Yekubs.{nl}But, that should be done by you. Destroy them and return to me.
 QUEST_JOBSTEP_20150714_002723	Yekub will be easy for the greatest Barbarian.
@@ -2822,15 +2823,15 @@ QUEST_JOBSTEP_20150714_002821	{memo X}The Peltasta Master handed over a mission 
 QUEST_JOBSTEP_20150714_002822	{memo X}All regions in Septyni Glen
 QUEST_JOBSTEP_20150714_002823	{memo X}You've obtained the toe nails of Biteroses. Hand them over to the Highlander Master in Klaipeda.
 QUEST_JOBSTEP_20150714_002824	{memo X}The toe nails of Biteroses
-QUEST_JOBSTEP_20150714_002825	The Cryomancer Master told you that there's a valuable book which he is looking for and he wants you to bring that book. Meet the head of Siauliai Miners' Village to ask him about the whereabout of the book.
+QUEST_JOBSTEP_20150714_002825	The Cryomancer Master told you that there's a valuable book which he is looking for and he wants you to bring that book. Meet the Siauliai Miners' Village Mayor to ask him about the whereabout of the book.
 QUEST_JOBSTEP_20150714_002826	{memo X}Defeat Carcashus at Septyni Glen
 QUEST_JOBSTEP_20150714_002827	{memo X}The Swordsman Master wants to be realized. While you are defeating Carcashus at Septyni Glen, realize the words that the Swordsman Master told you.
-QUEST_JOBSTEP_20150714_002828	Get Glizardon Horns from Tenet Chapel Basement 1F, Galok Feathers from 1F, {nl}and Inoum Fragments from 2F that the Wizard Master wants.
+QUEST_JOBSTEP_20150714_002828	Get Glizardon Horns from Tenet Chapel Basement 1F, Galok Furs from 1F, {nl}and Inoum Fragments from 2F that the Wizard Master wants.
 QUEST_JOBSTEP_20150714_002829	The Cleric Master asked you to help curing the patients. Obtain the Holy Water from the Priest Master and the Krivis Master and cure the patients at Miners' Village.
 QUEST_JOBSTEP_20150714_002830	The Psychokino Master told you that he will help you to spurt your real abilities, but he wants demonic essences as a compensation. Defeat Minotaur and Chapparition and obtain demonic essences.
 QUEST_JOBSTEP_20150714_002831	The Sapper Master asked you to help his experiment. First, collect the Burnable Juice from Tontulias from Zachariel Crossroads.
 QUEST_JOBSTEP_20150714_002832	The Pyromancer Master requested to you something in return for teaching high level magic. Put the Pot of the Sun on Ramstis Ridge.
-QUEST_JOBSTEP_20150714_002833	Collect Varb Hard Bark and Zinutekases Strong Horn which are the ingredients Cryomancer wants from the 1st floor of Royal Mausoleum.
+QUEST_JOBSTEP_20150714_002833	Collect Varb Hard Bark and Zinutekas Strong Horn which are the ingredients the Cryomancer Master wants from the 1st floor of Royal Mausoleum.
 QUEST_JOBSTEP_20150714_002834	The Sadhu Master wants to know whether you are ready to accept the training. Duel against the Sadhu Master and win.
 QUEST_JOBSTEP_20150714_002835	Talk to the Wugushi Master in Gateway of Great King
 QUEST_JOBSTEP_20150714_002836	The Wugushi Master says that even if cowardly, the last one standing is the true winner of the combat. Have a duel with the Wugushi Master.
@@ -2889,10 +2890,10 @@ QUEST_JOBSTEP_20150717_002888	Missing Delegation's Whereabouts [Doppelsoeldner A
 QUEST_JOBSTEP_20150717_002889	{memo X}Invincible Lady [Sorcerer Advancement]
 QUEST_JOBSTEP_20150717_002890	Alchemist's Story [Chronomancer Advancement]
 QUEST_JOBSTEP_20150717_002891	Things Left Behind Death [Necromancer Advancement]
-QUEST_JOBSTEP_20150717_002892	Past of Crystal Mine (1)[Alchemist Advancement]
-QUEST_JOBSTEP_20150717_002893	Past of Crystal Mine (2)[Alchemist Advancement]
+QUEST_JOBSTEP_20150717_002892	Past of Crystal Mine (1) [Alchemist Advancement]
+QUEST_JOBSTEP_20150717_002893	Past of Crystal Mine (2) [Alchemist Advancement]
 QUEST_JOBSTEP_20150717_002894	No One Knows [Rogue Advancement]
-QUEST_JOBSTEP_20150717_002895	{memo X}Lydia Schaffen and Black Family [Fletcher Advancement]
+QUEST_JOBSTEP_20150717_002895	{memo X}Lydia Schaffen and the Black Family [Fletcher Advancement]
 QUEST_JOBSTEP_20150717_002896	Handling Monsters [Falconer Advancement]
 QUEST_JOBSTEP_20150717_002897	{memo X}Perfect Marksmanship [Schwarzer Reiter Advancement]
 QUEST_JOBSTEP_20150717_002898	Responsibility of Olpas Painting [Monk Advancement]
@@ -2949,7 +2950,7 @@ QUEST_JOBSTEP_20150717_002948	Go to the Oracle Master in Klaipeda
 QUEST_JOBSTEP_20150717_002949	{memo X}Return to the Oracle Master.
 QUEST_JOBSTEP_20150729_002950	Please collect Tail Pins from Desmoduses in Tenet Chapel B1.{nl}They break easily so it's hard to get the decent ones.
 QUEST_JOBSTEP_20150729_002951	Nice. The Tail Pins are not broken.{nl}When you learn from me, you will realize how great this is.
-QUEST_JOBSTEP_20150729_002952	You should get support from Peltastas.{nl}They will welcome you if you could obtain Coarse Barks from Yognomes in Tenet Chapel B1.
+QUEST_JOBSTEP_20150729_002952	You should get support from the Peltasta Master.{nl}She will welcome you if you obtain coarse tree bark from Yognomes at Tenet Chapel B1.
 QUEST_JOBSTEP_20150729_002953	Please collect black needles from Glizardons in Tenet Chapel B1 and hand them over to the Highlander Master.{nl}I think that will be an adequate mission for you.
 QUEST_JOBSTEP_20150729_002954	If that's so, fight against Glizardons in Tenet Chapel B1.{nl}You will realize something by doing so.
 QUEST_JOBSTEP_20150729_002955	{memo X}You want to become an Alchemist.{nl}I should find out if you are suitable to become an Alchemist.
@@ -3021,7 +3022,7 @@ QUEST_JOBSTEP_20150729_003020	I am not interested
 QUEST_JOBSTEP_20150729_003021	Ask him to trust you
 QUEST_JOBSTEP_20150729_003022	I don't want to get involved in a suspicious task
 QUEST_JOBSTEP_20150729_003023	{memo X}Telling him the circumstances/TALK/3/TRACK_BEFORE/None
-QUEST_JOBSTEP_20150729_003024	{memo X}Eternal Amjinas[Sorcerer Advancement]
+QUEST_JOBSTEP_20150729_003024	{memo X}Eternal Amjinas [Sorcerer Advancement]
 QUEST_JOBSTEP_20150729_003025	I will ask him
 QUEST_JOBSTEP_20150729_003026	{memo X}Tell him to go there himself
 QUEST_JOBSTEP_20150729_003027	{memo X}Passing what you heard/TALK/3/TRACK_BEFORE/None
