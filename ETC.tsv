@@ -2819,7 +2819,7 @@ ETC_20150317_002817	困難
 ETC_20150317_002818	非常困難
 ETC_20150317_002819	{S22}{ol}下個任務等級： {Auto_1}
 ETC_20150317_002820	地區：
-ETC_20150317_002821	{@st45w3}{s18}x{Auto_2} {Auto_1} 個 {/}
+ETC_20150317_002821	{@st45w3}{s18}{Auto_1} {Auto_2}個 {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
 ETC_20150317_002823	{@st64} Approach the NPC and use 
 ETC_20150317_002824	空格
@@ -2863,7 +2863,7 @@ ETC_20150317_002861	收藏品
 ETC_20150317_002862	已加入收藏。
 ETC_20150317_002863	{memo X}Only through the NPC can be registered.
 ETC_20150317_002864	從 {Auto_1} 獲得 {Auto_2}
-ETC_20150317_002865	#NAME?
+ETC_20150317_002865	探索率
 ETC_20150317_002866	探索率
 ETC_20150317_002867	{Auto_1} 任務完成
 ETC_20150317_002868	{Auto_1} NPC遇見
@@ -9173,20 +9173,20 @@ ETC_20150317_009171	{memo X}Ghost Armor Hunter
 ETC_20150317_009172	{memo X}Specter Hunter
 ETC_20150317_009173	裝備 交易 Point Shop
 ETC_20150317_009174	{memo X}Soul Peak_1_2
-ETC_20150317_009175	[劍盾兵 導師]{nl}　  卡米亞
-ETC_20150317_009176	 [侍從 導師] {nl}賈斯汀 萊格溫
-ETC_20150317_009177	[奇術士 導師]{nl}　  拉麗薩
+ETC_20150317_009175	[劍盾兵 導師]{nl}　    卡米亞
+ETC_20150317_009176	   [侍從 導師]{nl}賈斯汀 萊格溫
+ETC_20150317_009177	[奇術士 導師]{nl}　    拉麗薩
 ETC_20150317_009178	{memo X}[Elementalist Master]{nl} Wican Celestic
 ETC_20150317_009179	[斥侯 導師]{nl}瑞克 倫蓋爾
 ETC_20150317_009180	[聖者 導師]{nl}阿格達漢斯卡
-ETC_20150317_009181	[巫蠱師 導師]{nl}　  沃帕特
+ETC_20150317_009181	[巫蠱師 導師]{nl}　    沃帕特
 ETC_20150317_009182	{memo X}[Rogue Master]{nl}         Gema
 ETC_20150317_009183	{memo X}[Tools Merchant]{nl}            Anna
 ETC_20150317_009184	{memo X}[裝備 Merchant]{nl}                   Yorgis
-ETC_20150317_009185	[重裝步兵 導師]{nl} 弗林特博爾德
+ETC_20150317_009185	[重裝步兵 導師]{nl}    弗林特博爾德
 ETC_20150317_009186	[德魯伊 導師]{nl}　吉娜 格林
 ETC_20150317_009187	{memo X}[Officer]{nl} Dalrine
-ETC_20150317_009188	[烈焰術士 導師]{nl}　 雅勃 梅林
+ETC_20150317_009188	[烈焰術士 導師]{nl}　   雅勃 梅林
 ETC_20150317_009189	[高地戰士 導師]{nl}道格拉斯 布萊克
 ETC_20150317_009190	高地戰士 隱藏任務
 ETC_20150317_009191	Practice Post (Fire)
@@ -9194,20 +9194,20 @@ ETC_20150317_009192	Practice Post (Poison)
 ETC_20150317_009193	Practice Post (Electricity)
 ETC_20150317_009194	Practice Post (Earth)
 ETC_20150317_009195	{memo X}[Item Merchant]{nl}         Mirina
-ETC_20150317_009196	[裝備商人]{nl} 鄧克爾
-ETC_20150317_009197	[配件商人]{nl} 羅尼薩
+ETC_20150317_009196	[裝備商人]{nl}   鄧克爾
+ETC_20150317_009197	[配件商人]{nl}   羅尼薩
 ETC_20150317_009198	克萊佩達 女神雕像
-ETC_20150317_009199	[鐵匠]{nl}澤拉斯
+ETC_20150317_009199	 [鐵匠]{nl}澤拉斯
 ETC_20150317_009200	[輕裝盾兵 導師]{nl}　瑪麗亞 利茲
 ETC_20150317_009201	[寒冰術士 導師]{nl}阿萊斯特 克勞利
-ETC_20150317_009202	[弩箭手 導師]{nl}　瑞姆托裡
-ETC_20150317_009203	[游俠 導師]{nl}　妮莫肯
-ETC_20150317_009204	[劍士 導師]{nl}　拉舒亞
-ETC_20150317_009205	[法師 導師]{nl}　露西婭
-ETC_20150317_009206	[弓箭手 導師]{nl}埃德蒙斯泰勒
-ETC_20150317_009207	[牧師 導師]{nl} 羅扎利亞
-ETC_20150317_009208	[聖水祭司 導師]{nl}　　博爾波
-ETC_20150317_009209	[聖火祭司 導師]{nl}　　赫格斯
+ETC_20150317_009202	[弩箭手 導師]{nl}　 瑞姆托裡
+ETC_20150317_009203	[游俠 導師]{nl}　 妮莫肯
+ETC_20150317_009204	[劍士 導師]{nl}　 拉舒亞
+ETC_20150317_009205	[法師 導師]{nl}　 露西婭
+ETC_20150317_009206	[弓箭手 導師]{nl} 埃德蒙斯泰勒
+ETC_20150317_009207	[牧師 導師]{nl}   羅扎利亞
+ETC_20150317_009208	[聖水祭司 導師]{nl}　　 博爾波
+ETC_20150317_009209	[聖火祭司 導師]{nl}　　 赫格斯
 ETC_20150317_009210	{memo X}[Auctioneer]{nl} Demares
 ETC_20150317_009211	[市場管理員]{nl}　　羅西
 ETC_20150317_009212	 [同伴商人]{nl}克里斯蒂娜
@@ -9244,7 +9244,7 @@ ETC_20150317_009242	Central Pillar 6
 ETC_20150317_009243	Central Pillar 7
 ETC_20150317_009244	Central Pillar 8
 ETC_20150317_009245	2F
-ETC_20150317_009246	[煉金術士 導師]{nl}　  維多塔斯
+ETC_20150317_009246	[煉金術士 導師]{nl}　    維多塔斯
 ETC_20150317_009247	Entrance Purifier
 ETC_20150317_009248	Central Purifier
 ETC_20150317_009249	Passage Purifier
@@ -9434,7 +9434,7 @@ ETC_20150317_009432	{memo X}Abandoned Luggage
 ETC_20150317_009433	Dumped Luggage
 ETC_20150317_009434	Old Box
 ETC_20150317_009435	[寬恕者 導師]{nl} Mistes Goldmund
-ETC_20150317_009436	[巫師 導師]{nl} 達姆 瑟茜
+ETC_20150317_009436	[巫師 導師]{nl}   達姆 瑟茜
 ETC_20150317_009437	For the 4th advancement of Pardoner
 ETC_20150317_009438	For the 4th advancement of Sorcerer
 ETC_20150317_009439	Eye of the Great King
@@ -9517,7 +9517,7 @@ ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemi
 ETC_20150317_009516	Mine Manager Brinker
 ETC_20150317_009517	Start Trigger
 ETC_20150317_009518	Medium Boss 傀儡 Trigger
-ETC_20150317_009519	[重裝步兵 導師]{nl} 阿迪達斯 貝勒
+ETC_20150317_009519	[重裝步兵 導師]{nl}   阿迪達斯 貝勒
 ETC_20150317_009520	For Krivis' 4th advancement quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
 ETC_20150317_009522	{memo X}Maggot
@@ -9754,6 +9754,7 @@ ETC_20150323_009752	{memo X}You've robbed 10 treasure chests.
 ETC_20150323_009753	{memo X}Treasure Hunter : Master
 ETC_20150323_009754	{memo X}You've robbed 100 treasure chests.
 ETC_20150323_009755	哈那米擊殺數
+ETC_20150323_009756	
 ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
@@ -13692,10 +13693,10 @@ ETC_20150729_013691	按{img space 40 40}鍵可以與目標互動。
 ETC_20150729_013692	地圖上可確認現在自身位置和重要的區域。
 ETC_20150729_013693	按{img M 40 40}鍵可確認目前所在的位置。
 ETC_20150729_013694	{nl} {nl}小地圖上會顯示資訊與 NPC 的位置。{nl} {nl}{img minimap_leader 25 25}：你目前的位置。{nl}{img minimap_1_MAIN 25 25}：現在進行中的任務目標。{nl}{img minimap_0 25 25}：重要 NPC 的位置。{nl}{img minimap_goddess 25 25}：女神像的位置，可以進行傳送。{nl}{img minimap_board 25 25}：顯示各種情報的告示板。{nl}{img minimap_portal 25 25}：可通往其他地區的通路。{nl} {nl}
-ETC_20150729_013695	Press {img N 40 40} to open the World Map.
-ETC_20150729_013696	Only the areas you have already discovered will be activated. Undiscovered areas are not shown on the World Map.
-ETC_20150729_013697	Hover your mouse over the discovered {nl} area to see the map in detail.
-ETC_20150729_013698	Use Status Points obtained through leveling up to upgrade your character's abilities.
+ETC_20150729_013695	按{img N 40 40}鍵可檢視世界地圖。
+ETC_20150729_013696	未去過的地區不會在世界地圖上標示出,{nl}即使只到達過一次新地區，也會在世界地圖上標示出.
+ETC_20150729_013697	標示的地區用游標可查看當前地區中{nl}角色的完整地圖.
+ETC_20150729_013698	通過升級時獲得的素質點可以使角色的能力值提升.
 ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	You can preview the effects on the screen below.
@@ -15670,7 +15671,7 @@ ETC_20151016_015669	{memo X}Ugh! They again..!
 ETC_20151016_015670	What! Demons!
 ETC_20151016_015671	There they are!
 ETC_20151016_015672	You check it with Monocle.
-ETC_20151016_015673 Cozy Lodge
+ETC_20151016_015673	Cozy Lodge
 ETC_20151016_015674	Kedora Merchants' Benefits
 ETC_20151016_015675	PR Notice : Join the Kedora Merchants!{nl}Benefit Effect : Temporary increase in attack and magic attack!
 ETC_20151016_015676	Dopey Ferret
@@ -16289,7 +16290,6 @@ ETC_20151022_016288	Ask the importance of the tombstones of Nestos
 ETC_20151022_016289	Ask the red energies that are coming from the tombstone
 ETC_20151022_016290	Crossbow Pistol
 ETC_20151022_016291	Recipe - Rapier
-ETC_20151022_016292	Recipe - 
 ETC_20151022_016292	Recipe-Epee
 ETC_20151022_016293	Recipe-Sharp Raypear
 ETC_20151022_016294	Recipe-Duelist
