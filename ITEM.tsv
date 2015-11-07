@@ -194,7 +194,7 @@ ITEM_20150317_000193	初出茅廬的巫師不在意這個特殊武器, 但經驗
 ITEM_20150317_000194	雙手劍[打擊] 
 ITEM_20150317_000195	無法預見地打擊目標, 就如夜空中的一閃. 
 ITEM_20150317_000196	露西杜斯 
-ITEM_20150317_000197	雖然部分人會誤認為這把武器是"砍木斧"，但實際使用者們都會告訴你如果沒有它的話植物大災變(the Great Plant Cataclysm)中的損失將會更慘重。
+ITEM_20150317_000197	Although some people dismiss this weapon as a 'tree cutting axe', its actual users will tell you that the Great Plant Cataclysm would have resulted in far worse losses without it. 
 ITEM_20150317_000198	地獄與天堂 
 ITEM_20150317_000199	這把武器印證了"進攻是最好的防禦"這句話. 
 ITEM_20150317_000200	亡者之牙 
@@ -460,7 +460,7 @@ ITEM_20150317_000459	經常在低能見度和大風的天氣下使用.
 ITEM_20150317_000460	軸心十字弓 
 ITEM_20150317_000461	謠言說這把弓就是故意打造成維護價格高的樣式. 
 ITEM_20150317_000462	Grave 弩 
-ITEM_20150317_000463	如果你打算讓你的目標永遠不會醒來的話這把武器是很好的選擇。
+ITEM_20150317_000463	This weapon is recommended if you intend to permanently put the target to sleep. 
 ITEM_20150317_000464	鐵匠十字弓 
 ITEM_20150317_000465	每次扣動扳機都期望它能打出預想的傷害. 
 ITEM_20150317_000466	克萊維斯十字弓(Klavis) 
@@ -881,11 +881,11 @@ ITEM_20150317_000880	烈焰大師感覺的到這把長杖是被製作出來的, 
 ITEM_20150317_000881	軸心魔杖 
 ITEM_20150317_000882	這證明了儘管材料普通只要作法得當就會是個好的裝備. 
 ITEM_20150317_000883	威爾士魔杖 
-ITEM_20150317_000884	儘管黑市有不少精通制作武器的商人，但這算是自軸心魔杖(Imperni Staff)後成功被製作出來的魔杖。 
+ITEM_20150317_000884	Although Black Market members are proficient weapon crafters, this 魔杖 is a fairly recent success in crafting a new weapon since the Imperni 魔杖. 
 ITEM_20150317_000885	魔樹魔杖
 ITEM_20150317_000886	有哪個巫師喜歡龐大的耐力多過威力的呢. 
 ITEM_20150317_000887	鐵匠魔杖 
-ITEM_20150317_000888	這把武器能有多種注入魔法的途徑。
+ITEM_20150317_000888	This weapon shows that there are many ways to imbue magic into a weapon. 
 ITEM_20150317_000889	克萊維斯魔杖 
 ITEM_20150317_000890	沒人使用這種武器成名, 希望你是第一個. 
 ITEM_20150317_000891	迪奧魔杖 
@@ -896,56 +896,56 @@ ITEM_20150317_000895	亞斯頓 魔杖
 ITEM_20150317_000896	Devi 魔杖 
 ITEM_20150317_000897	Prima 魔杖 
 ITEM_20150317_000898	Candle 魔杖 
-ITEM_20150317_000899	在杖尖上的火焰可能會熄滅，但它不會因為燃料早已耗盡。
+ITEM_20150317_000899	The fire at the tip may go out, but it won't be because it ran out of fuel. 
 ITEM_20150317_000900	奧德拉 
-ITEM_20150317_000901	據聞曾經有寒冰術士大師開玩笑地叫烈焰術士大師以這把魔杖對赤手空拳的他使出寒冰法術。
+ITEM_20150317_000901	Some say that the 寒冰術士 Master jokingly told the 烈焰術士 Master to challenge him with this 魔杖 using ice magic while he was barehanded. 
 ITEM_20150317_000902	向日葵
-ITEM_20150317_000903	這把武器的圖紙中寫著如何在製作過程中獲得女神薩勒及女神加比婭的幫助的指引。
+ITEM_20150317_000903	In the 圖紙 of this weapon, instructions are written on how to obtain help from 女神 薩勒 and 女神 加比婭 during the crafting process. 
 ITEM_20150317_000904	Maledic 
-ITEM_20150317_000905	傳說中真正的Maledic是存在於惡魔空間中，而現實中見到的仿製品只是投射出來的幻影。
+ITEM_20150317_000905	Legends say that the original Maledic is in the Demonic dimension and that the imitations seen in this world are only projected illusions. 
 ITEM_20150317_000906	梅拉度
-ITEM_20150317_000907	一群法師在研究製作Maledic時成功研發出更具威力的梅拉度。
+ITEM_20150317_000907	A group of wizards succeeded in crafting the more powerful 梅拉度 while they were developing a crafting process for Maledic. 
 ITEM_20150317_000908	幻影魔杖 
 ITEM_20150317_000909	Arca 魔杖 
-ITEM_20150317_000910	傳說Agailla Flurry曾於建造魔導塔(the Mage Tower)時攜帶著這種魔杖。
+ITEM_20150317_000910	According to one tale, Agailla Flurry used to carry this kind of 魔杖 when she was constructing the Mage Tower. 
 ITEM_20150317_000911	Raganos 的角
-ITEM_20150317_000912	Habbok, 很久以前便被封印的魔王，透露過魔界(the Demon World)的秘密。Agailla Flurry依此秘密製作出這把武器的圖紙。
+ITEM_20150317_000912	Habbok, a Demon King sealed a long time ago, revealed the secrets of the Demon world. Agailla Flurry created this 圖紙 based on that revealed information. 
 ITEM_20150317_000913	輕便的手套 
 ITEM_20150317_000914	手套 
-ITEM_20150317_000915	這件裝備或許能救你一命。
+ITEM_20150317_000915	This item may save your life. 
 ITEM_20150317_000916	輕便的靴子 
 ITEM_20150317_000917	鞋子
-ITEM_20150317_000918	一對能於王國內不同地區及地形行走的鞋子。不穿鞋子是蠻危險的。
+ITEM_20150317_000918	A pair of shoes that can be worn in a variety of areas and terrain throughout the kingdom. Not wearing shoes is quite dangerous. 
 ITEM_20150317_000919	輕便的褲子
 ITEM_20150317_000920	褲子 
-ITEM_20150317_000921	從來沒有冒險家會不穿褲子便踏上旅程的。 
+ITEM_20150317_000921	There are no adventurers who journey out without these. 
 ITEM_20150317_000922	輕便的鎧甲 
 ITEM_20150317_000923	上衣 [皮甲] 
-ITEM_20150317_000924	無論它是用哪種毛皮製成也好它始終保護著穿戴者。 
+ITEM_20150317_000924	It doesn't matter what kind of leather it is made of as long as it protects the wearer. 
 ITEM_20150317_000925	夾棉 手套 
-ITEM_20150317_000926	即使它是以輕質物料製作，它還是能提供類似皮革制品般的防禦力。它同時也較輕較便宜。
+ITEM_20150317_000926	Though it is made of lighter material, it offers similar defenses to leather products at a low price. It also has the added benefit of being lighter. 
 ITEM_20150317_000927	夾棉 靴子 
-ITEM_20150317_000928	使你的雙腳感到更輕快。 
+ITEM_20150317_000928	Makes your feet feel lighter. 
 ITEM_20150317_000929	夾棉 褲子 
-ITEM_20150317_000930	記得你在高地找到褲子穿，因為那裡很冷。
+ITEM_20150317_000930	Find something else to wear in the highlands. It's cold. 
 ITEM_20150317_000931	夾棉 護甲 
-ITEM_20150317_000932	它比看起來更堅固。
+ITEM_20150317_000932	It's sturdier than it looks. 
 ITEM_20150317_000933	皮甲 手套 
-ITEM_20150317_000934	聞說自植物大災變(the Great Plant Cataclysm)後皮革的供應有增加的現象。 
+ITEM_20150317_000934	Rumor says leather supplies have increased since the Great Plant Cataclysm. 
 ITEM_20150317_000935	皮甲 靴子 
-ITEM_20150317_000936	如果你打算踏入帶有荊棘的森林的話，確保你有一對這些皮靴。 
+ITEM_20150317_000936	Make sure you get a pair of these if you plan to tread into thorny forests. 
 ITEM_20150317_000937	皮甲 褲子 
-ITEM_20150317_000938	雖然很重，但這些褲子提供了你下半身的穩定性。 
+ITEM_20150317_000938	Although heavy, these provide 刺擊ility to your lower body. 
 ITEM_20150317_000939	皮甲 護甲 
-ITEM_20150317_000940	容易裝飾，而且能輕易被注入元素魔法。
+ITEM_20150317_000940	Easy to decorate or imbue with elemental magics. 
 ITEM_20150317_000941	硬質 皮甲 手套 
-ITEM_20150317_000942	如果你想要更硬的皮革裝備的話，你將需要用上怪物的素材。 
+ITEM_20150317_000942	You will need ingredients from monsters if you want to make a harder leather for your equipment. 
 ITEM_20150317_000943	硬質 皮甲 靴子 
-ITEM_20150317_000944	這些靴子硬得能傷害到穿戴者的雙腳。 
+ITEM_20150317_000944	The stiffness of these boots can harm the wearer's feet. 
 ITEM_20150317_000945	硬質 皮甲 褲子 
-ITEM_20150317_000946	這些褲子能提供你穩固的保護。 
+ITEM_20150317_000946	These give firm support to your body. 
 ITEM_20150317_000947	硬質 皮甲 護甲 
-ITEM_20150317_000948	多虧這護甲用上的素材使它永遠不會失去韌性。
+ITEM_20150317_000948	Never loses its toughness thanks to the ingredients used in this armor. 
 ITEM_20150317_000949	鎖鏈 手套 
 ITEM_20150317_000950	The good thing about a stronger base material is that it offers a lot of  room for improvement. 
 ITEM_20150317_000951	鎖鏈 靴子 
