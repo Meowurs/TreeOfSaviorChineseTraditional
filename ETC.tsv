@@ -16,7 +16,7 @@ ETC_20150317_000014	巧克普斯
 ETC_20150317_000015	極少人知道巧克普斯的體內長怎樣。
 ETC_20150317_000016	藍色 巧克普斯
 ETC_20150317_000017	灰色 巧克普斯
-ETC_20150317_000018	隨著怪物的成熟度，它會逐漸學會不同的戰術。
+ETC_20150317_000018	隨著魔物的成熟度，它會逐漸學會不同的戰術。
 ETC_20150317_000019	波克波山豬
 ETC_20150317_000020	黃色 波克波山豬
 ETC_20150317_000021	藍色 波克波山豬
@@ -189,7 +189,7 @@ ETC_20150317_000187	托恩托利亞仙人掌是托恩托仙人掌更加進化的
 ETC_20150317_000188	托恩托仙人掌
 ETC_20150317_000189	仙人掌突變的魔物，使沙漠住民的居住環境更加惡化。
 ETC_20150317_000190	維卡拉貝
-ETC_20150317_000191	相較於其他突變的怪物，雖外表沒有太大的改變卻更具有侵略性。
+ETC_20150317_000191	相較於其他突變的魔物，雖外表沒有太大的改變卻更具有侵略性。
 ETC_20150317_000192	傑佩托樹妖
 ETC_20150317_000193	名稱相襯於外觀，但可不代表它的內在性質。
 ETC_20150317_000194	布克
@@ -208,7 +208,7 @@ ETC_20150317_000206	雞蛇怪
 ETC_20150317_000207	雞蛇怪體型雖小但釋放出可怕的氣息瞬間石化敵人.
 ETC_20150317_000208	古墓狗狗
 ETC_20150317_000209	金特卡斯
-ETC_20150317_000210	外觀常被誤認為其他相似的怪物但它是用魔法製成.
+ETC_20150317_000210	外觀常被誤認為其他相似的魔物但它是用魔法製成.
 ETC_20150317_000211	波酷巴
 ETC_20150317_000212	儘管外型可愛，波酷巴可是非常兇猛的.
 ETC_20150317_000213	灰色 波酷巴
@@ -1148,7 +1148,7 @@ ETC_20150317_001146	邪靈祭司 導師的房間
 ETC_20150317_001147	烈焰術士 導師的實驗室
 ETC_20150317_001148	Mercenary Post
 ETC_20150317_001149	皇家領地
-ETC_20150317_001150	Orsha
+ETC_20150317_001150	奧爾沙
 ETC_20150317_001151	希奧利艾 西側森林
 ETC_20150317_001152	希奧利艾
 ETC_20150317_001153	希奧利艾 礦工小鎮
@@ -2878,7 +2878,7 @@ ETC_20150317_002876	冒險排行榜
 ETC_20150317_002877	收集完畢 {Auto_1}
 ETC_20150317_002878	內容
 ETC_20150317_002879	Set items
-ETC_20150317_002880	獲得
+ETC_20150317_002880	已完成
 ETC_20150317_002881	點數
 ETC_20150317_002882	Boss
 ETC_20150317_002883	日期
@@ -9344,7 +9344,7 @@ ETC_20150317_009342	Summon Magic Circle
 ETC_20150317_009343	Little Hive
 ETC_20150317_009344	Source of Corruption
 ETC_20150317_009345	HUEVILLAGE_58_3_MQ04_Trigger for return
-ETC_20150317_009346	[Dievdirbys Master]{nl}      Sculptor Tesla
+ETC_20150317_009346	[雕刻師 導師]{nl}雕塑家 特斯拉
 ETC_20150317_009347	Wood Sap Container
 ETC_20150317_009348	Sleeping Upent
 ETC_20150317_009349	Barrel of Explosives
@@ -10081,7 +10081,7 @@ ETC_20150323_010079	捐贈 1000 銀幣
 ETC_20150323_010080	捐贈 40 銀幣
 ETC_20150323_010081	捐贈 50 銀幣
 ETC_20150323_010082	Your attack has increased because of the Sanctum's Blessing!
-ETC_20150323_010083	按V鍵 使用 信仰標記！{nl}檢查被怪物吞下去的徽章！
+ETC_20150323_010083	按V鍵 使用 信仰標記！{nl}檢查被魔物吞下去的徽章！
 ETC_20150323_010084	Monster polluting the Sanctum
 ETC_20150323_010085	A monster that swallowed the badge has appeared!
 ETC_20150323_010086	Your attack is increased for 10 seconds because of the Sanctum's Blessing!
@@ -11196,7 +11196,7 @@ ETC_20150414_011194	About the Purification
 ETC_20150414_011195	About the Mobilizing Power
 ETC_20150414_011196	About the Baron
 ETC_20150414_011197	不能在這裡設立基地。
-ETC_20150414_011198	[Oracle Master]{nl}Apolonjia Barbora
+ETC_20150414_011198	[神諭師 導師]{nl}Apolonjia Barbora
 ETC_20150414_011199	[Warehouse Keeper]{nl}                  Rita
 ETC_20150414_011200	Mysterious Box of Legwyn Family
 ETC_20150414_011201	Chapel Altar
@@ -11325,14 +11325,14 @@ ETC_20150428_011323	First Isolation Area
 ETC_20150428_011324	Second Isolation Area
 ETC_20150428_011325	Third Isolation Area
 ETC_20150428_011326	Fourth Isolation Area
-ETC_20150428_011327	黑色smith's Workshop
+ETC_20150428_011327	鐵匠的工作室
 ETC_20150428_011328	Freight House
 ETC_20150428_011329	Worker's Rest Area
 ETC_20150428_011330	Management Office
 ETC_20150428_011331	Gathering Hall
 ETC_20150428_011332	Chapel
 ETC_20150428_011333	Prayer Room
-ETC_20150428_011334	Fatama Oratorium
+ETC_20150428_011334	法塔瑪經堂
 ETC_20150428_011335	Central Entrance
 ETC_20150428_011336	Expansion Construction Area
 ETC_20150428_011337	Central Passage
@@ -11630,7 +11630,7 @@ ETC_20150714_011628	Siaulav
 ETC_20150714_011629	小熊族 Magician
 ETC_20150714_011630	小熊族 Archer
 ETC_20150714_011631	Spion Mage
-ETC_20150714_011632	史拜昂 弓箭手
+ETC_20150714_011632	史拜昂弓箭手
 ETC_20150714_011633	Vikaras Magician
 ETC_20150714_011634	Vikaras Archer
 ETC_20150714_011635	Stoulet Mage
@@ -11743,10 +11743,10 @@ ETC_20150714_011741	Sutatis 交易 Route
 ETC_20150714_011742	Mochia Forest
 ETC_20150714_011743	Dingofasil District
 ETC_20150714_011744	Coastal Fortress
-ETC_20150714_011745	Videntis Shrine
-ETC_20150714_011746	Mokusul Chamber
-ETC_20150714_011747	Roxona Reconstruction Agency West Building
-ETC_20150714_011748	Roxona Reconstruction Agency East Building
+ETC_20150714_011745	黃頂菊神社
+ETC_20150714_011746	莫庫賽墓室
+ETC_20150714_011747	羅克森重建局西樓
+ETC_20150714_011748	羅克森重建局東樓
 ETC_20150714_011749	I will release the seal!
 ETC_20150714_011750	{memo X}Let's go!
 ETC_20150714_011751	Kreutzer
@@ -11824,10 +11824,10 @@ ETC_20150714_011822	It is that way.
 ETC_20150714_011823	Where did the sound come from?
 ETC_20150714_011824	When you sell scrolls, you make more contributions.
 ETC_20150714_011825	Contributed 10 times
-ETC_20150714_011826	Regular Pardoner
+ETC_20150714_011826	Regular 寬恕者
 ETC_20150714_011827	Your Dispeller is popular among people.
 ETC_20150714_011828	Contributed 50 times
-ETC_20150714_011829	Senior Pardoner
+ETC_20150714_011829	Senior 寬恕者
 ETC_20150714_011830	The benefits you received by contributing are countless, right?
 ETC_20150714_011831	Contributed 100 times
 ETC_20150714_011832	The Greatest Heir
@@ -13671,7 +13671,7 @@ ETC_20150729_013669	對箭的攻擊抗性上升。
 ETC_20150729_013670	屬性抗性
 ETC_20150729_013671	隨著屬性不同，魔法抗性上升。
 ETC_20150729_013672	升級
-ETC_20150729_013673	變異型怪物受到debuff不會睡著，等級提升
+ETC_20150729_013673	變異型魔物受到debuff不會睡著，等級提升
 ETC_20150729_013674	快速恢復能力
 ETC_20150729_013675	恢復能力上升。
 ETC_20150729_013676	可自由移動.
@@ -13686,7 +13686,7 @@ ETC_20150729_013684	按 {img X 40 40} 鍵可以跳躍。
 ETC_20150729_013685	手把操作時，按 {img a_on_button 40 40} 鍵可以跳躍。
 ETC_20150729_013686	滑鼠操作時，按 {img space 40 40} 鍵可以使用。
 ETC_20150729_013687	{img Z 40 40}鍵是角色基本攻擊按鍵。
-ETC_20150729_013688	滑鼠操作時，按 {img Z 40 40} 鍵 或對怪物 {img mouseclick_left 40 40} 可基本攻擊。{nl}{nl}手把操作時，按 {img x_on_button 40 40} 來攻擊。
+ETC_20150729_013688	滑鼠操作時，按 {img Z 40 40} 鍵 或對魔物 {img mouseclick_left 40 40} 可基本攻擊。{nl}{nl}手把操作時，按 {img x_on_button 40 40} 來攻擊。
 ETC_20150729_013689	按{img ctrl 40 40}鍵可以鎖定目標。
 ETC_20150729_013690	按{img Alt 40 40}鍵可使移動中的角色立即停止動作。
 ETC_20150729_013691	按{img space 40 40}鍵可以與目標互動。
@@ -13697,17 +13697,17 @@ ETC_20150729_013695	按{img N 40 40}鍵可檢視世界地圖。
 ETC_20150729_013696	未去過的地區不會在世界地圖上標示出,{nl}即使只到達過一次新地區，也會在世界地圖上標示出.
 ETC_20150729_013697	標示的地區用游標可查看當前地區中{nl}角色的完整地圖.
 ETC_20150729_013698	通過升級時獲得的素質點可以使角色的能力值提升.
-ETC_20150729_013699	Press {img F1 40 40} to open the Character Information window to view info about your character.
+ETC_20150729_013699	{img F1 40 40}按此鍵可打開角色素質視窗，確認角色的能力值信息.
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150729_013701	You can preview the effects on the screen below.
-ETC_20150729_013702	You can manage the skills of your character through the Skill window.
-ETC_20150729_013703	Press {img F3 40 40} to open the Skill window.
-ETC_20150729_013704	Click the {img skillup 40 40} button to increase a skill level.
-ETC_20150729_013705	Make your character even stronger by learning attributes from the Master NPCs of each class.
-ETC_20150729_013706	You can learn attributes from a Master NPC.
-ETC_20150729_013707	Silver is required to learn attributes. {nl}Also, some attributes require time to learn.
-ETC_20150729_013708	You can use an attribute after you've learned it, {nl}and you cannot learn another attribute while you are studying one.
-ETC_20150729_013709	Some attributes can be disabled if needed.
+ETC_20150729_013701	選取後的素質效果可在下端的詳細屬性中查閱.
+ETC_20150729_013702	職業等級成長時獲得的技能點可提升角色的技能等級.
+ETC_20150729_013703	按{img F3 40 40}鍵可打開技能視窗。
+ETC_20150729_013704	{img skillup 40 40}點擊此鍵可提升技能等級。
+ETC_20150729_013705	導師NPC處可學習特性技能，提升角色的能力.
+ETC_20150729_013706	各職業導師NPC處可學習特性技能.
+ETC_20150729_013707	學習部分職業特性需要消耗銀幣.{nl}此外，學習部分職業特性時需要消耗一些時間.
+ETC_20150729_013708	特性在學習之後可以使用，在特性學習的過程中無法學習其他特性.
+ETC_20150729_013709	部分特性會有啟用與關閉的功能.
 ETC_20150729_013710	You can advance your class when you reach Class Lv 15。
 ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
@@ -13742,10 +13742,10 @@ ETC_20150729_013740	{memo X}You can freely set up a party name, description, Ite
 ETC_20150729_013741	{memo X}You can check the list of Public Parties on the right side of the screen.
 ETC_20150729_013742	View information of monsters nearby or when you face the monster.
 ETC_20150729_013743	Each monster has an element and defense property.
-ETC_20150729_013744	Methods to restore your consumed HP/SP/Stamina.
-ETC_20150729_013745	[Rest Mode]: Press {img Insert 40 40} to rest.
-ETC_20150729_013746	While you are in Rest Mode, it is possible to light a [Bonfire] to speed up your recovery.
-ETC_20150729_013747	[Bonfire]: While in Rest Mode, light a Bonfire to speed up your recovery.
+ETC_20150729_013744	你可以恢復你消耗的 HP/SP/耐力。
+ETC_20150729_013745	[休息模式] 按 {img Insert 40 40} 來休息。
+ETC_20150729_013746	在休息模式點燃篝火可以加快恢復速度。
+ETC_20150729_013747	[篝火] 在休息模式點燃篝火可以加快恢復速度。
 ETC_20150729_013748	{memo $}{nl}{nl}[Natural Recovery]: The 
 ETC_20150729_013749	{memo $}Natural Recovery is very slow compared to other methods, but does not have any requirements.
 ETC_20150729_013750	{memo $}{nl}{nl}[Recovery using Potions]: Amount of HP/SP/STA restored depends on the potion consumed.
@@ -13839,7 +13839,7 @@ ETC_20150729_013837	 enables you to warp to other areas.
 ETC_20150729_013838	There are many types of treasure chests {nl}and you can obtain special items from them.
 ETC_20150729_013839	You can receive the items by pressing {img SPACE 40 40} in front of level 1 treasure chests.
 ETC_20150729_013840	 keys can be obtained through{nl}progressing in quests.
-ETC_20150729_013841	Socialize with other players.
+ETC_20150729_013841	與其他玩家互動。
 ETC_20150729_013842	[Friend] You can check your Friends List using {img F7 40 40}. Players should agree with each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become friends with.
 ETC_20150729_013844	You can view the login status and location of your friends.
@@ -13894,16 +13894,16 @@ ETC_20150729_013892	Artimo Hall
 ETC_20150729_013893	The burial chamber of Karail
 ETC_20150729_013894	Seima Stone Chamber
 ETC_20150729_013895	Catacomb Wall
-ETC_20150729_013896	Bone
+ETC_20150729_013896	骨頭
 ETC_20150729_013897	Spatial Magic Stone
 ETC_20150729_013898	Catacomb Grave01
 ETC_20150729_013899	Catacomb Grave02
 ETC_20150729_013900	Changed Tree Root Crystal_Temporal Use
-ETC_20150729_013901	Monk1
-ETC_20150729_013902	Monk2
-ETC_20150729_013903	Monk3
-ETC_20150729_013904	Monk4
-ETC_20150729_013905	Monk5
+ETC_20150729_013901	武僧1
+ETC_20150729_013902	武僧2
+ETC_20150729_013903	武僧3
+ETC_20150729_013904	武僧4
+ETC_20150729_013905	武僧5
 ETC_20150729_013906	Bright Thorny Flower
 ETC_20150729_013907	Big Bright Thorny Flower
 ETC_20150729_013908	Monk3 Down
@@ -13921,14 +13921,14 @@ ETC_20150729_013919	The Secret of the Chamber - Wizard type_Conditions
 ETC_20150729_013920	The Secret of the Chamber - Archer type_Conditions
 ETC_20150729_013921	The Secret of the Chamber - Cleric type_Conditions
 ETC_20150729_013922	Obtain Young Leaves from wild grass
-ETC_20150729_013923	Dievdirbys Master's story
-ETC_20150729_013924	Necromancer Master's story
-ETC_20150729_013925	Chronomancer Master's story
+ETC_20150729_013923	雕刻師 導師的故事
+ETC_20150729_013924	死靈術士 導師的故事
+ETC_20150729_013925	時空法師 導師的故事
 ETC_20150729_013926	{memo X}Cremate the revived body
 ETC_20150729_013927	Cross Srautas Gorge and go to Gele Plateau
-ETC_20150729_013928	Get rid of the strange aura (1)
-ETC_20150729_013929	Get rid of the strange aura (2)
-ETC_20150729_013930	Get rid of the strange aura (3)
+ETC_20150729_013928	擺脫奇怪的能量 (1)
+ETC_20150729_013929	擺脫奇怪的能量 (2)
+ETC_20150729_013930	擺脫奇怪的能量 (3)
 ETC_20150729_013931	The minimum time until the next player recommendation after a recommendation(secs)
 ETC_20150729_013932	The time that will not take until the first party recommendation after log in (secs)
 ETC_20150729_013933	The penalty points for the person who has been already recommended
@@ -13943,9 +13943,9 @@ ETC_20150729_013941	Recipe - Lightna Chain
 ETC_20150729_013942	Recipe - Max Petamion
 ETC_20150729_013943	Recipe - Knotted Armband
 ETC_20150729_013944	Recipe - Feather Armband
-ETC_20150729_013945	Recipe - Tasseled Armband
+ETC_20150729_013945	圖紙 - 纓旒護腕
 ETC_20150729_013946	GM Advancement
-ETC_20150729_013947	Magic Amulet
+ETC_20150729_013947	魔法護身符
 ETC_20150729_013948	A character equipped with a 同伴 cannot be deleted.
 ETC_20150729_013949	PvP team battle is open.
 ETC_20150729_013950	Unable to target.
@@ -13966,7 +13966,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}Increases Max SP, SP Recovery, Block Penetration and Magic Defense{/}
+ETC_20150729_013968	{@st59}增加最大SP和SP回復，格檔穿透和魔法防禦{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
@@ -14007,7 +14007,7 @@ ETC_20150729_014005	Cleric Type
 ETC_20150729_014006	My Rank
 ETC_20150729_014007	Kill Rank
 ETC_20150729_014008	Damage Rank
-ETC_20150729_014009	Mouse Mode may not be feasible for Swordsman, Cleric type classes.
+ETC_20150729_014009	滑鼠操作模式可能不適合劍士系、牧師系職業。
 ETC_20150729_014010	Team Battle League Shop
 ETC_20150729_014011	When you cancel the game, the ticket will be expired. Do you want to continue?
 ETC_20150729_014012	{memo X}Team Battle League has started. Participate via Adventure Journal Ranking Page.
@@ -14015,21 +14015,21 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} Increases Physical Attack, Critical Attack and Maximum Carry Weight{/}
-ETC_20150729_014018	Previous Warp
+ETC_20150729_014017	{@st59} 增加物理攻擊、暴擊攻擊和最大負重{/}
+ETC_20150729_014018	卷軸使用區域
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
-ETC_20150729_014020	[Doppelsoeldner Master]{nl} Guera
+ETC_20150729_014020	[雙酬傭兵 導師]{nl} Guera
 ETC_20150729_014021	Field GenX
 ETC_20150729_014022	Old piles of bones
 ETC_20150729_014023	The luggage of someone
-ETC_20150729_014024	[Centurion Master]{nl} Krajicek
-ETC_20150729_014025	[Cursoir Master]{nl} High Raven
+ETC_20150729_014024	[百夫長 導師]{nl} Krajicek
+ETC_20150729_014025	[海盜 導師]{nl} High Raven
 ETC_20150729_014026	{memo X}Outside
 ETC_20150729_014027	{memo X}2 Area
 ETC_20150729_014028	The Grave Guard Sigis
 ETC_20150729_014029	{memo X}Soaring Coffin
 ETC_20150729_014030	The box of the grave guard
-ETC_20150729_014031	[Necromancer Master]{nl} Roleta Nimbus
+ETC_20150729_014031	[死靈術士 導師]{nl} Roleta Nimbus
 ETC_20150730_014032	Maggot
 ETC_20150730_014033	Sienakal Graveyard
 ETC_20150730_014034	{memo X}As the treasure box opened, weak Stone Frosts poured out!{nl}Avoid the Stone Frosts and defeat the monsters!
@@ -14066,8 +14066,8 @@ ETC_20150730_014064	Member Irmantas
 ETC_20150730_014065	Member Grazina
 ETC_20150730_014066	Member Alina
 ETC_20150730_014067	Pilgrim Agatas
-ETC_20150730_014068	Pardoner Erikas
-ETC_20150730_014069	Squire Williya
+ETC_20150730_014068	寬恕者 Erikas
+ETC_20150730_014069	侍從 Williya
 ETC_20150730_014070	{memo X}Legwyn Gailus
 ETC_20150730_014071	Believer Gintas
 ETC_20150730_014072	Marugiris
@@ -14085,7 +14085,7 @@ ETC_20150803_014083	Being suspected
 ETC_20150803_014084	Being suspected
 ETC_20150803_014085	The curse of the magical device
 ETC_20150803_014086	{nl} {nl}The name of an item you input and the memo can be checked from Item Tooltip.
-ETC_20150803_014087	Klaipeda's 
+ETC_20150803_014087	克萊佩達的 
 ETC_20150803_014088	 enables you to warp to other locations.
 ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
 ETC_20150803_014090	When you select Lodge Settings, you can change your team name
@@ -14107,84 +14107,84 @@ ETC_20150803_014105	{memo X}EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Not
 ETC_20150803_014106	{memo X}EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	{memo X}DoTimeAction:Collecting:1:WEEDING:None
 ETC_20150803_014108	{memo X}Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
-ETC_20150803_014109	Give a present to Scout Master secretly without being caught
+ETC_20150803_014109	不讓斥侯導師發覺，悄悄把禮物轉達
 ETC_20150803_014110	{memo X}Give the demons the slip by using temporary flare
-ETC_20150803_014111	Collect 紅色 Leaves
+ETC_20150803_014111	收集紅色的葉子
 ETC_20150803_014112	{memo X}Lure the demons by setting leaf bombs
 ETC_20150803_014113	{memo X}Hand over the keepsakes of Grizina
 ETC_20150803_014114	{memo X}Help Alina
-ETC_20150803_014115	Hunt for 綠色 Cockats with Jareth
+ETC_20150803_014115	和加雷斯一起狩獵草綠可卡特。
 ETC_20150803_014116	{memo X}Collect the bushes that are needed to make verification tickets
 ETC_20150803_014117	{memo X}Tell Amanda about the circumstances
-ETC_20150803_014118	Dig through the grass bushes to find something to eat
+ETC_20150803_014118	搜索草堆，找找能吃的東西
 ETC_20150803_014119	{memo X}Throw the core to the terminal
-ETC_20150803_014120	The channel is full
-ETC_20150803_014121	Swordsman Type Class
-ETC_20150803_014122	Archer Type Class
-ETC_20150803_014123	Cleric Type Class
-ETC_20150803_014124	Wizard Type Class
+ETC_20150803_014120	選擇的分流已滿。
+ETC_20150803_014121	戰士系職業
+ETC_20150803_014122	弓手系職業
+ETC_20150803_014123	牧師系職業
+ETC_20150803_014124	法師系職業
 ETC_20150803_014125	{memo X}The core of the crystal reacted irregularly and Romor appeared!
 ETC_20150803_014126	{memo X}You've obtained the keepsakes from the monsters!
 ETC_20150803_014127	{memo X}Defend against the curse of the terminal!
-ETC_20150803_014128	Putting it secretly into the pocket
-ETC_20150803_014129	You've put it secretly into the pocket of Scout Master
-ETC_20150803_014130	Since Scout Master suspects you,{nl}try again little later!
-ETC_20150803_014131	Try from the back of Scout Master!
-ETC_20150803_014132	What are you doing?
-ETC_20150803_014133	What the hell now?
-ETC_20150803_014134	You've told Amanda about the circumstances
+ETC_20150803_014128	悄悄的放入袋子中。
+ETC_20150803_014129	悄悄的放入斥侯導師的袋子中去。
+ETC_20150803_014130	斥侯導師心存芥蒂。{nl}稍後再次進行吧！
+ETC_20150803_014131	試圖從斥侯導師的後面進行！
+ETC_20150803_014132	為什麼這樣。
+ETC_20150803_014133	你說啥，現在？
+ETC_20150803_014134	向阿滿達傳達情況。
 ETC_20150803_014135	{memo X}Now back at home
 ETC_20150803_014136	{memo X}Thank you
-ETC_20150803_014137	Nothing appeared
+ETC_20150803_014137	什麼也沒有出現。
 ETC_20150803_014138	{memo X}Tell Amanda that you couldn't find anything
-ETC_20150803_014139	The item is already sold
-ETC_20150803_014140	Team Battle League has started.{nl}Participate using the left icon at the minimap.
-ETC_20150803_014141	You can't participate the game since you've rejected the game a lot recently.
-ETC_20150803_014142	You do not have a piece with you!
+ETC_20150803_014139	道具已經售出。
+ETC_20150803_014140	團隊戰鬥開始。可以通過小地圖左側圖標參加！
+ETC_20150803_014141	最近經常拒絕遊戲，因此無法參加遊戲。
+ETC_20150803_014142	缺少碎片！
 ETC_20150803_014143	{memo X}Magic Device
 ETC_20150803_014144	{memo X}Verification Ticket Craft Device
 ETC_20150803_014145	{memo X}The memo you left to Amanda
-ETC_20150803_014146	Karail's Spirit
-ETC_20150803_014147	Believer's Spirit
-ETC_20150804_014148	King Zinutekas
-ETC_20150804_014149	King Vekarabe
-ETC_20150804_014150	Chromadog
+ETC_20150803_014146	卡萊爾的靈魂
+ETC_20150803_014147	信徒的靈魂
+ETC_20150804_014148	吉努卡斯王
+ETC_20150804_014149	貝卡拉博王
+ETC_20150804_014150	克路瑪度格斯
 ETC_20150804_014151	Large Minivern
 ETC_20150804_014152	Experimental Slime
-ETC_20150804_014153	Mesafasla
-ETC_20150804_014154	Stogas Plateau
-ETC_20150804_014155	As you were trying to unleash the seal, the monsters rushed in!
-ETC_20150804_014156	As you touched on the stone pillar, the monsters nearby rushed in!
-ETC_20150804_014157	The monsters that are going after the map are attacking!
-ETC_20150804_014158	Ausrine's Incarnation
-ETC_20150804_014159	Achieved by being the first to reach rank 6 in CBT3!
-ETC_20150804_014160	Ausrine's Hero
-ETC_20150804_014161	Achieved by being between 2~10 to reach rank 6 in CBT3!
-ETC_20150804_014162	The lighting effects at the chapel 
-ETC_20150804_014163	The chapel lighting enhances your SP regeneration
-ETC_20150804_014164	THe lighting effects aft the Loading place
-ETC_20150804_014165	SP Recovery Rate will increase due to the light effect of the loading place.
+ETC_20150804_014153	梅薩帕斯拉
+ETC_20150804_014154	斯圖卡斯高原
+ETC_20150804_014155	解除封印，魔物們的視線都集中過來了！
+ETC_20150804_014156	觸碰石柱，周邊的魔物都過來了！
+ETC_20150804_014157	對地圖虎視眈眈的魔物們攻擊過來了！
+ETC_20150804_014158	奧施麗涅的化身
+ETC_20150804_014159	CBT3 最初RANK6達成！
+ETC_20150804_014160	奧施麗涅的英雄
+ETC_20150804_014161	CBT3 2~10位RANK6達成者！
+ETC_20150804_014162	禮拜堂照明效果
+ETC_20150804_014163	禮拜堂的照明裝置的效果可以增加SP的回復量。
+ETC_20150804_014164	裝貨地照明效果
+ETC_20150804_014165	裝貨地的照明裝置的效果可以增加SP的回復率。
 ETC_20150804_014166	Pre Dungeon Defence
-ETC_20150804_014167	Enhance a Shield to level 4
-ETC_20150804_014168	Check the epitaph of Great King Zachariel
-ETC_20150804_014169	Time until the light device for the Prayer Hall gets activated: 
-ETC_20150804_014170	The light device at Fatama Oratorium has been activated!
-ETC_20150804_014171	The light device at Fatama Oratorium has been activated!{nl}The light comes into the Prayer Hall of the Royal Mausoleum Contructor's Chapel
-ETC_20150804_014172	Activating the light device
-ETC_20150804_014173	The light device is already activated
-ETC_20150804_014174	Loading Place light device
-ETC_20150804_014175	Until the light device at Loading Place gets activated 
-ETC_20150804_014176	Among the remains of the collapse, the light device of the loading place has been discovered.{nl}The light device is being activated!
-ETC_20150804_014177	The light device at loading place of manufacturing factory has been activated!{nl}The light comes into the loading place of the Mausoleum
-ETC_20150804_014178	Because of the unstable structure of the loading place at Mausoleum{nl}the collapse occured at the manufacturing company
-ETC_20150804_014179	A Wendigo jumped out of the aperture!
-ETC_20150804_014180	Obtained a Large HP Potion!
-ETC_20150804_014181	You either don't have a socket or using all of them
-ETC_20150804_014182	{#050505}{s18}{b}When equipped into a socket
-ETC_20150804_014183	The light device at Prayer Hall
+ETC_20150804_014167	盾牌系列裝備強化 4 等級達成
+ETC_20150804_014168	檢查偉大的吉努卡斯王的墓碑文。
+ETC_20150804_014169	離祈禱堂的照明裝置啟動還有：
+ETC_20150804_014170	法塔瑪經堂的照明裝置已啟動！
+ETC_20150804_014171	法塔瑪經堂的照明裝置已啟動！{nl}祈禱堂內沁入了光芒。
+ETC_20150804_014172	正在啟動照明裝置
+ETC_20150804_014173	照明裝置已啟動！
+ETC_20150804_014174	裝貨地的照明裝置
+ETC_20150804_014175	堅持到裝貨地的照明裝置啟動
+ETC_20150804_014176	在崩壞殘骸中發現裝貨地照明狀態了。{nl}研磨加工廠的裝貨地照明裝置被轉動了。
+ETC_20150804_014177	研磨加工廠的記載所照明裝置的轉動完成了。{nl}王陵記載所中沁入了光芒。
+ETC_20150804_014178	因為王陵記載所的不安定的構造{nl}在研磨加工廠中出現了崩壞的事情。
+ETC_20150804_014179	在縫隙中出現了Wendigo！
+ETC_20150804_014180	獲得 大 HP 藥劑！
+ETC_20150804_014181	沒有插槽了，或者是全部在使用。
+ETC_20150804_014182	{#050505}{s18}{b}當裝進插槽中的時候
+ETC_20150804_014183	祈禱堂的照明裝置
 ETC_20150804_014184	TypeFManager
-ETC_20150804_014185	The place to put the stone
-ETC_20150804_014186	The epitaph of Zachariel
+ETC_20150804_014185	放置石頭的地方
+ETC_20150804_014186	Zachariel 的墓碑文
 ETC_20150807_014187	{memo X}
 ETC_20150807_014188	{memo X}
 ETC_20150807_014189	{memo X}
@@ -14225,7 +14225,7 @@ ETC_20150918_014223	Galeed Plain
 ETC_20150918_014224	Fasika Plateau
 ETC_20150918_014225	Manahas
 ETC_20150918_014226	Genra Field
-ETC_20150918_014227	Fallen Legwyn Family Dungeon
+ETC_20150918_014227	墮落的萊格溫家族副本
 ETC_20150918_014228	Archmage Tower Dungeon
 ETC_20150918_014229	{memo X}Prison62_1
 ETC_20150918_014230	{memo X}Prison62_2
@@ -14596,8 +14596,8 @@ ETC_20150918_014594	There isn't any usable 裝備
 ETC_20150918_014595	Some field monsters were involved in battles so you couldn't summon them
 ETC_20150918_014596	Stealing succeeded!
 ETC_20150918_014597	製作 items.
-ETC_20150918_014598	Secondary Physical Attack
-ETC_20150918_014599	Seconday Magical Attack
+ETC_20150918_014598	副武器物理攻擊
+ETC_20150918_014599	副武器魔法攻擊
 ETC_20150918_014600	Are you sure you want to block
 ETC_20150918_014601	You cannot 'Like' yet.
 ETC_20150918_014602	Friendly Duel Request
@@ -14642,15 +14642,15 @@ ETC_20150918_014640	You used the absorb scroll
 ETC_20150918_014641	You won't be able to summon the monsters in the region.
 ETC_20150918_014642	This skill can't be used in the region.
 ETC_20150918_014643	Due to an error, the client will be closed.{nl}We apologize for the inconvenience.{nl}When you press [Yes] at the bottom of the screen, the details of the error will be sent to the developer.{nl}{nl}??The information that will be sent : Error Code, CPU, VGA, Memory Driver Information
-ETC_20150918_014644	[Rogue Master]{nl}    Gema
-ETC_20150918_014645	[Item Merchant]{nl}    Muras
-ETC_20150918_014646	[裝備 Merchant]{nl}    
-ETC_20150918_014647	[黑色smith]{nl}       Anna
-ETC_20150918_014648	[Market Manager]{nl}     Molun
-ETC_20150918_014649	[Storage Keeper]{nl}      Zadan
+ETC_20150918_014644	[流氓 導師]{nl}    格瑪
+ETC_20150918_014645	[道具商人]{nl}　穆拉斯
+ETC_20150918_014646	[裝備商人]{nl}    
+ETC_20150918_014647	[鐵匠]{nl}   安娜
+ETC_20150918_014648	[市場管理員]{nl}   　　莫倫
+ETC_20150918_014649	[倉庫保管員]{nl}   　　扎丹
 ETC_20150918_014650	Catacombs Basement Dungeon Notice Board
-ETC_20150918_014651	[Accessories Merchant]{nl}   Joana
-ETC_20150918_014652	Bomb Box
+ETC_20150918_014651	[配件商人]{nl}　尤安娜
+ETC_20150918_014652	炸彈箱
 ETC_20150918_014653	Underground Chapel Dungeon Dungeon Notice Board
 ETC_20150918_014654	{memo X}Crisp Grass Pile
 ETC_20150918_014655	The grave without an owner
@@ -14768,13 +14768,13 @@ ETC_20151001_014766	Corpse fall!
 ETC_20151001_014767	Confronted the mysterious girl
 ETC_20151001_014768	{memo X}Dopey Ferret
 ETC_20151001_014769	Unable to move because you feel dizzy.
-ETC_20151001_014770	{memo X}{img emoticon_0022 30 30} I'm sorry
-ETC_20151001_014771	{memo X}{img emoticon_0001 30 30} Thanks
-ETC_20151001_014772	{memo X}{img emoticon_0002 30 30} Good
-ETC_20151001_014773	{memo X}{img emoticon_0010 30 30} Surprised
-ETC_20151001_014774	{memo X}{img emoticon_0016 30 30} Crying
-ETC_20151001_014775	{memo X}{img emoticon_0007 30 30} Love
-ETC_20151001_014776	{memo X}{img emoticon_0006 30 30} Hello
+ETC_20151001_014770	{memo X}{img emoticon_0022 30 30} 對不起
+ETC_20151001_014771	{memo X}{img emoticon_0001 30 30} 謝謝
+ETC_20151001_014772	{memo X}{img emoticon_0002 30 30} 好喔
+ETC_20151001_014773	{memo X}{img emoticon_0010 30 30} 驚喜
+ETC_20151001_014774	{memo X}{img emoticon_0016 30 30} 哭泣
+ETC_20151001_014775	{memo X}{img emoticon_0007 30 30} 愛
+ETC_20151001_014776	{memo X}{img emoticon_0006 30 30} 打招呼
 ETC_20151001_014777	A conditional sentence selected should be true at all times.
 ETC_20151001_014778	A conditional sentence selected should be true at all times. Please refer to the following information.
 ETC_20151001_014779	A conditional sentence selected should be true at all times. Close the program.
@@ -14869,7 +14869,7 @@ ETC_20151001_014867	Failed to create the field boss creation. Unable to find the
 ETC_20151001_014868	The error related with redis server happened. Please check the error message.
 ETC_20151001_014869	Failed to the running SP. Please check the SP information and error code.
 ETC_20151001_014870	The command line parameter is incorrect. Please check the information of program bath file.
-ETC_20151001_014871	The client was terminated because of an error due to the display driver. Contact your display manufacturer.
+ETC_20151001_014871	客戶端由於顯卡驅動的原因停止運行,請聯繫你的顯卡發行商,謝謝.
 ETC_20151001_014872	Nvidia Perf SDK初始化失敗。
 ETC_20151001_014873	The error from Sign Code module happened. Please refer to the printed error code.
 ETC_20151001_014874	The log is still not declared the error code.
@@ -15018,14 +15018,14 @@ ETC_20151001_015016	{memo X}Obtain the stone from the rocks nearby
 ETC_20151001_015017	{memo X}Obatin the leather string from the monsters
 ETC_20151001_015018	{memo X}Make the string bunch for bookbinding through the leather string
 ETC_20151001_015019	Plateau Defense Target NPC
-ETC_20151001_015020	One-handed Sword Dagger
-ETC_20151001_015021	One-handed Sword Sub
-ETC_20151001_015022	Crossbow Dagger
-ETC_20151001_015023	One-handed Spear Dagger
-ETC_20151001_015024	One-handed Spear Sub
-ETC_20151001_015025	Blunt Dagger
-ETC_20151001_015026	Blunt Sub
-ETC_20151001_015027	Pistol Dagger
+ETC_20151001_015020	單手劍 短劍
+ETC_20151001_015021	單手劍 副手
+ETC_20151001_015022	弩 短劍
+ETC_20151001_015023	單手矛 短劍
+ETC_20151001_015024	單手矛 副手
+ETC_20151001_015025	鈍器 短劍
+ETC_20151001_015026	鈍器 副手
+ETC_20151001_015027	手槍 短劍
 ETC_20151001_015028	/indun
 ETC_20151001_015029	I want to be recommended
 ETC_20151001_015030	This detector is not working!
@@ -15200,30 +15200,30 @@ ETC_20151001_015198	I will go!
 ETC_20151001_015199	There are no fallen items nearby.
 ETC_20151001_015200	Skull Slash!!
 ETC_20151001_015201	Level {Level}
-ETC_20151001_015202	Equip One-handed Sword Dagger
-ETC_20151001_015203	Equip One-handed Sword Sub
-ETC_20151001_015204	Equip Crossbow Dagger
-ETC_20151001_015205	Equip One-handed Spear Dagger
-ETC_20151001_015206	Equip One-handed Spear Sub
-ETC_20151001_015207	Equip Blunt Dagger
-ETC_20151001_015208	Equip Blunt Sub
-ETC_20151001_015209	Equip Pistol Dagger
+ETC_20151001_015202	裝備 單手劍 短劍
+ETC_20151001_015203	裝備 單手劍 副手
+ETC_20151001_015204	裝備 弩 短劍
+ETC_20151001_015205	裝備 單手矛 短劍
+ETC_20151001_015206	裝備 單手矛 副手
+ETC_20151001_015207	裝備 鈍器 短劍
+ETC_20151001_015208	裝備 鈍器 副手
+ETC_20151001_015209	裝備 手槍 短劍
 ETC_20151001_015210	Able to use in Crystal Mine 1F
 ETC_20151001_015211	Able to use in Crystal Mine
-ETC_20151001_015212	Minimap -
-ETC_20151001_015213	Minimap +
+ETC_20151001_015212	小地圖 -
+ETC_20151001_015213	小地圖 +
 ETC_20151001_015214	Chat Macro
 ETC_20151001_015215	Execute Quick Slot
 ETC_20151001_015216	Chat (Pad)
 ETC_20151001_015217	Status
-ETC_20151001_015218	Character Info
-ETC_20151001_015219	Skill Tree
-ETC_20151001_015220	Quest Info
+ETC_20151001_015218	角色資訊
+ETC_20151001_015219	技能樹
+ETC_20151001_015220	任務資訊
 ETC_20151001_015221	Pose
 ETC_20151001_015222	Basic Actions
-ETC_20151001_015223	System Menu
+ETC_20151001_015223	系統選單
 ETC_20151001_015224	Wizard Shaman Doll
-ETC_20151001_015225	黑色 Note
+ETC_20151001_015225	Black Note
 ETC_20151001_015226	Hidden Sanctuary's Wall Painting
 ETC_20151001_015227	Priest Pranas
 ETC_20151001_015228	Chaser 
@@ -15240,7 +15240,7 @@ ETC_20151001_015238	Petrified Kingdom Guard
 ETC_20151001_015239	Barrier Crystal
 ETC_20151001_015240	{memo X}Rajatoad's Egg
 ETC_20151001_015241	{memo X}Rajatadpole's Egg
-ETC_20151001_015242	Defensive Magic Circle
+ETC_20151001_015242	保護魔法陣
 ETC_20151001_015243	{memo X}Defense Magic Circle
 ETC_20151001_015244	{memo X}Battle Field Defense Device
 ETC_20151001_015245	{memo X}Demon Flag
@@ -15306,27 +15306,27 @@ ETC_20151001_015304	Monsters have gathered!
 ETC_20151001_015305	Destroy the lump that spread the scent which lures monsters!
 ETC_20151001_015306	Protect Guus from the monsters rushing in!
 ETC_20151001_015307	Monsters are rushing in again!
-ETC_20151001_015308	Battle Start!
-ETC_20151001_015309	Team 2 Wins
-ETC_20151001_015310	Team 1 Wins
-ETC_20151001_015311	[First Blood] Destroy a building (%d/%d){nl}Reward: 2500 Coins
-ETC_20151001_015312	%s is the first to destroy the enemy's building. (2500 Coins rewarded)
-ETC_20151001_015313	[First Blood] Kill an Enemy Player (%d/%d){nl}Reward: 2500 Coins 
-ETC_20151001_015314	%s killed a player! (2500 Coins rewarded)
-ETC_20151001_015315	Defeat 7 Kepas (%d/%d){nl}Reward: 2500 Coins
-ETC_20151001_015316	%s defeated 7 Kepas! (2500 Coins rewarded)
-ETC_20151001_015317	Defeat Ludas Vubbe (%d/%d){nl}Reward : 2500 Coins
-ETC_20151001_015318	%s defeated Ludas Vubbe! (2500 Coins rewarded)
-ETC_20151001_015319	Defeat Treasure Vubbe (%d/%d){nl}Reward : 2500 Coins
-ETC_20151001_015320	%s defeated Treasure Vubbe! (2500 Coins rewarded)
-ETC_20151001_015321	The game has ended. You will return to the zone after 1 minute.
-ETC_20151001_015322	{@st42}Name{/}
-ETC_20151001_015323	{@st42}Kills
-ETC_20151001_015324	{@st42}Points
+ETC_20151001_015308	戰鬥開始！
+ETC_20151001_015309	2隊 勝利
+ETC_20151001_015310	1隊 勝利
+ETC_20151001_015311	[首殺] 破壞建築 (%d/%d){nl}獎勵：2500 Coins
+ETC_20151001_015312	%s第一個破壞了敵人的建築。(獲得2500 Coins)
+ETC_20151001_015313	[首殺] 殺死一個敵對玩家 (%d/%d){nl}獎勵：2500 Coins
+ETC_20151001_015314	%s 殺死一個玩家！(獲得2500 Coins)
+ETC_20151001_015315	打敗 7個 凱帕 (%d/%d){nl}獎勵：2500 Coins
+ETC_20151001_015316	%s 打敗了 7個 凱帕！(獲得2500 Coins)
+ETC_20151001_015317	打敗 Ludas Vubbe (%d/%d){nl}獎勵：2500 Coins
+ETC_20151001_015318	%s 打敗了 Ludas Vubbe (獲得2500 Coins)
+ETC_20151001_015319	打敗 Treasure Vubbe (%d/%d){nl}獎勵：2500 Coins
+ETC_20151001_015320	%s 打敗了 Treasure Vubbe！(獲得2500 Coins)
+ETC_20151001_015321	遊戲結束。1分鐘後返回到區域。
+ETC_20151001_015322	{@st42}名字{/}
+ETC_20151001_015323	{@st42}擊殺
+ETC_20151001_015324	{@st42}點數
 ETC_20151001_015325	Destroy the summon scrolls within 20 minutes.{nl}Failure : Timeout, Incapable of Combat
-ETC_20151001_015326	Summon Scroll
-ETC_20151001_015327	Destroy all the summoning scrolls within 20 minutes!
-ETC_20151001_015328	Mission Succeeded!{nl}You will return after 60 seconds
+ETC_20151001_015326	召喚
+ETC_20151001_015327	在20分鐘內消滅所有的召喚物！
+ETC_20151001_015328	任務成功！{nl}你將在60秒後返回
 ETC_20151001_015329	{memo X}Mission Failed!{nl}You will return after 30 seconds
 ETC_20151001_015330	Defeat Throneweaver
 ETC_20151001_015331	It starts after 50 seconds
@@ -15353,86 +15353,86 @@ ETC_20151001_015351	{memo X}
 ETC_20151001_015352	The game has ended.
 ETC_20151001_015353	{@st42}Goal
 ETC_20151001_015354	Mage Tower Formation Movement Magic Circle
-ETC_20151001_015355	4F
-ETC_20151001_015356	5F
-ETC_20151001_015357	6F
-ETC_20151001_015358	7F
-ETC_20151001_015359	8F
-ETC_20151001_015360	9F
-ETC_20151001_015361	10F
-ETC_20151001_015362	11F
-ETC_20151001_015363	12F
-ETC_20151001_015364	13F
-ETC_20151001_015365	14F
-ETC_20151001_015366	15F
-ETC_20151001_015367	16F
-ETC_20151001_015368	17F
-ETC_20151001_015369	18F
-ETC_20151001_015370	19F
-ETC_20151001_015371	20F
-ETC_20151001_015372	Lobby
-ETC_20151001_015373	Cleared the 1st floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015374	Cleared the 2nd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015375	Cleared the 3rd floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015376	Cleared the 4th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015377	Cleared the 5th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015378	Cleared the 6th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015379	Cleared the 7th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015380	Cleared the 8th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015381	Cleared the 9th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015382	Cleared the 10th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015383	Cleared the 11th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015384	Cleared the 12th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015385	Cleared the 13th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015386	Cleared the 14th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015387	Cleared the 15th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015388	Cleared the 16th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015389	Cleared the 17th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015390	Cleared the 18th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015391	Cleared the 19th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015392	Cleared the 20th floor!{nl}Break the door to move to the next floor!
-ETC_20151001_015393	Monsters will appear on the 1st floor after 10 seconds!
-ETC_20151001_015394	Monsters will appear on the 2nd floor after 10 seconds!
-ETC_20151001_015395	Monsters will appear on the 3rd floor after 10 seconds!
-ETC_20151001_015396	Monsters will appear on the 4th floor after 10 seconds!
-ETC_20151001_015397	Monsters will appear on the 5th floor after 10 seconds!
-ETC_20151001_015398	Monsters will appear on the 6th floor after 10 seconds!
-ETC_20151001_015399	Monsters will appear on the 7th floor after 10 seconds!
-ETC_20151001_015400	Monsters will appear on the 8th floor after 10 seconds!
-ETC_20151001_015401	Monsters will appear on the 9th floor after 10 seconds!
-ETC_20151001_015402	Monsters will appear on the 10th floor after 10 seconds!
-ETC_20151001_015403	Monsters will appear on the 11th floor after 10 seconds!
-ETC_20151001_015404	Monsters will appear on the 12th floor after 10 seconds!
-ETC_20151001_015405	Monsters will appear on the 13th floor after 10 seconds!
-ETC_20151001_015406	Monsters will appear on the 14th floor after 10 seconds!
-ETC_20151001_015407	Monsters will appear on the 15th floor after 10 seconds!
-ETC_20151001_015408	Monsters will appear on the 16th floor after 10 seconds!
-ETC_20151001_015409	Monsters will appear on the 17th floor after 10 seconds!
-ETC_20151001_015410	Monsters will appear on the 18th floor after 10 seconds!
-ETC_20151001_015411	Monsters will appear on the 19th floor after 10 seconds!
-ETC_20151001_015412	Monsters will appear on the 20th floor after 10 seconds!
+ETC_20151001_015355	4 層
+ETC_20151001_015356	5 層
+ETC_20151001_015357	6 層
+ETC_20151001_015358	7 層
+ETC_20151001_015359	8 層
+ETC_20151001_015360	9 層
+ETC_20151001_015361	10 層
+ETC_20151001_015362	11 層
+ETC_20151001_015363	12 層
+ETC_20151001_015364	13 層
+ETC_20151001_015365	14 層
+ETC_20151001_015366	15 層
+ETC_20151001_015367	16 層
+ETC_20151001_015368	17 層
+ETC_20151001_015369	18 層
+ETC_20151001_015370	19 層
+ETC_20151001_015371	20 層
+ETC_20151001_015372	大廳
+ETC_20151001_015373	1 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015374	2 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015375	3 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015376	4 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015377	5 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015378	6 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015379	7 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015380	8 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015381	9 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015382	10 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015383	11 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015384	12 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015385	13 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015386	14 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015387	15 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015388	16 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015389	17 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015390	18 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015391	19 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015392	20 層清理完畢！{nl}破壞大門移動到下一層！
+ETC_20151001_015393	10 秒後魔物會出現在第 1 層！
+ETC_20151001_015394	10 秒後魔物會出現在第 2 層！
+ETC_20151001_015395	10 秒後魔物會出現在第 3 層！
+ETC_20151001_015396	10 秒後魔物會出現在第 4 層！
+ETC_20151001_015397	10 秒後魔物會出現在第 5 層！
+ETC_20151001_015398	10 秒後魔物會出現在第 6 層！
+ETC_20151001_015399	10 秒後魔物會出現在第 7 層！
+ETC_20151001_015400	10 秒後魔物會出現在第 8 層！
+ETC_20151001_015401	10 秒後魔物會出現在第 9 層！
+ETC_20151001_015402	10 秒後魔物會出現在第 10 層！
+ETC_20151001_015403	10 秒後魔物會出現在第 11 層！
+ETC_20151001_015404	10 秒後魔物會出現在第 12 層！
+ETC_20151001_015405	10 秒後魔物會出現在第 13 層！
+ETC_20151001_015406	10 秒後魔物會出現在第 14 層！
+ETC_20151001_015407	10 秒後魔物會出現在第 15 層！
+ETC_20151001_015408	10 秒後魔物會出現在第 16 層！
+ETC_20151001_015409	10 秒後魔物會出現在第 17 層！
+ETC_20151001_015410	10 秒後魔物會出現在第 18 層！
+ETC_20151001_015411	10 秒後魔物會出現在第 19 層！
+ETC_20151001_015412	10 秒後魔物會出現在第 20 層！
 ETC_20151001_015413	Go to the portal nearby to use the Seal of Space!
-ETC_20151001_015414	It starts after 10 seconds
-ETC_20151001_015415	Start!
-ETC_20151001_015416	You will return to the entrance after 60 seconds
-ETC_20151001_015417	To Home
+ETC_20151001_015414	10 秒後開始
+ETC_20151001_015415	開始！
+ETC_20151001_015416	你將在60後將返回入口處
+ETC_20151001_015417	回家
 ETC_20151001_015418	TrapCondition/0
-ETC_20151001_015419	The Iron Door has opened!
-ETC_20151001_015420	It will start after 10 seconds
-ETC_20151001_015421	Start!
-ETC_20151001_015422	You will return to the entrance after 60 seconds
-ETC_20151001_015423	Start!!!
-ETC_20151001_015424	Cleared!! You will return to the entrance after 60 seconds
-ETC_20151001_015425	Completed after 60 seconds
-ETC_20151001_015426	You will return to the entrance after 60 seconds
-ETC_20151001_015427	Return to Zone
-ETC_20151001_015428	A boss monster has appeared!
-ETC_20151001_015429	Elaganos has appeared!
-ETC_20151001_015430	It will start after 10 seconds
+ETC_20151001_015419	鐵門打開了！
+ETC_20151001_015420	10 秒後開始
+ETC_20151001_015421	開始！
+ETC_20151001_015422	你將在 60 秒後將返回入口處
+ETC_20151001_015423	開始！！！
+ETC_20151001_015424	完成！！你將在 60 秒後將返回入口處
+ETC_20151001_015425	請在 60 秒內完成
+ETC_20151001_015426	60 秒後將返回入口處
+ETC_20151001_015427	返回到區域
+ETC_20151001_015428	BOSS 級魔物出現了！
+ETC_20151001_015429	Elaganos 出現了！
+ETC_20151001_015430	10 秒後開始
 ETC_20151001_015431	The thorny gate route has opened!!
 ETC_20151001_015432	Monsters have been created.
-ETC_20151001_015433	Failed!!!
-ETC_20151001_015434	Cleared!!!
+ETC_20151001_015433	失敗！！！
+ETC_20151001_015434	完成！！！
 ETC_20151001_015435	Decaying 藍色 Pawndel
 ETC_20151001_015436	Decaying 藍色 Stoulet
 ETC_20151001_015437	Decaying 黑色 Pawnd
@@ -15460,20 +15460,20 @@ ETC_20151001_015458	The third barrier was destroyed due to the monster's attack
 ETC_20151001_015459	The fourth barrier was destroyed due to the monster's attack
 ETC_20151001_015460	All barriers have disappeared. The room to the fifth barrier will soon open.
 ETC_20151001_015461	{memo X}The room to the fifth barrier has opened.{nl}Defeat all the boss monsters within the time limit
-ETC_20151001_015462	Mission Succeeded : You will return to the zone in approximately 1 minute.
+ETC_20151001_015462	任務成功：You will return to the zone in approximately 1 minute.
 ETC_20151001_015463	{memo X}Mission Failed!{nl}You will return to the zone.
 ETC_20151001_015464	{memo X}The mission starts in 1 minute.
-ETC_20151001_015465	The mission starts in 50 seconds.
-ETC_20151001_015466	The mission starts in 40 seconds.
-ETC_20151001_015467	The mission starts in 30 seconds.
-ETC_20151001_015468	The mission starts in 20 seconds.
-ETC_20151001_015469	The mission starts in 10 seconds.
-ETC_20151001_015470	The mission has begun.
+ETC_20151001_015465	50秒後開始任務
+ETC_20151001_015466	40秒後開始任務
+ETC_20151001_015467	30秒後開始任務
+ETC_20151001_015468	20秒後開始任務
+ETC_20151001_015469	10秒後開始任務
+ETC_20151001_015470	任務開始
 ETC_20151001_015471	{memo X}Defeat Rikaus and Carapace!
-ETC_20151001_015472	Survive for 5 minutes!{nl}The mission fails if you're wiped out!
-ETC_20151001_015473	Survive for 5 minutes!
-ETC_20151001_015474	Move to the next area
-ETC_20151001_015475	Destroy the Vubbe tribe flag within 10 minutes!
+ETC_20151001_015472	存活5分鐘！{nl}如果你被打敗，任務就會失敗！
+ETC_20151001_015473	存活5分鐘！
+ETC_20151001_015474	移動至下個區域
+ETC_20151001_015475	在10分鐘內破壞 Vubbe tribe flag
 ETC_20151001_015476	Defeat Shadowgaler!
 ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop them!
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
@@ -15492,30 +15492,30 @@ ETC_20151001_015490	You will return to the zone after 60 seconds.
 ETC_20151001_015491	{@st41b}The Pantos at Gelli Plateau have allied with the demons. You are the only one to stop them!
 ETC_20151001_015492	Survive the attacks of the Pantos!
 ETC_20151001_015493	Gloomy Panto Warrior
-ETC_20151001_015494	Survive from the Pantos.{nl}Move on to the next location!
+ETC_20151001_015494	Survive from the Pantos.{nl}移動到下一個地點！
 ETC_20151001_015495 Get the attention of the Panto by destroying the [Panto Totem]!
 ETC_20151001_015496	Gloomy Panto Magician
-ETC_20151001_015497	The totem has been destroyed.{nl}Move on to the next location!
-ETC_20151001_015498	Biteregina has been defeated.{nl}Move on to the next location!
+ETC_20151001_015497	打敗了 The totem。{nl}移動到下一個地點！
+ETC_20151001_015498	打敗了 Biteregina。{nl}移動到下一個地點！
 ETC_20151001_015499	Defeat Chapparition!
-ETC_20151001_015500	Chapparition has been defeated.{nl}Move on to the next location!
+ETC_20151001_015500	打敗了 Chapparition。{nl}移動到下一個地點！
 ETC_20151001_015501	Destroy all the Panto Totems!
 ETC_20151001_015502	Gloomy Panto Guide
-ETC_20151001_015503	Gloomy 綠色 Apparition
-ETC_20151001_015504	The Panto Totem has been destroyed.{nl}Move on to the next location!
+ETC_20151001_015503	Gloomy Green Apparition
+ETC_20151001_015504	The Panto Totem has been destroyed.{nl}移動到下一個地點！
 ETC_20151001_015505	Defeat Clymen!
-ETC_20151001_015506	Clymen has been defeated.{nl}Move on to the next location!
+ETC_20151001_015506	打敗了 Clymen。{nl}移動到下一個地點！
 ETC_20151001_015507	Protect the Paladin Barrier from the Pantos!
 ETC_20151001_015508	Romuva Barrier
 ETC_20151001_015509	Gloomy Panto Assassin
-ETC_20151001_015510	Protect the Romuva Barrier from the Pantos.{nl}Move on to the next location!
-ETC_20151001_015511	Defeat the Gloomy 綠色 Apparition!
-ETC_20151001_015512	The 綠色 Woodspirit has been defeated!
+ETC_20151001_015510	Protect the Romuva Barrier from the Pantos.{nl}移動到下一個地點！
+ETC_20151001_015511	Defeat the Gloomy Green Apparition!
+ETC_20151001_015512	打敗了 The Green Woodspirit！
 ETC_20151001_015513	{memo X}The mission has been completed.{nl}You will return to your original area after 60 seconds.
 ETC_20151001_015514	{memo X}There are no remaining players left.{nl}You will return to your original area.
 ETC_20151001_015515	{memo X}The mission has failed. You will be moved to your original zone.
 ETC_20151001_015516	{@st41b} The demons that are after the portal appeared again. You would be able to protect this place.
-ETC_20151001_015517	Find and defeat Lutopus!
+ETC_20151001_015517	尋找並擊敗 Lutopus!
 ETC_20151001_015518	Defeat all the monsters surging in to move to the next area!
 ETC_20151001_015519	Defeat all the monsters surging in!
 ETC_20151001_015520	Break through the trap area within 60 secs.{nl}Fail : The time has expired
@@ -15528,7 +15528,7 @@ ETC_20151001_015526	Cockat Nest
 ETC_20151001_015527	{memo X}Destroy all the Cockat nests!
 ETC_20151001_015528	{@st41b}The entrance of the Royal Mausoleum has been discovered by the Hogmas! If you don't help, the Royal Mausoleum will be destroyed by them.
 ETC_20151001_015529	Let's move to a safe place!
-ETC_20151001_015530	Bomb Flower
+ETC_20151001_015530	炸彈花
 ETC_20151001_015531	Collect the Explosive Flowers of the plateau!
 ETC_20151001_015532	Retrieve the fuse that is covered with oil!
 ETC_20151001_015533	You will move to the previous zone after 60 seconds.
@@ -15541,27 +15541,27 @@ ETC_20151001_015539	Protect Alina from the Chasers!
 ETC_20151001_015540	The reunification of the Demon Lord Hauberk has started!
 ETC_20151001_015541	Cold 小熊族
 ETC_20151001_015542	Cold Chinency
-ETC_20151001_015543	Destroy the pile of furniture to pave the way
+ETC_20151001_015543	破壞這些傢具來開路
 ETC_20151001_015544	Defeat the Rough 灰色 傀儡!
 ETC_20151001_015545	Cold Sparnicht
 ETC_20151001_015546	Cold Pokubu
-ETC_20151001_015547	Protect the torch for 3 minutes to open the way
+ETC_20151001_015547	保護火把 3 分鐘 來打開道路
 ETC_20151001_015548	Cold 傀儡lit
 ETC_20151001_015549	Cold Stone Orca
-ETC_20151001_015550	Torch HP : 70%
-ETC_20151001_015551	Torch HP : 50%
-ETC_20151001_015552	Torch HP : 30%
-ETC_20151001_015553	Torch HP : 10%
+ETC_20151001_015550	火把 HP : 70%
+ETC_20151001_015551	火把 HP : 50%
+ETC_20151001_015552	火把 HP : 30%
+ETC_20151001_015553	火把 HP : 10%
 ETC_20151001_015554	The final boss will appear after defeating this boss monster first
 ETC_20151001_015555	{memo X}Raid Success!{nl}You will return to the zone in 30 seconds
 ETC_20151001_015556	{memo X}Raid Failed!{nl}You will return to the zone in 10 seconds
 ETC_20151001_015557	{@st41b}Monsters are rushing out. If we don't block them, they will come to Klaipeda.
 ETC_20151001_015558	Obtain [Moss Incense] from Kepa Raider!
 ETC_20151001_015559	Use [Moss Incense] on the Kepa Chieftain
-ETC_20151001_015560	Magburk has appeared!
-ETC_20151001_015561	Kirmeleech has appeared!
-ETC_20151001_015562	Honeypin has appeared!
-ETC_20151001_015563	Bebraspion has appeared!
+ETC_20151001_015560	Magburk 出現了！
+ETC_20151001_015561	Kirmeleech 出現了！
+ETC_20151001_015562	Honeypin 出現了！
+ETC_20151001_015563	Bebraspion 出現了！
 ETC_20151001_015564	The weakening of [Giant redwood] has been released!
 ETC_20151001_015565	The sealed strengthening of [Giant redwood] has been released!
 ETC_20151001_015566	The strengthening of [Giant redwood] has progressed with 10%!
@@ -15602,20 +15602,20 @@ ETC_20151001_015600	The request has failed since you were not able to protect th
 ETC_20151001_015601	Return to Gilliam to proceed to the next phase!
 ETC_20151001_015602	Zinutekas Summon Stone
 ETC_20151001_015603	{@st43}The monsters are rushing out from the Crystal Mine again. You will be of great help.
-ETC_20151001_015604	Defeat the boss monster!
+ETC_20151001_015604	擊敗BOSS魔物！
 ETC_20151001_015605	Survive for 5 minutes as you fight against the added boss monsters!
 ETC_20151001_015606	Cleared 2nd Room!
 ETC_20151001_015607	Destroy the monster summon stone within 5 minutes
-ETC_20151001_015608	Defeat the last boss monster!
+ETC_20151001_015608	打敗最後的BOSS魔物！
 ETC_20151001_015609	When you either defeat the boss or the time expires,{nl}the final boss will appear
 ETC_20151001_015610	Mission Failed{nl}You will return to the previous zone after 10 seconds
 ETC_20151001_015611	Mission Success!{nl}You will return to the previous zone after 1 minute
-ETC_20151001_015612	You will return to the zone in 30 seconds
+ETC_20151001_015612	將在 30 秒後返回區域
 ETC_20151001_015613	When the Owl Sculpture shines,{nl}transmit the power to reduce time!
-ETC_20151001_015614	You will return to the zone in 10 seconds
-ETC_20151001_015615	Defeat all the servants of Hauberk!
-ETC_20151001_015616	Defeat all the servants of Hauberk!{nl}Pursue Hauberk!
-ETC_20151001_015617	Defeat all the servants of Hauberk!{nl}Find Kupole Sigita 
+ETC_20151001_015614	將在 10 秒後返回區域
+ETC_20151001_015615	打敗所有 the servants of Hauberk!
+ETC_20151001_015616	打敗所有 the servants of Hauberk!{nl}Pursue Hauberk!
+ETC_20151001_015617	打敗所有 the servants of Hauberk!{nl}Find Kupole Sigita 
 ETC_20151001_015618	Track down the Demon Lord Hauberk who fled through the Zinuma Passage!
 ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
 ETC_20151001_015620	Bearkaras Suppressor
@@ -15641,69 +15641,69 @@ ETC_20151016_015639	FreeDungeon Extra 3-2
 ETC_20151016_015640	FreeDungeon Extra 4-1
 ETC_20151016_015641	FreeDungeon Extra 4-2
 ETC_20151016_015642	Rose!
-ETC_20151016_015643	The demon is up here!
+ETC_20151016_015643	那個惡魔出現了！
 ETC_20151016_015644 Tess!
-ETC_20151016_015645	Are you okay?
-ETC_20151016_015646	Where are all the villagers?
-ETC_20151016_015647	The Demon Lord Zaura ran away!
-ETC_20151016_015648	Restraining Device
-ETC_20151016_015649	Demon Lord Zaura
+ETC_20151016_015645	你沒事吧?
+ETC_20151016_015646	所有的村民都在哪裡?
+ETC_20151016_015647	惡魔領主 Zaura 逃跑了!
+ETC_20151016_015648	抑制裝置
+ETC_20151016_015649	惡魔領主 Zaura
 ETC_20151016_015650	{memo X}You foolish human…
 ETC_20151016_015651	{memo X}Don't think this is the end…
-ETC_20151016_015652	An unknown power is blocking it.
-ETC_20151016_015653	Face against Zaura to save the Goddesses!
+ETC_20151016_015652	有種莫名的力量在阻擋著。
+ETC_20151016_015653	為了拯救女神，必須要面對 Zaura	！
 ETC_20151016_015654	{memo X}You really want to die, don't you?
 ETC_20151016_015655	{memo X}You cannot get near the Goddesses!
 ETC_20151016_015656	{memo X}I will kill you here!
 ETC_20151016_015657	{memo X}The Beholder disappeared with Cruvina!
 ETC_20151016_015658	{memo X}Defeat the awakened Zaura!
-ETC_20151016_015659	Go away
+ETC_20151016_015659	走開
 ETC_20151016_015660	{memo X}You shouldn't go after this power
 ETC_20151016_015661	{memo X}But, I will give you the power which Giltine permitted instead
-ETC_20151016_015662	Revelator.. I will be watching you…
-ETC_20151016_015663	No!!
+ETC_20151016_015662	啟示者…我會時時刻刻注意你的一舉一動的…
+ETC_20151016_015663	不！！
 ETC_20151016_015664	{memo X}Since it turned out like this, I will destroy you with Cruvina!!
-ETC_20151016_015665	What happened to the tombstone?
-ETC_20151016_015666	Okay! I will come back!
-ETC_20151016_015667	The Fire Lord which was Albinas before
-ETC_20151016_015668	The monsters who stole the sign of Nestos are attacking again!
+ETC_20151016_015665	這墓碑到底發生了什麼事？
+ETC_20151016_015666	沒問題！我會回來的！
+ETC_20151016_015667	曾經是 Albinas 的炎之杖
+ETC_20151016_015668	盜取Nestos印記的魔物們再次發動攻擊！
 ETC_20151016_015669	{memo X}Ugh! They again..!
-ETC_20151016_015670	What! Demons!
-ETC_20151016_015671	There they are!
-ETC_20151016_015672	You check it with Monocle.
+ETC_20151016_015670	該死的惡魔們！
+ETC_20151016_015671	找到他們了！
+ETC_20151016_015672	你使用單眼鏡檢查了這個。
 ETC_20151016_015673	Cozy Lodge
-ETC_20151016_015674	Kedora Merchants' Benefits
-ETC_20151016_015675	PR Notice : Join the Kedora Merchants!{nl}Benefit Effect : Temporary increase in attack and magic attack!
-ETC_20151016_015676	Dopey Ferret
-ETC_20151016_015677	Observe
-ETC_20151016_015678	The Ferret has been already observed.
-ETC_20151016_015679	Transformed into a Ferret. Now you can talk with the Ferrets.
-ETC_20151016_015680	Emergency Treatment
-ETC_20151016_015681	Can't be treated
-ETC_20151016_015682	Zone Server Framework failed.
-ETC_20151016_015683	Transction execution failed. Please refer to the next information.
-ETC_20151016_015684	Can't find the sprite data.
-ETC_20151016_015685	Faild to reset World Table.
-ETC_20151016_015686	Failed to reset World Object.
-ETC_20151016_015687	Failed to reset Main Sector Manager.
-ETC_20151016_015688	The coordinates are not valid.
-ETC_20151016_015689	There are no sound files. Ask Sound Team.
-ETC_20151016_015690	Script has tried to leave the logs inadequately. Check the corresponding lines of call stack.
-ETC_20151016_015691	You've failed to connect due to a socket error.
+ETC_20151016_015674	Kedora 商人的增益
+ETC_20151016_015675	促銷旺季：加入 Kedora 商人！{nl}增益效果：攻擊力和魔法攻擊力將會暫時提昇！
+ETC_20151016_015676	愚笨的白鼬
+ETC_20151016_015677	觀察
+ETC_20151016_015678	白鼬進入了你的視野。
+ETC_20151016_015679	變成了白鼬。你現在可以與白鼬溝通了。
+ETC_20151016_015680	緊急措施
+ETC_20151016_015681	無法處理
+ETC_20151016_015682	地區伺服器框架失敗。
+ETC_20151016_015683 交易執行失敗。請參考下一個系統訊息。
+ETC_20151016_015684 找不到 sprite 資料。
+ETC_20151016_015685 重設遊戲世界框架失敗。
+ETC_20151016_015686 重設遊戲世界物件失敗。
+ETC_20151016_015687 重設主要扇區管理器失敗。
+ETC_20151016_015688 無效座標。
+ETC_20151016_015689 找不到聲音檔案。請洽音效團隊。
+ETC_20151016_015690 腳本試圖不正確的離開日誌，請檢查對應的腳本呼叫。
+ETC_20151016_015691	由於連接的端口錯誤，你無法連接伺服器。
 ETC_20151016_015692	You've failed to reset Mongo DB. Check whether the related information is in the world table.
-ETC_20151016_015693	It took a long time to execute sp_ies_master_set
-ETC_20151016_015694	The collection is not registered at sp_server_logging_list. Please inquire to DB team or Management Team.
-ETC_20151016_015695	This packet is not defined. It will be treated as a hacking packet.
+ETC_20151016_015693	執行 sp_ies_master_set 會花費很長時間。
+ETC_20151016_015694	此集合沒有在 sp_server_logging_list 中註冊。請洽 DB 團隊或管理團隊。
+ETC_20151016_015695	這個封包沒有被定義。將會視為入侵封包。
 ETC_20151016_015696	{memo X}Fencer
-ETC_20151016_015697	Dragoon
-ETC_20151016_015698	Templar
-ETC_20151016_015699	Sage
-ETC_20151016_015700	Warlock
-ETC_20151016_015701	Featherfoot
-ETC_20151016_015702	Cannoneer
-ETC_20151016_015703	Musketeer
-ETC_20151016_015704	Plague Doctor
-ETC_20151016_015705	Kabbalist
+ETC_20151016_015697	龍騎士
+ETC_20151016_015698	聖殿騎士
+ETC_20151016_015699	賢者
+ETC_20151016_015700	法術士
+ETC_20151016_015701	妖術師
+ETC_20151016_015702	加農炮手
+ETC_20151016_015703	火槍手
+ETC_20151016_015704	瘟疫醫生
+ETC_20151016_015705	卡巴拉
 ETC_20151016_015706	Nutanta Crossroads
 ETC_20151016_015707	Isimity Square
 ETC_20151016_015708	Pakaba Wilderness
@@ -15723,202 +15723,202 @@ ETC_20151016_015721	Augalu Garden
 ETC_20151016_015722	Goanar Path
 ETC_20151016_015723	Vevaldy Grave
 ETC_20151016_015724	{memo X}Iboralul Cliff
-ETC_20151016_015725	The hut of the pilgrim
+ETC_20151016_015725	朝聖者小屋
 ETC_20151016_015726	{memo X}Rimve River
 ETC_20151016_015727	Pasra Field
-ETC_20151016_015728 The bridge under maintenance
+ETC_20151016_015728 維修中的橋梁
 ETC_20151016_015729	Baderam Hill
-ETC_20151016_015730	The stones with out obb
-ETC_20151016_015731	The sanctum object without obb
+ETC_20151016_015730	沒有 obb 的石頭
+ETC_20151016_015731	沒有 obb 的聖物
 ETC_20151016_015732	Spirit Condenser2_1
 ETC_20151016_015733	Spirit Condenser2_2
-ETC_20151016_015734	Swordsman Sub Master
-ETC_20151016_015735	Peltasta Sub Master
-ETC_20151016_015736	Highlander Sub Master
-ETC_20151016_015737	Hoplite Sub Master
-ETC_20151016_015738	Barbarian Sub Master
-ETC_20151016_015739	Rodelero Sub Master
-ETC_20151016_015740	Cataphract Sub Master
-ETC_20151016_015741	Wizard Sub Master
-ETC_20151016_015742	Pyromancer Sub Master
-ETC_20151016_015743	Cryomancer Sub Master
-ETC_20151016_015744	Psychokino Sub Master
-ETC_20151016_015745	Linker Sub Master
-ETC_20151016_015746	Thaumaturge Sub Master
-ETC_20151016_015747	Elementalist Sub Master
-ETC_20151016_015748	Archer Sub Master
-ETC_20151016_015749	Ranger Sub Master
-ETC_20151016_015750	Quarrel Shooter Sub Master
-ETC_20151016_015751	Sapper Sub Master
-ETC_20151016_015752	Hunter Sub Master
-ETC_20151016_015753	Wugushi Sub Master
-ETC_20151016_015754	Scout Sub Master
-ETC_20151016_015755	Cleric Sub Master
-ETC_20151016_015756	Krivis Sub Master
-ETC_20151016_015757	Priest Sub Master
-ETC_20151016_015758	Bokor Sub Master
-ETC_20151016_015759	Dievdirbys Sub Master
-ETC_20151016_015760	Paladin Sub Master
-ETC_20151016_015761	Mysterious Tree
-ETC_20151016_015762	Big Ferris Wheel
-ETC_20151016_015763	Toucan
-ETC_20151016_015764	Guinea Pig
-ETC_20151016_015765	Owl
+ETC_20151016_015734	劍士 助教
+ETC_20151016_015735	輕裝盾兵 助教
+ETC_20151016_015736	高地戰士 助教
+ETC_20151016_015737	重裝步兵 助教
+ETC_20151016_015738	野蠻人 助教
+ETC_20151016_015739	劍盾兵 助教
+ETC_20151016_015740	裝甲騎兵 助教
+ETC_20151016_015741	法師 助教
+ETC_20151016_015742	烈焰術士 助教
+ETC_20151016_015743	寒冰術士 助教
+ETC_20151016_015744	念力法師 助教
+ETC_20151016_015745	鎖鏈法師 助教
+ETC_20151016_015746	奇術士 助教
+ETC_20151016_015747	元素使 助教
+ETC_20151016_015748	弓箭手 助教
+ETC_20151016_015749	游俠 助教
+ETC_20151016_015750	弩箭手 助教
+ETC_20151016_015751	工兵 助教
+ETC_20151016_015752	獵人 助教
+ETC_20151016_015753	巫蠱師 助教
+ETC_20151016_015754	斥候 助教
+ETC_20151016_015755	牧師 助教
+ETC_20151016_015756	聖火祭司 助教
+ETC_20151016_015757	聖水祭司 助教
+ETC_20151016_015758	邪靈祭司 助教
+ETC_20151016_015759	雕刻師 助教
+ETC_20151016_015760	聖騎士 助教
+ETC_20151016_015761	神秘之樹
+ETC_20151016_015762	大型摩天輪
+ETC_20151016_015763	巨嘴鳥
+ETC_20151016_015764	幾內亞豬
+ETC_20151016_015765	貓頭鷹
 ETC_20151016_015766	Hauberk's Recombination
-ETC_20151016_015767	Completed Status Point Tutorial
-ETC_20151016_015768	Set a bonfire and guide the emigrants
-ETC_20151016_015769	Bring the emigrants
-ETC_20151016_015770	Advancement Helper
-ETC_20151016_015771	Find the Mysterious Girl
-ETC_20151016_015772	Investigate the mysterious seedlings
-ETC_20151016_015773	Record the behaviors of Ferrets
-ETC_20151016_015774	The reason why Ferrets became violent
-ETC_20151016_015775	The reason why Ferrets attack people
-ETC_20151016_015776	The relationship between Ferrets and demons
+ETC_20151016_015767	完成屬性點分配教程
+ETC_20151016_015768	設置一個為移居者指明方向的篝火
+ETC_20151016_015769	引入移居者
+ETC_20151016_015770	進階助手
+ETC_20151016_015771	找到神秘少女
+ETC_20151016_015772	調查神秘樹苗
+ETC_20151016_015773	記錄白鼬的行為
+ETC_20151016_015774	白鼬凶暴化的幕後黑手
+ETC_20151016_015775	白鼬攻擊人類的原因
+ETC_20151016_015776	惡魔與白鼬之間的關聯
 ETC_20151016_015777	{memo X}Set the modified block of wood
-ETC_20151016_015778	Observe the responses of Ferrets
+ETC_20151016_015778	觀察白鼬們的反應
 ETC_20151016_015779	{memo X}Kick out Ferrets
-ETC_20151016_015780	Defeat the Demon Lord Zaura
-ETC_20151016_015781	The magic power is overloaded on Kruvina Suppressor
-ETC_20151016_015782	Purify the evil energy
-ETC_20151016_015783	Grow the flower of the earth
-ETC_20151016_015784	Obtain the flowers of the great earth that are full of vitalities
-ETC_20151016_015785	Tell Amanda about the circumstances
-ETC_20151016_015786	Recharge the orb of absorption with vitalities of demons
-ETC_20151016_015787	Bring the spirit and find out the location of the revelation
-ETC_20151016_015788	Look for the place to set the sculpture of owl
-ETC_20151016_015789	Guide the spirit near the sculpture of owl
-ETC_20151016_015790	Look for the components for repair
-ETC_20151016_015791	Look for the stones that are big enough to write letters on them
-ETC_20151016_015792	Look for traces of villagers from A area
-ETC_20151016_015793	Look for traces of villagers from B area
-ETC_20151016_015794	Look for traces of villagers from C area
-ETC_20151016_015795	Follow the beads that are dropped on the ground to look for the xx villager
-ETC_20151016_015796	Find the traces around here to look for the villager 
+ETC_20151016_015780	擊敗惡魔領主 Zaura
+ETC_20151016_015781	Kruvina 抑制器中的魔法能量已經超載
+ETC_20151016_015782	淨化邪惡能量
+ETC_20151016_015783	把花種在土地裡
+ETC_20151016_015784	獲得充滿能量的大地之花
+ETC_20151016_015785	告訴 Amanda 事情的原委
+ETC_20151016_015786	用惡魔力量給同化寶珠充能
+ETC_20151016_015787	帶上靈魂找到啟示之地
+ETC_20151016_015788	找個安置貓頭鷹塑像的地方
+ETC_20151016_015789	將靈魂引導至貓頭鷹塑像附近
+ETC_20151016_015790	尋找一些用於維修的零件
+ETC_20151016_015791	找一些夠大的、能在上面寫字的石頭
+ETC_20151016_015792	在區域 A 尋找村民的蹤跡
+ETC_20151016_015793	在區域 B 尋找村民的蹤跡
+ETC_20151016_015794	在區域 C 尋找村民的蹤跡
+ETC_20151016_015795	跟著 xx 村民一路遺落下的小珠子來找到他
+ETC_20151016_015796	通過這裡發現的蹤跡來找到村民 
 ETC_20151016_015797	{memo X}Retrieve the lost objects
 ETC_20151016_015798	{memo X}Use the detector to look for the place where the goods of merchants are buried and bring them back
 ETC_20151016_015799	{memo X}Ask the importance of the tombstone of Nestos
 ETC_20151016_015800	{memo X}Ask about the aura from the tombstone
-ETC_20151016_015801	Tell that you will be responsible and apologize one more time
-ETC_20151016_015802	EXP Default Value : Equal Distribution
-ETC_20151016_015803	Rapier
-ETC_20151016_015804	Rapier Shield
-ETC_20151016_015805	Rapier Dagger
-ETC_20151016_015806	Rapier Sub
-ETC_20151016_015807	Crossbow Cannon
-ETC_20151016_015808	Recipe - Elements
+ETC_20151016_015801	就說你會負責並且再一次道歉的
+ETC_20151016_015802	EXP 默認數值：平均分配
+ETC_20151016_015803	西洋劍
+ETC_20151016_015804	西洋劍 盾牌
+ETC_20151016_015805	西洋劍 短劍
+ETC_20151016_015806	西洋劍 副手
+ETC_20151016_015807	弩 加農炮
+ETC_20151016_015808	圖紙 - 元素
 ETC_20151016_015809	{memo X}Fencer Advancement
-ETC_20151016_015810	Dragoon Advancement
-ETC_20151016_015811	Templar Advancement
-ETC_20151016_015812	Sage Advancement
-ETC_20151016_015813	Warlock Advancement
-ETC_20151016_015814	Featherfoot Advancement
-ETC_20151016_015815	Cannoneer Advancement
-ETC_20151016_015816	Musketeer Advancement
-ETC_20151016_015817	Plague Doctor Advancement
-ETC_20151016_015818	Kabbalist Advancement
-ETC_20151016_015819	By Grade
-ETC_20151016_015820	By Weight
-ETC_20151016_015821	By Price
-ETC_20151016_015822	By Name
-ETC_20151016_015823	Hidden Pillar
-ETC_20151016_015824	Kedora Merchants' Benefits!
-ETC_20151016_015825	Already detected
-ETC_20151016_015826	Not being detected well{nl}Activate it again
+ETC_20151016_015810	龍騎士 進階
+ETC_20151016_015811	聖殿騎士 進階
+ETC_20151016_015812	賢者 進階
+ETC_20151016_015813	術士 進階
+ETC_20151016_015814	妖術師 進階
+ETC_20151016_015815	炮擊士 進階
+ETC_20151016_015816	火槍手 進階
+ETC_20151016_015817	瘟疫醫生 進階
+ETC_20151016_015818	卡巴拉 進階
+ETC_20151016_015819	按等級
+ETC_20151016_015820	按重量
+ETC_20151016_015821	按價格
+ETC_20151016_015822	按名稱
+ETC_20151016_015823	隱藏的柱子.
+ETC_20151016_015824	Kedora 商人的增益！
+ETC_20151016_015825	已經探測到了
+ETC_20151016_015826	沒有能很好地探測{nl}在重新啟動一次
 ETC_20151016_015827	{memo X}It seems that it is out of the range of the detector{nl}Move within the range marked on the map and activate it again
 ETC_20151016_015828	{memo X}You have excavated what Jurate was talking about!
 ETC_20151016_015829	{memo X}Correct numbers should be typed in the chat window{nl}Check the number on the pillar again
 ETC_20151016_015830	{memo X}Listen to the importance of the tombstone of Anastos
 ETC_20151016_015831	{memo X}Listen to the story of aura that shines from the tombstone
-ETC_20151016_015832	Tell that you will be responsible and apologize one more time
-ETC_20151016_015833	The detector discovered the place where something is buried!
-ETC_20151016_015834	You have to use the trap within the marked area
-ETC_20151016_015835	Spreading the scent
-ETC_20151016_015836	Digging under the seedings
-ETC_20151016_015837	The orb of the goddess appeared under the seedings!
-ETC_20151016_015838	Observing
+ETC_20151016_015832	就說你會負責並且再一次道歉的
+ETC_20151016_015833	探測器發現了一個似乎掩埋某種東西的地點！
+ETC_20151016_015834	你在標記地點使用了陷阱
+ETC_20151016_015835	使氣味蔓延開來
+ETC_20151016_015836	從樹苗下面往下挖
+ETC_20151016_015837	女神的寶珠出現了在樹苗下面！
+ETC_20151016_015838	觀察中
 ETC_20151016_015839	{memo X}The Ferret has been already observed.
-ETC_20151016_015840	Transformed!{nl}You can now talk to the Ferret
+ETC_20151016_015840	變形術！{nl}你現在可以和白鼬對話了。
 ETC_20151016_015841	{memo X}Injured Villager
-ETC_20151016_015842	Ferret attacked the injured villager!
+ETC_20151016_015842	白鼬襲擊了受傷的村民！
 ETC_20151016_015843	{memo X}Ferret is running away after smelling the terrible odor!
 ETC_20151016_015844	{memo X}There are no Ferrets around
-ETC_20151016_015845	Destroying the restraining device
-ETC_20151016_015846	The power that was trapped in the restraining device went back to Rada
-ETC_20151016_015847	The status of the device to absorb vitalities is strange!
-ETC_20151016_015848	The magic power is being overloaded
-ETC_20151016_015849	As you used the orb of the goddess, the suppressor was destroyed
+ETC_20151016_015845	正在破壞抑制裝置
+ETC_20151016_015846	被束縛在抑制裝置內的能量回到了 Rada 體內
+ETC_20151016_015847	這個吸收著生命活力的裝置樣子實在太奇怪了！
+ETC_20151016_015848	魔法能量已經瀕臨超載
+ETC_20151016_015849	你使用女神的寶珠將抑制器破壞了
 ETC_20151016_015850	{memo X}You can't concentrate due to the monsters nearby
-ETC_20151016_015851	Purifying the evil energy
-ETC_20151016_015852	You've purified the evil energy
-ETC_20151016_015853	Destroying the demonic totem
-ETC_20151016_015854	As you destroyed the demonic totem, the evil energy starts to come out
+ETC_20151016_015851	正在淨化邪惡的能量
+ETC_20151016_015852	你已經淨化了邪惡的能量
+ETC_20151016_015853	正在破壞惡魔圖騰
+ETC_20151016_015854	你毀壞了惡魔圖騰, 妖異邪惡的能量噴涌而出
 ETC_20151016_015855	{memo X}You've observed the behaviors of Ferrets
-ETC_20151016_015856	Planting the seeds
-ETC_20151016_015857	Protect the seeds until the flowers of the great earth sprout
-ETC_20151016_015858	Cutting the flowers of the great earth
-ETC_20151016_015859	You've obtained the flowers of the great earth that are full of vitalities
-ETC_20151016_015860	Our home.. I finally came back…
-ETC_20151016_015861	Thank you so much…
-ETC_20151016_015862	You didn't find anything special from the demons.{nl}You better go back to Amanda
-ETC_20151016_015863	Collecting the eggs of Rajatad
-ETC_20151016_015864	Monster rushed out!
-ETC_20151016_015865	You've obtained the eggs of the Rajatad!
-ETC_20151016_015866	No, please don't do that!
-ETC_20151016_015867	He.. No!!
-ETC_20151016_015868	Why are you…
-ETC_20151016_015869	It is inappropriate to write something on it
-ETC_20151016_015870	You have found adequate stones!{nl}Tell Amanda about it
-ETC_20151016_015871	You have torn off an adequate component
-ETC_20151016_015872	You have brought the spirit to the platform of confessions
-ETC_20151016_015873	Now, tell me.
-ETC_20151016_015874	I will never tell you!
-ETC_20151016_015875	Please don't!
-ETC_20151016_015876	What is the device that was destroyed by Ruklys!
-ETC_20151016_015877	Persuading to go back to the Goddess
-ETC_20151016_015878	I will follow you…
-ETC_20151016_015879	There aren't useful components
-ETC_20151016_015880	Destroying Demon Totems
-ETC_20151016_015881	Retreat Order!
-ETC_20151016_015882	Blew the horn to order for retreat
-ETC_20151016_015883	Checking the Trace
+ETC_20151016_015856	種下種子
+ETC_20151016_015857	保護這些大地之花的種子直到它們發芽
+ETC_20151016_015858	采摘下這些大地之花
+ETC_20151016_015859	你得到了一束充滿生機的大地之花
+ETC_20151016_015860	我們的家…我終於回來了…
+ETC_20151016_015861	真的很感謝你…
+ETC_20151016_015862	你並沒有從惡魔身上發現什麼特別之處。{nl}你最好回去告訴 Amanda
+ETC_20151016_015863	收集 Rajatad 的蛋
+ETC_20151016_015864	魔物們衝了出來！
+ETC_20151016_015865	你得到了Rajatad的蛋！
+ETC_20151016_015866	不行，請別這麼做！
+ETC_20151016_015867	欸…不！！！
+ETC_20151016_015868	為什麼你…
+ETC_20151016_015869	在這上面寫東西似乎不大合適
+ETC_20151016_015870	你找到了一個看起來很合適的石頭！{nl}告訴 Amanda
+ETC_20151016_015871	你取下了一個合適的部件
+ETC_20151016_015872	你把靈魂帶到了懺悔之台
+ETC_20151016_015873	現在，告訴我吧。
+ETC_20151016_015874	我絕不會告訴你！
+ETC_20151016_015875	拜託不要！
+ETC_20151016_015876	那個被 Ruklys 毀掉的裝置是什麼！
+ETC_20151016_015877	說服她回到女神那裡去
+ETC_20151016_015878	我將與你同行…
+ETC_20151016_015879	並沒有任何合適的組件
+ETC_20151016_015880	正在破壞惡魔圖騰
+ETC_20151016_015881	全員撤退！
+ETC_20151016_015882	吹響號角發出撤退命令
+ETC_20151016_015883	正在辨識蹤跡
 ETC_20151016_015884	Rose
-ETC_20151016_015885	The beads no longer can be seen
-ETC_20151016_015886	Monsters appeared
-ETC_20151016_015887	You can't find anything
-ETC_20151016_015888	There are people
-ETC_20151016_015889	You've obtained Braken Herb
-ETC_20151016_015890	Collecting Herbs
+ETC_20151016_015885	似乎看不到那些小珠子了
+ETC_20151016_015886	魔物出現了
+ETC_20151016_015887	你找不到任何東西
+ETC_20151016_015888	這裡有人
+ETC_20151016_015889	你得到了布拉肯藥草
+ETC_20151016_015890	收集草藥中
 ETC_20151016_015891	{memo X}The material item is currently locked.
-ETC_20151016_015892	Failed to lock the item. Please try again.
+ETC_20151016_015892	鎖定物品失敗，請再試一次。
 ETC_20151016_015893	使用中
-ETC_20151016_015894	Holding
+ETC_20151016_015894	等候中
 ETC_20151016_015895	Inesa Hamondale
 ETC_20151016_015896	Guard
 ETC_20151016_015897	Urbonas   {nl}Orsha Bishop
-ETC_20151016_015898	Soldier's Tomb
-ETC_20151016_015899 The platform of confessions
-ETC_20151016_015900	The foundation stone of the defensive magic field
-ETC_20151016_015901	The defensive trap at the battle field
-ETC_20151016_015902	Braken Forest 63-1
-ETC_20151016_015903	Braken Forest 63-3
-ETC_20151016_015904	Braken Forest 42_1
-ETC_20151016_015905	Braken Herbs
+ETC_20151016_015898	士兵墓穴
+ETC_20151016_015899 懺悔之台
+ETC_20151016_015900	魔法防護力場的基石
+ETC_20151016_015901	戰場上的防禦陷阱
+ETC_20151016_015902	布拉肯森林 63-1
+ETC_20151016_015903	布拉肯森林 63-3
+ETC_20151016_015904	布拉肯森林 42_1
+ETC_20151016_015905	布拉肯藥草
 ETC_20151016_015906	Liaison Officer Mardas
-ETC_20151016_015907	Owl Chief Sculpture
-ETC_20151016_015908	Karolis Altar
-ETC_20151016_015909	Karolis' Light
-ETC_20151016_015910	Karolis Sanctuary
-ETC_20151016_015911 Mind Control Tower
+ETC_20151016_015907	貓頭鷹酋長雕塑
+ETC_20151016_015908	卡羅利斯祭壇
+ETC_20151016_015909	卡羅利斯之光
+ETC_20151016_015910	卡羅利斯避難所
+ETC_20151016_015911 精神控制塔
 ETC_20151016_015912	Free Dungeon
 ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	{memo X}Energy of Life
-ETC_20151016_015915 For effects of flame bombs
+ETC_20151016_015915 火焰爆彈的效果
 ETC_20151016_015916 Golden Pillar
 ETC_20151016_015917 Silver Pillar
 ETC_20151016_015918 Bronze Pillar
 ETC_20151016_015919	Officer Lutas
-ETC_20151016_015920	Defeat the 灰色 傀儡 and Carapace!
+ETC_20151016_015920	打敗 Gray Golem 和 Carapace!
 ETC_20151022_015921	Yellow Colifly
 ETC_20151022_015922	Evil Necroventer
 ETC_20151022_015923	Lapemiter is a unique occupation that is highly respected, but is also looked down upon among Lapes. A Lapemiter serves a religious role, but the other Lapes don't put great emphasis on religious rituals, so they want a Lapemiter to do their exhausting duty.
@@ -16114,37 +16114,37 @@ ETC_20151022_016112	Curse Totem
 ETC_20151022_016113	Defeat Fire Lord!
 ETC_20151022_016114	Kill the Revelator!
 ETC_20151022_016115	Denoptic appeared as you tried to remove the surveillance totem!
-ETC_20151022_016116	Surveillance Totem
+ETC_20151022_016116	監視圖騰
 ETC_20151022_016117	Rescue Priest Pranas!
-ETC_20151022_016118	Defeat the Grey Golem that suddenly appeared!
+ETC_20151022_016118	擊敗突然出現的 Grey Golem!
 ETC_20151022_016119	Abandoned Bag
 ETC_20151022_016120	Defeat Minotaurus and check the diary of Urbonas!
-ETC_20151022_016121	Defeat the Kepas that rushed in!
-ETC_20151022_016122	I heard this place is safe…
+ETC_20151022_016121	擊退涌入的凱帕們！
+ETC_20151022_016122	我聽說這個地方很安全…
 ETC_20151022_016123	Protect the people from the Poata!
-ETC_20151022_016124	Calm down…
-ETC_20151022_016125	Run away everyone!
-ETC_20151022_016126	Emigrant
-ETC_20151022_016127	How much longer do we have to wait?
-ETC_20151022_016128	Orsha is now finished!
-ETC_20151022_016129	What is this?
-ETC_20151022_016130	He doesn't stand in line?
-ETC_20151022_016131	Ah!!
-ETC_20151022_016132	Defeat Woodspirit!
-ETC_20151022_016133	Run away!
-ETC_20151022_016134	You've paid your first tax.
-ETC_20151022_016135	Paid the tax 1 time
-ETC_20151022_016136	Citizen
+ETC_20151022_016124	冷靜下來…
+ETC_20151022_016125	大家快跑！
+ETC_20151022_016126	移民
+ETC_20151022_016127	我們還要等多久？
+ETC_20151022_016128	奧爾沙 現在完成了！
+ETC_20151022_016129	這是什麼？
+ETC_20151022_016130	他不排隊？
+ETC_20151022_016131	啊！！
+ETC_20151022_016132	擊敗 Woodspirit！
+ETC_20151022_016133	快跑！
+ETC_20151022_016134	你交了你的首次稅金。
+ETC_20151022_016135	交 1 次稅
+ETC_20151022_016136	居民
 ETC_20151022_016137	The lives of the citizens are becoming prosperous.
-ETC_20151022_016138	Pay Taxes 10 Times
-ETC_20151022_016139	Model Citizen
-ETC_20151022_016140	You truly are a model citizen.
-ETC_20151022_016141	Pay Taxes 50 Times
+ETC_20151022_016138	交 10 次稅
+ETC_20151022_016139	模範公民
+ETC_20151022_016140	你真是個模範公民。
+ETC_20151022_016141	交 50 次稅
 ETC_20151022_016142	Noblesse Oblige
 ETC_20151022_016143	Paid all the taxes.
 ETC_20151022_016144	Pay Taxes 100 Times
-ETC_20151022_016145	Enhancement Master
-ETC_20151022_016146	Enhance 1,000 times successfully
+ETC_20151022_016145	強化大師
+ETC_20151022_016146	成功強化 1000 次
 ETC_20151022_016147	Shovel King
 ETC_20151022_016148	Shovel 1,000 times successfully
 ETC_20151022_016149	indun
@@ -16207,9 +16207,9 @@ ETC_20151022_016205	The user secret info received from Steam Server is wrong.
 ETC_20151022_016206	Failed to reset at Steam Server. Check the port info.
 ETC_20151022_016207	Could not load the client file hash code from DB. If it is not Develpment Server, it must be loaded.
 ETC_20151022_016208	The program was executed again.
-ETC_20151022_016209	Crystal Mine Mission
+ETC_20151022_016209	水晶礦山 任務
 ETC_20151022_016210	Catacombs Mission
-ETC_20151022_016211	擊劍士
+ETC_20151022_016211	西洋劍士
 ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes. 
 ETC_20151022_016213	Nestos' Camp
 ETC_20151022_016214	Anastos' Camping Ground
@@ -16258,10 +16258,10 @@ ETC_20151022_016256	Receive the blessing from the Cleric Sub Master
 ETC_20151022_016257	Receive the blessing from the Krivis Sub Master
 ETC_20151022_016258	Receive the blessing from the Bokor Sub Master
 ETC_20151022_016259	Cure the refugees that fell down
-ETC_20151022_016260	The Statue of Goddess Vakarine at Lemprasa Pond
-ETC_20151022_016261	The Statue of Goddess Zemyna at Lemprasa Pond
-ETC_20151022_016262	The Statue of Goddess Vakarine at Woods of Attached Bridge
-ETC_20151022_016263	The Statue of Goddess Vakarine at Paupys Port
+ETC_20151022_016260	在 Ramparasa Pond 的 瓦卡麗涅女神像
+ETC_20151022_016261	在 Ramparasa Pond 的 澤米娜女神像
+ETC_20151022_016262	在 Woods of Attached Bridge 的 瓦卡麗涅女神像
+ETC_20151022_016263	在 Paupys Port 的 瓦卡麗涅女神像
 ETC_20151022_016264	Defeat the monsters using Highlander skills
 ETC_20151022_016265	Defeat the monsters at Feretory Hills without any buffs
 ETC_20151022_016266	Defeat the beast monsters on Feretory Hills
@@ -16270,7 +16270,7 @@ ETC_20151022_016268	Absorb the spirits of the monsters
 ETC_20151022_016269	Defeat the monsters after drinking Barbarian's potion
 ETC_20151022_016270	Defeat the monsters using skills that doesn't use a shield
 ETC_20151022_016271	Defeat the monsters while mounted on a Companion
-ETC_20151022_016272	Manage Orsha's Statue of Goddess Vakarine
+ETC_20151022_016272	管理奧爾沙的瓦卡麗涅女神像Manage Orsha's Statue of Goddess Vakarine
 ETC_20151022_016273	Look for the basket of beef jerkies
 ETC_20151022_016274	Pollute the beef jerkies
 ETC_20151022_016275	Set the blocks of woods that are casted with the spell
@@ -16286,101 +16286,101 @@ ETC_20151022_016284	Use the scroll of Kedoraomer Merchants to the newbie revelat
 ETC_20151022_016285	Collect the fresh body fluid of monsters
 ETC_20151022_016286	Collect the materials of tombstones from the rocks nearby
 ETC_20151022_016287	Collect the short leather strings from monsters
-ETC_20151022_016288	Ask the importance of the tombstones of Nestos
-ETC_20151022_016289	Ask the red energies that are coming from the tombstone
-ETC_20151022_016290	Crossbow Pistol
-ETC_20151022_016291	Recipe - Rapier
+ETC_20151022_016288	詢問Nestos墓碑的重要性
+ETC_20151022_016289	詢問來自墓碑的紅色能量
+ETC_20151022_016290	弩 手槍
+ETC_20151022_016291	圖紙-西洋劍
 ETC_20151022_016292	Recipe-Epee
 ETC_20151022_016293	Recipe-Sharp Raypear
 ETC_20151022_016294	Recipe-Duelist
 ETC_20151022_016295	Recipe-Benire
-ETC_20151022_016296	Fencer Advancement
-ETC_20151022_016297	You will soon move to the character selection window.
-ETC_20151022_016298	Grimoire
-ETC_20151022_016299	Necronomicon
-ETC_20151022_016300	Can only be used in towns.
-ETC_20151022_016301	Number of Party Quest participated : {count} / {max}{nl}from party
-ETC_20151022_016302	You are doing a quest!
-ETC_20151022_016303	You've obtained all necessary breathes
-ETC_20151022_016304	You can't see any peculiarities anymore
-ETC_20151022_016305	You've used the scroll of Kedora Merchants!
-ETC_20151022_016306	The level of the Revelator is too high!
-ETC_20151022_016307	You've set the trap.
-ETC_20151022_016308	Obtaining the body fluid
-ETC_20151022_016309	You've obtained the body fluid
-ETC_20151022_016310	Making the bundle of strings by connecting leather strings together for bookbinding
-ETC_20151022_016311	You've made the bundle of strings for bookbinding
-ETC_20151022_016312	You've obtained the short leather string!
-ETC_20151022_016313	The research materials are all scattered across!
-ETC_20151022_016314	You've found the divine object!
-ETC_20151022_016315	The detector is activating
-ETC_20151022_016316	It seems to be out of the range of the detector{nl}Activate it within the range that is marked on the map
-ETC_20151022_016317	You've found the object of Merchants!
-ETC_20151022_016318	You should say the correct number{nl}Check the number on the pole again
-ETC_20151022_016319	Listen to the story of the importance of the tombstone of Nestos
-ETC_20151022_016320	Listen to the story of the red energies that are spurting out from the tombstone
-ETC_20151022_016321	Ligthing up the bonfire
-ETC_20151022_016322	You've already used it
-ETC_20151022_016323	Finally, Orsha!
-ETC_20151022_016324	You've helped the emigrants by lighting up the fire!
-ETC_20151022_016325	You've obtained the usable objects!
-ETC_20151022_016326	You've taken the emigrants to Dalas
-ETC_20151022_016327	Take the emigrants to Dalas
-ETC_20151022_016328	Take them quickly!
-ETC_20151022_016329	I will follow!
-ETC_20151022_016330	I want to rest…
-ETC_20151022_016331	Isn't this the way we came?
-ETC_20151022_016332	Monsters even in this place?
-ETC_20151022_016333	I am sure they were here
-ETC_20151022_016334	Where have they gone…
-ETC_20151022_016335	What was the bishop thinking
-ETC_20151022_016336	I guess he was in hurry
-ETC_20151022_016337	Is this a memo?
-ETC_20151022_016338	It seems that there are more things like this
-ETC_20151022_016339	You've found the trace of the priests
-ETC_20151022_016340	This is the bonefire discovered by other people
-ETC_20151022_016341	You've obtained the memo that is burnt in half
-ETC_20151022_016342	You've found the bonfire.{nl}Check the bonfire to obtain the memo!
-ETC_20151022_016343	You've eliminated the cart that stinks
-ETC_20151022_016344	This is the cart which has been already taken care of
-ETC_20151022_016345	You've used the lubricant for the monsters!
-ETC_20151022_016346	There is the crystal of Karolis that is already discovered near here
-ETC_20151022_016347	You've found the crystal of Karolis
-ETC_20151022_016348	You didn't find any crystals of Karolis nearby
-ETC_20151022_016349	Lighting the ray of Karolis
-ETC_20151022_016350	The ray of Karolis has been already lighted!
+ETC_20151022_016296	西洋劍士 進階
+ETC_20151022_016297	你將移動到角色選擇畫面。
+ETC_20151022_016298	魔法書
+ETC_20151022_016299	死靈之書
+ETC_20151022_016300	你只能在城鎮中使用。
+ETC_20151022_016301	參與的組隊任務數量：{count} / {max}{nl}來自隊伍
+ETC_20151022_016302	你正在進行一個任務！
+ETC_20151022_016303	你已經得到了所有必要的休息
+ETC_20151022_016304	你不再感到奇怪了
+ETC_20151022_016305	你已經使用了 Kedora 商人的捲軸！
+ETC_20151022_016306	啟示者的等級太高了！
+ETC_20151022_016307	你設置好陷阱了
+ETC_20151022_016308	獲得 body fluid
+ETC_20151022_016309	你已經獲得 body fluid
+ETC_20151022_016310	要裝訂書籍，就得將皮線連在一起弄成一卷
+ETC_20151022_016311	你作出了一卷裝訂用的線
+ETC_20151022_016312	你獲得了短皮線！
+ETC_20151022_016313	研究材料被混在了一起！
+ETC_20151022_016314	你找到了聖器！
+ETC_20151022_016315	探測器正在啟動
+ETC_20151022_016316	看來它在探測器的範圍之外{nl}在地圖中所標記的地點啟動探測器
+ETC_20151022_016317	你找到了商人的物品!
+ETC_20151022_016318	你需要說出正確的數字{nl}在桿子上再查一遍
+ETC_20151022_016319	聽關於 Nestos 的墓碑的重要性的故事
+ETC_20151022_016320	聽關於從墓碑中噴出的紅色能量的故事
+ETC_20151022_016321	點燃篝火
+ETC_20151022_016322	你已經用過了
+ETC_20151022_016323	終於，奧爾沙到了！
+ETC_20151022_016324	你幫助移民燃起了火！
+ETC_20151022_016325	你獲得了可用的物品！
+ETC_20151022_016326	你帶著移民去 Dalas
+ETC_20151022_016327	帶著移民去 Dalas
+ETC_20151022_016328	快！
+ETC_20151022_016329	我會跟上的！
+ETC_20151022_016330	我想休息一會…
+ETC_20151022_016331	這不是我們來時的路嗎？
+ETC_20151022_016332	這種地方也有魔物？
+ETC_20151022_016333	我確定他們該在這裡
+ETC_20151022_016334	他們去哪了…
+ETC_20151022_016335	主教在想什麼
+ETC_20151022_016336	我想他很著急
+ETC_20151022_016337	這是一本備忘錄嗎？
+ETC_20151022_016338	這裡有更多這樣的東西
+ETC_20151022_016339	你找到了牧師們的蹤跡
+ETC_20151022_016340	這是其他人找到的篝火
+ETC_20151022_016341	你找到了被燒掉一半的備忘錄
+ETC_20151022_016342	你已經找到了篝火。{nl}調查篝火以獲得備忘錄！
+ETC_20151022_016343	你已經處理掉了臭氣熏天的貨車
+ETC_20151022_016344	這是那個已經被處理掉的貨車
+ETC_20151022_016345	你使用了魔物的油！
+ETC_20151022_016346	這是那個在附近被發現的 卡羅利斯水晶
+ETC_20151022_016347	你發現了 卡羅利斯水晶
+ETC_20151022_016348	你在附近沒發現任何 卡羅利斯水晶
+ETC_20151022_016349	讓 卡羅利斯之光 亮起來
+ETC_20151022_016350	卡羅利斯之光 已經被點亮了！
 ETC_20151022_016351	This is the owl which you already gave the power to
 ETC_20151022_016352	Using the power of the owl
 ETC_20151022_016353	The power of the owl is too far away from the mind control tower
-ETC_20151022_016354	You can't see the divine tree of Retas and the monsters that reacted to the energies of the forest are rushing in!
-ETC_20151022_016355	You didn't find the divine tree of Retas
-ETC_20151022_016356	The divine tree of Retas has shown up
-ETC_20151022_016357	The young tree of Retas
-ETC_20151022_016358	Obtaining the branches of the trees
-ETC_20151022_016359	The divine tree of Retas has already shown up
-ETC_20151022_016360	Using the divine branches of Retas
-ETC_20151022_016361	You've been expelled to outside after being detected by the surveillance sphere
-ETC_20151022_016362	Removing Magic Circle
-ETC_20151022_016363	You can feel the ominous energy
-ETC_20151022_016364	Releasing the defensive magical field
-ETC_20151022_016365	All magic fields will reactivate due to the incorrect order of their releases
-ETC_20151022_016366	You can't touch them since they are being protected with the defensive magic
-ETC_20151022_016367	Using the determination of the guiding owl
-ETC_20151022_016368	Spreading the energies of the forest
-ETC_20151022_016369	You've found the Shaman Doll of the gravekeeper!
-ETC_20151022_016370	You've found the basket of the hidden beef jerkies!{nl}Pour the polluted red water and pollute the beef jerkies!
-ETC_20151022_016371	Polluting the beef jerkies
-ETC_20151022_016372	This way…
-ETC_20151022_016373	There are no more strange behaviors
-ETC_20151022_016374	The block of wood that is spelled
-ETC_20151022_016375	As you lighted the scent, the terrible odor starts to spread.
-ETC_20151022_016376	You can't use it due to the monsters nearby
-ETC_20151022_016377	Opening the strange looking sack
-ETC_20151022_016378	There is no girl here
+ETC_20151022_016354	你看不到 Retas 的聖樹而且對森林能量有反應的魔物正在湧入！
+ETC_20151022_016355	你沒能找到 Retas 的聖樹
+ETC_20151022_016356	Retas 的聖樹出現了
+ETC_20151022_016357	Retas 的樹苗
+ETC_20151022_016358	獲得樹枝
+ETC_20151022_016359	 Retas 的聖樹已經出現了
+ETC_20151022_016360	使用 Retas 的樹枝
+ETC_20151022_016361	被守護氣息發現之後你被傳送出去了
+ETC_20151022_016362	移除魔法陣
+ETC_20151022_016363	你能感受到一股不詳的力量
+ETC_20151022_016364	釋放防禦魔法力場
+ETC_20151022_016365	如果釋放順序錯誤,所有魔法場都會失效
+ETC_20151022_016366	由於防禦魔法的緣故你不能碰它們
+ETC_20151022_016367	採用指路的貓頭鷹的建議
+ETC_20151022_016368	擴散森林的能量
+ETC_20151022_016369	你找到了墳墓守衛的薩滿娃娃!
+ETC_20151022_016370	你找到了一籃隱藏的牛肉乾!{nl}將被污染的紅色的水倒到牛肉幹上!
+ETC_20151022_016371	正在污染牛肉乾
+ETC_20151022_016372	這邊…
+ETC_20151022_016373	沒有更多的怪異行為了
+ETC_20151022_016374	被施了魔法的木堆
+ETC_20151022_016375	你點燃香精時, 那股難聞的味道開始散布開來.
+ETC_20151022_016376	因為周唯有魔物，你不能使用這個
+ETC_20151022_016377	打開看起來很奇怪的袋子
+ETC_20151022_016378	女孩不在這裡
 ETC_20151022_016379	The energies of the scent that makes someone dim are spreading
-ETC_20151022_016380	The black spirit of the demons
-ETC_20151022_016381	You don't have enough burning crystals
-ETC_20151022_016382	The influence of the unknown power hasn't been removed yet
+ETC_20151022_016380	惡魔們的黑色靈魂
+ETC_20151022_016381	你沒有足夠的燃燒著的水晶
+ETC_20151022_016382	未知力量的影響還未被消除
 ETC_20151022_016383	As you burnt the vines, the monsters appeared
 ETC_20151022_016384	The monsters are rushing in to protect the activated guardian statue
 ETC_20151022_016385	You can't burn the vines yet
@@ -16391,9 +16391,9 @@ ETC_20151022_016389	SP recovery has been increased
 ETC_20151022_016390	STA recovery has been increased
 ETC_20151022_016391	The altar of the spirits is curing your body
 ETC_20151022_016392	Injecting the spirits
-ETC_20151022_016393	You don't have enough Red Spirits
-ETC_20151022_016394	You don't have enough Blue Spirits
-ETC_20151022_016395	You already have enough spirits
+ETC_20151022_016393	你沒有足夠的紅色魂魄
+ETC_20151022_016394	你沒有足夠的藍色魂魄
+ETC_20151022_016395	你已經有足夠的魂魄了
 ETC_20151022_016396	The spirit is not reacting to the pile of bones
 ETC_20151022_016397	The spirits are resurrecting into the demons
 ETC_20151022_016398	Using the body fluid of monsters
@@ -16405,47 +16405,47 @@ ETC_20151022_016403	Hand over the Small HP potion
 ETC_20151022_016404	Hand over the HP potion
 ETC_20151022_016405	Hand over the Big HP potion
 ETC_20151022_016406	Packing up
-ETC_20151022_016407	You've obtained the luggage of the peddler
-ETC_20151022_016408	Coco. Eat this.
-ETC_20151022_016409	Coco is looking for the peddler
-ETC_20151022_016410	Telling about the whereabouts of the peddler
-ETC_20151022_016411	Let it smell the scent of the peddler
-ETC_20151022_016412	Coco has smelled the scent of the peddler
-ETC_20151022_016413	Looking at the blocks of woods
-ETC_20151022_016414	You were only able to find the rotten trees
-ETC_20151022_016415	Lighting up the fire on the torch
-ETC_20151022_016416	Curing the Refugees
-ETC_20151022_016417	Purifying the Monsters
-ETC_20151022_016418	You've successfully purified the monsters
-ETC_20151022_016419	Combining the spirits of the monsters
-ETC_20151022_016420	You've absorbed the spirits of the monsters
-ETC_20151022_016421	You've failed to absorb the spirits of the monsters
-ETC_20151022_016422	Drinking the liquid medicine of Barbarian
-ETC_20151022_016423	Attack has decreased a little bit due to the effects of the liquid medicine!
-ETC_20151022_016424	Inspecting the Diary
-ETC_20151022_016425	You can't find anything about the giganctic bracken
-ETC_20151022_016426	You've found something about the gigantic bracken
-ETC_20151022_016427	Removing the defensive device
-ETC_20151022_016428	The defensive device has been removed
-ETC_20151022_016429	You've removed the caldron
-ETC_20151022_016430	Removing the power source
-ETC_20151022_016431	You've removed the power source
-ETC_20151022_016432	You've been caught by the chilly air trap
-ETC_20151022_016433	This item is currently locked
-ETC_20151022_016434	Equip Rapier Shield
-ETC_20151022_016435	Equip Rapier Dagger
-ETC_20151022_016436	Equip Rapier Sub
-ETC_20151022_016437	Equip Crossbow Pistol
-ETC_20151022_016438	Equip Crossbow Cannon
-ETC_20151022_016439	Item Merchant
-ETC_20151022_016440	[Swordsman Sub Master]{nl}         Codill
-ETC_20151022_016441	[Peltasta Sub Master]{nl}                Nirin Dameoff
-ETC_20151022_016442	[Cleric Sub Master]{nl}                 Tamara Easton
-ETC_20151022_016443	[Krivis Sub Master]{nl}                     Mellinda Dicherin
-ETC_20151022_016444	[Priest Sub Master]{nl}                      Boira
-ETC_20151022_016445	[Bokor Sub Master]{nl}                   Bobo Icelin
-ETC_20151022_016446	[Sadhu Master]{nl}                           Agota Hanska
-ETC_20151022_016447	[Paladin Sub Master]{nl}                  Sylvia Naimon
+ETC_20151022_016407	你得到了商人的行李.					
+ETC_20151022_016408	Coco. 把這個吃了.					
+ETC_20151022_016409	Coco 正在找商人					
+ETC_20151022_016410	講述商人的所在					
+ETC_20151022_016411	讓它聞聞商人的氣息					
+ETC_20151022_016412	Coco 聞到了商人的味道					
+ETC_20151022_016413	盯著那堆木頭看					
+ETC_20151022_016414	你只能找到腐爛的木頭					
+ETC_20151022_016415	把火炬點上					
+ETC_20151022_016416	治療難民					
+ETC_20151022_016417	精華魔物					
+ETC_20151022_016418	你成功淨化了魔物					
+ETC_20151022_016419	結合魔物們的靈魂
+ETC_20151022_016420	你獲得了魔物的靈魂					
+ETC_20151022_016421	你沒能吸收魔物的靈魂					
+ETC_20151022_016422	喝掉野蠻人的藥水					
+ETC_20151022_016423	因為藥水的效果ATK增加了!					
+ETC_20151022_016424	調查那本日記
+ETC_20151022_016425	你找不到任何關於巨大藤蔓的線索					
+ETC_20151022_016426	你找到了一些關於巨大藤蔓的線索					
+ETC_20151022_016427	解除防禦裝置					
+ETC_20151022_016428	防禦裝置已被解除					
+ETC_20151022_016429	你拿走了大鍋					
+ETC_20151022_016430	移除能量來源					
+ETC_20151022_016431	你移走了能量來源					
+ETC_20151022_016432	你陷入了冷氣陷阱					
+ETC_20151022_016433	這個道具被鎖住了					
+ETC_20151022_016434	裝備 西洋劍 盾牌					
+ETC_20151022_016435	裝備 西洋劍 匕首					
+ETC_20151022_016436	裝備 西洋劍 副手					
+ETC_20151022_016437	裝備 弩 手槍					
+ETC_20151022_016438	裝備 弩 加農炮					
+ETC_20151022_016439	道具商
+ETC_20151022_016440	[劍士 助教]{nl}Codill
+ETC_20151022_016441	[輕裝盾兵 助教]{nl}Nirin Dameoff
+ETC_20151022_016442	[牧師 助教]{nl}Tamara Easton
+ETC_20151022_016443	[聖火祭司 助教]{nl}Mellinda Dicherin
+ETC_20151022_016444	[聖水祭司 助教]{nl}Boira
+ETC_20151022_016445	[邪靈祭司 助教]{nl}Bobo Icelin
+ETC_20151022_016446	[聖者 導師]{nl}Agota Hanska
+ETC_20151022_016447	[聖騎士 助教]{nl}Sylvia Naimon
 ETC_20151022_016448	Flameholder
 ETC_20151022_016449	Boss Manager
 ETC_20151022_016450	Peddler Varas
@@ -16461,26 +16461,26 @@ ETC_20151022_016459	Protection Magic
 ETC_20151022_016460	Protection Magic Circle
 ETC_20151022_016461	Letter on the ground
 ETC_20151022_016462	Suspicous Pocket
-ETC_20151022_016463	[Kedora Merchant]{nl}   Leopoldas
-ETC_20151022_016464	[Kedora Merchant]{nl}     Edita
-ETC_20151022_016465	[Kedora Merchant]{nl} Marcelijus
-ETC_20151022_016466	[Kedora Merchant]{nl}     Gerda
-ETC_20151022_016467	[Kedora Merchant]{nl}   Serapinas
-ETC_20151022_016468	[Fencer Master]{nl}  Sorscha Hutton
-ETC_20151022_016469	[Barbarian Sub Master]{nl}        Twinhal Koreont
-ETC_20151022_016470	[Dievdirbys Sub Master]{nl}        Zenoa Gallant
+ETC_20151022_016463	[Kedora 商人]{nl}   Leopoldas
+ETC_20151022_016464	[Kedora 商人]{nl}     艾迪塔
+ETC_20151022_016465	[Kedora 商人]{nl} Marcelijus
+ETC_20151022_016466	[Kedora 商人]{nl}     格爾達
+ETC_20151022_016467	[Kedora 商人]{nl}   Serapinas
+ETC_20151022_016468	[西洋劍士 導師]{nl}　   索夏 赫頓
+ETC_20151022_016469	[野蠻人  助教]{nl}Twinhal Koreont
+ETC_20151022_016470	[雕刻師  助教]{nl}Zenoa Gallant
 ETC_20151022_016471	Padded Leg Herb
-ETC_20151022_016472	Smoking Glue
-ETC_20151022_016473	Cart that stinks
-ETC_20151022_016474	Habitat
-ETC_20151022_016475	[Highlander Sub Master{nl}        Rahellia Black
-ETC_20151022_016476	Injured Refugees
-ETC_20151022_016477	Rest Bonfire
-ETC_20151022_016478	Rest Pile of Firewood
+ETC_20151022_016472	冒著煙的膠水
+ETC_20151022_016473	把那堆臭臭的東西裝上車
+ETC_20151022_016474	棲息地
+ETC_20151022_016475	[高地戰士 助教]{nl}Rahellia Black
+ETC_20151022_016476	受傷的難民
+ETC_20151022_016477	剩下的篝火
+ETC_20151022_016478	剩下的柴火
 ETC_20151022_016479	Left Stuff
-ETC_20151022_016480	Lost Emigrant
-ETC_20151022_016481	Mission 
-ETC_20151022_016482	Mission are going to be start in 5 min
+ETC_20151022_016480	迷失的移民
+ETC_20151022_016481	任務 
+ETC_20151022_016482	任務將在 5 分鐘後開始
 ETC_20151022_016483	Opend five room {nl}
 ETC_20151022_016484	Defeat all monsters!
 ETC_20151022_016485	Defeat Jack O'Lantern!
@@ -16488,7 +16488,7 @@ ETC_20151022_016486	Defeat Moldyhorn!
 ETC_20151022_016487	Defeat Colimencia and Mothstem!
 ETC_20151022_016488	Defea the Cockat nest!
 ETC_20151022_016489	Defeat Moyabruka and Menticen!
-ETC_20151022_016490	Survie for 2 minutes!
+ETC_20151022_016490	2 分鐘之內存活！
 ETC_20151102_016491	캐슬 주술 인형
 ETC_20151102_016492	스펙터
 ETC_20151102_016493	저주받은 깃발
