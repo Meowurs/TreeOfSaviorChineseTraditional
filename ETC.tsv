@@ -13694,20 +13694,20 @@ ETC_20150729_013692	地圖上可確認現在自身位置和重要的區域。
 ETC_20150729_013693	按{img M 40 40}鍵可確認目前所在的位置。
 ETC_20150729_013694	{nl} {nl}小地圖上會顯示資訊與 NPC 的位置。{nl} {nl}{img minimap_leader 25 25}：你目前的位置。{nl}{img minimap_1_MAIN 25 25}：現在進行中的任務目標。{nl}{img minimap_0 25 25}：重要 NPC 的位置。{nl}{img minimap_goddess 25 25}：女神像的位置，可以進行傳送。{nl}{img minimap_board 25 25}：顯示各種情報的告示板。{nl}{img minimap_portal 25 25}：可通往其他地區的通路。{nl} {nl}
 ETC_20150729_013695	按{img N 40 40}鍵可檢視世界地圖。
-ETC_20150729_013696	未去過的地區不會在世界地圖上標示出,{nl}即使只到達過一次新地區，也會在世界地圖上標示出.
-ETC_20150729_013697	標示的地區用游標可查看當前地區中{nl}角色的完整地圖.
-ETC_20150729_013698	通過升級時獲得的素質點可以使角色的能力值提升.
-ETC_20150729_013699	{img F1 40 40}按此鍵可打開角色素質視窗，確認角色的能力值信息.
+ETC_20150729_013696	只有探索過得區域會顯示在世界地圖上，反之亦然。
+ETC_20150729_013697	將滑鼠移到已探索的區域上，就能看到完整地圖。
+ETC_20150729_013698	升級時獲得的素質點可以用來提升角色的能力值。
+ETC_20150729_013699	按 {img F1 40 40} 打開角色資訊視窗來檢視你的角色資訊。
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150729_013701	選取後的素質效果可在下端的詳細屬性中查閱.
-ETC_20150729_013702	職業等級成長時獲得的技能點可提升角色的技能等級.
+ETC_20150729_013701	你可以在畫面下方預覽升級素質後的效果。
+ETC_20150729_013702	職業等級成長時獲得的技能點可提升角色的技能等級。
 ETC_20150729_013703	按{img F3 40 40}鍵可打開技能視窗。
 ETC_20150729_013704	{img skillup 40 40}點擊此鍵可提升技能等級。
-ETC_20150729_013705	導師NPC處可學習特性技能，提升角色的能力.
-ETC_20150729_013706	各職業導師NPC處可學習特性技能.
+ETC_20150729_013705	想讓角色便得更強，就去找導師 NPC 學習特性吧。
+ETC_20150729_013706	可從各職業導師 NPC 學習特性技能。
 ETC_20150729_013707	學習部分職業特性需要消耗銀幣.{nl}此外，學習部分職業特性時需要消耗一些時間.
 ETC_20150729_013708	特性在學習之後可以使用，在特性學習的過程中無法學習其他特性.
-ETC_20150729_013709	部分特性會有啟用與關閉的功能.
+ETC_20150729_013709	有些特性可以視情況啟用或停用。
 ETC_20150729_013710	You can advance your class when you reach Class Lv 15。
 ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
@@ -14016,7 +14016,7 @@ ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
 ETC_20150729_014017	{@st59} 增加物理攻擊、暴擊攻擊和最大負重{/}
-ETC_20150729_014018	卷軸使用區域
+ETC_20150729_014018	上一個傳送的區域
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[雙酬傭兵 導師]{nl} Guera
 ETC_20150729_014021	Field GenX
@@ -14107,7 +14107,7 @@ ETC_20150803_014105	{memo X}EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Not
 ETC_20150803_014106	{memo X}EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead/Notice:NOTICE_Dm_!:You've failed to collect the petrification powder!:5
 ETC_20150803_014107	{memo X}DoTimeAction:Collecting:1:WEEDING:None
 ETC_20150803_014108	{memo X}Property:1/PropertyAdd:1/GiveItem:UNDER67_MQ4_ITEM01:1/NPCKill/Notice:NOTICE_Dm_GetItem:Obtained bushes:3/EffectNPC:Local:F_pc_making_finish_white:1:TOP
-ETC_20150803_014109	不讓斥侯導師發覺，悄悄把禮物轉達
+ETC_20150803_014109	不讓斥侯導師發覺，悄悄把禮物送給他
 ETC_20150803_014110	{memo X}Give the demons the slip by using temporary flare
 ETC_20150803_014111	收集紅色的葉子
 ETC_20150803_014112	{memo X}Lure the demons by setting leaf bombs
@@ -14138,9 +14138,9 @@ ETC_20150803_014136	{memo X}Thank you
 ETC_20150803_014137	什麼也沒有出現。
 ETC_20150803_014138	{memo X}Tell Amanda that you couldn't find anything
 ETC_20150803_014139	道具已經售出。
-ETC_20150803_014140	團隊戰鬥開始。可以通過小地圖左側圖標參加！
-ETC_20150803_014141	最近經常拒絕遊戲，因此無法參加遊戲。
-ETC_20150803_014142	缺少碎片！
+ETC_20150803_014140	團隊戰鬥開始了。點擊小地圖左側圖示就能參加！
+ETC_20150803_014141	因為你最近經常拒絕遊戲，而無法參加遊戲。
+ETC_20150803_014142	你沒有碎片！
 ETC_20150803_014143	{memo X}Magic Device
 ETC_20150803_014144	{memo X}Verification Ticket Craft Device
 ETC_20150803_014145	{memo X}The memo you left to Amanda
@@ -14174,9 +14174,9 @@ ETC_20150804_014172	正在啟動照明裝置
 ETC_20150804_014173	照明裝置已啟動！
 ETC_20150804_014174	裝貨地的照明裝置
 ETC_20150804_014175	堅持到裝貨地的照明裝置啟動
-ETC_20150804_014176	在崩壞殘骸中發現裝貨地照明狀態了。{nl}研磨加工廠的裝貨地照明裝置被轉動了。
-ETC_20150804_014177	研磨加工廠的記載所照明裝置的轉動完成了。{nl}王陵記載所中沁入了光芒。
-ETC_20150804_014178	因為王陵記載所的不安定的構造{nl}在研磨加工廠中出現了崩壞的事情。
+ETC_20150804_014176	在崩壞殘骸中發現裝貨地在的照明裝置了。{nl}照明裝置已啟動！
+ETC_20150804_014177	研磨加工廠的裝貨地照明裝置的轉動完成了。{nl}裝貨地中沁入了光芒。
+ETC_20150804_014178	因為裝貨地的建築結構不穩定{nl}殘骸遍佈了整個研磨加工廠。
 ETC_20150804_014179	在縫隙中出現了Wendigo！
 ETC_20150804_014180	獲得 大 HP 藥劑！
 ETC_20150804_014181	沒有插槽了，或者是全部在使用。
@@ -14869,7 +14869,7 @@ ETC_20151001_014867	Failed to create the field boss creation. Unable to find the
 ETC_20151001_014868	The error related with redis server happened. Please check the error message.
 ETC_20151001_014869	Failed to the running SP. Please check the SP information and error code.
 ETC_20151001_014870	The command line parameter is incorrect. Please check the information of program bath file.
-ETC_20151001_014871	客戶端由於顯卡驅動的原因停止運行,請聯繫你的顯卡發行商,謝謝.
+ETC_20151001_014871	由於顯示卡驅動發生問題導致客戶端終止運作。請洽您的顯示卡製造商。
 ETC_20151001_014872	Nvidia Perf SDK初始化失敗。
 ETC_20151001_014873	The error from Sign Code module happened. Please refer to the printed error code.
 ETC_20151001_014874	The log is still not declared the error code.
