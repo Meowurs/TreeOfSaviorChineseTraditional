@@ -477,25 +477,25 @@ ETC_20150317_000475	佐恩石像
 ETC_20150317_000476	Unlike traditional 哥雷姆s, 佐恩石像 move by a mysterious aura, not magic.
 ETC_20150317_000477	凱帕騎兵
 ETC_20150317_000478	Although a Kepa by name, it actually comes from the demon realm.
-ETC_20150317_000479	Mushcarfung
+ETC_20150317_000479	蘑菇人
 ETC_20150317_000480	古樹哥布林
 ETC_20150317_000481	An evil 哥布林 summoned by the 瓦布s. It sometimes appear even in areas where 瓦布s are not found.
 ETC_20150317_000482	紅木哥布林
-ETC_20150317_000483	Templeslave
-ETC_20150317_000484	Ringring
-ETC_20150317_000485	Woodin
-ETC_20150317_000486	Stone Orca
+ETC_20150317_000483	神廟奴隸
+ETC_20150317_000484	雙生環
+ETC_20150317_000485	伍汀木
+ETC_20150317_000486	石海怪
 ETC_20150317_000487	A mutant monster that looks like a dolphin. Its other features correspond to a small Stone Whale.
-ETC_20150317_000488	Rajapearlite
-ETC_20150317_000489	Drape
+ETC_20150317_000488	珍珠蚌
+ETC_20150317_000489	迪芮普
 ETC_20150317_000490	Although a clyra type because of its sharp tail, this monster seems to have transformed from a pumpkin.
 ETC_20150317_000491	{memo X}Infroholder
 ETC_20150317_000492	{memo X}As demons become more populous, new varieties of them appear. Infroholder is one of these new types of demon.
-ETC_20150317_000493	Lepusbunny
+ETC_20150317_000493	天兔幼仔
 ETC_20150317_000494	In the past this animal was quite friendly towards humans, but now it's even more dangerous than a bear.
 ETC_20150317_000495	Nuwort
-ETC_20150317_000496	Beadbird
-ETC_20150317_000497	Minos
+ETC_20150317_000496	珠鳥
+ETC_20150317_000497	米諾斯
 ETC_20150317_000498	Amorite
 ETC_20150317_000499	The Amorites are durahans whose armor is stained by evil forces.
 ETC_20150317_000500	Mine Lever
@@ -991,7 +991,7 @@ ETC_20150317_000989	Trap 1
 ETC_20150317_000990	Trap 2
 ETC_20150317_000991	Trap 3
 ETC_20150317_000992	闊刃陷阱
-ETC_20150317_000993	Summoned Mushcarfung
+ETC_20150317_000993	Summoned 蘑菇人
 ETC_20150317_000994	零下護盾
 ETC_20150317_000995	Honey Spider
 ETC_20150317_000996	Alchemist Magnum Opus
@@ -10433,7 +10433,7 @@ ETC_20150401_010431	Earth Archon
 ETC_20150401_010432	Catacomb Candle Spider 
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long-Branched Tree
-ETC_20150401_010435	Catacomb Mushcarfung
+ETC_20150401_010435	Catacomb 蘑菇人
 ETC_20150401_010436	Confined Firent
 ETC_20150401_010437	Ashrong
 ETC_20150401_010438	Cornuts
@@ -11621,8 +11621,8 @@ ETC_20150714_011619	Temple Slave Assassin
 ETC_20150714_011620	Temple Slave Mage
 ETC_20150714_011621	Infro Holder Shaman
 ETC_20150714_011622	Infro Holder Archer
-ETC_20150714_011623	Lepusbunny Magician
-ETC_20150714_011624	Lepusbunny Assassin
+ETC_20150714_011623	天兔幼仔 Magician
+ETC_20150714_011624	天兔幼仔 Assassin
 ETC_20150714_011625	死迎者 史卡普 Magician
 ETC_20150714_011626	死迎者 史卡普 Archer
 ETC_20150714_011627	Siaulav Mage
@@ -11635,8 +11635,8 @@ ETC_20150714_011633	Vikaras Magician
 ETC_20150714_011634	Vikaras Archer
 ETC_20150714_011635	Stoulet Mage
 ETC_20150714_011636	Stoulet Archer
-ETC_20150714_011637	Minos Mage
-ETC_20150714_011638	Minos Archer
+ETC_20150714_011637	米諾斯 Mage
+ETC_20150714_011638	米諾斯 Archer
 ETC_20150714_011639	Stumpy Tree Magician
 ETC_20150714_011640	Flask Mage
 ETC_20150714_011641	Kepari Sorcerer
@@ -15960,13 +15960,13 @@ ETC_20151022_015958	Red Infro Holder
 ETC_20151022_015959	Green Infro Holder
 ETC_20151022_015960	Red Infro Holder Archer
 ETC_20151022_015961	Green Infro Holder Shaman
-ETC_20151022_015962	Red Lepusbunny
-ETC_20151022_015963	Green Lepusbunny
-ETC_20151022_015964	Blue Lepusbunny
-ETC_20151022_015965	Green Lepusbunny Magician
-ETC_20151022_015966	Red Lepusbunny Assassin
-ETC_20151022_015967	Green Lepusbunny Assassin
-ETC_20151022_015968	Blue Lepusbunny Assassin
+ETC_20151022_015962	Red 天兔幼仔
+ETC_20151022_015963	Green 天兔幼仔
+ETC_20151022_015964	Blue 天兔幼仔
+ETC_20151022_015965	Green 天兔幼仔 Magician
+ETC_20151022_015966	Red 天兔幼仔 Assassin
+ETC_20151022_015967	Green 天兔幼仔 Assassin
+ETC_20151022_015968	Blue 天兔幼仔 Assassin
 ETC_20151022_015969	Red 死迎者 史卡普
 ETC_20151022_015970	Red 死迎者 史卡普 Magician
 ETC_20151022_015971	Blue Siaulav
@@ -15992,11 +15992,11 @@ ETC_20151022_015990	Green Stoulet
 ETC_20151022_015991	Blue Stoulet Mage
 ETC_20151022_015992	Green Stoulet Mage
 ETC_20151022_015993	Brown Stoulet Archer
-ETC_20151022_015994	Orange Minos
-ETC_20151022_015995	Green Minos
-ETC_20151022_015996	Green Minos Mage
-ETC_20151022_015997	Orange Minos Archer
-ETC_20151022_015998	Green Minos Archer
+ETC_20151022_015994	Orange 米諾斯
+ETC_20151022_015995	Green 米諾斯
+ETC_20151022_015996	Green 米諾斯 Mage
+ETC_20151022_015997	Orange 米諾斯 Archer
+ETC_20151022_015998	Green 米諾斯 Archer
 ETC_20151022_015999	Blue Socket
 ETC_20151022_016000	Green Socket
 ETC_20151022_016001	Red Socket
