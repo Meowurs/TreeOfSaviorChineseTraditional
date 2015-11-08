@@ -45,12 +45,12 @@ ITEM_20150317_000044	卡斯卡拉(Kaskara)
 ITEM_20150317_000045	重型五指劍 
 ITEM_20150317_000046	重型馬刀 
 ITEM_20150317_000047	重型半月彎刀 
-ITEM_20150317_000048	Dunkel 佩劍 
-ITEM_20150317_000049	Dunkel 短刀 
-ITEM_20150317_000050	Dunkel 彎刀 
-ITEM_20150317_000051	Dunkel 卡斯卡拉(Kaskara) 
-ITEM_20150317_000052	Dunkel 五指劍 
-ITEM_20150317_000053	Dunkel 半月彎刀 
+ITEM_20150317_000048	鄧克爾 佩劍 
+ITEM_20150317_000049	鄧克爾 短刀 
+ITEM_20150317_000050	鄧克爾 彎刀 
+ITEM_20150317_000051	鄧克爾 卡斯卡拉(Kaskara) 
+ITEM_20150317_000052	鄧克爾 五指劍 
+ITEM_20150317_000053	鄧克爾 半月彎刀 
 ITEM_20150317_000054	小柄小刀 
 ITEM_20150317_000055	No tooltip available. 
 ITEM_20150317_000056	闊刃彎刀 
@@ -120,7 +120,7 @@ ITEM_20150317_000119	伊莉西婭(Illizia)
 ITEM_20150317_000120	大多數劍客忽略了這把劍對生命和財產的嚴重威脅. 
 ITEM_20150317_000121	將刪除 
 ITEM_20150317_000122	雙手劍[斬擊] 
-ITEM_20150317_000123	Dunkel 變種劍 
+ITEM_20150317_000123	鄧克爾 變種劍 
 ITEM_20150317_000124	部分大師工匠和劍客為證明自己稱之為"混種雙手劍". 
 ITEM_20150317_000125	焰形巨劍 
 ITEM_20150317_000126	在雙手劍大師的手中手裡, 波狀劍刃將會造成巨大殺傷. 
@@ -144,10 +144,10 @@ ITEM_20150317_000143	混種大劍
 ITEM_20150317_000144	重型焰形巨劍 
 ITEM_20150317_000145	重型野太刀 
 ITEM_20150317_000146	重型雙刃闊劍 
-ITEM_20150317_000147	Dunkel 野太刀 
-ITEM_20150317_000148	Dunkel 高加索直劍 
-ITEM_20150317_000149	Dunkel 焰形巨劍 
-ITEM_20150317_000150	Dunkel 雙手闊劍 
+ITEM_20150317_000147	鄧克爾 野太刀 
+ITEM_20150317_000148	鄧克爾 高加索直劍 
+ITEM_20150317_000149	鄧克爾 焰形巨劍 
+ITEM_20150317_000150	鄧克爾 雙手闊劍 
 ITEM_20150317_000151	大劍 
 ITEM_20150317_000152	德式鬥劍 
 ITEM_20150317_000153	禮儀配劍 
@@ -244,10 +244,10 @@ ITEM_20150317_000243	重型克魯克彎鉤(CRook)
 ITEM_20150317_000244	重型錫棒 
 ITEM_20150317_000245	笨重克魯克彎鉤(Crook) 
 ITEM_20150317_000246	笨重水晶棒 
-ITEM_20150317_000247	Dunkel 長棒 
-ITEM_20150317_000248	Dunkel 漫遊手杖 
-ITEM_20150317_000249	Dunkel 手杖 
-ITEM_20150317_000250	Dunkel 錫棒 
+ITEM_20150317_000247	鄧克爾 長棒 
+ITEM_20150317_000248	鄧克爾 漫遊手杖 
+ITEM_20150317_000249	鄧克爾 手杖 
+ITEM_20150317_000250	鄧克爾 錫棒 
 ITEM_20150317_000251	蛇紋魔杖 
 ITEM_20150317_000252	變種魔杖 
 ITEM_20150317_000253	娜德魔杖(Nald) 
@@ -339,12 +339,12 @@ ITEM_20150317_000338	長弓
 ITEM_20150317_000339	重型複合弓 
 ITEM_20150317_000340	重型隨身弓 
 ITEM_20150317_000341	重型 羅戈斯 弓 
-ITEM_20150317_000342	Dunkel 隨身弓 
-ITEM_20150317_000343	Dunkel 卡爾曼弓 
-ITEM_20150317_000344	Dunkel 短弓 
-ITEM_20150317_000345	Dunkel 長弓 
-ITEM_20150317_000346	Dunkel 複合弓 
-ITEM_20150317_000347	Dunkel 羅戈斯 弓 
+ITEM_20150317_000342	鄧克爾 隨身弓 
+ITEM_20150317_000343	鄧克爾 卡爾曼弓 
+ITEM_20150317_000344	鄧克爾 短弓 
+ITEM_20150317_000345	鄧克爾 長弓 
+ITEM_20150317_000346	鄧克爾 複合弓 
+ITEM_20150317_000347	鄧克爾 羅戈斯 弓 
 ITEM_20150317_000348	曲弓
 ITEM_20150317_000349	攻城弓 
 ITEM_20150317_000350	狙擊手之弓 
@@ -432,11 +432,11 @@ ITEM_20150317_000431	十字弓
 ITEM_20150317_000432	重型的 杜克友 
 ITEM_20150317_000433	重型的 菱型弓 
 ITEM_20150317_000434	重型的 橡木十字弓 
-ITEM_20150317_000435	Dunkel 菱型弓 
-ITEM_20150317_000436	Dunkel 自動十字弓 
-ITEM_20150317_000437	Dunkel 十字弓 
-ITEM_20150317_000438	Dunkel 杜克友 
-ITEM_20150317_000439	Dunkel 橡木十字弓
+ITEM_20150317_000435	鄧克爾 菱型弓 
+ITEM_20150317_000436	鄧克爾 自動十字弓 
+ITEM_20150317_000437	鄧克爾 十字弓 
+ITEM_20150317_000438	鄧克爾 杜克友 
+ITEM_20150317_000439	鄧克爾 橡木十字弓
 ITEM_20150317_000440	勁弩(Arbalest) 
 ITEM_20150317_000441	佩帝米安精弓
 ITEM_20150317_000442	步槍 
@@ -491,7 +491,7 @@ ITEM_20150317_000490	單手鈍器 [打擊]
 ITEM_20150317_000491	易用的簡易武器. 
 ITEM_20150317_000492	木錘
 ITEM_20150317_000493	即使牧師揮舞一把木質的武器也會變得神聖. 
-ITEM_20150317_000494	Dunkel 鐵錘 
+ITEM_20150317_000494	鄧克爾 鐵錘 
 ITEM_20150317_000495	女神的懲罰要用這把武器才顯得鄭重. 
 ITEM_20150317_000496	低端的 錘 
 ITEM_20150317_000497	當你不再是見習牧師時, 這把武器是最低配置. 
@@ -523,11 +523,11 @@ ITEM_20150317_000522	硬頭錘
 ITEM_20150317_000523	重型的 晨星 
 ITEM_20150317_000524	重型的 大錘 
 ITEM_20150317_000525	重型的 流星錘 
-ITEM_20150317_000526	Dunkel 小錘 
-ITEM_20150317_000527	Dunkel 戰鬥之錘 
-ITEM_20150317_000528	Dunkel 硬頭槌 
-ITEM_20150317_000529	Dunkel 晨星 
-ITEM_20150317_000530	Dunkel 流星錘 
+ITEM_20150317_000526	鄧克爾 小錘 
+ITEM_20150317_000527	鄧克爾 戰鬥之錘 
+ITEM_20150317_000528	鄧克爾 硬頭槌 
+ITEM_20150317_000529	鄧克爾 晨星 
+ITEM_20150317_000530	鄧克爾 流星錘 
 ITEM_20150317_000531	戰鬥之錘 
 ITEM_20150317_000532	費迪南之錘(佩帝米安) 
 ITEM_20150317_000533	符文之錘 
@@ -610,8 +610,8 @@ ITEM_20150317_000609	粗糙的 木質小圓盾
 ITEM_20150317_000610	小的木質圓盾, 非常不符合標準的缺陷裝備, 但有總好過沒有. 
 ITEM_20150317_000611	粗糙的 木質凱特盾牌 
 ITEM_20150317_000612	傳說第一個發明這種盾牌的人是輕裝盾兵大師. 
-ITEM_20150317_000613	Dunkel 木質盾拍 
-ITEM_20150317_000614	Dunkel 木質小圓盾 
+ITEM_20150317_000613	鄧克爾 木質盾拍 
+ITEM_20150317_000614	鄧克爾 木質小圓盾 
 ITEM_20150317_000615	貝殼盾牌 
 ITEM_20150317_000616	皮質盾牌(Pelta) 
 ITEM_20150317_000617	費迪南盾牌(佩帝米安) 
@@ -678,9 +678,9 @@ ITEM_20150317_000677	長阿斯塔(Asta)
 ITEM_20150317_000678	原阿斯塔的更長版本. 
 ITEM_20150317_000679	重型的 短矛 
 ITEM_20150317_000680	重型的 戟 
-ITEM_20150317_000681	Dunkel 短矛 
-ITEM_20150317_000682	Dunkel 戟 
-ITEM_20150317_000683	Dunkel 阿斯塔(Asta) 
+ITEM_20150317_000681	鄧克爾 短矛 
+ITEM_20150317_000682	鄧克爾 戟 
+ITEM_20150317_000683	鄧克爾 阿斯塔(Asta) 
 ITEM_20150317_000684	長貝矛 
 ITEM_20150317_000685	柱槍(Alchupiz) 
 ITEM_20150317_000686	螺旋柱槍(Gelti Alchupiz) 
@@ -740,7 +740,7 @@ ITEM_20150317_000739	圓錐長矛
 ITEM_20150317_000740	雖然現代軍隊騎兵已經淡出舞台, 但他們的武器仍在繼續使用者. 
 ITEM_20150317_000741	費迪南長矛(佩帝米安) 
 ITEM_20150317_000742	很長時間流傳下來的法令說只有費迪南才有權打造這把武器. 
-ITEM_20150317_000743	Dunkel 長矛 
+ITEM_20150317_000743	鄧克爾 長矛 
 ITEM_20150317_000744	皇家 三叉戟 
 ITEM_20150317_000745	戰爭之叉 
 ITEM_20150317_000746	皇家 戰爭之叉 
@@ -851,14 +851,14 @@ ITEM_20150317_000850	橡木 魔杖
 ITEM_20150317_000851	重型 魔杖 
 ITEM_20150317_000852	重型 六月魔杖 
 ITEM_20150317_000853	重型 Uboko 魔杖 
-ITEM_20150317_000854	Dunkel 六月魔杖 
-ITEM_20150317_000855	Dunkel 惡魔魔杖 
-ITEM_20150317_000856	Dunkel 木質魔杖 
-ITEM_20150317_000857	Dunkel 橡木魔杖 
-ITEM_20150317_000858	Dunkel 魔杖 
-ITEM_20150317_000859	Dunkel Uboko 魔杖 
+ITEM_20150317_000854	鄧克爾 六月魔杖 
+ITEM_20150317_000855	鄧克爾 惡魔魔杖 
+ITEM_20150317_000856	鄧克爾 木質魔杖 
+ITEM_20150317_000857	鄧克爾 橡木魔杖 
+ITEM_20150317_000858	鄧克爾 魔杖 
+ITEM_20150317_000859	鄧克爾 Uboko 魔杖 
 ITEM_20150317_000860	鋼質魔杖 
-ITEM_20150317_000861	Dunkel 鋼質魔杖 
+ITEM_20150317_000861	鄧克爾 鋼質魔杖 
 ITEM_20150317_000862	矩形 魔杖 
 ITEM_20150317_000863	重型的 矩形魔杖 
 ITEM_20150317_000864	Mage 魔杖 
@@ -1076,25 +1076,25 @@ ITEM_20150317_001075	鋼鐵 鎖鏈 靴子
 ITEM_20150317_001076	鋼鐵 鎖鏈 褲子 
 ITEM_20150317_001077	鋼鐵 鎖甲 
 ITEM_20150317_001078	強化 皮甲 護甲 
-ITEM_20150317_001079	Dunkel 夾棉 手套 
-ITEM_20150317_001080	Dunkel 夾棉 靴子 
-ITEM_20150317_001081	Dunkel 夾棉 褲子 
-ITEM_20150317_001082	Dunkel 夾棉 護甲 
-ITEM_20150317_001083	Dunkel 棉手套 
+ITEM_20150317_001079	鄧克爾 夾棉 手套 
+ITEM_20150317_001080	鄧克爾 夾棉 靴子 
+ITEM_20150317_001081	鄧克爾 夾棉 褲子 
+ITEM_20150317_001082	鄧克爾 夾棉 護甲 
+ITEM_20150317_001083	鄧克爾 棉手套 
 ITEM_20150317_001084	法師們最愛的裝備之一. 
-ITEM_20150317_001085	Dunkel 棉靴 
-ITEM_20150317_001086	Dunkel 棉褲
+ITEM_20150317_001085	鄧克爾 棉靴 
+ITEM_20150317_001086	鄧克爾 棉褲
 ITEM_20150317_001087	被認為有效防禦魔法攻擊. 
-ITEM_20150317_001088	Dunkel 棉質長袍 
+ITEM_20150317_001088	鄧克爾 棉質長袍 
 ITEM_20150317_001089	說到防禦魔法攻擊, 果然還是非它莫屬. 
-ITEM_20150317_001090	Dunkel 硬質 皮甲 手套 
-ITEM_20150317_001091	Dunkel 硬質 皮甲 靴子 
-ITEM_20150317_001092	Dunkel 硬質 皮甲 褲子 
-ITEM_20150317_001093	Dunkel 硬質 皮甲 護甲 
-ITEM_20150317_001094	Dunkel 環狀 手套 
-ITEM_20150317_001095	Dunkel 環狀 靴子 
-ITEM_20150317_001096	Dunkel 環狀 褲子 
-ITEM_20150317_001097	Dunkel 環狀 鎖子甲 
+ITEM_20150317_001090	鄧克爾 硬質 皮甲 手套 
+ITEM_20150317_001091	鄧克爾 硬質 皮甲 靴子 
+ITEM_20150317_001092	鄧克爾 硬質 皮甲 褲子 
+ITEM_20150317_001093	鄧克爾 硬質 皮甲 護甲 
+ITEM_20150317_001094	鄧克爾 環狀 手套 
+ITEM_20150317_001095	鄧克爾 環狀 靴子 
+ITEM_20150317_001096	鄧克爾 環狀 褲子 
+ITEM_20150317_001097	鄧克爾 環狀 鎖子甲 
 ITEM_20150317_001098	環狀 手套 
 ITEM_20150317_001099	環狀 靴子 
 ITEM_20150317_001100	環狀 褲子 
@@ -1776,19 +1776,19 @@ ITEM_20150317_001775	恢復 640 HP. {nl}HP每兩秒回覆一次, 持續15秒. {n
 ITEM_20150317_001776	小 SP 藥劑 
 ITEM_20150317_001777	恢復 144 SP. {nl}SP每兩秒回覆一次, 持續15秒. {nl}右鍵點擊使用. 冷卻 30 秒. 
 ITEM_20150317_001778	恢復 240 SP. {nl}SP每兩秒回覆一次, 持續15秒. {nl}右鍵點擊使用. 冷卻 45 秒. 
-ITEM_20150317_001779	Large SP 藥劑 
+ITEM_20150317_001779	巨型 SP 藥劑 
 ITEM_20150317_001780	恢復 480 SP. {nl}SP每兩秒回覆一次, 持續15秒. {nl}右鍵點擊使用. 冷卻 60 秒. 
 ITEM_20150317_001781	體力 藥丸 
 ITEM_20150317_001782	恢復 15 STA. {nl}右鍵點擊使用. 冷卻 30 秒. 
 ITEM_20150317_001783	STA 藥丸 (Medium) 
 ITEM_20150317_001784	恢復 30 STA. {nl}右鍵點擊使用. 冷卻 45 秒. 
-ITEM_20150317_001785	STA 藥丸 (Large) 
+ITEM_20150317_001785	STA 藥丸 (巨型) 
 ITEM_20150317_001786	恢復 40 STA. {nl}右鍵點擊使用. 冷卻 60 秒. 
 ITEM_20150317_001787	Small Recovery 藥劑 
 ITEM_20150317_001788	恢復 244 HP and SP. {nl}Health and SP are restored every 2 秒 for 15 秒. {nl}右鍵點擊使用. 冷卻 30 秒. 
 ITEM_20150317_001789	Recovery 藥劑 
 ITEM_20150317_001790	恢復 373 HP and SP. {nl}Health and SP are restored every 2 秒 for 15 秒. {nl}右鍵點擊使用. 冷卻 30 秒. 
-ITEM_20150317_001791	Large Recovery 藥劑 
+ITEM_20150317_001791	巨型 Recovery 藥劑 
 ITEM_20150317_001792	恢復 744 HP and SP. {nl}Health and SP are restored every 2 秒 for 15 秒. {nl}右鍵點擊使用. 冷卻 30 秒. 
 ITEM_20150317_001793	STA + 5 Increase 藥劑 
 ITEM_20150317_001794	Increases STA by 5 
@@ -1904,16 +1904,16 @@ ITEM_20150317_001903	負重 提升 藥劑
 ITEM_20150317_001904	永久提升最大負重 100.{nl}右鍵點擊使用. 
 ITEM_20150317_001905	基礎 小型 HP 藥劑  
 ITEM_20150317_001906	基礎 HP 藥劑 Supply  
-ITEM_20150317_001907	基礎 Large HP 藥劑  
+ITEM_20150317_001907	基礎 巨型 HP 藥劑  
 ITEM_20150317_001908	基礎 小型 SP 藥劑  
 ITEM_20150317_001909	基礎 SP 藥劑  
-ITEM_20150317_001910	基礎 Large SP 藥劑  
+ITEM_20150317_001910	基礎 巨型 SP 藥劑  
 ITEM_20150317_001911	基礎 STA 藥丸 
 ITEM_20150317_001912	基礎 STA 藥劑 (Medium) 
-ITEM_20150317_001913	基礎 STA 藥劑 (Large) 
+ITEM_20150317_001913	基礎 STA 藥劑 (巨型) 
 ITEM_20150317_001914	基礎 Small Recovery 藥劑  
 ITEM_20150317_001915	基礎 Recovery 藥劑  
-ITEM_20150317_001916	基礎 Large Recovery 藥劑  
+ITEM_20150317_001916	基礎 巨型 Recovery 藥劑  
 ITEM_20150317_001917	基礎 移動速度 藥劑  
 ITEM_20150317_001918	STR 提升藥劑 
 ITEM_20150317_001919	永久提升STR 1點.{nl}右鍵點擊使用. 
@@ -1968,7 +1968,7 @@ ITEM_20150317_001967	Lv3 卡片 Collection
 ITEM_20150317_001968	Lv4 卡片 Collection 
 ITEM_20150317_001969	Practice Anvil 
 ITEM_20150317_001970	You can improve the ability of an item by placing and hammering it on this anvil. {nl}Can be purchased from Tool Merchant.{nl}右鍵點擊使用. 
-ITEM_20150317_001971	Gaigalas 卡片 
+ITEM_20150317_001971	蓋嘉勒斯地龍 卡片 
 ITEM_20150317_001972	卡片 
 ITEM_20150317_001973	A 卡片 containing the power of a strong monster. 
 ITEM_20150317_001974	戈爾岡 卡片 
@@ -2029,7 +2029,7 @@ ITEM_20150317_002028	尤納左恩石像 卡片
 ITEM_20150317_002029	狼人 卡片 
 ITEM_20150317_002030	獨角獸卡片 
 ITEM_20150317_002031	艾爾提斯沃 卡片 
-ITEM_20150317_002032	紅木巨人 卡片 
+ITEM_20150317_002032	紅木食人妖 卡片 
 ITEM_20150317_002033	精靈木巨人 卡片 
 ITEM_20150317_002034	幻影魔 卡片 
 ITEM_20150317_002035	黃金甲蟲 卡片 
@@ -2069,7 +2069,7 @@ ITEM_20150317_002068	泰羅斯 卡片
 ITEM_20150317_002069	惡魔樹蜥 卡片 
 ITEM_20150317_002070	小妖 卡片 
 ITEM_20150317_002071	波羅斯基 卡片 
-ITEM_20150317_002072	紅木樹零 卡片 
+ITEM_20150317_002072	紅木樹靈 卡片 
 ITEM_20150317_002073	拜爾蠑螈 卡片 
 ITEM_20150317_002074	拜爾甲蟲 卡片 
 ITEM_20150317_002075	煉獄魔派洛根 卡片 
@@ -2118,7 +2118,7 @@ ITEM_20150317_002117	Jukopus 葉片
 ITEM_20150317_002118	It is wide and wrinkly. 從 Jukopus 處獲得. 
 ITEM_20150317_002119	紅色凱帕水晶
 ITEM_20150317_002120	植物內部發現的晶體是由其汁液凝固形成的. 從 紅色凱帕 處獲得. 
-ITEM_20150317_002121	Large Monster 葉片 
+ITEM_20150317_002121	巨型 Monster 葉片 
 ITEM_20150317_002122	從魔物處獲得的材料. 用來製作道具. 
 ITEM_20150317_002123	Proof of 瓦布 
 ITEM_20150317_002124	A charm carried by 瓦布. It's very crudely made. Obtained from 瓦布. 
@@ -2441,7 +2441,7 @@ ITEM_20150317_002440	Obtained from Fishermen.
 ITEM_20150317_002441	漁夫 核心 
 ITEM_20150317_002442	Kitchen Knife 
 ITEM_20150317_002443	Dented kitchen knife. Obtained from Brown Zigris. 
-ITEM_20150317_002444	Large Hook 
+ITEM_20150317_002444	巨型 Hook 
 ITEM_20150317_002445	If you don't need a hook, you can melt this to craft something else. Obtained from Green Puragis. 
 ITEM_20150317_002446	Banshee Spirit Matter 
 ITEM_20150317_002447	A physical manifestation of a strong spirit. You might become possessed if you handle it without a safety device. Obtained from Banshees. 
@@ -3892,7 +3892,7 @@ ITEM_20150317_003891	Leafy Shoulder
 ITEM_20150317_003892	皮甲 Back 鎧甲 
 ITEM_20150317_003893	皮甲 Chest Protector 
 ITEM_20150317_003894	Strong Roots 
-ITEM_20150317_003895	Strong Roots of a Large 紅色凱帕 
+ITEM_20150317_003895	Strong Roots of a 巨型 紅色凱帕 
 ITEM_20150317_003896	凱帕 Teeth 
 ITEM_20150317_003897	紅色凱帕 Teeth 
 ITEM_20150317_003898	Jukopus 皮甲 
@@ -6804,7 +6804,7 @@ ITEM_20150918_006803	horsepower catalyst that can be obtained from monsters expo
 ITEM_20150918_006804	Formine 護甲 parts. It protects one's shoulders.
 ITEM_20150918_006805	Formine 護甲 parts. It is used to pad one's back.
 ITEM_20150918_006806	Formine 護甲 parts. The part that wraps around one's waist.
-ITEM_20150918_006807	The tough root of a Red Large Kepa. An ingredient needed for the abdominal section of a front plate.
+ITEM_20150918_006807	The tough root of a Red 巨型 Kepa. An ingredient needed for the abdominal section of a front plate.
 ITEM_20150918_006808	The leather of a Jukopus. It can be used to make the abdominal section of a back plate.
 ITEM_20150918_006809	Kindling that was carried by monsters. The wood was dried out more than usual and is useful for maintaining a fire.
 ITEM_20150918_006810	A rare, cold body fluid that can be found from monsters. Use it to cool the altar.
@@ -7542,7 +7542,7 @@ ITEM_20151022_007541	藍色寶珠: Seedmia
 ITEM_20151022_007542	藍色寶珠: Coliflower Archer		
 ITEM_20151022_007543	藍色寶珠: 失語者 Archer		
 ITEM_20151022_007544	藍色寶珠: Mallardu		
-ITEM_20151022_007545	藍色寶珠: Large 失語者 Spearman		
+ITEM_20151022_007545	藍色寶珠: 巨型 失語者 Spearman		
 ITEM_20151022_007546	藍色寶珠: Brown Rodelin		
 ITEM_20151022_007547	藍色寶珠: Tanu		
 ITEM_20151022_007548	藍色寶珠: Tipio		
@@ -7724,7 +7724,7 @@ ITEM_20151022_007723	藍色寶珠: Pyran
 ITEM_20151022_007724	藍色寶珠: Flask		
 ITEM_20151022_007725	藍色寶珠: Black Desmodus		
 ITEM_20151022_007726	藍色寶珠: Minivern		
-ITEM_20151022_007727	藍色寶珠: Large Minivern		
+ITEM_20151022_007727	藍色寶珠: 巨型 Minivern		
 ITEM_20151022_007728	藍色寶珠: Wizard Shaman Doll		
 ITEM_20151022_007729	藍色寶珠: Black Shaman Doll		
 ITEM_20151022_007730	藍色寶珠: Dimmer		
@@ -7920,7 +7920,7 @@ ITEM_20151022_007919	紅色寶珠: Seedmia
 ITEM_20151022_007920	紅色寶珠: Coliflower Archer		
 ITEM_20151022_007921	紅色寶珠: 失語者 Archer		
 ITEM_20151022_007922	紅色寶珠: Mallardu		
-ITEM_20151022_007923	紅色寶珠: Large 失語者 Spearman		
+ITEM_20151022_007923	紅色寶珠: 巨型 失語者 Spearman		
 ITEM_20151022_007924	紅色寶珠: Brown Rodelin		
 ITEM_20151022_007925	紅色寶珠: Tanu		
 ITEM_20151022_007926	紅色寶珠: Tipio		
@@ -8102,7 +8102,7 @@ ITEM_20151022_008101	紅色寶珠: Pyran
 ITEM_20151022_008102	紅色寶珠: Flask		
 ITEM_20151022_008103	紅色寶珠: Black Desmodus		
 ITEM_20151022_008104	紅色寶珠: Minivern		
-ITEM_20151022_008105	紅色寶珠: Large Minivern		
+ITEM_20151022_008105	紅色寶珠: 巨型 Minivern		
 ITEM_20151022_008106	紅色寶珠: Wizard Shaman Doll		
 ITEM_20151022_008107	紅色寶珠: Black Shaman Doll		
 ITEM_20151022_008108	紅色寶珠: Dimmer		
