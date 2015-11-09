@@ -107,7 +107,7 @@ ITEM_20150317_000106	許多冒險者將這個名字刻在他們的愛劍上.這�
 ITEM_20150317_000107	維爾涅普(Velniup) 
 ITEM_20150317_000108	人們會說這種武器過於殘忍. 
 ITEM_20150317_000109	福爾蒂斯(Fortis) 
-ITEM_20150317_000110	相對於巨型植物災變時的低迷, 復甦的強筋裝甲怪物證明了這把刀的價值. 
+ITEM_20150317_000110	相對於植物大災變時的低迷, 復甦的強筋裝甲怪物證明了這把刀的價值. 
 ITEM_20150317_000111	幻影切割者 
 ITEM_20150317_000112	根據原理, 這把刀用來對惡魔的戰鬥. 
 ITEM_20150317_000113	死亡編織者 
@@ -162,17 +162,17 @@ ITEM_20150317_000161	一把具有改善你的天生能力的劍, 試著提升自
 ITEM_20150317_000162	迪德爾巨劍(Didel) 
 ITEM_20150317_000163	這把劍是對於那些追求更重、更高殺傷及更廣範圍斬擊的人們所尋求. 
 ITEM_20150317_000164	藏品劍 
-ITEM_20150317_000165	巨型植物災變後, 這種之前廣泛使用的劍被當做裝飾品或收藏品. 
+ITEM_20150317_000165	雖然現在是常見的戰鬥武器，但在植物大災變前它卻被當做裝飾品或收藏品. 
 ITEM_20150317_000166	Hogma大劍 
 ITEM_20150317_000167	人們對Hogmas如何獲得這種劍不在意.更關心自己製造和使用它們. 
 ITEM_20150317_000168	查米尼斯變種劍 
-ITEM_20150317_000169	巨型植物災變後, Winterspoon家族將圖譜送給了煉金術師. 
+ITEM_20150317_000169	植物大災變時, Winterspoon家族向煉金術師公開這種武器的製作圖紙. 
 ITEM_20150317_000170	普萊姆絲巨劍 
 ITEM_20150317_000171	尋求原始力量的劍客經常將這把劍作為第一魔法劍. 
 ITEM_20150317_000172	康牙利匕首 
-ITEM_20150317_000173	人們喜歡鍛造這把劍為自己使用. 
+ITEM_20150317_000173	喜歡親手鍛造自己的武器的人們會選擇製作這種劍.  
 ITEM_20150317_000174	軸心雙手劍 
-ITEM_20150317_000175	如果你通過黑市拿到這把劍, 那麼你已經累積一定程度的信任了. 
+ITEM_20150317_000175	如果你是從黑市得到這把劍, 這證明你已有相當程度的可靠性了. 
 ITEM_20150317_000176	普利布蘭達巨劍 
 ITEM_20150317_000177	與普萊姆絲巨劍為同一生產者. 
 ITEM_20150317_000178	青金石德式鬥劍 
@@ -194,7 +194,7 @@ ITEM_20150317_000193	初出茅廬的巫師不在意這個特殊武器, 但經驗
 ITEM_20150317_000194	雙手劍[打擊] 
 ITEM_20150317_000195	無法預見地打擊目標, 就如夜空中的一閃. 
 ITEM_20150317_000196	露西杜斯 
-ITEM_20150317_000197	Although some people dismiss this weapon as a 'tree cutting axe', its actual users will tell you that the Great Plant Cataclysm would have resulted in far worse losses without it. 
+ITEM_20150317_000197	雖然部分人認為這把武器是"砍木斧"，但實際使用者們都會告訴你要是沒有它植物大災變的損失將會更慘重. 
 ITEM_20150317_000198	地獄與天堂 
 ITEM_20150317_000199	這把武器印證了"進攻是最好的防禦"這句話. 
 ITEM_20150317_000200	亡者之牙 
@@ -460,7 +460,7 @@ ITEM_20150317_000459	經常在低能見度和大風的天氣下使用.
 ITEM_20150317_000460	軸心十字弓 
 ITEM_20150317_000461	謠言說這把弓就是故意打造成維護價格高的樣式. 
 ITEM_20150317_000462	Grave 弩 
-ITEM_20150317_000463	This weapon is recommended if you intend to permanently put the target to sleep. 
+ITEM_20150317_000463	如果你打算讓你的目標永遠都不會再醒來的話這把武器是很好的選擇.
 ITEM_20150317_000464	鐵匠十字弓 
 ITEM_20150317_000465	每次扣動扳機都期望它能打出預想的傷害. 
 ITEM_20150317_000466	克萊維斯十字弓(Klavis) 
@@ -881,11 +881,11 @@ ITEM_20150317_000880	烈焰大師感覺的到這把長杖是被製作出來的, 
 ITEM_20150317_000881	軸心魔杖 
 ITEM_20150317_000882	這證明了儘管材料普通只要作法得當就會是個好的裝備. 
 ITEM_20150317_000883	威爾士魔杖 
-ITEM_20150317_000884	Although Black Market members are proficient weapon crafters, this 魔杖 is a fairly recent success in crafting a new weapon since the Imperni 魔杖. 
+ITEM_20150317_000884	儘管黑市有不少精通制作武器的商人, 但這算是自軸心魔杖(Imperni Staff)後少數成功被製作出來的魔杖. 
 ITEM_20150317_000885	魔樹魔杖
 ITEM_20150317_000886	有哪個巫師喜歡龐大的耐力多過威力的呢. 
 ITEM_20150317_000887	鐵匠魔杖 
-ITEM_20150317_000888	This weapon shows that there are many ways to imbue magic into a weapon. 
+ITEM_20150317_000888	這把武器有多種被注入魔法的途徑. 
 ITEM_20150317_000889	克萊維斯魔杖 
 ITEM_20150317_000890	沒人使用這種武器成名, 希望你是第一個. 
 ITEM_20150317_000891	迪奧魔杖 
@@ -896,106 +896,106 @@ ITEM_20150317_000895	亞斯頓 魔杖
 ITEM_20150317_000896	Devi 魔杖 
 ITEM_20150317_000897	Prima 魔杖 
 ITEM_20150317_000898	Candle 魔杖 
-ITEM_20150317_000899	The fire at the tip may go out, but it won't be because it ran out of fuel. 
+ITEM_20150317_000899	在杖尖上的火焰可能會熄滅, 但它不會. 它的燃料早已耗盡. 
 ITEM_20150317_000900	奧德拉 
-ITEM_20150317_000901	Some say that the 寒冰術士 Master jokingly told the 烈焰術士 Master to challenge him with this 魔杖 using ice magic while he was barehanded. 
+ITEM_20150317_000901	據聞曾經有寒冰術士大師開玩笑地叫烈焰術士大師以這把魔杖對赤手空拳的他使出寒冰法術. 
 ITEM_20150317_000902	向日葵
-ITEM_20150317_000903	In the 圖紙 of this weapon, instructions are written on how to obtain help from 女神 薩勒 and 女神 加比婭 during the crafting process. 
+ITEM_20150317_000903	這把武器的圖紙寫著如何在製作過程中獲得女神薩勒及女神加比婭的幫助的指引. 
 ITEM_20150317_000904	Maledic 
-ITEM_20150317_000905	Legends say that the original Maledic is in the Demonic dimension and that the imitations seen in this world are only projected illusions. 
+ITEM_20150317_000905	傳說真正的Maledic存在於惡魔空間中, 而現實中見到的仿製品只是投射出來的幻象. 
 ITEM_20150317_000906	梅拉度
-ITEM_20150317_000907	A group of wizards succeeded in crafting the more powerful 梅拉度 while they were developing a crafting process for Maledic. 
+ITEM_20150317_000907	一群法師在研究製作Maledic時成功研發出的更具威力的梅拉度. 
 ITEM_20150317_000908	幻影魔杖 
 ITEM_20150317_000909	Arca 魔杖 
-ITEM_20150317_000910	According to one tale, Agailla Flurry used to carry this kind of 魔杖 when she was constructing the Mage Tower. 
+ITEM_20150317_000910	傳說Agailla Flurry曾於建造魔導塔(the Mage Tower)時攜帶著這種魔杖. 
 ITEM_20150317_000911	Raganos 的角
-ITEM_20150317_000912	Habbok, a Demon King sealed a long time ago, revealed the secrets of the Demon world. Agailla Flurry created this 圖紙 based on that revealed information. 
+ITEM_20150317_000912	很久以前被封印的魔王Habbok曾透露魔界(the Demon World)的秘密. Agailla Flurry依照所透露的訊息繪製出這把武器的圖紙. 
 ITEM_20150317_000913	輕便的手套 
 ITEM_20150317_000914	手套 
-ITEM_20150317_000915	This item may save your life. 
+ITEM_20150317_000915	這件裝備或許能救你一命. 
 ITEM_20150317_000916	輕便的靴子 
 ITEM_20150317_000917	鞋子
-ITEM_20150317_000918	A pair of shoes that can be worn in a variety of areas and terrain throughout the kingdom. Not wearing shoes is quite dangerous. 
+ITEM_20150317_000918	一雙能於王國內不同地區及地形行走的鞋子. 不穿鞋子是蠻危險的. 
 ITEM_20150317_000919	輕便的褲子
 ITEM_20150317_000920	褲子 
-ITEM_20150317_000921	There are no adventurers who journey out without these. 
+ITEM_20150317_000921	從來沒有冒險家會不穿褲子便踏上旅程的. 
 ITEM_20150317_000922	輕便的鎧甲 
 ITEM_20150317_000923	上衣 [皮甲] 
-ITEM_20150317_000924	It doesn't matter what kind of leather it is made of as long as it protects the wearer. 
+ITEM_20150317_000924	無論它是用哪種毛皮製成也好它始終保護著穿戴者. 
 ITEM_20150317_000925	夾棉 手套 
-ITEM_20150317_000926	Though it is made of lighter material, it offers similar defenses to leather products at a low price. It also has the added benefit of being lighter. 
+ITEM_20150317_000926	即使它是以輕質物料製作, 它還是能提供類似皮革制品般的防禦力. 同時它也更輕更便宜. 
 ITEM_20150317_000927	夾棉 靴子 
-ITEM_20150317_000928	Makes your feet feel lighter. 
+ITEM_20150317_000928	使你的雙腳感到更輕快. 
 ITEM_20150317_000929	夾棉 褲子 
-ITEM_20150317_000930	Find something else to wear in the highlands. It's cold. 
+ITEM_20150317_000930	記得你在高地找到褲子穿, 因為那裡很冷.
 ITEM_20150317_000931	夾棉 護甲 
-ITEM_20150317_000932	It's sturdier than it looks. 
+ITEM_20150317_000932	它比看起來更堅固. 
 ITEM_20150317_000933	皮甲 手套 
-ITEM_20150317_000934	Rumor says leather supplies have increased since the Great Plant Cataclysm. 
+ITEM_20150317_000934	聞說自植物大災變後皮革的供應有增加的現象.  
 ITEM_20150317_000935	皮甲 靴子 
-ITEM_20150317_000936	Make sure you get a pair of these if you plan to tread into thorny forests. 
+ITEM_20150317_000936	如果你打算踏入帶有荊棘的森林的話, 確保你有一對這樣的皮靴. 
 ITEM_20150317_000937	皮甲 褲子 
-ITEM_20150317_000938	Although heavy, these provide 刺擊ility to your lower body. 
+ITEM_20150317_000938	雖然很重, 但這些褲子提供了你下半身的穩定性.  
 ITEM_20150317_000939	皮甲 護甲 
-ITEM_20150317_000940	Easy to decorate or imbue with elemental magics. 
+ITEM_20150317_000940	容易裝飾, 而且能輕易被注入元素魔法. 
 ITEM_20150317_000941	硬質 皮甲 手套 
-ITEM_20150317_000942	You will need ingredients from monsters if you want to make a harder leather for your equipment. 
+ITEM_20150317_000942	如果你想要更硬的皮革裝備的話, 你將需要用上怪物的素材. 
 ITEM_20150317_000943	硬質 皮甲 靴子 
-ITEM_20150317_000944	The stiffness of these boots can harm the wearer's feet. 
+ITEM_20150317_000944	這些靴子硬得能傷害到穿戴者的雙腳.
 ITEM_20150317_000945	硬質 皮甲 褲子 
-ITEM_20150317_000946	These give firm support to your body. 
+ITEM_20150317_000946	這些褲子能提供你穩固的保護. 
 ITEM_20150317_000947	硬質 皮甲 護甲 
-ITEM_20150317_000948	Never loses its toughness thanks to the ingredients used in this armor. 
+ITEM_20150317_000948	多虧這護甲使用的素材才能令它永遠不會失去韌性.  
 ITEM_20150317_000949	鎖鏈 手套 
-ITEM_20150317_000950	The good thing about a stronger base material is that it offers a lot of  room for improvement. 
+ITEM_20150317_000950	使用更堅硬的基底材料的好處就是能讓裝備更進步.  
 ITEM_20150317_000951	鎖鏈 靴子 
-ITEM_20150317_000952	It has poor ventilation despite how it looks. 
+ITEM_20150317_000952	無論它的長相如何它的透氣性還是一樣糟糕.  
 ITEM_20150317_000953	鎖鏈 褲子 
-ITEM_20150317_000954	There's no need to take the whole thing apart just because one of the middle rings are missing. 
+ITEM_20150317_000954	不見得因為丟失其中一個環扣便需要拆開整件裝備.  
 ITEM_20150317_000955	鎖甲 
 ITEM_20150317_000956	上衣 [鎧甲] 
-ITEM_20150317_000957	Believe it or not, the crafter claims this equipment offers protection on par with plate armor. 
+ITEM_20150317_000957	信不信由你, 製作者聲稱這件裝備的防禦性比得上板甲.  
 ITEM_20150317_000958	Mark 手套 
-ITEM_20150317_000959	It has even more overhead for improvement than 鎖鏈 手套 due to its better materials. 
+ITEM_20150317_000959	多虧更優質的材料使它比起鎖鏈 手套有更上一個層次的進步.  
 ITEM_20150317_000960	Mark 靴子 
-ITEM_20150317_000961	People say it's fairly comfortable because of the way the rings are structured. 
+ITEM_20150317_000961	由於良好的環扣構造, 人們覺得它相對地較舒服.  
 ITEM_20150317_000962	Mark 褲子 
-ITEM_20150317_000963	If you want to minimize injuries during battle, you must be able to carry at least this much weight in armor. 
+ITEM_20150317_000963	如果你想要減少於戰鬥中受傷的話, 你至少得穿戴這般厚重的護甲.  
 ITEM_20150317_000964	Mark 束腰外衣 
-ITEM_20150317_000965	Offers the protection and durability of plate armor. 
+ITEM_20150317_000965	提供板甲般的保護能力及耐久度.  
 ITEM_20150317_000966	森林 皮甲 手套 
-ITEM_20150317_000967	Since the Great Plant Cataclysm, many ingredients from monsters were used to craft armor; this is one of them. 
+ITEM_20150317_000967	自植物大災變以來，很多魔物的素材被拿來當製作護甲的材料; 這便是眾多成品之一.  
 ITEM_20150317_000968	森林 皮甲 靴子 
-ITEM_20150317_000969	There has been some success in extracting the magic properties from plant monsters and applying it to armor. 
+ITEM_20150317_000969	現在已經出現一些成功從植物類魔物提取魔法特性並應用到護甲上的例子. 
 ITEM_20150317_000970	森林 皮甲 褲子 
-ITEM_20150317_000971	Plant monsters offer as much leather-like materials as animal monsters do - this is an example of its practical application. 
+ITEM_20150317_000971	植物類魔物有著與動物類魔物一樣多的皮質素材 - 這件裝備便是實際應用它的例子之一.  
 ITEM_20150317_000972	森林 皮甲 護甲 
-ITEM_20150317_000973	It is lighter than other boots with similar defensive capabilities. 
+ITEM_20150317_000973	它比起其他靴子更輕便而不失其防禦能力.   
 ITEM_20150317_000974	Grima 褲子 
-ITEM_20150317_000975	It doesn't feel bad for a pair of pants made from wooden, non-fibrous materials. 
+ITEM_20150317_000975	有一條木製, 非纖維材料製成的褲子並不壞. 
 ITEM_20150317_000976	Grima 長袍 
 ITEM_20150317_000977	Top [布甲] 
-ITEM_20150317_000978	If you expected defense similar to a cloth shirt from this, you would be surprised at its leather-like defense. 
+ITEM_20150317_000978	如果你預期這件裝備有著類似布衣般的防禦力, 你將會驚訝它其實有著皮革般的防禦力.  
 ITEM_20150317_000979	弗瑞斯 手套 
-ITEM_20150317_000980	If you don't have an aversion to insects, this is a good piece of armor to not only protect yourself, but also to hold a weapon. 
+ITEM_20150317_000980	如果你並不討厭昆蟲, 這將會是很好的裝備, 它不僅能保護自己, 更能方便手持武器.  
 ITEM_20150317_000981	弗瑞斯 靴子 
-ITEM_20150317_000982	A swordsman's boots must be at least as sturdy as this one. This is not only to protect him from his enemies, but also to guard against him dropping his own weapon on his feet. 
+ITEM_20150317_000982	一雙劍士的靴子至少得如這雙靴子般堅實才行. 這不只是面對敵人時保護自己, 更能免於自己手滑掉落武器時使腳受傷. 
 ITEM_20150317_000983	弗瑞斯 褲子 
-ITEM_20150317_000984	Some warriors believe that the materials used for this item will attract its vengeful kin. 
+ITEM_20150317_000984	一些戰士相信這件裝備的材料會為他們引來復仇的親人. 
 ITEM_20150317_000985	弗瑞斯 束腰外衣 
-ITEM_20150317_000986	This equipment offers superior protection to plate armor by strengthening it with the shells of an insectoid monster. 
+ITEM_20150317_000986	正是使用了昆蟲類魔物的甲殼強化才使得這件裝備有著比板甲更卓越的防禦力.  
 ITEM_20150317_000987	鱗片 手套 
-ITEM_20150317_000988	It is believed to provide great camouflage and have agile, evasive properties. 
+ITEM_20150317_000988	它被認為是帶有優秀迷彩功能及敏捷, 靈巧特性的手套.  
 ITEM_20150317_000989	鱗片 靴子 
-ITEM_20150317_000990	Many choose these boots for its magic evasion rather than its defense. 
+ITEM_20150317_000990	大多數人選擇它是因為它的魔法迴避特性而非它的防護能力. 
 ITEM_20150317_000991	鱗片 底褲 
-ITEM_20150317_000992	One of the benefits of the Great Plant Cataclysm is that crafters have found a way to reuse monsters' remains for stronger armor. 
+ITEM_20150317_000992	植物大災變帶來的好處之一便是使工匠發現了能利用魔物殘骸製作更強裝備的方法. 
 ITEM_20150317_000993	鱗片 鎖子甲 
-ITEM_20150317_000994	Some monster ingredients can be turned into different materials by being heat treated. The comfortable 弗瑞斯 靴子 use such methods. 
+ITEM_20150317_000994	部分魔物素材能被加熱轉換成其他材料. 舒適的弗瑞斯 靴子便使用了這種製法. 
 ITEM_20150317_000995	森林 褲子 
-ITEM_20150317_000996	Please examine these for thorns prior to wearing them for the first time. 
+ITEM_20150317_000996	請第一次穿著它之前檢查它身上附著的荊棘.  
 ITEM_20150317_000997	森林 長袍 
-ITEM_20150317_000998	Surprisingly, this light 長袍 is harder than any other unprocessed animal leather. 
+ITEM_20150317_000998	這件輕便的長袍意外地比任何未加工的動物毛皮還要堅硬. 
 ITEM_20150317_000999	卡萊德 護手 
 ITEM_20150317_001000	劍士們喜歡穿戴此物於實戰. 
 ITEM_20150317_001001	卡萊德 戰靴 
@@ -1059,7 +1059,7 @@ ITEM_20150317_001058	利用最近發現的骨及金屬的合成製法, 大幅度
 ITEM_20150317_001059	鎧甲 底褲 
 ITEM_20150317_001060	製法不難, 但材料的收集可說是難如登天. 
 ITEM_20150317_001061	鎧甲 護甲 
-ITEM_20150317_001062	Standard armor given to the Royal Guard prior to the Great Plant Cataclysm. 
+ITEM_20150317_001062	在植物大災變前配給皇家守衛的標準護甲. 
 ITEM_20150317_001063	Heavy 夾棉 褲子 
 ITEM_20150317_001064	Heavy 夾棉 護甲 
 ITEM_20150317_001065	瓦布 褲子 
@@ -1146,22 +1146,22 @@ ITEM_20150317_001145	追隨者 皮甲
 ITEM_20150317_001146	Mummyghast 鎖子甲 
 ITEM_20150317_001147	Vejo 靴子 
 ITEM_20150317_001148	Mien 靴子 
-ITEM_20150317_001149	Archon 手甲 
-ITEM_20150317_001150	These 手套 are used by the Archon. 
+ITEM_20150317_001149	執政官 手甲 
+ITEM_20150317_001150	這些手套被執政官使用. 
 ITEM_20150317_001151	Ravinepede 靴子 
-ITEM_20150317_001152	靴子 coated with Ravinepede poison. Provides resistance against poison. 
+ITEM_20150317_001152	附有Ravinepede毒素的靴子. 提供毒素的抗性. 
 ITEM_20150317_001153	豬籠草 手套 
-ITEM_20150317_001154	手套 made from 豬籠草 fibers. 
+ITEM_20150317_001154	以豬籠草的纖維製作而成的手套. 
 ITEM_20150317_001155	Schnaimm 護脛 
-ITEM_20150317_001156	Schnaimm fragments are used to craft these shoes. 
+ITEM_20150317_001156	Schnaimm的碎片被用來製作這些護脛. 
 ITEM_20150317_001157	Cafrisun 手套 
-ITEM_20150317_001158	Unprecedented magical equipment like these 手套 are raising suspicions that this tribe is being sponsored by a powerful entity. 
+ITEM_20150317_001158	史無前例如這種手套的魔法裝備引起猜疑認為這個部落背後有強大的力量支持著. 
 ITEM_20150317_001159	Cafrisun 靴子 
-ITEM_20150317_001160	You feel lighter when you wear these shoes. 
+ITEM_20150317_001160	當你穿著這些靴子時你會感到更輕快. 
 ITEM_20150317_001161	Cafrisun 褲子 
-ITEM_20150317_001162	Please do not intentionally take hits to test the magic defense of these pants. 
+ITEM_20150317_001162	請不要刻意地承受攻擊去測試這種褲子的魔法防禦性能. 
 ITEM_20150317_001163	Cafrisun 護甲 
-ITEM_20150317_001164	Though the ingredients are unknown, this armor is quite useful. 
+ITEM_20150317_001164	雖說它的製作材料並不明確, 但這種護甲十分實用.
 ITEM_20150317_001165	迪奧 手套 
 ITEM_20150317_001166	迪奧 涼鞋 
 ITEM_20150317_001167	迪奧 褲子 
@@ -1251,7 +1251,7 @@ ITEM_20150317_001250	Tomb 皮甲 手套
 ITEM_20150317_001251	Tomb 護手 
 ITEM_20150317_001252	Walker 
 ITEM_20150317_001253	For Mine 護甲 
-ITEM_20150317_001254	Crafted by a 圖紙 resulting from hundreds of years worth of miners' experience and wisdom. 
+ITEM_20150317_001254	按礦工們幾世紀累積得來的經驗和智慧繪製而成的圖紙製作出的護甲. 
 ITEM_20150317_001255	雷厄娜 褲子 
 ITEM_20150317_001256	雷厄娜 長袍 
 ITEM_20150317_001257	雷厄娜 皮褲
