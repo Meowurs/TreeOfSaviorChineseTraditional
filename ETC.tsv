@@ -714,7 +714,7 @@ ETC_20150317_000712	薩滿娃娃
 ETC_20150317_000713	While it was once a creature created by a wizard using the best magic available, it has now turned hostile to humans due to the influence of the demons.
 ETC_20150317_000714	黑色 薩滿娃娃
 ETC_20150317_000715	黃色 薩滿娃娃
-ETC_20150317_000716 法師 薩滿娃娃
+ETC_20150317_000716	法師 薩滿娃娃
 ETC_20150317_000717	When the demons captured the Mage Tower, this doll was greatly affected. In particular, it instinctively hates magic users.
 ETC_20150317_000718	{memo X}巨型 史萊姆
 ETC_20150317_000719	The slime is an organism in the demon realm. Its population exploded after the time when the plant Geant, especially around the Mage Tower.
@@ -15493,7 +15493,7 @@ ETC_20151001_015491	{@st41b}The Pantos at Gelli Plateau have allied with the dem
 ETC_20151001_015492	Survive the attacks of the Pantos!
 ETC_20151001_015493	Gloomy Panto Warrior
 ETC_20151001_015494	Survive from the Pantos.{nl}移動到下一個地點！
-ETC_20151001_015495 Get the attention of the Panto by destroying the [Panto Totem]!
+ETC_20151001_015495	Get the attention of the Panto by destroying the [Panto Totem]!
 ETC_20151001_015496	Gloomy Panto Magician
 ETC_20151001_015497	打敗了 The totem。{nl}移動到下一個地點！
 ETC_20151001_015498	打敗了 Biteregina。{nl}移動到下一個地點！
@@ -15619,9 +15619,9 @@ ETC_20151001_015617	打敗所有 the servants of Hauberk!{nl}Find Kupole Sigita
 ETC_20151001_015618	Track down the Demon Lord Hauberk who fled through the Zinuma Passage!
 ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
 ETC_20151001_015620	Bearkaras Suppressor
-ETC_20151016_015621 藍色 Sakmoli
+ETC_20151016_015621	藍色 Sakmoli
 ETC_20151016_015622	紅色 Colifly
-ETC_20151016_015623 Vine2
+ETC_20151016_015623	Vine2
 ETC_20151016_015624	Bellai Forest
 ETC_20151016_015625	Seiru Forest
 ETC_20151016_015626	Raimadon
@@ -15631,18 +15631,18 @@ ETC_20151016_015629	Braken Forest 63_3
 ETC_20151016_015630	Braken 修道院 64_1
 ETC_20151016_015631	Braken 修道院 64_2
 ETC_20151016_015632	Braken 修道院 64_3
-ETC_20151016_015633 CastleField 65_1
-ETC_20151016_015634 CastleField 65_2
+ETC_20151016_015633	CastleField 65_1
+ETC_20151016_015634	CastleField 65_2
 ETC_20151016_015635	CastleField 65_3
 ETC_20151016_015636	FreeDungeon Extra 2-1
-ETC_20151016_015637 FreeDungeon Extra 2-2
+ETC_20151016_015637	FreeDungeon Extra 2-2
 ETC_20151016_015638	FreeDungeon Extra 3-1
 ETC_20151016_015639	FreeDungeon Extra 3-2
 ETC_20151016_015640	FreeDungeon Extra 4-1
 ETC_20151016_015641	FreeDungeon Extra 4-2
 ETC_20151016_015642	Rose!
 ETC_20151016_015643	那個惡魔出現了！
-ETC_20151016_015644 Tess!
+ETC_20151016_015644	Tess!
 ETC_20151016_015645	你沒事吧?
 ETC_20151016_015646	所有的村民都在哪裡?
 ETC_20151016_015647	惡魔領主 Zaura 逃跑了!
@@ -15681,14 +15681,14 @@ ETC_20151016_015679	變成了白鼬。你現在可以與白鼬溝通了。
 ETC_20151016_015680	緊急措施
 ETC_20151016_015681	無法處理
 ETC_20151016_015682	地區伺服器框架失敗。
-ETC_20151016_015683 交易執行失敗。請參考下一個系統訊息。
-ETC_20151016_015684 找不到 sprite 資料。
-ETC_20151016_015685 重設遊戲世界框架失敗。
-ETC_20151016_015686 重設遊戲世界物件失敗。
-ETC_20151016_015687 重設主要扇區管理器失敗。
-ETC_20151016_015688 無效座標。
-ETC_20151016_015689 找不到聲音檔案。請洽音效團隊。
-ETC_20151016_015690 腳本試圖不正確的離開日誌，請檢查對應的腳本呼叫。
+ETC_20151016_015683	交易執行失敗。請參考下一個系統訊息。
+ETC_20151016_015684	找不到 sprite 資料。
+ETC_20151016_015685	重設遊戲世界框架失敗。
+ETC_20151016_015686	重設遊戲世界物件失敗。
+ETC_20151016_015687	重設主要扇區管理器失敗。
+ETC_20151016_015688	無效座標。
+ETC_20151016_015689	找不到聲音檔案。請洽音效團隊。
+ETC_20151016_015690	腳本試圖不正確的離開日誌，請檢查對應的腳本呼叫。
 ETC_20151016_015691	由於連接的端口錯誤，你無法連接伺服器。
 ETC_20151016_015692	You've failed to reset Mongo DB. Check whether the related information is in the world table.
 ETC_20151016_015693	執行 sp_ies_master_set 會花費很長時間。
@@ -15726,7 +15726,7 @@ ETC_20151016_015724	{memo X}Iboralul Cliff
 ETC_20151016_015725	朝聖者小屋
 ETC_20151016_015726	{memo X}Rimve River
 ETC_20151016_015727	Pasra Field
-ETC_20151016_015728 維修中的橋梁
+ETC_20151016_015728	維修中的橋梁
 ETC_20151016_015729	Baderam Hill
 ETC_20151016_015730	沒有 obb 的石頭
 ETC_20151016_015731	沒有 obb 的聖物
@@ -15897,7 +15897,7 @@ ETC_20151016_015895	Inesa Hamondale
 ETC_20151016_015896	Guard
 ETC_20151016_015897	Urbonas   {nl}Orsha Bishop
 ETC_20151016_015898	士兵墓穴
-ETC_20151016_015899 懺悔之台
+ETC_20151016_015899	懺悔之台
 ETC_20151016_015900	魔法防護力場的基石
 ETC_20151016_015901	戰場上的防禦陷阱
 ETC_20151016_015902	布拉肯森林 63-1
@@ -15909,14 +15909,14 @@ ETC_20151016_015907	貓頭鷹酋長雕塑
 ETC_20151016_015908	卡羅利斯祭壇
 ETC_20151016_015909	卡羅利斯之光
 ETC_20151016_015910	卡羅利斯避難所
-ETC_20151016_015911 精神控制塔
+ETC_20151016_015911	精神控制塔
 ETC_20151016_015912	Free Dungeon
 ETC_20151016_015913	Incomplete Kruvina
 ETC_20151016_015914	{memo X}Energy of Life
-ETC_20151016_015915 火焰爆彈的效果
-ETC_20151016_015916 Golden Pillar
-ETC_20151016_015917 Silver Pillar
-ETC_20151016_015918 Bronze Pillar
+ETC_20151016_015915	火焰爆彈的效果
+ETC_20151016_015916	Golden Pillar
+ETC_20151016_015917	Silver Pillar
+ETC_20151016_015918	Bronze Pillar
 ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	打敗 Gray Golem 和 Carapace!
 ETC_20151022_015921	Yellow Colifly
