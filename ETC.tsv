@@ -553,7 +553,7 @@ ETC_20150317_000551	Cursed Devilglove
 ETC_20150317_000552	古樹食人魔
 ETC_20150317_000553	Helgasercle's Reflection
 ETC_20150317_000554	Hori Wizard
-ETC_20150317_000555	瓦布Warrior
+ETC_20150317_000555	瓦布戰士
 ETC_20150317_000556	Summoned Minion
 ETC_20150317_000557	Scarecrow
 ETC_20150317_000558	祭壇
@@ -772,8 +772,8 @@ ETC_20150317_000770	Tanu
 ETC_20150317_000771	A carnivorous plant that uses bait to catch food. It shred its food into pieces before swallowing.
 ETC_20150317_000772	Zignuts
 ETC_20150317_000773	A three headed monster. It is hard to tell whether the main body is just one head or all three.
-ETC_20150317_000774	藍色 失語者 Warrior
-ETC_20150317_000775	紅色 失語者 Warrior
+ETC_20150317_000774	藍色 失語者 戰士
+ETC_20150317_000775	紅色 失語者 戰士
 ETC_20150317_000776	失語者 Assassin
 ETC_20150317_000777	Moglan
 ETC_20150317_000778	This beast that once exclusively roamed in the Demon realm. Nowadays it is found all over the world, endangering other wildlife and humans.
@@ -800,7 +800,7 @@ ETC_20150317_000798	Its elongated pupils are a distinctive feature.
 ETC_20150317_000799	紅色 失語者
 ETC_20150317_000800	藍色 失語者
 ETC_20150317_000801	Spots 失語者
-ETC_20150317_000802	失語者 Warrior
+ETC_20150317_000802	失語者 戰士
 ETC_20150317_000803	A 失語者 with excellent fighting skills and is one of the strongest subspecies in the forest.
 ETC_20150317_000804	失語者 with Shovel
 ETC_20150317_000805	Unicorn
@@ -942,7 +942,7 @@ ETC_20150317_000940	{memo X}Q3 Chapparition
 ETC_20150317_000941	Q4 Chapparition
 ETC_20150317_000942	Q1 綠色 木靈
 ETC_20150317_000943	Q2 突突
-ETC_20150317_000944	被召喚的 波達
+ETC_20150317_000944	召喚獸 波達
 ETC_20150317_000945	Q3 波達
 ETC_20150317_000946	Q1 哈佩拉
 ETC_20150317_000947	Q2 岩石巨龜
@@ -985,8 +985,8 @@ ETC_20150317_000983	[Advancement] Repus
 ETC_20150317_000984	[Advancement] Denoptic
 ETC_20150317_000985	Carve Owl D
 ETC_20150317_000986	Carve Owl E
-ETC_20150317_000987	瓦布Scout
-ETC_20150317_000988	Novice 瓦布Archer
+ETC_20150317_000987	瓦布斥候
+ETC_20150317_000988	初級瓦布弓手
 ETC_20150317_000989	Trap 1
 ETC_20150317_000990	Trap 2
 ETC_20150317_000991	Trap 3
@@ -995,9 +995,9 @@ ETC_20150317_000993	Summoned Mushcarfung
 ETC_20150317_000994	零下護盾
 ETC_20150317_000995	Honey Spider
 ETC_20150317_000996	Alchemist Magnum Opus
-ETC_20150317_000997	薩勒爾 薩滿
-ETC_20150317_000998	Siaulamb Lagoon
-ETC_20150317_000999	薩勒爾 戰士
+ETC_20150317_000997	希奧羊怪 薩滿
+ETC_20150317_000998	希奧羊怪 Lagoon
+ETC_20150317_000999	希奧羊怪 戰士
 ETC_20150317_001000	Summon of Glass Mole
 ETC_20150317_001001	Yognome
 ETC_20150317_001002	It is speculated whether this underground spirit has been deformed and corrupted.
@@ -1007,7 +1007,7 @@ ETC_20150317_001005	Capria
 ETC_20150317_001006	Varistor
 ETC_20150317_001007	Summoned of Cyclops
 ETC_20150317_001008	Corroded Stone Orca
-ETC_20150317_001009	大型 Siaulamb
+ETC_20150317_001009	大型 希奧羊怪
 ETC_20150317_001010	Siaulogre
 ETC_20150317_001011	Pendinmire
 ETC_20150317_001012	{memo X}Orange Infrorocktor
@@ -1034,7 +1034,7 @@ ETC_20150317_001032	Creepy Chapparition
 ETC_20150317_001033	Bleak 綠色 木靈
 ETC_20150317_001034	巨型 失語者 長槍兵
 ETC_20150317_001035	Preparing.
-ETC_20150317_001036	Demon 撕裂者
+ETC_20150317_001036	惡魔 撕裂者
 ETC_20150317_001037	失語者 長槍兵
 ETC_20150317_001038	Hummingbird Sting
 ETC_20150317_001039	失語者 Totem
@@ -1102,8 +1102,8 @@ ETC_20150317_001100	Pink Chupacabra
 ETC_20150317_001101	Orange Kowak
 ETC_20150317_001102	Orange Rondo
 ETC_20150317_001103	Orange Stumpy Tree
-ETC_20150317_001104	Orange Siaulamb Lagoon
-ETC_20150317_001105	Orange Big Siaulamb
+ETC_20150317_001104	Orange 希奧羊怪 Lagoon
+ETC_20150317_001105	Orange Big 希奧羊怪
 ETC_20150317_001106	Orange Siaulogre
 ETC_20150317_001107	Orange Siaulav
 ETC_20150317_001108	Orange Pendinmire
@@ -1114,12 +1114,12 @@ ETC_20150317_001112	藍色 Velwriggler
 ETC_20150317_001113	藍色 Stoulet
 ETC_20150317_001114	紅色 Infro Hoglan
 ETC_20150317_001115	{memo X}紅色 Infroblood
-ETC_20150317_001116	Orange Siaulamb Shaman
+ETC_20150317_001116	Orange 希奧羊怪 Shaman
 ETC_20150317_001117	Gargoyle
 ETC_20150317_001118	哥雷姆 for Video Cut
 ETC_20150317_001119	Pure Loftlem
 ETC_20150317_001120	{memo X}綠色 Luxordon
-ETC_20150317_001121	Orange Siaulamb Warrior
+ETC_20150317_001121	Orange 希奧羊怪 戰士
 ETC_20150317_001122	大型紅色 凱帕
 ETC_20150317_001123	Scale Zombie
 ETC_20150317_001124	{memo X}黑色 Colifly
@@ -2851,14 +2851,14 @@ ETC_20150317_002849	{memo X}The mercenary has been hired.
 ETC_20150317_002850	{memo X}The mercenary was let go.
 ETC_20150317_002851	{memo X}This mercenary is already hired.
 ETC_20150317_002852	{memo X}The theme of your Barracks has been changed.
-ETC_20150317_002853	You have successfully changed your team name.
-ETC_20150317_002854	You have failed to change your team name.
-ETC_20150317_002855	Enter your team name. Your team name will be the name seen by other players.
-ETC_20150317_002856	This team name already exists.
+ETC_20150317_002853	成功更換團隊名稱。
+ETC_20150317_002854	更換團隊名稱失敗。
+ETC_20150317_002855	輸入團隊名稱。 這名稱將會被其他玩家所知悉。
+ETC_20150317_002856	這個團隊名稱已經存在。
 ETC_20150317_002857	收藏品效果
 ETC_20150317_002858	已取得清單
-ETC_20150317_002859	Full list
-ETC_20150317_002860	You already have this collection
+ETC_20150317_002859	列表已滿
+ETC_20150317_002860	你已經有這個收藏品了>
 ETC_20150317_002861	收藏品
 ETC_20150317_002862	已加入收藏。
 ETC_20150317_002863	{memo X}Only through the NPC can be registered.
@@ -2882,7 +2882,7 @@ ETC_20150317_002880	已完成
 ETC_20150317_002881	點數
 ETC_20150317_002882	Boss
 ETC_20150317_002883	日期
-ETC_20150317_002884	Click to go to the item page.
+ETC_20150317_002884	點一下前往物品頁面
 ETC_20150317_002885	Recent
 ETC_20150317_002886	幫助
 ETC_20150317_002887	Enter the team name of your friend
@@ -2898,8 +2898,8 @@ ETC_20150317_002896	were together
 ETC_20150317_002897	Formed party
 ETC_20150317_002898	交易
 ETC_20150317_002899	黑名單
-ETC_20150317_002900	Played together {Count} time(s)
-ETC_20150317_002901	Formed a party together {Count} time(s)
+ETC_20150317_002900	Played together {Count} 次
+ETC_20150317_002901	Formed a party together {Count} 次
 ETC_20150317_002902	交易 {Count} 次
 ETC_20150317_002903	已經在黑名單中。
 ETC_20150317_002904	請輸入要加入黑名單的名字。
@@ -3280,26 +3280,26 @@ ETC_20150317_003278	Start lever
 ETC_20150317_003279	{memo X}Get rid of the boss on the 2nd floor of Royal Mausoleum.
 ETC_20150317_003280	Restarting
 ETC_20150317_003281	Collecting the condensed magic source
-ETC_20150317_003282	You need to get rid of the phantom
+ETC_20150317_003282	擊退幻影！
 ETC_20150317_003283	忠誠的家臣
 ETC_20150317_003284	Released the loyal servants
 ETC_20150317_003285	Defeat the Bear General!
-ETC_20150317_003286	Lure the Tomb Warriors into the trap and kill them!
+ETC_20150317_003286	引誘墓園戰士進陷阱並殺了他們！
 ETC_20150317_003287	This path is not allowed for you
-ETC_20150317_003288	Defeat the summoned monsters!
+ETC_20150317_003288	擊敗召喚出的魔物！
 ETC_20150317_003289	擊退魔物！
 ETC_20150317_003290	Defeat Medakia!
 ETC_20150317_003291	Charging soul
 ETC_20150317_003292	Pouring the source of magic
 ETC_20150317_003293	The jar has been filled!
-ETC_20150317_003294	Royal Mausoleum Warriors
+ETC_20150317_003294	皇家陵墓 戰士
 ETC_20150317_003295	High level taser
 ETC_20150317_003296	Recovery Device
 ETC_20150317_003297	Low level taser
 ETC_20150317_003298	Suppressor
 ETC_20150317_003299	Defeat Madakia by using the magic device!
 ETC_20150317_003300	Do not destroy the inhibiting group!
-ETC_20150317_003301	Defeat the Royal Mausoleum Warriors!
+ETC_20150317_003301	擊敗皇家陵墓 戰士們!
 ETC_20150317_003302	Defeat the monsters!
 ETC_20150317_003303	Defeat Rexipher and the monsters!
 ETC_20150317_003304	] should be completed to pass through
@@ -3559,7 +3559,7 @@ ETC_20150317_003557	To Klaipeda >
 ETC_20150317_003558	Running for a shortcut
 ETC_20150317_003559	Show directions to Klaipeda
 ETC_20150317_003560	Show directions to the West Forest Camp
-ETC_20150317_003561	Company Ullman Warrior
+ETC_20150317_003561	Company Ullman 戰士
 ETC_20150317_003562	Dionia
 ETC_20150317_003563	Thorn ball
 ETC_20150317_003564	在營地間移動 :
@@ -4477,7 +4477,7 @@ ETC_20150317_004475	Statue of Test
 ETC_20150317_004476	Sequoia of Test
 ETC_20150317_004477	死迎者 of Test
 ETC_20150317_004478	Hiding Soul
-ETC_20150317_004479	You cannot escape!
+ETC_20150317_004479	你逃不了的！
 ETC_20150317_004480	Angry Pokubu
 ETC_20150317_004481	Soldier that was steeped in evil
 ETC_20150317_004482	Where are my followers?
@@ -4506,8 +4506,8 @@ ETC_20150317_004504	Device Canyon
 ETC_20150317_004505	Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Zinute-2: attracted Zinute to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32 / Sauga_s: attracted Sauga to the extraordinary power: 32
 ETC_20150317_004506	Yo! Heave! ho!
 ETC_20150317_004507	The tree is too hard!
-ETC_20150317_004508	What can we do if a monster appears?
-ETC_20150317_004509	Don't complain and cheer up!
+ETC_20150317_004508	如果魔物出現了，怎麼辦？
+ETC_20150317_004509	別抱怨了，開心點。
 ETC_20150317_004510	Yo-ho!
 ETC_20150317_004511	Huh! It will never end!
 ETC_20150317_004512	Hey! Get out of the way!
@@ -4525,7 +4525,7 @@ ETC_20150317_004523	Volunteers Malt
 ETC_20150317_004524	That guy... Help him…
 ETC_20150317_004525	Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Spear: Vubbe Robber: 43 / Goblin_Archer: Vubbe Robber: 43
 ETC_20150317_004526	魔物！
-ETC_20150317_004527	He's persistent!
+ETC_20150317_004527	他真是固執！
 ETC_20150317_004528	Hello?
 ETC_20150317_004529	歡迎來到 克萊佩達。
 ETC_20150317_004530	Knox Su~an
@@ -5275,7 +5275,7 @@ ETC_20150317_005273	It's here. Let's go!
 ETC_20150317_005274	{memo X}Reaverpede made a surprise attack{nl}Defeat Reaverpede!
 ETC_20150317_005275	Beacon
 ETC_20150317_005276	Look over there! I'll go hide.
-ETC_20150317_005277	Artifact of the Royal Mausoleum
+ETC_20150317_005277	Artifact of the 皇家陵墓
 ETC_20150317_005278	Protect Archivist Jonas from the monsters until his headache is gone!
 ETC_20150317_005279	It's Molich! Run!
 ETC_20150317_005280	{memo X}Monsters have appeared while you were trying to open the seal!{nl}You have to stay alive until the time is up!
@@ -5406,18 +5406,18 @@ ETC_20150317_005404	Gaigalas has appeared!
 ETC_20150317_005405	This way. Follow me!
 ETC_20150317_005406	Tomb
 ETC_20150317_005407	Entrance Warning
-ETC_20150317_005408	Royal Mausoleum Suppressor
+ETC_20150317_005408	皇家陵墓 Suppressor
 ETC_20150317_005409	{memo X}Guardian Purifier
 ETC_20150317_005410	Malfunctioning Guardian Device
 ETC_20150317_005411	As soon as the Demon force has cleared, Demon army are trying to defeat it!
-ETC_20150317_005412	{memo X}Protect the Royal Mausoleum stone lanterns from the guardians!
-ETC_20150317_005413	Monument of the Royal Mausoleum
+ETC_20150317_005412	{memo X}Protect the 皇家陵墓 stone lanterns from the guardians!
+ETC_20150317_005413	Monument of the 皇家陵墓
 ETC_20150317_005414	Malfunctioning Echad
 ETC_20150317_005415	Pot of Magic Power
 ETC_20150317_005416	{memo X}Archon appeared to stop the controller from being destroyed!
-ETC_20150317_005417	Corrupt Royal Mausoleum Magic Control Device
-ETC_20150317_005418	{memo X}Stop the Royal Mausoleum guards from destroying it!
-ETC_20150317_005419	{memo X}Stop Bearkaras from destroying the Royal Mausoleum
+ETC_20150317_005417	Corrupt 皇家陵墓 Magic Control Device
+ETC_20150317_005418	{memo X}Stop the 皇家陵墓 guards from destroying it!
+ETC_20150317_005419	{memo X}Stop Bearkaras from destroying the 皇家陵墓
 ETC_20150317_005420	Jar of Soul
 ETC_20150317_005421	{memo X}Intact Jar of Soul
 ETC_20150317_005422	弓箭手 2 階要求
@@ -7640,7 +7640,7 @@ ETC_20150317_007638	Open Pyromancer's Box
 ETC_20150317_007639	Crazy but Faithful Archivist
 ETC_20150317_007640	Request of the Archivist (2)
 ETC_20150317_007641	Historian sacrificed
-ETC_20150317_007642	Archive the Relic of the Royal Mausoleum
+ETC_20150317_007642	Archive the Relic of the 皇家陵墓
 ETC_20150317_007643	Collect Dry Thorn Forest Wood
 ETC_20150317_007644	{memo X}Place to fire
 ETC_20150317_007645	{memo X}Guard Citizen
@@ -7679,12 +7679,12 @@ ETC_20150317_007677	{memo X}Activate purifier in 1st Gallery passage (3)
 ETC_20150317_007678	{memo X}Problem of the circulation purifier in 2nd mine
 ETC_20150317_007679	{memo X}Problem of energy transmission device
 ETC_20150317_007680	{memo X}Destroyer of the main purifier (4)
-ETC_20150317_007681	Repair Scarecrow 
-ETC_20150317_007682	Repair Scarecrow (2)
-ETC_20150317_007683	Repair the Scarecrow
+ETC_20150317_007681	修復稻草人
+ETC_20150317_007682	修復稻草人 (2)
+ETC_20150317_007683	修復稻草人
 ETC_20150317_007684	Pointed Sense
-ETC_20150317_007685	Secret Place (1)
-ETC_20150317_007686	Girl's Soul
+ETC_20150317_007685	祕密地點 (1)
+ETC_20150317_007686	女孩的靈魂
 ETC_20150317_007687	Katin Middle Boss
 ETC_20150317_007688	Temporarily stop event
 ETC_20150317_007689	N/A
@@ -7781,7 +7781,7 @@ ETC_20150317_007779	Destroyer (1)
 ETC_20150317_007780	Protect yourself from monsters is attacking
 ETC_20150317_007781	Defeat High Vubbe and get the wooden arrow
 ETC_20150317_007782	Throw the wooden arrow into the fire
-ETC_20150317_007783	{memo X}Steel the booty of Siaulamb
+ETC_20150317_007783	{memo X}Steel the booty of 希奧羊怪
 ETC_20150317_007784	 - 按這個鍵使用素質點數。
 ETC_20150317_007785	到 克萊佩達 (5)
 ETC_20150317_007786	Recapture Eastern Woods (2)
@@ -7963,8 +7963,8 @@ ETC_20150317_007961	Monster effects and color changer
 ETC_20150317_007962	Check your shared kills with the NPC
 ETC_20150317_007963	A split
 ETC_20150317_007964	Follower Vitri
-ETC_20150317_007965	Royal Mausoleum 32 Boowook
-ETC_20150317_007966	Royal Mausoleum 32 Cube
+ETC_20150317_007965	皇家陵墓 32 Boowook
+ETC_20150317_007966	皇家陵墓 32 Cube
 ETC_20150317_007967	Stake
 ETC_20150317_007968	Tomb Cube Group Meeting
 ETC_20150317_007969	N/A
@@ -8691,10 +8691,10 @@ ETC_20150317_008689	Army Chaplain Advancement
 ETC_20150317_008690	Shepherd Advancement
 ETC_20150317_008691	Toggle to the place which can't do global gen.
 ETC_20150317_008692	For both modes
-ETC_20150317_008693	Invincibility
-ETC_20150317_008694	Remove Invincibility
-ETC_20150317_008695	Zombie Status
-ETC_20150317_008696	Remove Zombie Status
+ETC_20150317_008693	無敵
+ETC_20150317_008694	移除無敵
+ETC_20150317_008695	殭屍狀態
+ETC_20150317_008696	移除殭屍狀態
 ETC_20150317_008697	View object state
 ETC_20150317_008698	Hide object state 
 ETC_20150317_008699	Navigation Camera ON (F11)
@@ -8709,22 +8709,22 @@ ETC_20150317_008707	增加經驗 (+1000)
 ETC_20150317_008708	增加經驗 (+10000)
 ETC_20150317_008709	增加經驗 (+100000)
 ETC_20150317_008710	Toggle Navigation Mesh
-ETC_20150317_008711	Create mini-map marker
+ETC_20150317_008711	加入小地圖標示
 ETC_20150317_008712	Toggle Navigation Mesh Camera
 ETC_20150317_008713	Lock Navigation Camera
 ETC_20150317_008714	Toggle OBB
 ETC_20150317_008715	Full repair 裝備
-ETC_20150317_008716	Change Hair
+ETC_20150317_008716	更換髮型
 ETC_20150317_008717	General properties
-ETC_20150317_008718	Item name
-ETC_20150317_008719	Item properties
-ETC_20150317_008720	Item description
-ETC_20150317_008721	Monster name
+ETC_20150317_008718	物品名稱
+ETC_20150317_008719	物品屬性
+ETC_20150317_008720	Item properties
+ETC_20150317_008721	魔物名稱
 ETC_20150317_008722	Monster properties
 ETC_20150317_008723	Monster level
 ETC_20150317_008724	Additional damage
 ETC_20150317_008725	Combat property
-ETC_20150317_008726	Add Defense
+ETC_20150317_008726	增加防禦
 ETC_20150317_008727	Add Health
 ETC_20150317_008728	Damage ratio vs monsters
 ETC_20150317_008729	最小距離
@@ -8732,7 +8732,7 @@ ETC_20150317_008730	最大距離
 ETC_20150317_008731	擊倒力
 ETC_20150317_008732	擊倒防禦
 ETC_20150317_008733	移動速度
-ETC_20150317_008734	Movement Attribute
+ETC_20150317_008734	移動特性
 ETC_20150317_008735	攻擊速度
 ETC_20150317_008736	Fixed skill number
 ETC_20150317_008737	Debug Animation
@@ -9465,7 +9465,7 @@ ETC_20150317_009463	{memo X}Solder's Dead Body
 ETC_20150317_009464	{memo X}Sviesa Altar
 ETC_20150317_009465	{memo X}High Crooked Road
 ETC_20150317_009466	Stoned record of Varkis
-ETC_20150317_009467	Royal Mausoleum Guardian Device
+ETC_20150317_009467	皇家陵墓 Guardian Device
 ETC_20150317_009468	Treasure Chest Lv1
 ETC_20150317_009469	{memo X}Defeat the Woodspirit Quest trigger
 ETC_20150317_009470	{memo X}Rock with moss
@@ -10447,7 +10447,7 @@ ETC_20150401_010445	{memo X}Grape Ellum
 ETC_20150401_010446	Farm Keposeed
 ETC_20150401_010447	逆天墓地
 ETC_20150401_010448	{memo X}2nd 惡魔監獄
-ETC_20150401_010449	Royal Mausoleum Constructors' Chapel
+ETC_20150401_010449	皇家陵墓 Constructors' Chapel
 ETC_20150401_010450	{memo X}Royal Mausoleum Guard
 ETC_20150401_010451	Royal Mausoleum Storage
 ETC_20150401_010452	Residence of the Fallen Legwyn Family
@@ -13572,8 +13572,8 @@ ETC_20150717_013570	{memo X}You've dedicated the item as an offering
 ETC_20150717_013571	The item is not in the inventory
 ETC_20150717_013572	{memo X}You've received the blessing from the suspicious crystal
 ETC_20150717_013573	{memo X}Put the shade of Big Grieva
-ETC_20150717_013574	{memo X}Put the strain of Big Siaulamb
-ETC_20150717_013575	{memo X}Put the mask of Siaulamb
+ETC_20150717_013574	{memo X}Put the strain of Big 希奧羊怪
+ETC_20150717_013575	{memo X}Put the mask of 希奧羊怪
 ETC_20150717_013576	{memo X}Put the core of 佐恩石像
 ETC_20150717_013577	{memo X}Put the hook
 ETC_20150717_013578	{memo X}Put the core of grave 傀儡s
@@ -13969,12 +13969,12 @@ ETC_20150729_013967	{memo X}Obtained all core required.
 ETC_20150729_013968	{@st59}增加最大SP和SP回復，格檔穿透和魔法防禦{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
-ETC_20150729_013971	You've dedicated the tendon of Big Siaulamb as an offering
+ETC_20150729_013971	You've dedicated the tendon of Big 希奧羊怪 as an offering
 ETC_20150729_013972	The sacred energy is coming into your body!
-ETC_20150729_013973	You've dedicated 1 tendon of Big Siaulamb as an offering
-ETC_20150729_013974	You've dedicated 5 tendons of Big Siaulamb as an offering
-ETC_20150729_013975	You've dedicated 15 tendons of Big Siaulamb as an offering
-ETC_20150729_013976	You've dedicated 20 tendons of Big Siaulambs as an offering
+ETC_20150729_013973	You've dedicated 1 tendon of Big 希奧羊怪 as an offering
+ETC_20150729_013974	You've dedicated 5 tendons of Big 希奧羊怪 as an offering
+ETC_20150729_013975	You've dedicated 15 tendons of Big 希奧羊怪 as an offering
+ETC_20150729_013976	You've dedicated 20 tendons of Big 希奧羊怪s as an offering
 ETC_20150729_013977	You've dedicated 1 core of 佐恩石像 as an offering
 ETC_20150729_013978	You've dedicated 5 cores of 佐恩石像 as an offering
 ETC_20150729_013979	You've dedicated 15 cores of 佐恩石像 as an offering
@@ -14060,7 +14060,7 @@ ETC_20150730_014058	area {count} obtained silvers
 ETC_20150730_014059	area formed a party {count}
 ETC_20150730_014060	{memo X}You've obtained the parts of the detector from the monsters!
 ETC_20150730_014061	You haven't explored all regions in Crystal Mine yet!
-ETC_20150730_014062	Since there are too many monsters nearby, you can't obtain the tendon of Big Siaulamb
+ETC_20150730_014062	Since there are too many monsters nearby, you can't obtain the tendon of Big 希奧羊怪
 ETC_20150730_014063	Card Battle is only possible in a village.
 ETC_20150730_014064	Member Irmantas
 ETC_20150730_014065	Member Grazina
