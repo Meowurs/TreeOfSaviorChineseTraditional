@@ -1,53 +1,53 @@
-QUEST_LV_0200_20150317_000001	$Philipas' Soldier
-QUEST_LV_0200_20150317_000002	$The monsters' attacks are becoming more violent. {nl} I'm determined to succeed, but I also fear for our safety.
+QUEST_LV_0200_20150317_000001	Philipas的直屬部隊士兵
+QUEST_LV_0200_20150317_000002	魔物的攻勢越來越猛烈。{nl}雖然抱有必死的覺悟，但我仍舊感到害怕。
 QUEST_LV_0200_20150317_000003	{memo X}$It doesn't matter - I can give up my life today, or be a dead man tomorrow.
-QUEST_LV_0200_20150317_000004	$Commander Vacenin
-QUEST_LV_0200_20150317_000005	$Somehow, we need to resolve our poor supplies and forces. {nl} Once we accomplish that we will be able to break through the forest, piece by piece.
-QUEST_LV_0200_20150317_000006	$Even though everyone's getting tired, we can't give up until Kateen Forest is ours again.
-QUEST_LV_0200_20150317_000007	$Senior Officer Philipas
-QUEST_LV_0200_20150317_000008	$I wish for a peaceful world. {nl} In order for this to happen, I need to work harder.
-QUEST_LV_0200_20150317_000009	$I'll do anything to regain this forest from the monsters. {nl} It's worth risking my life for.
-QUEST_LV_0200_20150317_000010	$Our front line is composed exclusively of Philipas's troops. {nl} They'll follow Philipas's commands through anything.
-QUEST_LV_0200_20150317_000011	$Live with the idea that any moment could become your last. {nl} We must learn from the past and use it to our advantage.
-QUEST_LV_0200_20150317_000012	$Officer Felix
+QUEST_LV_0200_20150317_000004	Vacenin指揮官
+QUEST_LV_0200_20150317_000005	我們必需改善糟糕的補給和兵力。{nl}然後集中火力依序擊破Kateen Forest的各個據點。
+QUEST_LV_0200_20150317_000006	雖然大家都很辛苦，直到收復Kateen Forest之前我們都不能放棄。
+QUEST_LV_0200_20150317_000007	資深軍官Philipas
+QUEST_LV_0200_20150317_000008	世界和平是我的願望。{nl}為了實現它，我會更加努力。
+QUEST_LV_0200_20150317_000009	無論如何都要從魔物手中奪回這座森林。{nl}就算賭上性命也無所謂。
+QUEST_LV_0200_20150317_000010	我們的前線由Philipas的直屬部隊所構成。{nl}只要是Philipas下的命令，就算上刀山下油鍋他們也不怕。
+QUEST_LV_0200_20150317_000011	我們活著的每一刻都要當作人生最後一刻而活。{nl}過去的歷史正是我們最佳的啟蒙。
+QUEST_LV_0200_20150317_000012	軍官Felix
 QUEST_LV_0200_20150317_000013	{memo X}$The Entrance of Kateen Forest is rather on the safe side, but please refrain from going any deeper than this.
-QUEST_LV_0200_20150317_000014	$Weak Owl Sculpture
-QUEST_LV_0200_20150317_000015	$My power is slowly weakening. {nl} Even though there are many souls that need guidance...
-QUEST_LV_0200_20150317_000016	$Scared Owl Sculpture
-QUEST_LV_0200_20150317_000017	$The holy power of the forest is weakening. {nl} What will happen to us after it's gone?!
-QUEST_LV_0200_20150317_000018	$It's too scary. {nl} This never happened when the Goddess was still around...
-QUEST_LV_0200_20150317_000019	$Sincere Owl Sculpture
-QUEST_LV_0200_20150317_000020	$This forest is cursed... it consumes the owls. {nl} I have hardly anything to compel bravery from others.
-QUEST_LV_0200_20150317_000021	$Ever since that huge tree suddenly arose, this forest has changed into something horrid. {nl} Even the trees' roots frighten whoever stares at them.
-QUEST_LV_0200_20150317_000022	$Devoted Owl Sculpture
-QUEST_LV_0200_20150317_000023	$Someone was held captive. {nl} I have a feeling he's going to disappear...
-QUEST_LV_0200_20150317_000024	$The sacred force created by the Goddess has not completely dissipated. {nl}Will it be able to suppress this devastation? {nl}
-QUEST_LV_0200_20150317_000025	$The chief gave me power.{nl}I won't be scared.
-QUEST_LV_0200_20150317_000026	$I'm not going to be afraid anymore. I will never be eaten by monsters.
-QUEST_LV_0200_20150317_000027	$Painful Owl Sculpture
-QUEST_LV_0200_20150317_000028	$I'm suffering every day.{nl}Perhaps, I will also be eaten by monsters.
-QUEST_LV_0200_20150317_000029	$This forest is increasingly covered with demons.{nl}Where is the Goddess?
-QUEST_LV_0200_20150317_000030	$I was chosen by the chief... {nl} I'll do my best to defeat the monsters.
-QUEST_LV_0200_20150317_000031	$The chief is also struggling like this..{nl}Never will I be eaten until the Goddess comes back.
-QUEST_LV_0200_20150317_000032	Subordinate Owl 3
-QUEST_LV_0200_20150317_000033	We are always here at this place, but where is our Goddess who is always worried about us?
-QUEST_LV_0200_20150317_000034	Do we exist only for the human's soul?
-QUEST_LV_0200_20150317_000035	$Soldier Dominic
-QUEST_LV_0200_20150317_000036	$I've been ordered to protect this place with my life and to do some reconnaissance at the same time.{nl}I don't know exactly what they expect me to do.
-QUEST_LV_0200_20150317_000037	$Next time I'm going to make sure they tell me exactly what they want me to do.{nl}No. wouldn't it be better to ask Julian?
-QUEST_LV_0200_20150317_000038	$If it's just monsters of that level, I guess I can report that there is no serious problem.{nl}Oh, if you happen to run into Samson, please tell him to stop fooling around and continue scouting.
-QUEST_LV_0200_20150317_000039	$I will protect this area, so go patrol Veltui Crossroads.{nl}As for the reports, I will do them separately at a later time.
-QUEST_LV_0200_20150317_000040	$Soldier Samson
-QUEST_LV_0200_20150317_000041	$Can you please help me find Dominic's engagement ring? {nl} I'm currently undertaking a mission, so I won't be able to leave this spot.
-QUEST_LV_0200_20150317_000042	$I tell you, he acts like that even though I bought him a roughly similar one. So stingy..
-QUEST_LV_0200_20150317_000043	$What is this ugly thing? Oh, could the ring be inside?
-QUEST_LV_0200_20150317_000044	$A knife won't fit inside, and there's no other way to get it out.{nl}Right! Can't we burn it to retrieve what's inside?
-QUEST_LV_0200_20150317_000045	$Just make sure to bring me ones that aren't too thick.
-QUEST_LV_0200_20150317_000046	$This should be just right.{nl}Good. Now, how do I burn this while I am working and not get caught?
-QUEST_LV_0200_20150317_000047	$There should be plenty of Dry Thorn Forest Wood at the edge of Ishisineti Cliff. {nl} I'm on patrol and don't have time, so I ask of you again.
-QUEST_LV_0200_20150317_000048	$Ah, you should be able to burn it secretly at the top of Ishisineti Cliff. {nl} This is my last request. You just need to make preparations for the fire.
-QUEST_LV_0200_20150317_000049	$I will never again care for another's wedding ceremony.
-QUEST_LV_0200_20150317_000050	$I'll just say I have to go to the bathroom and burn it secretly there.{nl}Thank you very much.
+QUEST_LV_0200_20150317_000014	衰弱的貓頭鷹雕像
+QUEST_LV_0200_20150317_000015	我的力量越來越弱了。{nl}還有好多需要導引的靈魂…
+QUEST_LV_0200_20150317_000016	害怕的貓頭鷹雕像
+QUEST_LV_0200_20150317_000017	森林的神聖力量越來越弱了。{nl}到底該如何是好？！
+QUEST_LV_0200_20150317_000018	太可怕了。{nl}女神還在時從沒發生這種事…
+QUEST_LV_0200_20150317_000019	真誠的貓頭鷹雕像
+QUEST_LV_0200_20150317_000020	這是一座會吞食貓頭鷹的恐怖森林。{nl}我已喪盡了勇氣。
+QUEST_LV_0200_20150317_000021	自從那顆巨樹興起後，整座森林就變得猙獰可怕。{nl}就連看著它的樹根都令人打顫。
+QUEST_LV_0200_20150317_000022	虔誠的貓頭鷹雕像
+QUEST_LV_0200_20150317_000023	似乎又有誰被吃掉了。{nl}一個同伴的氣息消失了…
+QUEST_LV_0200_20150317_000024	女神賜與我們的神聖力量幾乎消失殆盡了。{nl}神聖力量消失之後這裡會變得如何？{nl}
+QUEST_LV_0200_20150317_000025	這是隊長帶給我的力量。{nl}我已經不再懼怕了。
+QUEST_LV_0200_20150317_000026	已經沒什麼好怕的了。我絕不會成為魔物的食物。
+QUEST_LV_0200_20150317_000027	痛苦的貓頭鷹雕像
+QUEST_LV_0200_20150317_000028	我每天都過得很痛苦。{nl}或許我馬上就會被抓去吃了。
+QUEST_LV_0200_20150317_000029	這座森林的邪氣越來越重。{nl}女神究竟在哪裡？
+QUEST_LV_0200_20150317_000030	我領會了隊長的心意。{nl}我會努力對抗魔物。
+QUEST_LV_0200_20150317_000031	我也看到隊長正在奮戰。{nl}女神回來之前我絕不會被吃掉。
+QUEST_LV_0200_20150317_000032	貓頭鷹下屬3
+QUEST_LV_0200_20150317_000033	我們一直留在這裡，可是關懷我們的女神在哪裡？
+QUEST_LV_0200_20150317_000034	我們只是為了人類靈魂而存在的嗎？
+QUEST_LV_0200_20150317_000035	士兵Dominic
+QUEST_LV_0200_20150317_000036	我同時被下令死守這裡和做偵察工作。{nl}到底我該做哪個？
+QUEST_LV_0200_20150317_000037	下次我會叫他們確實交代我該做的任務。{nl}不，也許我該問問Julian？
+QUEST_LV_0200_20150317_000038	我可以向他們報告說這種程度的魔物沒什麼問題。{nl}喔，如果你遇見了Samson請叫他別再玩了好好偵察吧。
+QUEST_LV_0200_20150317_000039	這邊由我防守，請你巡察Veltui Crossroads。{nl}偵察報告等到之後我再另外回報。
+QUEST_LV_0200_20150317_000040	士兵Samson
+QUEST_LV_0200_20150317_000041	請幫我尋找Dominic的訂婚戒指。{nl}因為我正在執行任務中，無法離開這裡。
+QUEST_LV_0200_20150317_000042	我還特地買了一個有點像的戒指賠給他，結果他一點也不領情。真是小氣鬼。
+QUEST_LV_0200_20150317_000043	這塊髒東西是什麼？喔，戒指就在裡面嗎？
+QUEST_LV_0200_20150317_000044	用刀子也挖不開，無法取出戒指。{nl}對了，可以用火把外面燒掉。
+QUEST_LV_0200_20150317_000045	別太粗的柴就行。
+QUEST_LV_0200_20150317_000046	這些剛好。{nl}太好了。接下來我要如何在值勤中燒它而不被發現？
+QUEST_LV_0200_20150317_000047	Ishisineti Cliff的邊緣應該有很多「Dry Thorn Forest Wood」。{nl}因為我正在執勤中無法離席，只好再次請你幫忙。
+QUEST_LV_0200_20150317_000048	喔對了，我可以在Ishisineti Cliff上偷偷地燒。{nl}這是我最後一個請求。你只要幫我做好燒柴的準備工作。
+QUEST_LV_0200_20150317_000049	我以後再也不要參加其他人的婚宴。
+QUEST_LV_0200_20150317_000050	我會假裝上廁所然後偷偷拿去燒。{nl}真的很感謝你的幫忙。
 QUEST_LV_0200_20150317_000051	$Soldier Poulter
 QUEST_LV_0200_20150317_000052	$My goodness, the order states to eliminate all of the monsters in this area!{nl}How am I supposed to handle this many enemies all by myself?
 QUEST_LV_0200_20150317_000053	It was too overwhelming to carry out the task just by myself.{nl}However, I'm really fortunate since you decided to help me.
