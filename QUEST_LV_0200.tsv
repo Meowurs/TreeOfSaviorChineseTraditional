@@ -1,22 +1,22 @@
 QUEST_LV_0200_20150317_000001	Philipas的直屬部隊士兵
 QUEST_LV_0200_20150317_000002	魔物的攻勢越來越猛烈。{nl}雖然抱有必死的覺悟，但我仍舊感到害怕。
 QUEST_LV_0200_20150317_000003	{memo X}$It doesn't matter - I can give up my life today, or be a dead man tomorrow.
-QUEST_LV_0200_20150317_000004	Vacenin指揮官
+QUEST_LV_0200_20150317_000004	指揮官　Vacenin
 QUEST_LV_0200_20150317_000005	我們必需改善糟糕的補給和兵力。{nl}然後集中火力依序擊破Kateen Forest的各個據點。
 QUEST_LV_0200_20150317_000006	雖然大家都很辛苦，直到收復Kateen Forest之前我們都不能放棄。
-QUEST_LV_0200_20150317_000007	資深軍官Philipas
+QUEST_LV_0200_20150317_000007	資深軍官　Philipas
 QUEST_LV_0200_20150317_000008	世界和平是我的願望。{nl}為了實現它，我會更加努力。
 QUEST_LV_0200_20150317_000009	無論如何都要從魔物手中奪回這座森林。{nl}就算賭上性命也無所謂。
 QUEST_LV_0200_20150317_000010	我們的前線由Philipas的直屬部隊所構成。{nl}只要是Philipas下的命令，就算上刀山下油鍋他們也不怕。
 QUEST_LV_0200_20150317_000011	我們活著的每一刻都要當作人生最後一刻而活。{nl}過去的歷史正是我們最佳的啟蒙。
-QUEST_LV_0200_20150317_000012	軍官Felix
+QUEST_LV_0200_20150317_000012	軍官　Felix
 QUEST_LV_0200_20150317_000013	{memo X}$The Entrance of Kateen Forest is rather on the safe side, but please refrain from going any deeper than this.
 QUEST_LV_0200_20150317_000014	衰弱的貓頭鷹雕像
 QUEST_LV_0200_20150317_000015	我的力量越來越弱了。{nl}還有好多需要導引的靈魂…
 QUEST_LV_0200_20150317_000016	害怕的貓頭鷹雕像
 QUEST_LV_0200_20150317_000017	森林的神聖力量越來越弱了。{nl}到底該如何是好？！
 QUEST_LV_0200_20150317_000018	太可怕了。{nl}女神還在時從沒發生這種事…
-QUEST_LV_0200_20150317_000019	真誠的貓頭鷹雕像
+QUEST_LV_0200_20150317_000019	真誠的貓頭鷹隊長雕像
 QUEST_LV_0200_20150317_000020	這是一座會吞食貓頭鷹的恐怖森林。{nl}我已喪盡了勇氣。
 QUEST_LV_0200_20150317_000021	自從那顆巨樹興起後，整座森林就變得猙獰可怕。{nl}就連看著它的樹根都令人打顫。
 QUEST_LV_0200_20150317_000022	虔誠的貓頭鷹雕像
@@ -32,12 +32,12 @@ QUEST_LV_0200_20150317_000031	我也看到隊長正在奮戰。{nl}女神回來�
 QUEST_LV_0200_20150317_000032	貓頭鷹下屬3
 QUEST_LV_0200_20150317_000033	我們一直留在這裡，可是關懷我們的女神在哪裡？
 QUEST_LV_0200_20150317_000034	我們只是為了人類靈魂而存在的嗎？
-QUEST_LV_0200_20150317_000035	士兵Dominic
+QUEST_LV_0200_20150317_000035	士兵　Dominic
 QUEST_LV_0200_20150317_000036	我同時被下令死守這裡和做偵察工作。{nl}到底我該做哪個？
 QUEST_LV_0200_20150317_000037	下次我會叫他們確實交代我該做的任務。{nl}不，也許我該問問Julian？
 QUEST_LV_0200_20150317_000038	我可以向他們報告說這種程度的魔物沒什麼問題。{nl}喔，如果你遇見了Samson請叫他別再玩了好好偵察吧。
 QUEST_LV_0200_20150317_000039	這邊由我防守，請你巡察Veltui Crossroads。{nl}偵察報告等到之後我再另外回報。
-QUEST_LV_0200_20150317_000040	士兵Samson
+QUEST_LV_0200_20150317_000040	士兵　Samson
 QUEST_LV_0200_20150317_000041	請幫我尋找Dominic的訂婚戒指。{nl}因為我正在執行任務中，無法離開這裡。
 QUEST_LV_0200_20150317_000042	我還特地買了一個有點像的戒指賠給他，結果他一點也不領情。真是小氣鬼。
 QUEST_LV_0200_20150317_000043	這塊髒東西是什麼？喔，戒指就在裡面嗎？
@@ -48,118 +48,118 @@ QUEST_LV_0200_20150317_000047	Ishisineti Cliff的邊緣應該有很多「Dry Tho
 QUEST_LV_0200_20150317_000048	喔對了，我可以在Ishisineti Cliff上偷偷地燒。{nl}這是我最後一個請求。你只要幫我做好燒柴的準備工作。
 QUEST_LV_0200_20150317_000049	我以後再也不要參加其他人的婚宴。
 QUEST_LV_0200_20150317_000050	我會假裝上廁所然後偷偷拿去燒。{nl}真的很感謝你的幫忙。
-QUEST_LV_0200_20150317_000051	$Soldier Poulter
-QUEST_LV_0200_20150317_000052	$My goodness, the order states to eliminate all of the monsters in this area!{nl}How am I supposed to handle this many enemies all by myself?
-QUEST_LV_0200_20150317_000053	It was too overwhelming to carry out the task just by myself.{nl}However, I'm really fortunate since you decided to help me.
-QUEST_LV_0200_20150317_000054	$I could almost cry my eyes out!{nl}Thank you very much for your help.
-QUEST_LV_0200_20150317_000055	$Commander Julian
-QUEST_LV_0200_20150317_000056	$Thanks for the help! {nl} If it's okay with you, I'd like to borrow some more of your strength.{nl}
-QUEST_LV_0200_20150317_000057	$Won't you support Commander O'Rourke's unit at the Veltui Crossroads?
-QUEST_LV_0200_20150317_000058	$Commander O'Rourke
-QUEST_LV_0200_20150317_000059	$Very impressive.{nl}Looks like I'll have to buy Julian a drink.
-QUEST_LV_0200_20150317_000060	It occurred to me while watching Ironbaum. {nl} What an exceptional companion it could be.
-QUEST_LV_0200_20150317_000061	$O'Rourke's unit has been exhausted through big and small battles with Ironbaum.{nl}It would be very reassuring if you could become our strength.
-QUEST_LV_0200_20150317_000062	$Substitute Owl Sculpture
+QUEST_LV_0200_20150317_000051	士兵　Poulter
+QUEST_LV_0200_20150317_000052	我的天啊，命令書上寫著清除這一地區所有的魔物！{nl}這麼大的數量我一人如何應付？
+QUEST_LV_0200_20150317_000053	要我一人完成根本是開玩笑。{nl}幸好有你來幫忙。
+QUEST_LV_0200_20150317_000054	我剛才真的差點要哭出來了。{nl}非常感謝你的支援。
+QUEST_LV_0200_20150317_000055	指揮官　Julian
+QUEST_LV_0200_20150317_000056	感謝幫忙！{nl}可以的話，我想再請你幫個忙。{nl}
+QUEST_LV_0200_20150317_000057	可以請你支援指揮官O'Rourke在Veltui Crossroads的部隊嗎？
+QUEST_LV_0200_20150317_000058	指揮官　O'Rourke
+QUEST_LV_0200_20150317_000059	你的實力真強！{nl}看來我輸Julian一杯飲料了。
+QUEST_LV_0200_20150317_000060	Ironbaum讓我領悟到牠真的是一個了不起的同伴。
+QUEST_LV_0200_20150317_000061	O'Rourke'的部隊和Ironbaum交戰無數回合後已經疲憊不堪。{nl}你的加入真的給我們打了一劑強心劑。
+QUEST_LV_0200_20150317_000062	落單的貓頭鷹雕像
 QUEST_LV_0200_20150317_000063	{memo X}I want to help purify the thorny forest, but I'm not strong enough. Could you eliminate the Tree Ghouls bothering the soldiers?
-QUEST_LV_0200_20150317_000064	$It would be nice if more people could come and go using this road like before.{nl}I find people very interesting.
-QUEST_LV_0200_20150317_000065	$Thank you. I hope I'm not giving you needless trouble all because of my aspirations.
-QUEST_LV_0200_20150317_000066	$Alright. We haven't received any word from our forces at Niurus Highway.{nl}I request you find them.
-QUEST_LV_0200_20150317_000067	$If you can't find them, return to us.
-QUEST_LV_0200_20150317_000068	$Soldier Kallus
-QUEST_LV_0200_20150317_000069	$There are still a few of our colleagues further in.{nl}Please help us.
-QUEST_LV_0200_20150317_000070	$Soldier Dainus
-QUEST_LV_0200_20150317_000071	$Ironbaum attacked us at the Drieza Waterland.{nl}There are still soldiers left that have not yet escaped.{nl}
-QUEST_LV_0200_20150317_000072	$I'm embarrassed to have escaped by myself.{nl}
-QUEST_LV_0200_20150317_000073	$Settled Owl Sculpture
-QUEST_LV_0200_20150317_000074	$I have something to ask of you.{nl}I'm worried about the soldiers suffering pain due to the Ravinelarvae.
-QUEST_LV_0200_20150317_000075	Thank you.{nl}From now on, can our soldiers work comfortably?
-QUEST_LV_0200_20150317_000076	$I appreciate your kind help.{nl}One day, I will return the favor when I meet your soul form.
+QUEST_LV_0200_20150317_000064	真希望人們能像以前一樣多多利用這條道路。{nl}人類真是有趣。
+QUEST_LV_0200_20150317_000065	謝謝你願意聽我發牢騷。
+QUEST_LV_0200_20150317_000066	真是的。我們的隊員在Niurus Highway失去了音訊。{nl}希望你能調查一下他們的下落。
+QUEST_LV_0200_20150317_000067	找不到的話就回來吧。
+QUEST_LV_0200_20150317_000068	士兵　Kallus
+QUEST_LV_0200_20150317_000069	還有許多同伴在裡面。{nl}需要你的幫忙。
+QUEST_LV_0200_20150317_000070	士兵　Dainus
+QUEST_LV_0200_20150317_000071	我們在Drieza Waterland受到Ironbaum的奇襲。{nl}還有一些同伴尚未逃出。{nl}
+QUEST_LV_0200_20150317_000072	只有我一個人逃出實在沒面子。{nl}
+QUEST_LV_0200_20150317_000073	安定的貓頭鷹雕像
+QUEST_LV_0200_20150317_000074	我想拜託一件事。{nl}我很擔心受到Ravinelarvae荼毒的士兵。
+QUEST_LV_0200_20150317_000075	謝謝。{nl}現在士兵們的工作環境變得更舒適了吧。
+QUEST_LV_0200_20150317_000076	感謝你的雪中送炭。{nl}將來遇見你的靈魂時我會記住你這份恩情。
 QUEST_LV_0200_20150317_000077	{memo X}Are you the famous Revelator?{nl}Good, I'm puzzled with something. I need your help.
-QUEST_LV_0200_20150317_000078	$Ah, now I've received the order.{nl}Return to Commander Julian.
-QUEST_LV_0200_20150317_000079	$I'm collecting information about Ironbaum.{nl}In order to reach the Gateway of the Great King, we have to defeat this monster first.
-QUEST_LV_0200_20150317_000080	$Thank you.{nl}Come back after taking this order to Poulter at Zaizda Hill.
-QUEST_LV_0200_20150317_000081	$Give me back the good old times.{nl} When there were no thorns.
-QUEST_LV_0200_20150317_000082	$If the path to the Gateway of the Great King is safe then I will be able to see more people.{nl}
-QUEST_LV_0200_20150317_000083	$Over all this time, I've seen it all.{nl}Now, I want only joy to be seen.
-QUEST_LV_0200_20150317_000084	$Why do human souls contain so many things?
-QUEST_LV_0200_20150317_000085	$If we run into monsters, we'll have no choice but to fight.
-QUEST_LV_0200_20150317_000086	$We're working to reach the Gateway of the Great King.{nl}Have you heard the news about Ironbaum?
-QUEST_LV_0200_20150317_000087	$In order to be a group leader, you need unwavering principles.
-QUEST_LV_0200_20150317_000088	$It's true that trying to reach the Gateway of the Great King is reckless.{nl}However, we can't disobey the order.
-QUEST_LV_0200_20150317_000089	$It may seem bad at first, but the two commanders actually have a surprisingly good relationship.
-QUEST_LV_0200_20150317_000090	$I feel so lonely since no one is here.{nl}It's been a long time since I met new faces.
-QUEST_LV_0200_20150317_000091	What do you want to do here in this empty forest? No way, the way is available?
-QUEST_LV_0200_20150317_000092	$Thank you.{nl}The soldiers and my colleagues will now be able to sleep comfortably.
-QUEST_LV_0200_20150317_000093	$I can not feel my arms and legs.{nl}I feel so strange even though It's not cold.
-QUEST_LV_0200_20150317_000094	$We must defeat the Gaigalas.{nl}Otherwise, I won't be able to sleep in peace.
-QUEST_LV_0200_20150317_000095	$We will start the hunt for Gaigalas soon.{nl}I'm so excited.
-QUEST_LV_0200_20150317_000096	$This grudge is so sad.{nl}It's sad that we are powerless to stop it either.
-QUEST_LV_0200_20150317_000097	$Losses will continue unless somebody stops the demons.
-QUEST_LV_0200_20150317_000098	Joint Investigation Team Fray
-QUEST_LV_0200_20150317_000099	I'm Fray.{nl}Listening to the story, the situation sounds bad.{nl}If the information you and Scott researched is correct.
-QUEST_LV_0200_20150317_000100	{nl}Then, I will have to do something.{nl}Please defeat some Red Vubbes first. They have been bothering me lately.
-QUEST_LV_0200_20150317_000101	Please, I ask of you. .{nl}I get sick just looking at the red color.
-QUEST_LV_0200_20150317_000102	Oh, did you really defeat them for me?{nl}Thank you!
-QUEST_LV_0200_20150317_000103	I got something after talking with Scott.{nl}There are Woodman kind of a moving tree sculpture.{nl}Is it somehow related with the bark of a tree that the Vubbes got?
-QUEST_LV_0200_20150317_000104	By the way, there is still no news from Scott about a second report.{nl}I wonder what happened to our cute Scott? Hmm..
-QUEST_LV_0200_20150317_000105	Wow, great!{nl}I owe you one. Thank you!
-QUEST_LV_0200_20150317_000106	Right? So I will ask you.{nl}Woodman are appearing on the Deer Hoot Site along with the left side of the path.
-QUEST_LV_0200_20150317_000107	I will take this combined result of the information Scott gave me and this fragment to my superior. {nl}By the way, There is still no news from Scott. Even the time Scott promised has long since passed. Just using the hearsay is not enough for the other investigator?{nl}
-QUEST_LV_0200_20150317_000108	Could you pick up the report from Scott?{nl}Do not forget to scold him for skipping work!
-QUEST_LV_0200_20150317_000109	Please handle Scott's report. Okay?{nl}Sometimes, he is stupid, but he is also cute.
-QUEST_LV_0200_20150317_000110	I have no face. Nowadays, I have been investigating everywhere to find something..{nl}Thanks a lot. If you are not..{nl}Ah, I don't want to think about it.{nl}
-QUEST_LV_0200_20150317_000111	Oops, It's time for this.{nl}I'm sorry, Please give it to Fray instead of me.{nl}I don't know where to start to clean the mess that Vubbes did..
-QUEST_LV_0200_20150317_000112	Ah, it is the report! {nl}Good, and what was Scott doing?{nl}
-QUEST_LV_0200_20150317_000113	Really? He couldn't handle a single Vubbe and got in trouble instead.{nl}Such a shame..I will scold him later!
-QUEST_LV_0200_20150317_000114	Everything is messy. {nl}I can not concentrate as the Vubbes.{nl}He must laugh, If he look at it?
-QUEST_LV_0200_20150317_000115	Joint Investigation Team Fray
-QUEST_LV_0200_20150317_000116	It is still in progress to find the truth of the events.{nl}Take it. It's a soul collection scroll.{nl}
-QUEST_LV_0200_20150317_000117	Once you defeat the Red Vubbe using this scroll, the soul of Vubbe should be out?{nl}I'll have you collect it for me. Then, the data are almost done.
-QUEST_LV_0200_20150317_000118	Do not forget the order.{nl}You have to defeat the Red Vubbes after using the soul collection scroll on them. Alright?
-QUEST_LV_0200_20150317_000119	About the bark of a tree that the Vubbe got.{nl}I think I can combine it using something like a spirit..{nl}Well, Please tell this news to Ukirt.
-QUEST_LV_0200_20150317_000120	Joint Investigation Team Ukirt
-QUEST_LV_0200_20150317_000121	Scott and Fray did a good job. What do you think of it?{nl}I don't think so that Vubbe can't create themself.{nl}I will have to check what they do using this.{nl}
-QUEST_LV_0200_20150317_000122	There may be something inside the supply boxes that the soldiers left a long time ago.{nl}You will find some old supply boxes up there.{nl}Can you go there and check? If we obtain some clues there, we may get an answer.
-QUEST_LV_0200_20150317_000123	If you go back the way you just came, you will see an observatory tower on the hills.{nl}I hope the monsters haven't touch it yet..
-QUEST_LV_0200_20150317_000124	Are they really planning something?{nl}Something.. is suspicious..
-QUEST_LV_0200_20150317_000125	The Vubbes broke the supply boxes and ran away with this?{nl}Why? Were they really making it?{nl}No way, they aren't smart enough to do that.{nl}
-QUEST_LV_0200_20150317_000126	Good! We should pay attention and solve the problem!
-QUEST_LV_0200_20150317_000127	Okay. Are you ready?{nl}
-QUEST_LV_0200_20150317_000128	Before you came, I saw Vubbes moving in groups.{nl}Go to Gebene Cliffs and see how the situation is.
-QUEST_LV_0200_20150317_000129	$The Vubbes were always involved with anything that happened here.{nl}It can't be just a coincidence..
-QUEST_LV_0200_20150317_000130	I think.. I understand now. {nl}I think that was like a big factory creating huge monsters called Woodspirits.{nl}
-QUEST_LV_0200_20150317_000131	The flag of Vubbes must have called in the ghosts.{nl}Then they polluted the trees and created huge monsters.{nl}
-QUEST_LV_0200_20150317_000132	That tree barks must have been the ingredients for making Woodspirits.{nl}There's no way those Vubbes could do it alone.{nl}They must have received an order from somebody!
-QUEST_LV_0200_20150317_000133	We may find some decisive evidences at the place where the Vubbes are grouped together.{nl}If Prey sees this, it will like it!
-QUEST_LV_0200_20150317_000134	Vubbes are not very smart so he must have made only simple orders.{nl}How could he think about controlling those Vubbes..{nl}I don't know what to say. {nl}
-QUEST_LV_0200_20150317_000135	I am sure that Woodspirits are created from various places.{nl}I can sense vicious energies coming. {nl}We should first destroy the flags that are creating Woodspirits!
-QUEST_LV_0200_20150317_000136	Leave as soon as you are ready. {nl}The best course of action for now is to stop the creation of Woodspirits..
-QUEST_LV_0200_20150317_000137	I think we've done our best for now. {nl}Since we can't do anything about the ones that were already created.
-QUEST_LV_0200_20150317_000138	I can feel the closest flag from here is near Gatves Highway.{nl}The huge trees that people saw is probably Woodspirits.{nl}How could I miss this simple thing.
-QUEST_LV_0200_20150317_000139	$Earnest Owl Chief Sculpture
-QUEST_LV_0200_20150317_000140	$Thank you so much. {nl}The other owls must have gained confidence because of you.
-QUEST_LV_0200_20150317_000141	$Weak Owl Sculpture
-QUEST_LV_0200_20150317_000142	$It really was too late..{nl}The Goddess really can be harsh sometimes..
-QUEST_LV_0200_20150317_000143	$I have one last request. {nl}Can you burn the Owls so they could rest in peace?
-QUEST_LV_0200_20150317_000144	$Do you think my allies can reach Goddess Ausrine safely?
-QUEST_LV_0200_20150317_000145	$Thank you so much. {nl}First bring me the Oil from Oil Boxes on the way to Neuoder Field.
-QUEST_LV_0200_20150317_000146	$If you are okay with it, I'd like to get some more help from you.{nl}I've sent a messenger, but due to the last attack, I am now worried about him.{nl}
-QUEST_LV_0200_20150317_000147	$That messenger should be safe... but I still worry for him.
-QUEST_LV_0200_20150317_000148	$Thank you so much.{nl}He must be there by now.
-QUEST_LV_0200_20150317_000149	$The squad was dispatched to recover Kateen Forest from the monsters.{nl}The entrance here to Kateen Forest is safe compared to other areas. The other areas are yet to be recovered.{nl}
-QUEST_LV_0200_20150317_000150	$As you go deeper inside, there are a number of soldiers along the way lacking in supplies.{nl}If a well known person like you can help them, it will be a great help.{nl}
-QUEST_LV_0200_20150317_000151	$Fallen Messenger
-QUEST_LV_0200_20150317_000152	$This is my fault, for assuming the entrance to Kateen Forest was secure.{nl}I will go back to the camp after taking a short rest.
-QUEST_LV_0200_20150317_000153	$Ah, this is my bag.. thank you for saving me.{nl}
-QUEST_LV_0200_20150317_000154	$Only you can help me right now.{nl}Can you tell Felix that the operation at Peljeda Crossroads has already started?{nl}{nl}
-QUEST_LV_0200_20150317_000155	$There are many strange things that can't be seen in forests other than Kateen Forest.{nl}Such as the wooden owl sculptures.
-QUEST_LV_0200_20150317_000156	$The operation? Oh, what an ignorant messenger.{nl}I can get that from the camp.. Thanks anyway.{nl}
-QUEST_LV_0200_20150317_000157	$Oh, the way back is dark, so it would be appreciated if you could light up the bonfire again.
-QUEST_LV_0200_20150317_000158	$You can't see much sunlight in Kateen Forest due to the enormous amount of trees.{nl}It seems like ghosts could come out at any moment.
-QUEST_LV_0200_20150317_000159	$Okay, so the messenger is safe?{nl}This place has been well taken care of thanks to your efforts.
-QUEST_LV_0200_20150317_000160	$I shall take some rest here.{nl}Is there a good place to hide?
-QUEST_LV_0200_20150317_000161	$For letting Saltistter come in this far behind our lines, I should scold the person in charge of guarding this place.{nl}Thanks anyways. You sure live up to your reputation.{nl}
-QUEST_LV_0200_20150317_000162	$Guard Lyle
+QUEST_LV_0200_20150317_000078	喔，命令終於傳達下來了。{nl}請回去見指揮官Julian。
+QUEST_LV_0200_20150317_000079	我正在蒐集關於Ironbaum的情報。{nl}要先打敗牠才能前往Gateway of the Great King。
+QUEST_LV_0200_20150317_000080	真的很感謝。{nl}帶這命令書給Zaizda Hill的Poulter，然後回來這裡。
+QUEST_LV_0200_20150317_000081	真懷念以前沒有荊棘的日子。
+QUEST_LV_0200_20150317_000082	通往Gateway of the Great King的道路一旦打通，我就能見到更多人。{nl}
+QUEST_LV_0200_20150317_000083	長久以來，我見到了許多事情。{nl}現在我只想見到快樂的事情。
+QUEST_LV_0200_20150317_000084	為何人類的靈魂裡蘊藏著這麼多東西？
+QUEST_LV_0200_20150317_000085	魔物出現的話，除了戰鬥別無選擇。
+QUEST_LV_0200_20150317_000086	我們正在努力向Gateway of the Great King推進。{nl}你有聽到Ironbaum出沒的消息嗎？
+QUEST_LV_0200_20150317_000087	想要成為一個團體的領導者，必順保有鋼鐵般的原則。
+QUEST_LV_0200_20150317_000088	打通前往Gateway of the Great King的道路真的很冒險。{nl}但是我們依舊服從命令。
+QUEST_LV_0200_20150317_000089	令人意外的是，兩邊的指揮官配合得不錯。
+QUEST_LV_0200_20150317_000090	我好孤單，這裡沒半個人。{nl}好久沒遇見新面孔了。
+QUEST_LV_0200_20150317_000091	這座無人森林裡怎麼會有人出現？不可能，難道道路被打通了？
+QUEST_LV_0200_20150317_000092	謝謝你。{nl}士兵和同僚們終於能睡得安穩了。
+QUEST_LV_0200_20150317_000093	我的手腳已經失去了知覺。{nl}不是寒冷，是一種奇怪的感覺。
+QUEST_LV_0200_20150317_000094	我們一定要打倒Gaigalas。{nl}否則我無法睡得安心。
+QUEST_LV_0200_20150317_000095	馬上要開始獵殺Gaigalas了。{nl}我好興奮。
+QUEST_LV_0200_20150317_000096	它的怨念令人悲傷。{nl}更悲傷的是我無法阻止它。
+QUEST_LV_0200_20150317_000097	放任邪惡的魔物肆虐大地只會製造更多的犧牲者。
+QUEST_LV_0200_20150317_000098	聯合調查團　Fray
+QUEST_LV_0200_20150317_000099	我是Fray。{nl}根據你和Scott的調查內容看來狀況相當險峻。
+QUEST_LV_0200_20150317_000100	{nl}我們必順採取行動。{nl}先幫我擊殺一些紅色瓦布。牠們最近一直煩著我。
+QUEST_LV_0200_20150317_000101	麻煩你了。{nl}我光是看到那紅紅的顏色就想吐。
+QUEST_LV_0200_20150317_000102	喔，你真的替我打敗牠們了？{nl}謝謝！
+QUEST_LV_0200_20150317_000103	我想起Scott之前所說的。{nl}他看見一些像是木頭人或是會動的木片。{nl}也許和那些瓦布持有的樹皮有關？
+QUEST_LV_0200_20150317_000104	話說Scott那裡一直沒有消息。{nl}該不會我們可愛的Scott出了什麼事？
+QUEST_LV_0200_20150317_000105	哇，太棒了！{nl}我欠你一份人情，謝謝！
+QUEST_LV_0200_20150317_000106	那就麻煩你了。{nl}木頭人出現在Deer Hoot Site，沿著左邊道路走就到了。
+QUEST_LV_0200_20150317_000107	我必須把這些碎片和Scott說的線索報告給上級。{nl}可是，已經過了偵察時段了Scott怎麼還沒回來？{nl}只憑傳言恐怕很難說服其他的調查團員。
+QUEST_LV_0200_20150317_000108	能幫我帶回Scott的報告嗎？{nl}順便叫他別再到處溜搭了。
+QUEST_LV_0200_20150317_000109	Scott的報告就麻煩你了，好嗎？{nl}他有時候傻傻的，但也很可愛。
+QUEST_LV_0200_20150317_000110	說來慚愧，這陣子我到處亂闖只為了找到線索。{nl}要不是你找到我，恐怕我已經…{nl}唉，我不敢想像。{nl}
+QUEST_LV_0200_20150317_000111	喔，廢話不多說了。{nl}不好意思，麻煩替我把這些資料交給Fray。{nl}我要整理這裡一下，被那些瓦布搞得一蹋糊塗。
+QUEST_LV_0200_20150317_000112	太好了，是報告書！{nl}Scott到底在做什麼？{nl}
+QUEST_LV_0200_20150317_000113	這樣啊？才幾隻瓦布他就搞不定。{nl}真丟臉…我之後再訓他一頓！
+QUEST_LV_0200_20150317_000114	真是一團混亂。{nl}都是那些瓦布害我無法專心！{nl}Fray看到我這個樣子一定會嘲笑我。
+QUEST_LV_0200_20150317_000115	聯合調查團　Fray
+QUEST_LV_0200_20150317_000116	為了掌握這次事件的真相，還有好多事要做。{nl}拿這個。這是靈魂收集卷軸。{nl}
+QUEST_LV_0200_20150317_000117	對紅色瓦布弓手使用靈魂收集卷軸後打敗牠們，就能吸出牠們的靈魂。{nl}把收集的靈魂帶回給我，就能整理出更多資料。
+QUEST_LV_0200_20150317_000118	順序別搞錯了。{nl}先對紅色瓦布弓手使用靈魂收集卷軸再打倒牠們。了解吧？
+QUEST_LV_0200_20150317_000119	這是從瓦布身上取得的樹皮{nl}它似乎可以跟靈體產生結合。{nl}快把這訊息告知Ukirt。
+QUEST_LV_0200_20150317_000120	聯合調查團　Ukirt
+QUEST_LV_0200_20150317_000121	Scott和Fray真是表現優秀，你說是不是？{nl}我覺得這種東西瓦布不可能自己製造出來。{nl}到底這些樹皮的作用是什麼？我要好好查一查。{nl}
+QUEST_LV_0200_20150317_000122	以前士兵遺留的補給箱裡可能有些線索。{nl}往上面走可以找到一些古老的補給箱。{nl}去查看一下吧。取得線索才能導出更像樣的結論。
+QUEST_LV_0200_20150317_000123	剛才路上你應該有看見山丘上的瞭望塔吧。{nl}希望還沒落入魔物手中…
+QUEST_LV_0200_20150317_000124	這些傢伙到底有什麼企圖？{nl}真得非常可疑…
+QUEST_LV_0200_20150317_000125	那些瓦布破壞了補給箱並帶走了這個？{nl}為什麼？難道牠們真的在製作那個東西？{nl}怎麼可能，牠們沒那個頭腦。{nl}
+QUEST_LV_0200_20150317_000126	好！提起精神好好大幹一番！
+QUEST_LV_0200_20150317_000127	好。做好覺悟了嗎？{nl}
+QUEST_LV_0200_20150317_000128	在你還沒來之前我看見瓦布正在各處集結。{nl}去Gebene Cliffs察看情況如何。
+QUEST_LV_0200_20150317_000129	這裡發生的大小事端總是和瓦布脫不了關係。{nl}說是巧合也太巧了…
+QUEST_LV_0200_20150317_000130	這，難道…我想我已經拼湊出真相了。{nl}我想那就是生產出巨大魔物「Woodspirit」的地方，就像一個大工廠。{nl}
+QUEST_LV_0200_20150317_000131	瓦布用牠們的旗子招來了許多幽靈。{nl}這些幽靈汙染了樹木生產出巨大的魔物。{nl}
+QUEST_LV_0200_20150317_000132	樹皮很明顯是製作Woodspirit的材料。{nl}這已經超出了瓦布的等級。{nl}一定有人在指引牠們！
+QUEST_LV_0200_20150317_000133	我們或許能在瓦布聚集的地方找到決定性的證據。{nl}Fray一定很想見到這些證據！
+QUEST_LV_0200_20150317_000134	瓦布不怎麼聰明，牠們恐怕只接受簡單的命令。{nl}利用瓦布來達成自己的目的…{nl}真的匪夷所思。{nl}
+QUEST_LV_0200_20150317_000135	顯然Woodspirit從好幾個地方生產出來。{nl}我能感受到聚集的邪氣。{nl}我們先去拆掉那些產生Woodspirit的旗子！
+QUEST_LV_0200_20150317_000136	準備好就出發。{nl}當務之急是讓Woodspirit再也生不出來。
+QUEST_LV_0200_20150317_000137	我想我們已經盡力了。{nl}已經生出來的我們也無能為力。
+QUEST_LV_0200_20150317_000138	我感受到離這裡最近的旗子就在Gatves Highway。{nl}之前人們所看到像是巨木的東西應該就是Woodspirit。{nl}這麼簡單的道理我當初怎會沒想到。
+QUEST_LV_0200_20150317_000139	真誠的貓頭鷹隊長雕像
+QUEST_LV_0200_20150317_000140	真的很感謝。{nl}其他的貓頭鷹因為你而獲得了勇氣。
+QUEST_LV_0200_20150317_000141	衰弱的貓頭鷹雕像
+QUEST_LV_0200_20150317_000142	已經太遲了…{nl}女神有時候是很嚴苛的。
+QUEST_LV_0200_20150317_000143	這是我最後的請求。{nl}你能用火葬讓那些死去的貓頭鷹獲得安息嗎？
+QUEST_LV_0200_20150317_000144	你覺得我的同伴們能平安回到女神Ausrine的懷抱嗎？
+QUEST_LV_0200_20150317_000145	非常感謝！{nl}首先前往Neuoder Field幫我從路旁的油箱裡取一些油。
+QUEST_LV_0200_20150317_000146	可以的話，想請你再幫個忙。{nl}不久前我派出了一個傳令，而剛才魔物的襲擊令我擔憂他的安危。{nl}
+QUEST_LV_0200_20150317_000147	那個傳令應該沒事…但我還是不放心。
+QUEST_LV_0200_20150317_000148	非常感謝。{nl}他應該平安抵達了。
+QUEST_LV_0200_20150317_000149	為了從魔物手中奪回Kateen Forest，我們部署了一些兵力。{nl}比起其他尚未收復的區域，Kateen Forest的入口這裡還算安全。{nl}
+QUEST_LV_0200_20150317_000150	深入森林裡面兵力更顯不足，補給也更加困難。{nl}像你這麼有名氣的人若能幫忙我們想必是很大的助力。{nl}
+QUEST_LV_0200_20150317_000151	倒地的傳令
+QUEST_LV_0200_20150317_000152	我以為Kateen Forest入口是安全的，看來我是錯的。{nl}稍為休息後我再返回營區。
+QUEST_LV_0200_20150317_000153	啊，這是我的背包…{nl}謝謝你救了我。
+QUEST_LV_0200_20150317_000154	現在只有你能幫我。{nl}可以告訴在Peljeda Crossroads的Felix作戰已經開始了嗎？{nl}{nl}
+QUEST_LV_0200_20150317_000155	Kateen Forest有許多其他森林見不到的東西.{nl}例如那些木頭貓頭鷹雕像。
+QUEST_LV_0200_20150317_000156	作戰？那個傳令真是傻瓜。{nl}營區方面會另外通知我…不過還是謝謝你。{nl}
+QUEST_LV_0200_20150317_000157	哇，這裡好暗，可以再替我升個營火嗎？
+QUEST_LV_0200_20150317_000158	Kateen Forest的樹木長得太茂密導致陽光照不進來。{nl}看起來就像隨時會出現幽靈一樣。
+QUEST_LV_0200_20150317_000159	喔，傳令已經安全了？{nl}多虧有你，我們這邊也整頓得差不多了。
+QUEST_LV_0200_20150317_000160	在這裡休息一下吧。{nl}找個地方調整一下呼吸。
+QUEST_LV_0200_20150317_000161	竟然讓Saltistter潛入到這裡來，我一定得好好訊問一下負責邊界的警衛。{nl}總之非常感謝你，大家對你的評價果然不是蓋的。{nl}
+QUEST_LV_0200_20150317_000162	警衛　Lyle
 QUEST_LV_0200_20150317_000163	{memo X}I lost many colleagues through the Stone Frosts.{nl}I don't understand why I am here to support a newbie Chronomancer... so inefficient.{nl}On top of that, we don't know when those violent monsters would attack here.
 QUEST_LV_0200_20150317_000164	{memo X}If you are okay, can you get rid of the monsters while we are protecting here?
 QUEST_LV_0200_20150317_000165	{memo X}It is very unfortunate that we should take care of that woman this time.
@@ -172,7 +172,7 @@ QUEST_LV_0200_20150317_000171	{memo X}There are many cursed documents and unclea
 QUEST_LV_0200_20150317_000172	{memo X}Can you defeat them at the military district?{nl}If you could defeat them, we will go and capture them.
 QUEST_LV_0200_20150317_000173	{memo X}The one who was caught last time told us that the stone statues were talking to him.{nl}Do you think that makes sense?
 QUEST_LV_0200_20150317_000174	{memo X}I was able to arrest lots of thieves because of your help.{nl}Thank you.
-QUEST_LV_0200_20150317_000175	$Guard Nomabis
+QUEST_LV_0200_20150317_000175	警衛　Nomabis
 QUEST_LV_0200_20150317_000176	{memo X}A few days ago, we lost our supplies to Dico Thieves.{nl}They must have taken them to Drasa Worship Ruins, but since I can't leave this place, I guess we all gonna die.
 QUEST_LV_0200_20150317_000177	{memo X}Can you retrieve the lost supplies?
 QUEST_LV_0200_20150317_000178	{memo X}A few decades ago, the thieves attacked the guard camp and stole the supplies secretly.
@@ -184,9 +184,9 @@ QUEST_LV_0200_20150317_000183	{memo X}You taught them a lesson. Well done.
 QUEST_LV_0200_20150317_000184	{memo X}A few weeks ago, the colleagues who used to work here received damage by Stone Frosts and became stone statues at the square. {nl}The reason why the colleagues received damage was because they were engaged in eliminating traps that the thieves had set, but could not avoid them.{nl}There are still many traps around. We recently found one of them. Can you get rid of it?
 QUEST_LV_0200_20150317_000185	{memo X}The number of Dico Thieves may be more than the number of guards.
 QUEST_LV_0200_20150317_000186	{memo X}You caught monsters outside the thieves' area. I am sorry that you had to go through such a dangerous job.
-QUEST_LV_0200_20150317_000187	$Chronomancer Sabina
+QUEST_LV_0200_20150317_000187	Chronomancer　Sabina
 QUEST_LV_0200_20150317_000188	{memo X}Lots of things happend here, but since they occurred long time ago, we need more information in order to find out the truth.{nl}Can you find the records from the Gate Route that was fallen down and make copies of them?
-QUEST_LV_0200_20150317_000189	Everything is being destroyed as time passes by.
+QUEST_LV_0200_20150317_000189	萬物隨著時間的奔流而枯朽。
 QUEST_LV_0200_20150317_000190	{memo X}Thank you. This is about the collapse of the fortress.{nl}I should look more into it to find more decisive information.
 QUEST_LV_0200_20150317_000191	{memo X}I am doing many investigations here, but I am having a hard time discovering an incident that occurred more in the past due to those monsters.{nl}Can you go and look into the past on behalf of me?
 QUEST_LV_0200_20150317_000192	{memo X}Use the magnifying glass of time near Pergele Roads. Then you would be able see the past.
@@ -196,9 +196,9 @@ QUEST_LV_0200_20150317_000195	{memo X}To understand better about the circumstanc
 QUEST_LV_0200_20150317_000196	{memo X}The portal that was used by the remnants when they tried to run away from the Fortress of the Earth.{nl}There are total ten of them according to the record.{nl}Four of them are here. Can you check if they are still activated?
 QUEST_LV_0200_20150317_000197	{memo X}Because of our plan, we may be sent to the gallows.{nl}Please keep it a secret.
 QUEST_LV_0200_20150317_000198	The portal at the military district is our only hope.
-QUEST_LV_0200_20150317_000199	Hunter Talus
+QUEST_LV_0200_20150317_000199	獵人　Talus
 QUEST_LV_0200_20150317_000200	$I am looking for a few artifacts of Lydia Schaffen, who built the Tower of Stars.{nl}The famous archer who shot Ruklys' chest.
-QUEST_LV_0200_20150317_000201	$Kingdom Army Guard Retia
+QUEST_LV_0200_20150317_000201	王國禁衛兵　Retia
 QUEST_LV_0200_20150317_000202	{memo X}Because of the Stone Frosts that were created due to Ruklys' rebellion a few hundreds years ago, the land turned into a wasteland.
 QUEST_LV_0200_20150317_000203	{memo X}We will allow you to enter since the Knights of Kaliss requested us to do so, but please stay where our gaze remains.
 QUEST_LV_0200_20150317_000204	{memo X}After Medzio Diena 4 years ago, Benas was appointed as the chief commander for the forces here.{nl}He ordered to take good care of the road leading to the Fortress of the Earth.
