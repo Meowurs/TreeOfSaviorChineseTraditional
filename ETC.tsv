@@ -1805,7 +1805,7 @@ ETC_20150317_001803	成功雇用了同伴。
 ETC_20150317_001804	名稱中不可以有空白。
 ETC_20150317_001805	Together
 ETC_20150317_001806	Please dismount your 同伴 to feed it.
-ETC_20150317_001807	物理攻擊
+ETC_20150317_001807	物理傷害
 ETC_20150317_001808	物理防禦
 ETC_20150317_001809	騎乘時防禦力增加
 ETC_20150317_001810	騎乘時迴避率增加
@@ -2734,7 +2734,7 @@ ETC_20150317_002732	技能攻擊
 ETC_20150317_002733	魔法抗性
 ETC_20150317_002734	Dugout Attack
 ETC_20150317_002735	Rim Attack
-ETC_20150317_002736	魔法攻擊
+ETC_20150317_002736	魔法傷害
 ETC_20150317_002737	魔法防禦
 ETC_20150317_002738	Creates an additional slot when equipped
 ETC_20150317_002739	性別
@@ -2758,12 +2758,12 @@ ETC_20150317_002756	Rear Attack Range
 ETC_20150317_002757	Use specific skill
 ETC_20150317_002758	可能
 ETC_20150317_002759	不可用
-ETC_20150317_002760	暴擊攻擊
+ETC_20150317_002760	暴擊傷害
 ETC_20150317_002761	暴擊防禦
 ETC_20150317_002762	可交易
 ETC_20150317_002763	不可交易
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP 回復
+ETC_20150317_002765	SP 回復量
 ETC_20150317_002766	不能出售
 ETC_20150317_002767	火屬性攻擊
 ETC_20150317_002768	冰屬性攻擊
@@ -2771,7 +2771,7 @@ ETC_20150317_002769	毒屬性攻擊
 ETC_20150317_002770	聖屬性攻擊
 ETC_20150317_002771	闇屬性攻擊
 ETC_20150317_002772	移動速度
-ETC_20150317_002773	HP 回復
+ETC_20150317_002773	HP 回復量
 ETC_20150317_002774	植物類攻擊
 ETC_20150317_002775	野獸類攻擊
 ETC_20150317_002776	惡魔類攻擊
@@ -6013,7 +6013,7 @@ ETC_20150317_006011	{memo X}Use the 交易 window at the bottom to 交易 items 
 ETC_20150317_006012	{memo X}Hold down {img Shift 45 45} and right-click to 交易 multiple quantities at a time. {nl} {nl}
 ETC_20150317_006013	{memo X}Items sold to the store can be bought back.
 ETC_20150317_006014	{memo X}{nl} {nl} Buy back items sold by mistake by right-clicking on the item. {nl} {nl}
-ETC_20150317_006015	素質點
+ETC_20150317_006015	素質
 ETC_20150317_006017	{memo X}You can check your character's abilities in the Character Information window ({img F1 40 40})。
 ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
@@ -7355,7 +7355,7 @@ ETC_20150317_007353	力量 +%d
 ETC_20150317_007354	敏捷 +%d
 ETC_20150317_007355	耐力 +%d
 ETC_20150317_007356	智力 +%d
-ETC_20150317_007357	暴擊攻擊 +%d
+ETC_20150317_007357	暴擊傷害 +%d
 ETC_20150317_007358	最大HP +%d
 ETC_20150317_007359	最大SP +%d
 ETC_20150317_007360	命中率 +%d
@@ -13613,7 +13613,7 @@ ETC_20150717_013611	{memo X}Suspicious Sculpture
 ETC_20150717_013612	This game is rated ESRB Teen.
 ETC_20150717_013613	{How} 獲得銀幣。
 ETC_20150717_013614	{memo X}{@st59}Increase in Max SP, SP Recovery and Block Penetration{/}
-ETC_20150717_013615	{@st59}增加魔法攻擊力{/}
+ETC_20150717_013615	{@st59}增加魔法傷害{/}
 ETC_20150729_013616	彈幕攻擊
 ETC_20150729_013617	地雷陷阱
 ETC_20150729_013618	捕獸夾
@@ -13696,7 +13696,7 @@ ETC_20150729_013694	{nl} {nl}小地圖上會顯示資訊與 NPC 的位置。{nl}
 ETC_20150729_013695	按{img N 40 40}鍵可檢視世界地圖。
 ETC_20150729_013696	只有探索過得區域會顯示在世界地圖上，反之亦然。
 ETC_20150729_013697	將滑鼠移到已探索的區域上，就能看到完整地圖。
-ETC_20150729_013698	升級時獲得的素質點可以用來提升角色的能力值。
+ETC_20150729_013698	使用升級所獲得的素質點數來提升角色的能力。
 ETC_20150729_013699	按 {img F1 40 40} 打開角色資訊視窗來檢視你的角色資訊。
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150729_013701	你可以在畫面下方預覽升級素質後的效果。
@@ -14015,7 +14015,7 @@ ETC_20150729_014013	The ticket will be expired when you cancel it. Do you want t
 ETC_20150729_014014	Found the Great King's Key!
 ETC_20150729_014015	{s16}{ol}{#ffcc33}[{Auto_1}] Explore Rate {nl}{Auto_2}/{Auto_3}
 ETC_20150729_014016	{cl}{s16}{ol}{#ffcc33}{Auto_1} Complete Explore Rate
-ETC_20150729_014017	{@st59} 增加物理攻擊、暴擊攻擊和最大負重{/}
+ETC_20150729_014017	{@st59} 增加物理傷害、暴擊傷害和最大負重{/}
 ETC_20150729_014018	上一個傳送的區域
 ETC_20150729_014019	Exceeded the number of Mission Instance. Try again later
 ETC_20150729_014020	[雙酬傭兵 導師]{nl} Guera
