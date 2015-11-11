@@ -171,7 +171,7 @@ ETC_20150317_000169	博拉波
 ETC_20150317_000170	Bramble Ego
 ETC_20150317_000171	Willow
 ETC_20150317_000172	Willowna
-ETC_20150317_000173	花米球
+ETC_20150317_000173	哈那米
 ETC_20150317_000174	死亡時身上的花會瞬間凋落。
 ETC_20150317_000175	卓柏卡布拉
 ETC_20150317_000176	聖樹之日後突然大量繁衍，往往會與人類爭奪領地。
@@ -1629,7 +1629,7 @@ ETC_20150317_001627	可組合的裝備:
 ETC_20150317_001628	返回
 ETC_20150317_001629	{@st59} 鎖定快捷欄{/}
 ETC_20150317_001630	{@st59} Open the slot {/}
-ETC_20150317_001631	{@st59} 返回 (退位鍵) {/}
+ETC_20150317_001631	{@st59}返回按鈕{/}
 ETC_20150317_001632	你確定要刪除嗎？ {/}
 ETC_20150317_001633	角色死亡時不可使用。
 ETC_20150317_001634	{@st59} 移動 {/}
@@ -2384,7 +2384,7 @@ ETC_20150317_002382	{memo X}Absorbed the energy of the guardian
 ETC_20150317_002383	{memo X}Moving.
 ETC_20150317_002384	{memo X}Do not move.
 ETC_20150317_002385	{memo X}{@st59} Increase SP and SP recovery {/}
-ETC_20150317_002386	{nl} Quest Completed
+ETC_20150317_002386	{nl}任務完成
 ETC_20150317_002387	I saw it. It's obviously not 死迎者.
 ETC_20150317_002388	It's not 死迎者.
 ETC_20150317_002389	Why would I have followed it if it is 死迎者?
@@ -2763,7 +2763,7 @@ ETC_20150317_002761	暴擊防禦
 ETC_20150317_002762	可交易
 ETC_20150317_002763	不可交易
 ETC_20150317_002764	Potion recovery amount
-ETC_20150317_002765	SP 回復量
+ETC_20150317_002765	SP 恢復量
 ETC_20150317_002766	不能出售
 ETC_20150317_002767	火屬性攻擊
 ETC_20150317_002768	冰屬性攻擊
@@ -2771,7 +2771,7 @@ ETC_20150317_002769	毒屬性攻擊
 ETC_20150317_002770	聖屬性攻擊
 ETC_20150317_002771	闇屬性攻擊
 ETC_20150317_002772	移動速度
-ETC_20150317_002773	HP 回復量
+ETC_20150317_002773	HP 恢復量
 ETC_20150317_002774	植物類攻擊
 ETC_20150317_002775	野獸類攻擊
 ETC_20150317_002776	惡魔類攻擊
@@ -3531,8 +3531,8 @@ ETC_20150317_003529	Even here, there are Large Kepas!
 ETC_20150317_003530	Get rid of the Kepas charging in!
 ETC_20150317_003531	Get rid of the Chinencys!
 ETC_20150317_003532	Defeat the Chinencys!
-ETC_20150317_003533	Get rid of the Hanamings!
 ETC_20150317_003533	除掉 哈那米！
+ETC_20150317_003534	Chase the Hamming!
 ETC_20150317_003535	請除掉 大型 凱帕!
 ETC_20150317_003536	Defeat the sealed 傀儡!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
@@ -4339,7 +4339,7 @@ ETC_20150317_004337	's 公告板
 ETC_20150317_004338	Reset Status Points
 ETC_20150317_004339	Requires iCoin.{nl}Are you sure you want to reset?
 ETC_20150317_004340	{memo X}{@st59} 增加物理攻擊和暴擊攻擊{/}
-ETC_20150317_004341	{@st59}增加最大HP、HP 回復量、暴擊抗性和最大負重{/}
+ETC_20150317_004341	{@st59}增加最大HP、HP 恢復量、暴擊抗性和最大負重{/}
 ETC_20150317_004342	{memo X}{@st59} 增加魔法傷害和穿透格擋{/}
 ETC_20150317_004343	{@st59}增加命中率、閃避率和暴擊率{/}
 ETC_20150317_004344	] 你想使用這張卡片嗎？
@@ -5366,7 +5366,7 @@ ETC_20150317_005364	Why are there 傀儡 remains here?
 ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
 ETC_20150317_005366	Is it dead?
 ETC_20150317_005367	Huh..!!
-ETC_20150317_005368	Defeat the Large Kepa!
+ETC_20150317_005368	擊敗the Large Kepa！
 ETC_20150317_005369	It's a Large Kepa!
 ETC_20150317_005370	Alchemist Vaidotas
 ETC_20150317_005371	2nd Mine Lot Closed
@@ -5897,8 +5897,8 @@ ETC_20150317_005895	移動
 ETC_20150317_005896	{memo X}你可以使用方向鍵移動。
 ETC_20150317_005897	方向鍵
 ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
-ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
-ETC_20150317_005900	{nl} {nl}角色運動時消耗耐力。
+ETC_20150317_005899	{img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}{nl}同時按鍵可以讓你的角色往對角方向移動。
+ETC_20150317_005900	{nl} {nl}角色移動時會消耗耐力。
 ETC_20150317_005901	{memo X}使用跳躍跳上障礙或爬上更高的地方。
 ETC_20150317_005902	{memo X}按 {img X 40 40} 使角色跳躍。
 ETC_20150317_005903	在攻擊範圍內攻擊敵人。
@@ -7590,7 +7590,7 @@ ETC_20150317_007588	{memo X}Revealment
 ETC_20150317_007589	First Soldier
 ETC_20150317_007590	Request from Drasius
 ETC_20150317_007591	Second Soldier
-ETC_20150317_007592	對 女神 澤米娜 雕像 祈禱
+ETC_20150317_007592	向 女神 澤米娜 雕像 祈禱
 ETC_20150317_007593	Advice of Laimonas (4)
 ETC_20150317_007594	To Klaipeda
 ETC_20150317_007595	Third Soldier
@@ -13230,12 +13230,12 @@ ETC_20150717_013228	{memo X}The blessing of the suspicious stone pole
 ETC_20150717_013229	{memo X}The blessing of the suspicious tombstone
 ETC_20150717_013230	{memo X}The blessing of the unknown crystal pole
 ETC_20150717_013231	{memo X}You can move freely using
-ETC_20150717_013232	Choose the control mode from Game Settings.
+ETC_20150717_013232	在遊戲設定中選擇操作模式。
 ETC_20150717_013233	{memo X}For the joypad, use the Control Pad to move.
 ETC_20150717_013234	{memo X}For the mouse, click on an area to move your character. 
 ETC_20150717_013235	{memo X}When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40} and {img D 40 40} keys
 ETC_20150717_013236	{memo X}Press the same arrow key twice to dash when using Swordsman types. 
-ETC_20150717_013237	Using Dash increases your movement speed but also consumes Stamina faster. 
+ETC_20150717_013237	使用衝刺時會提升移動速度，但同時也會讓耐力消耗得更快。
 ETC_20150717_013238	{memo X}Use jump to cross over obstacles or up higher places. 
 ETC_20150717_013239	{memo X}Press {img X 40 40} to jump.
 ETC_20150717_013240	{memo X}When using a mouse, you can jump by using {img space 40 40}。
@@ -13254,7 +13254,7 @@ ETC_20150717_013252	{memo X}Moving your mouse over the activated area will show 
 ETC_20150717_013253	{memo X}You can check your items, 裝備s, money, and weight through the Inventory. 
 ETC_20150717_013254	{memo X}Press {img F2 40 40} to open the Inventory window. 
 ETC_20150717_013255	{memo X}Upper area of the Inventory window shows items that the character equipped. 
-ETC_20150717_013256	Below are the item that the character holds.
+ETC_20150717_013256	中間顯示角色所持有的道具。
 ETC_20150717_013257	{memo X}Items in the inventory are sorted by item types. 
 ETC_20150717_013258	{memo X}Click on Sort to sort the inventory by name.
 ETC_20150717_013259	{memo X}Use the search function to quickly find items.
@@ -13270,7 +13270,7 @@ ETC_20150717_013268	{memo X}button allows you to restart the quest immediately. 
 ETC_20150717_013269	{memo X}Track a quest by marking the checkbox.
 ETC_20150717_013270	{memo X}Manage skills with skill points gained on level up.
 ETC_20150717_013271	{memo X}Press {img F3 40 40} to open your Skill window.
-ETC_20150717_013272	Learned skills will appear in your Quick Slots where you can change the keys to your own choice.
+ETC_20150717_013272	學習技能之後，技能就會出現在快捷鍵上，你隨時都可以變更技能的位置。
 ETC_20150717_013273	{memo X}Learn attributes by visiting the Class Master NPC of a specific Class.
 ETC_20150717_013274	{memo X}Learning attributes will cost Silver and time. {nl} {nl}
 ETC_20150717_013275	{memo X}You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning. 
@@ -13675,34 +13675,34 @@ ETC_20150729_013673	變異型魔物受到debuff不會睡著，等級提升
 ETC_20150729_013674	快速恢復能力
 ETC_20150729_013675	恢復能力上升。
 ETC_20150729_013676	可自由移動.
-ETC_20150729_013677	可以移動角色。{nl}{img arrowkey_up 40 40}{img arrowkey_down 40 40}{img arrowkey_left 40 40}{img arrowkey_right 40 40}
+ETC_20150729_013677	可以移動角色。{nl}{img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40}
 ETC_20150729_013678	手把操作時，按{img move_all 40 40}鍵 {img stic_L 40 40}可移動。
 ETC_20150729_013679	滑鼠操作時，點擊 {img mouseclick_left 40 40}角色可移動至目標地點。
-ETC_20150729_013680	滑鼠操作時，{img W 40 40}。 {img A 40 40}, {img S 40 40}。 {img D 40 40}可使用這些按鍵。
-ETC_20150729_013681	戰士系在連續按兩次方向鍵時，可以前衝。
-ETC_20150729_013682	再次點擊 {img F10 40 40} 鍵時，可再次檢視說明功能。
-ETC_20150729_013683	彈跳時可以躍過低矮障礙物，跳往高處。
+ETC_20150729_013680	滑鼠操作時 {img W 40 40} {img A 40 40} {img S 40 40} {img D 40 40}可使用這些按鍵。
+ETC_20150729_013681	戰士系連續按兩次方向鍵可以進行衝刺。
+ETC_20150729_013682	按 {img F10 40 40} 鍵可以再次開啟說明列表。
+ETC_20150729_013683	跳躍時可以躍過低矮的障礙物，或跳往高處。
 ETC_20150729_013684	按 {img X 40 40} 鍵可以跳躍。
-ETC_20150729_013685	手把操作時，按 {img a_on_button 40 40} 鍵可以跳躍。
-ETC_20150729_013686	滑鼠操作時，按 {img space 40 40} 鍵可以使用。
+ETC_20150729_013685	手把操作時，按 {img a_on_button 40 40} 鍵可以進行跳躍。
+ETC_20150729_013686	滑鼠操作時，按 {img space 40 40} 鍵可以進行跳躍。
 ETC_20150729_013687	{img Z 40 40}鍵是角色基本攻擊按鍵。
-ETC_20150729_013688	滑鼠操作時，按 {img Z 40 40} 鍵 或對魔物 {img mouseclick_left 40 40} 可基本攻擊。{nl}{nl}手把操作時，按 {img x_on_button 40 40} 來攻擊。
+ETC_20150729_013688	滑鼠操作時，按 {img Z 40 40} 鍵或對怪物按 {img mouseclick_left 40 40} 鍵可進行基本攻擊。{nl}{nl}手把操作時，按 {img x_on_button 40 40} 鍵來進行基本攻擊。
 ETC_20150729_013689	按{img ctrl 40 40}鍵可以鎖定目標。
 ETC_20150729_013690	按{img Alt 40 40}鍵可使移動中的角色立即停止動作。
 ETC_20150729_013691	按{img space 40 40}鍵可以與目標互動。
-ETC_20150729_013692	地圖上可確認現在自身位置和重要的區域。
-ETC_20150729_013693	按{img M 40 40}鍵可確認目前所在的位置。
+ETC_20150729_013692	地圖上可確認自身位置和顯示重要的區域。
+ETC_20150729_013693	按 {img M 40 40} 鍵可確認目前所在的位置。
 ETC_20150729_013694	{nl} {nl}小地圖上會顯示資訊與 NPC 的位置。{nl} {nl}{img minimap_leader 25 25}：你目前的位置。{nl}{img minimap_1_MAIN 25 25}：現在進行中的任務目標。{nl}{img minimap_0 25 25}：重要 NPC 的位置。{nl}{img minimap_goddess 25 25}：女神像的位置，可以進行傳送。{nl}{img minimap_board 25 25}：顯示各種情報的告示板。{nl}{img minimap_portal 25 25}：可通往其他地區的通路。{nl} {nl}
-ETC_20150729_013695	按{img N 40 40}鍵可檢視世界地圖。
-ETC_20150729_013696	只有探索過得區域會顯示在世界地圖上，反之亦然。
-ETC_20150729_013697	將滑鼠移到已探索的區域上，就能看到完整地圖。
+ETC_20150729_013695	按 {img N 40 40} 鍵開啟世界地圖
+ETC_20150729_013696	只有曾經探索過的區域會顯示在世界地圖上，反之亦然。
+ETC_20150729_013697	將滑鼠移到已探索的區域上，就能夠看到該區域完整的地圖。
 ETC_20150729_013698	使用升級所獲得的素質點數來提升角色的能力。
-ETC_20150729_013699	按 {img F1 40 40} 打開角色資訊視窗來檢視你的角色資訊。
+ETC_20150729_013699	按 {img F1 40 40} 鍵開啟角色資訊視窗來查看你的角色資訊。
 ETC_20150729_013700	{memo X}Use STR/CON/INT/SPR/DEX to make your character stronger. {nl} {nl} STR : Increase in Physical Attack and Critical Attack {nl} {nl} CON : Increase in max HP, HP Recovery, Block, Critical Resistance and Max Inventory Weight {nl} {nl} INT : Increase in Magic Attack{nl}{nl} SPR : Increase in Max SP and SP Recovery, Magic Defense and Block Penetration {nl} {nl} DEX : Increase in Accuracy, Evasion and Critical Chance {nl}
-ETC_20150729_013701	你可以在畫面下方預覽升級素質後的效果。
-ETC_20150729_013702	職業等級成長時獲得的技能點可提升角色的技能等級。
-ETC_20150729_013703	按{img F3 40 40}鍵可打開技能視窗。
-ETC_20150729_013704	{img skillup 40 40}點擊此鍵可提升技能等級。
+ETC_20150729_013701	你可以在下方看到素質提升後的效果預覽。
+ETC_20150729_013702	你可以在技能視窗中管理你的技能。
+ETC_20150729_013703	按 {img F3 40 40} 鍵開啟技能視窗。
+ETC_20150729_013704	按 {img skillup 40 40} 鍵提升你的技能等級
 ETC_20150729_013705	想讓角色便得更強，就去找導師 NPC 學習特性吧。
 ETC_20150729_013706	可從各職業導師 NPC 學習特性技能。
 ETC_20150729_013707	學習部分職業特性需要消耗銀幣.{nl}此外，學習部分職業特性時需要消耗一些時間.
@@ -13712,12 +13712,12 @@ ETC_20150729_013710	You can advance your class when you reach Class Lv 15。
 ETC_20150729_013711	After selecting a class to advance to, you will receive an advancement quest from the Class Master.
 ETC_20150729_013712	Once you begin the advancement quest, you cannot change your class until the next advancement.
 ETC_20150729_013713	Complete the quest to advance.
-ETC_20150729_013714	You can check your items, 裝備, funds, and weight in the inventory that the character has.
-ETC_20150729_013715	Press {img F2 40 40} to open the Inventory window.
-ETC_20150729_013716	The upper part of the Inventory window displays equipped items on the character.
-ETC_20150729_013717	Items in the inventory are sorted by item types. {nl}Click Sort to sort the inventory by name.
-ETC_20150729_013718	{nl}{nl}Use the search function to find specific items{nl} in your inventory.
-ETC_20150729_013719	{nl}{nl}The lower part displays the total carry weight of your items, funds, and iCoins.
+ETC_20150729_013714	你可以在背包查看道具、裝備、銀幣和負重。
+ETC_20150729_013715	按 {img F2 40 40} 鍵開啟背包視窗。
+ETC_20150729_013716	上半部顯示角色穿著的裝備道具。
+ETC_20150729_013717	道具可以按照指定的排序類型來排序。{nl}按下排序方式就可以選擇排序的類型。
+ETC_20150729_013718	{nl} {nl} {nl}可以透過搜尋功能來尋找指定的道具。
+ETC_20150729_013719	{nl} {nl}最下方顯示角色的負重、銀幣和iCoins。
 ETC_20150729_013720	Available quests can be found in the Quest window.
 ETC_20150729_013721	Press {img F5 40 40} to view available quests {nl}or quests that are in progress.
 ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing the 
@@ -13742,7 +13742,7 @@ ETC_20150729_013740	{memo X}You can freely set up a party name, description, Ite
 ETC_20150729_013741	{memo X}You can check the list of Public Parties on the right side of the screen.
 ETC_20150729_013742	View information of monsters nearby or when you face the monster.
 ETC_20150729_013743	Each monster has an element and defense property.
-ETC_20150729_013744	你可以恢復你消耗的 HP/SP/耐力。
+ETC_20150729_013744	增加HP、SP和耐力的恢復速度。
 ETC_20150729_013745	[休息模式] 按 {img Insert 40 40} 來休息。
 ETC_20150729_013746	在休息模式點燃篝火可以加快恢復速度。
 ETC_20150729_013747	[篝火] 在休息模式點燃篝火可以加快恢復速度。
@@ -13966,7 +13966,7 @@ ETC_20150729_013964	This monster has a detonator!
 ETC_20150729_013965	{memo X}The terminal rejected accesss!
 ETC_20150729_013966	{memo X}You will lost your energy to the terminal for 1 minute!{nl}Sitrigaila could eliminate all the evil energy!
 ETC_20150729_013967	{memo X}Obtained all core required.
-ETC_20150729_013968	{@st59}增加最大SP、SP 回復量、格擋穿透和魔法防禦{/}
+ETC_20150729_013968	{@st59}增加最大SP、SP 恢復量、格擋穿透和魔法防禦{/}
 ETC_20150729_013969	You hear the sounds of working machinery!{nl}Go to District 5, and look for lubricant.
 ETC_20150729_013970	Asking about the eternal life
 ETC_20150729_013971	You've dedicated the tendon of Big 希奧羊怪 as an offering
@@ -14039,7 +14039,7 @@ ETC_20150730_014037	Damages will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	You can make your character stronger by allocating Status Points into STR/CON/INT/SPR/DEX.{nl} {nl} - STR : Increase in Physical Attack, Critical Attack and Max Weight{nl} {nl}- CON : Increase in Max HP, HP Recovery, Block, Critical Resistance and Max Weight{nl} {nl}- INT : Increase in Magic Attack, HP Recovery of Spells and Potions{nl} {nl}- SPR : Increase in Max SP, SP Recovery, Magic Defense, Block Penetration and Resistance to harmful effects{nl} {nl}- DEX : Increase in Accuracy, Evasion and Critical Rate{nl}
+ETC_20150730_014041	透過將素質點數分配到STR/CON/INT/SPR/DEX，可以讓你的角色變得更強大。{nl} {nl} - STR : 增加物理傷害、暴擊傷害和最大負重{nl} {nl}- CON : 增加最大HP、HP 恢復量、格擋能力、暴擊抗性和最大負重{nl} {nl}- INT : 增加魔法傷害、技能或藥水的HP 恢復量{nl} {nl}- SPR : 增加最大SP、SP 恢復量、格擋穿透、魔法防禦和減益效果的抗性{nl} {nl}- DEX : 增加命中率、閃避率和暴擊率{nl}
 ETC_20150730_014042	{memo X}DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	{memo X}Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	{memo X}DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
@@ -15817,10 +15817,10 @@ ETC_20151016_015815	炮擊士 進階
 ETC_20151016_015816	火槍手 進階
 ETC_20151016_015817	瘟疫醫生 進階
 ETC_20151016_015818	卡巴拉 進階
-ETC_20151016_015819	按等級
-ETC_20151016_015820	按重量
-ETC_20151016_015821	按價格
-ETC_20151016_015822	按名稱
+ETC_20151016_015819	按照等級
+ETC_20151016_015820	按照重量
+ETC_20151016_015821	按照價格
+ETC_20151016_015822	按照名稱
 ETC_20151016_015823	隱藏的柱子.
 ETC_20151016_015824	Kedora 商人的增益！
 ETC_20151016_015825	已經探測到了
