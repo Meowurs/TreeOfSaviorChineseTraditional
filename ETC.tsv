@@ -14039,7 +14039,7 @@ ETC_20150730_014037	Damages will be shared with the connected objects.
 ETC_20150730_014038	Cast a link on a party member and share the buff effects.
 ETC_20150730_014039	The stats of the connected objects will be shared.
 ETC_20150730_014040	You are in a status to receive the damages instead.
-ETC_20150730_014041	透過將素質點數分配到STR/CON/INT/SPR/DEX，可以讓你的角色變得更強大。{nl} {nl} - STR : 增加物理傷害、暴擊傷害和最大負重{nl} {nl}- CON : 增加最大HP、HP 恢復量、格擋能力、暴擊抗性和最大負重{nl} {nl}- INT : 增加魔法傷害、技能或藥水的HP 恢復量{nl} {nl}- SPR : 增加最大SP、SP 恢復量、格擋穿透、魔法防禦和減益效果的抗性{nl} {nl}- DEX : 增加命中率、閃避率和暴擊率{nl}
+ETC_20150730_014041	透過將素質點數分配到STR/CON/INT/SPR/DEX，可以讓你的角色變得更強大。{nl} {nl} - STR：增加物理傷害、暴擊傷害和最大負重{nl} {nl}- CON：增加最大HP、HP 恢復量、格擋能力、暴擊抗性和最大負重{nl} {nl}- INT：增加魔法傷害、技能或藥水的HP 恢復量{nl} {nl}- SPR：增加最大SP、SP 恢復量、格擋穿透、魔法防禦和減益效果的抗性{nl} {nl}- DEX：增加命中率、閃避率和暴擊率{nl}
 ETC_20150730_014042	{memo X}DoTimeAction:Looking for parts:2:SITGROPE:None
 ETC_20150730_014043	{memo X}Property:1/PropertyAdd:1/EffectNPC:Local:F_pc_making_finish_white:1:TOP/Notice:NOTICE_Dm_GetItem:You've found the parts!:5/NPCDead/GiveItem:FLASH_29_1_SQ_040_ITEM_1:1
 ETC_20150730_014044	{memo X}DoTimeAction:Collecting petrification liquid powder:2:GROPE:None
