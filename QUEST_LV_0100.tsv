@@ -530,8 +530,8 @@ QUEST_LV_0100_20150317_000529	Soldiers are reporting that other monsters are app
 QUEST_LV_0100_20150317_000530	Those silly things keep coming to us.{nl}Now may be the only chance we have to go and get Sparnas.{nl}Tell me when you are ready.
 QUEST_LV_0100_20150317_000531	They are just creating so many problems.{nl}They even got their hands on the supplies, I will not feel enough even if I hit him with a bat in the middle of the market.
 QUEST_LV_0100_20150317_000532	What? Tutu?{nl}I don't have time to think about those insignificant critters.
-QUEST_LV_0100_20150317_000533	每當你升級的時候，你可以選擇一種素質來提升，讓你變得更強大。 {nl} 你現在就想試試看嗎?
-QUEST_LV_0100_20150317_000534	記住，不管你心中是怎麼想的，每一種素質都很重要。 {nl} 這不是件容易決定的事情。
+QUEST_LV_0100_20150317_000533	每當你升級的時候，你可以選擇一種素質來提升，讓你變得更強大。{nl}你現在就想試試看嗎？
+QUEST_LV_0100_20150317_000534	記住，不管你心中是怎麼想的，每一種素質都很重要。{nl}這不是件容易決定的事情。
 QUEST_LV_0100_20150317_000535	{memo X}Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	$阿拉斯 is at the center area of the woods. {nl} But there has been a tremendous increase in monsters around here, so I suggest you don't go in.
 QUEST_LV_0100_20150317_000537	Somehow Klaipeda has managed to hold back the monsters for now,{nl}but we have to find and remove the cause or we won't hold out for long.{nl}
@@ -8012,7 +8012,7 @@ QUEST_LV_0100_20150908_008011	$Defeat the monsters around the source of corrupti
 QUEST_LV_0100_20150908_008012	$Merregina has appeared!
 QUEST_LV_0100_20150908_008013	$Opening the chest with the key
 QUEST_LV_0100_20150908_008014	$Talk to Knight Commander 烏斯加 after going back to Klaipeda
-QUEST_LV_0100_20150908_008015	按下 F1 鍵來查看角色資訊
+QUEST_LV_0100_20150908_008015	按 F1 鍵來查看角色資訊
 QUEST_LV_0100_20150908_008016	$You've read the first tombstone of Lydia Schaffen{nl}Read the remaining tombstones!
 QUEST_LV_0100_20150908_008017	{memo X}
 QUEST_LV_0100_20150908_008018	$Defeat Chapparitions that are disturbing when you are checking the tombstone{nl}Check what was written on the last tombstone of Lydia Schaffen
