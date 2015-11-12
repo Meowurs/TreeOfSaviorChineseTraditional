@@ -7,8 +7,8 @@ ETC_20150317_000005	紅色 凱帕
 ETC_20150317_000006	大多數人都沒有意識到，紅色 凱帕其實與凱帕頗為相似。
 ETC_20150317_000007	劇毒 凱帕
 ETC_20150317_000008	魔物
-ETC_20150317_000009	哈米球
-ETC_20150317_000010	儘管他的皮膚挺強韌的但花米球還是相當弱的魔物。
+ETC_20150317_000009	哈米
+ETC_20150317_000010	儘管他的皮膚挺強韌的但哈米還是相當弱的魔物。
 ETC_20150317_000011	奇連西
 ETC_20150317_000012	原本只是普通的植物，後來演變成現在這副德性。
 ETC_20150317_000013	變異 奇連西
@@ -171,7 +171,7 @@ ETC_20150317_000169	博拉波
 ETC_20150317_000170	Bramble Ego
 ETC_20150317_000171	Willow
 ETC_20150317_000172	Willowna
-ETC_20150317_000173	花米球
+ETC_20150317_000173	哈娜米
 ETC_20150317_000174	死亡時身上的花會瞬間凋落。
 ETC_20150317_000175	卓柏卡布拉
 ETC_20150317_000176	聖樹之日後突然大量繁衍，往往會與人類爭奪領地。
@@ -521,7 +521,7 @@ ETC_20150317_000519	A small monster that is part turtle and part mineral. It pre
 ETC_20150317_000520	墓穴蛆蟲
 ETC_20150317_000521	蛆蟲卵
 ETC_20150317_000522	綠色 蛆蟲
-ETC_20150317_000523	Yellow of Entry
+ETC_20150317_000523	黃色 of Entry
 ETC_20150317_000524	綠色 蛆蟲卵
 ETC_20150317_000525	黃色 蛆蟲卵
 ETC_20150317_000526	卡斯維爾仙人掌
@@ -590,7 +590,7 @@ ETC_20150317_000588	愛勒姆草
 ETC_20150317_000589	It is said that they receive their powers from human souls because they gather toward the injured.
 ETC_20150317_000590	綠色 愛勒姆草
 ETC_20150317_000591	This type of 愛勒姆草 is toxic.
-ETC_20150317_000592	Yellow 愛勒姆草
+ETC_20150317_000592	黃色 愛勒姆草
 ETC_20150317_000593	蛙人巫醫
 ETC_20150317_000594	蛙人 variant. Slight differences in the mutation process differentiates the variety of Merogs.
 ETC_20150317_000595	尖刺蛙人
@@ -603,14 +603,14 @@ ETC_20150317_000601	突變愛勒姆草
 ETC_20150317_000602	It is both filthy in nature and surly in its appearance.
 ETC_20150317_000603	愛勒姆蛙
 ETC_20150317_000604	It is fierce against other monsters and humans, more so especially with insect type monsters.
-ETC_20150317_000605	怨靈蟾蜍
+ETC_20150317_000605	角蜍
 ETC_20150317_000606	Amphibians that have branched out and evolved to be able to hunt in arid areas, travelers should be wary of them.
 ETC_20150317_000607	雪怪
 ETC_20150317_000608	A monster with a habit of baiting and attacking humans.
 ETC_20150317_000609	蜥蜴人
 ETC_20150317_000610	You can tell the origin of this beast just by its name or appearance.
 ETC_20150317_000611	小蛋
-ETC_20150317_000612	Tama is a monster originating from the spores of some plants. It is unclear whether it will still grow from its current form.
+ETC_20150317_000612	小蛋 is a monster originating from the spores of some plants. It is unclear whether it will still grow from its current form.
 ETC_20150317_000613	凱帕莉
 ETC_20150317_000614	凱帕莉 are not related with the Kepa, and are instead akin to animals.
 ETC_20150317_000615	科多摩爾
@@ -694,7 +694,7 @@ ETC_20150317_000692	Igniting Jack O'Lantern
 ETC_20150317_000693	Fluttering Mothstem
 ETC_20150317_000694	Noisy Moldyhorn
 ETC_20150317_000695	Penetrating Mantiken
-ETC_20150317_000696	Stone Thorned Moyabruka
+ETC_20150317_000696	Stone Thorned 摩亞惡獸
 ETC_20150317_000697	Crazy Colimencia
 ETC_20150317_000698	Wedge Hand Chafer
 ETC_20150317_000699	Blasphemous Deathweaver
@@ -719,13 +719,13 @@ ETC_20150317_000717	When the demons captured the Mage Tower, this doll was great
 ETC_20150317_000718	{memo X}巨型 史萊姆
 ETC_20150317_000719	The slime is an organism in the demon realm. Its population exploded after the time when the plant Geant, especially around the Mage Tower.
 ETC_20150317_000720	綠色 巨型 史萊姆
-ETC_20150317_000721	Yellow 巨型 史萊姆
+ETC_20150317_000721	黃色 巨型 史萊姆
 ETC_20150317_000722	黑色 巨型 史萊姆
-ETC_20150317_000723	Fire 哥雷姆
-ETC_20150317_000724	Warmed Up Gazing 哥雷姆
+ETC_20150317_000723	火燄哥雷姆
+ETC_20150317_000724	Warmed Up 凝視哥雷姆
 ETC_20150317_000725	Noble Tomb Lord
 ETC_20150317_000726	藍色 佐恩石像
-ETC_20150317_000727	紅色 老年Hook
+ETC_20150317_000727	紅色 老年虎克
 ETC_20150317_000728	One of the demon's lower level creature.They possess a little bit of intelligence.
 ETC_20150317_000729	Turret
 ETC_20150317_000730	Golden Anvil
@@ -782,9 +782,9 @@ ETC_20150317_000780	The demons have tamed Denden and uses it for their means.
 ETC_20150317_000781	Doyor
 ETC_20150317_000782	If a moving poisonous mushroom makes you anxious, consider Doyor as an example.
 ETC_20150317_000783	Tipio
-ETC_20150317_000784	The yellow grass on its body looks supple. But if you touch it, it can be quite painful 。
-ETC_20150317_000785	Rondo
-ETC_20150317_000786	The Rondo is not an animal found in our world, rather it is an animal that crossed from the demon realm.
+ETC_20150317_000784	The 黃色 grass on its body looks supple. But if you touch it, it can be quite painful 。
+ETC_20150317_000785	轉輪怪
+ETC_20150317_000786	The 轉輪怪 is not an animal found in our world, rather it is an animal that crossed from the demon realm.
 ETC_20150317_000787	Terra Imp
 ETC_20150317_000788	The Terra Imp is quite mischievous. One should be aware of their belongings, as they might steal them.
 ETC_20150317_000789	失語者 長槍兵
@@ -803,16 +803,16 @@ ETC_20150317_000801	Spots 失語者
 ETC_20150317_000802	失語者 戰士
 ETC_20150317_000803	A 失語者 with excellent fighting skills and is one of the strongest subspecies in the forest.
 ETC_20150317_000804	失語者 with Shovel
-ETC_20150317_000805	Unicorn
+ETC_20150317_000805	獨角獸
 ETC_20150317_000806	Dullahan
 ETC_20150317_000807	Nuodai
 ETC_20150317_000808	Centaurus
 ETC_20150317_000809	Velpede
 ETC_20150317_000810	Mallet Wyvern
 ETC_20150317_000811	Turtai
-ETC_20150317_000812	Canceril
-ETC_20150317_000813	Crabil
-ETC_20150317_000814	Glackuman
+ETC_20150317_000812	天蟹
+ETC_20150317_000813	河蟹
+ETC_20150317_000814	古萊堤曼
 ETC_20150317_000815	Belian
 ETC_20150317_000816	莫吉
 ETC_20150317_000817	Plokste
@@ -855,7 +855,7 @@ ETC_20150317_000853	Alchemist Tincture
 ETC_20150317_000854	豬籠草
 ETC_20150317_000855	Seedmia
 ETC_20150317_000856	The Seedmia are very troublesome as they are able to shoot seeds over exceptionally long distances.
-ETC_20150317_000857	Firent
+ETC_20150317_000857	火木
 ETC_20150317_000858	A moving tree monster that appeared after the Great Plant Cataclysm, it was named after its discoverer.
 ETC_20150317_000859	Galok
 ETC_20150317_000860	Galok is a monster who command workers in the demon realm.
@@ -952,7 +952,7 @@ ETC_20150317_000950	瓦卡麗涅 雕像 D
 ETC_20150317_000951	瓦卡麗涅 雕像 E
 ETC_20150317_000952	Romuva D
 ETC_20150317_000953	Romuva E
-ETC_20150317_000954	Mission Gazing 哥雷姆
+ETC_20150317_000954	Mission 凝視哥雷姆
 ETC_20150317_000955	Mission Gorgon
 ETC_20150317_000956	{memo X}Mission Necroventer
 ETC_20150317_000957	{memo X}Mission Devilglove
@@ -999,7 +999,7 @@ ETC_20150317_000997	希奧羊怪 薩滿
 ETC_20150317_000998	希奧羊怪 Lagoon
 ETC_20150317_000999	希奧羊怪 戰士
 ETC_20150317_001000	Summon of Glass Mole
-ETC_20150317_001001	Yognome
+ETC_20150317_001001	地精
 ETC_20150317_001002	It is speculated whether this underground spirit has been deformed and corrupted.
 ETC_20150317_001003	Siaulav
 ETC_20150317_001004	Specter Monarch's Summon Post
@@ -1010,7 +1010,7 @@ ETC_20150317_001008	Corroded Stone Orca
 ETC_20150317_001009	大型 希奧羊怪
 ETC_20150317_001010	Siaulogre
 ETC_20150317_001011	Pendinmire
-ETC_20150317_001012	{memo X}Orange Infrorocktor
+ETC_20150317_001012	{memo X}橘色 Infrorocktor
 ETC_20150317_001013	大型 黑色蘑菇人
 ETC_20150317_001014	黑色 Desmodus
 ETC_20150317_001015	黑色 Wood 哥布林
@@ -1031,13 +1031,13 @@ ETC_20150317_001029	Sword Pell (Poison)
 ETC_20150317_001030	Sword Pell (Lightning)
 ETC_20150317_001031	Sword Pell (Earth)
 ETC_20150317_001032	Creepy Chapparition
-ETC_20150317_001033	Bleak 綠色 木靈
+ETC_20150317_001033	綠色 蒼涼木靈
 ETC_20150317_001034	巨型 失語者 長槍兵
 ETC_20150317_001035	Preparing.
 ETC_20150317_001036	惡魔 撕裂者
 ETC_20150317_001037	失語者 長槍兵
 ETC_20150317_001038	Hummingbird Sting
-ETC_20150317_001039	失語者 Totem
+ETC_20150317_001039	失語者圖騰
 ETC_20150317_001040	Rodelin
 ETC_20150317_001041	Earth Tower Gate
 ETC_20150317_001042	Gate
@@ -1045,7 +1045,7 @@ ETC_20150317_001043	Cafrisun
 ETC_20150317_001044	Eagle
 ETC_20150317_001045	Sheep Dog
 ETC_20150317_001046	紅色 走路樹
-ETC_20150317_001047	紅色 Rondo
+ETC_20150317_001047	紅色 轉輪怪
 ETC_20150317_001048	紅色 Rubabos
 ETC_20150317_001049	Rusty 老年Hook
 ETC_20150317_001050	食肉植物
@@ -1058,84 +1058,84 @@ ETC_20150317_001056	Addled Rodelero
 ETC_20150317_001057	Addled Monk
 ETC_20150317_001058	Addled Barbarian
 ETC_20150317_001059	Ritheris
-ETC_20150317_001060	Yellow Gazing 哥雷姆
-ETC_20150317_001061	Yellow Firent
-ETC_20150317_001062	Yellow Egnome
-ETC_20150317_001063	Yellow Yognome
-ETC_20150317_001064	Yellow 狐猴
-ETC_20150317_001065	Yellow 母狐猴
-ETC_20150317_001066	Yellow Moya
-ETC_20150317_001067	Yellow Moyabu
-ETC_20150317_001068	Yellow Glackuman
-ETC_20150317_001069	Yellow Moyabruka
-ETC_20150317_001070	白色 Desmodus
-ETC_20150317_001071	白色 Groll
-ETC_20150317_001072	綠色 Groll
-ETC_20150317_001073	白色 Dandel
-ETC_20150317_001074	Orange Dandel
-ETC_20150317_001075	白色 Geppetto
-ETC_20150317_001076	白色 Pino
+ETC_20150317_001060	黃色 凝視哥雷姆
+ETC_20150317_001061	黃色 火木
+ETC_20150317_001062	黃色 業地精
+ETC_20150317_001063	黃色 祐地精
+ETC_20150317_001064	黃色 狐猴
+ETC_20150317_001065	黃色 母狐猴
+ETC_20150317_001066	黃色 摩亞
+ETC_20150317_001067	黃色 摩亞布
+ETC_20150317_001068	黃色 古萊堤曼
+ETC_20150317_001069	黃色 摩亞惡獸
+ETC_20150317_001070	白色 惡魔蝙蝠
+ETC_20150317_001071	白色 角蜍
+ETC_20150317_001072	綠色 角蜍
+ETC_20150317_001073	白色 丹德利
+ETC_20150317_001074	橘色 丹德利
+ETC_20150317_001075	白色 傑佩托樹妖
+ETC_20150317_001076	白色 皮諾樹妖
 ETC_20150317_001077	白色 歌劇惡魔
-ETC_20150317_001078	白色 Beetow
-ETC_20150317_001079	白色 Mentiwood
-ETC_20150317_001080	Orange Harpeia
-ETC_20150317_001081	綠色 Root Mole
+ETC_20150317_001078	白色 比多
+ETC_20150317_001079	白色 奇異木
+ETC_20150317_001080	橘色 哈佩拉
+ETC_20150317_001081	綠色 樹根鼴鼠
 ETC_20150317_001082	綠色 蠟燭蜘蛛
-ETC_20150317_001083	白色 Stumpy Tree
-ETC_20150317_001084	綠色 Minotaur
-ETC_20150317_001085	白色 Harpeia
-ETC_20150317_001086	白色 Sequoia
-ETC_20150317_001087	綠色 Carcashu
-ETC_20150317_001088	Orange Upent
-ETC_20150317_001089	老年Orange Hook
-ETC_20150317_001090	Orange Crabil
-ETC_20150317_001091	Orange Canceril
-ETC_20150317_001092	Orange 蛙人 Shaman
-ETC_20150317_001093	綠色 蛙人 Poison Stinger
-ETC_20150317_001094	Orange Hamming
+ETC_20150317_001083	白色 矮樹精
+ETC_20150317_001084	綠色 米諾陶諾斯
+ETC_20150317_001085	白色 哈佩拉
+ETC_20150317_001086	白色 巨杉怪
+ETC_20150317_001087	綠色 卡卡樹
+ETC_20150317_001088	橘色 Upent
+ETC_20150317_001089	橘色 老年虎克
+ETC_20150317_001090	橘色 河蟹
+ETC_20150317_001091	橘色 天蟹
+ETC_20150317_001092	橘色 蛙人薩滿
+ETC_20150317_001093	綠色 毒刺蛙人
+ETC_20150317_001094	橘色 哈米
 ETC_20150317_001095	橙色 毒蠅傘
-ETC_20150317_001096	Orange Stone Whale
-ETC_20150317_001097	Orange Lizardman
-ETC_20150317_001098	Orange Tama
-ETC_20150317_001099	Pink Chupaluka
-ETC_20150317_001100	Pink Chupacabra
-ETC_20150317_001101	Orange Kowak
-ETC_20150317_001102	Orange Rondo
-ETC_20150317_001103	Orange Stumpy Tree
-ETC_20150317_001104	Orange 希奧羊怪 Lagoon
-ETC_20150317_001105	Orange Big 希奧羊怪
-ETC_20150317_001106	Orange Siaulogre
-ETC_20150317_001107	Orange Siaulav
-ETC_20150317_001108	Orange Pendinmire
-ETC_20150317_001109	Brown Sakmoli
-ETC_20150317_001110	Yellow 編織者
-ETC_20150317_001111	Yellow Throneweaver
-ETC_20150317_001112	藍色 Velwriggler
+ETC_20150317_001096	橘色 石鯨
+ETC_20150317_001097	橘色 蜥蜴人
+ETC_20150317_001098	橘色 小蛋
+ETC_20150317_001099	粉色 卓柏狼
+ETC_20150317_001100	粉色 卓柏卡布拉
+ETC_20150317_001101	橘色 Kowak
+ETC_20150317_001102	橘色 轉輪怪
+ETC_20150317_001103	橘色 矮樹精
+ETC_20150317_001104	橘色 希奧羊怪 Lagoon
+ETC_20150317_001105	橘色 大型希奧羊怪
+ETC_20150317_001106	橘色 希奧土著
+ETC_20150317_001107	橘色 Siaulav
+ETC_20150317_001108	橘色 Pendinmire
+ETC_20150317_001109	棕色 南瓜燈怪
+ETC_20150317_001110	黃色 編織者
+ETC_20150317_001111	黃色 王座編織者
+ETC_20150317_001112	藍色 維來格
 ETC_20150317_001113	藍色 斯托里特
-ETC_20150317_001114	紅色 Infro Hoglan
+ETC_20150317_001114	紅色 紅光哈戈隆
 ETC_20150317_001115	{memo X}紅色 Infroblood
-ETC_20150317_001116	Orange 希奧羊怪 Shaman
+ETC_20150317_001116	橘色 希奧羊怪薩滿
 ETC_20150317_001117	Gargoyle
 ETC_20150317_001118	哥雷姆 for Video Cut
 ETC_20150317_001119	Pure Loftlem
 ETC_20150317_001120	{memo X}綠色 Luxordon
-ETC_20150317_001121	Orange 希奧羊怪 戰士
+ETC_20150317_001121	橘色 希奧羊怪戰士
 ETC_20150317_001122	大型紅色 凱帕
 ETC_20150317_001123	Scale Zombie
 ETC_20150317_001124	{memo X}黑色 Colifly
 ETC_20150317_001125	{memo X}Dark 藍色 Colifly
-ETC_20150317_001126	{memo X}Yellow Colifly
+ETC_20150317_001126	{memo X}黃色 Colifly
 ETC_20150317_001127	Livid Kepo
-ETC_20150317_001128	Yellow Kepo
+ETC_20150317_001128	黃色 Kepo
 ETC_20150317_001129	Keposeed
 ETC_20150317_001130	Lomor
 ETC_20150317_001131	Kepo
 ETC_20150317_001132	Colifly
-ETC_20150317_001133	Geli Shaman Doll
-ETC_20150317_001134	Nuaele
+ETC_20150317_001133	憎惡巫毒娃娃
+ETC_20150317_001134	紐愛萊
 ETC_20150317_001135	Rumbufus
 ETC_20150317_001136	Progola
-ETC_20150317_001137	Yeti
+ETC_20150317_001137	雪怪
 ETC_20150317_001138	Dirty Wall
 ETC_20150317_001139	Tetraox
 ETC_20150317_001140	Test Zone
@@ -3521,7 +3521,7 @@ ETC_20150317_003519	You cannot enter yet!
 ETC_20150317_003520	Used the Unseal Scroll!
 ETC_20150317_003521	You need to start [The Alchemist of the Mine] to pass through
 ETC_20150317_003522	[Revelation of the Goddess] must be completed to pass through
-ETC_20150317_003523	Stone 傀儡
+ETC_20150317_003523	Stone 哥雷姆
 ETC_20150317_003524	檢視
 ETC_20150317_003525	Press the ????keys together to move upward diagonally
 ETC_20150317_003526	Move to next target point with the left mouse click
@@ -3532,9 +3532,9 @@ ETC_20150317_003530	Get rid of the Kepas charging in!
 ETC_20150317_003531	Get rid of the Chinencys!
 ETC_20150317_003532	Defeat the Chinencys!
 ETC_20150317_003533	Get rid of the Hanamings!
-ETC_20150317_003533	除掉 哈那米！
+ETC_20150317_003533	除掉 哈娜米！
 ETC_20150317_003535	請除掉 大型 凱帕!
-ETC_20150317_003536	Defeat the sealed 傀儡!
+ETC_20150317_003536	Defeat the sealed 哥雷姆!
 ETC_20150317_003537	Get rid of the Kepa blocking the road!
 ETC_20150317_003538	詢問關於女神的夢
 ETC_20150317_003539	{memo X}Ask about the story
@@ -3554,7 +3554,7 @@ ETC_20150317_003552	CAUTION! Sunflower Popolion infested area
 ETC_20150317_003553	Guild commission: 希奧利艾 East Branch {nl} Diverse requests, high rewards guaranteed
 ETC_20150317_003554	30m until West Forest Camp
 ETC_20150317_003555	10m until West Forest Camp
-ETC_20150317_003556	CAUTION! 傀儡s! {nl} Cannot enter without permission
+ETC_20150317_003556	CAUTION! 哥雷姆s! {nl} Cannot enter without permission
 ETC_20150317_003557	To Klaipeda >
 ETC_20150317_003558	Running for a shortcut
 ETC_20150317_003559	Show directions to Klaipeda
@@ -3979,7 +3979,7 @@ ETC_20150317_003977	{memo X}This can only be used inside the Crystal Mine
 ETC_20150317_003978	Level of antidote is lower!
 ETC_20150317_003979	It has not been addicted to poison
 ETC_20150317_003980	Applying Spell disturbance
-ETC_20150317_003981	None 傀儡
+ETC_20150317_003981	None 哥雷姆
 ETC_20150317_003982	Available in front of the burning bush!
 ETC_20150317_003983	Purified the body fluid of Matsum
 ETC_20150317_003984	Can be used in front of the weak thorns!
@@ -4200,8 +4200,8 @@ ETC_20150317_004198	] 即將學完特性！ (1 分鐘)
 ETC_20150317_004199	分鐘 需要
 ETC_20150317_004200	秒 需要
 ETC_20150317_004201	{@st42b} 銀幣
-ETC_20150317_004202	{@st42_yellow}{s16} 最高等級！
-ETC_20150317_004203	{@st42_yellow}{s16} 學習特性中…
+ETC_20150317_004202	{@st42_黃色}{s16} 最高等級！
+ETC_20150317_004203	{@st42_黃色}{s16} 學習特性中…
 ETC_20150317_004204	You have obtained the [{Auto_1}] achievement.
 ETC_20150317_004205	Auction List
 ETC_20150317_004206	Cabinet
@@ -4395,7 +4395,7 @@ ETC_20150317_004393	{memo X}There's no socket or it's currently being used
 ETC_20150317_004394	Missing rank.
 ETC_20150317_004395	N/A
 ETC_20150317_004396	Obtained Attribute Point
-ETC_20150317_004397	The 傀儡 was weakened by the effect of storm magic.
+ETC_20150317_004397	The 哥雷姆 was weakened by the effect of storm magic.
 ETC_20150317_004398	Nothing happened.
 ETC_20150317_004399	Processed Purification Stones
 ETC_20150317_004400	{memo X}Took the Pino.
@@ -5109,7 +5109,7 @@ ETC_20150317_005107	Defeat Saltistter!
 ETC_20150317_005108	{memo X}Stop him!
 ETC_20150317_005109	{memo X}Don't get caught while passing
 ETC_20150317_005110	Shall we move then?
-ETC_20150317_005111	{memo X}Defeat Glackuman!
+ETC_20150317_005111	{memo X}Defeat 古萊堤曼!
 ETC_20150317_005112	寒冰術士的 魔法陣
 ETC_20150317_005113	{memo X}So just cool your head down from there
 ETC_20150317_005114	{memo X}What, what is it?
@@ -5161,7 +5161,7 @@ ETC_20150317_005159	We are too late!
 ETC_20150317_005160	Wounded Villager
 ETC_20150317_005161	Were you looking for me?…
 ETC_20150317_005162	Nugria 祭壇
-ETC_20150317_005163	Defeat Moyabruka!
+ETC_20150317_005163	Defeat 摩亞惡獸!
 ETC_20150317_005164	Corrupted Pond 1
 ETC_20150317_005165	The effect of the bomb slows down your movement {nl} when you approach the nearby Upents!
 ETC_20150317_005166	So you are still alive…
@@ -5171,7 +5171,7 @@ ETC_20150317_005169	Binding Magic Circle
 ETC_20150317_005170	Temple Border
 ETC_20150317_005171	Goddess Saule
 ETC_20150317_005172	Portal
-ETC_20150317_005173	Defeat 傀儡!
+ETC_20150317_005173	Defeat 哥雷姆!
 ETC_20150317_005174	Defeat Spanashon!
 ETC_20150317_005175	Defeat Yekub!
 ETC_20150317_005176	Patient
@@ -5316,7 +5316,7 @@ ETC_20150317_005314	Argh.. Help
 ETC_20150317_005315	Chapparition appeared and destroyed Kuzang's stuff!{nl}Defeat Chapparition!
 ETC_20150317_005316	Your luck ends here!!!!
 ETC_20150317_005317	Begone!!
-ETC_20150317_005318	{memo X}是..是傀儡!
+ETC_20150317_005318	{memo X}是..是哥雷姆!
 ETC_20150317_005319	阿拉斯
 ETC_20150317_005320	就是現在！
 ETC_20150317_005321	惡魔
@@ -5339,7 +5339,7 @@ ETC_20150317_005337	The Herbalist from a while ago?
 ETC_20150317_005338	史拜昂！！！！！
 ETC_20150317_005339	Feet
 ETC_20150317_005340	What do you mean?
-ETC_20150317_005341	For the moment being, from the 傀儡!
+ETC_20150317_005341	For the moment being, from the 哥雷姆!
 ETC_20150317_005342	Burning the dumble ball called on the angry Vubbes!
 ETC_20150317_005343	Austeja Follower
 ETC_20150317_005344	Goddess Austeja
@@ -5361,8 +5361,8 @@ ETC_20150317_005359	Prepare for battle!
 ETC_20150317_005360	It's a surprise attack!!
 ETC_20150317_005361	Refugee
 ETC_20150317_005362	It's... It's moving!!
-ETC_20150317_005363	It's..It's a 傀儡!!!
-ETC_20150317_005364	Why are there 傀儡 remains here?
+ETC_20150317_005363	It's..It's a 哥雷姆!!!
+ETC_20150317_005364	Why are there 哥雷姆 remains here?
 ETC_20150317_005365	Hey!!! It's dangerous!! Run!!
 ETC_20150317_005366	Is it dead?
 ETC_20150317_005367	Huh..!!
@@ -6181,8 +6181,8 @@ ETC_20150317_006179	Spray - 黑色
 ETC_20150317_006180	Combine items into different ones
 ETC_20150317_006181	Spray - 紅色
 ETC_20150317_006182	Spray - White
-ETC_20150317_006183	Spray - Orange
-ETC_20150317_006184	Spray - Yellow
+ETC_20150317_006183	Spray - 橘色
+ETC_20150317_006184	Spray - 黃色
 ETC_20150317_006185	Spray - 綠色
 ETC_20150317_006186	紅色 Gem
 ETC_20150317_006187	一種可以在地牢中找到的寶石。 {nl} 可以裝備在插槽中來強化裝備。 {nl} 蓄能後寶石將發揮更強大的力量。 右鍵將寶石嵌入在選擇的裝備中。
@@ -6871,7 +6871,7 @@ ETC_20150317_006869	Earth Tower 瓦布戰士
 ETC_20150317_006870	Earth Tower 瓦布追擊者
 ETC_20150317_006871	Earth Tower 瓦布火燄法師
 ETC_20150317_006872	Earth Tower 瓦布寒冰法師
-ETC_20150317_006873	Earth Tower Yognome
+ETC_20150317_006873	Earth Tower 地精
 ETC_20150317_006874	Earth Tower Desmodus
 ETC_20150317_006875	Earth Tower Rodelin
 ETC_20150317_006876	Earth Tower Egnome
@@ -7047,7 +7047,7 @@ ETC_20150317_007045	Test Wall 120
 ETC_20150317_007046	Test Wall 140
 ETC_20150317_007047	Test Wall 160
 ETC_20150317_007048	Kepa Wagon
-ETC_20150317_007049	Start Point of 傀儡
+ETC_20150317_007049	Start Point of 哥雷姆
 ETC_20150317_007050	Empty Wagon
 ETC_20150317_007051	Supplies Wagon
 ETC_20150317_007052	Holy Ark
@@ -7104,7 +7104,7 @@ ETC_20150317_007102	Dummy Pillar 2
 ETC_20150317_007103	Crystal Pillar
 ETC_20150317_007104	Revelation Slate
 ETC_20150317_007105	Stack of Skulls
-ETC_20150317_007106	灰色 傀儡 Rock
+ETC_20150317_007106	灰色 哥雷姆 Rock
 ETC_20150317_007107	Stack of Furniture
 ETC_20150317_007108	Block the Thorn Forest Raid 1 
 ETC_20150317_007109	Block the Thorn Forest Raid 2
@@ -7207,7 +7207,7 @@ ETC_20150317_007205	Sleeping Nepenthes
 ETC_20150317_007206	Central Pillar
 ETC_20150317_007207	Drums
 ETC_20150317_007208	Small Drums
-ETC_20150317_007209	Little 傀儡
+ETC_20150317_007209	Little 哥雷姆
 ETC_20150317_007210	Small Griba
 ETC_20150317_007211	Stone Slabs
 ETC_20150317_007212	Tavern Book
@@ -7808,7 +7808,7 @@ ETC_20150317_007806	Obtain the first tombstone piece
 ETC_20150317_007807	Collect Dusty Fragment
 ETC_20150317_007808	Ruklys re-evaluation (1)
 ETC_20150317_007809	Ruklys re-evaluation (2)
-ETC_20150317_007810	Sap a Stumpy Tree
+ETC_20150317_007810	Sap a 矮樹精
 ETC_20150317_007811	Obtain a buried ruins fragment
 ETC_20150317_007812	Lydia Schaffen is leaving zeolite (2)
 ETC_20150317_007813	Collect Long-Branched Tree Charcoal
@@ -8108,7 +8108,7 @@ ETC_20150317_008106	Wandering Vubbe Archer
 ETC_20150317_008107	with you
 ETC_20150317_008108	Killed. The summon army will be created.
 ETC_20150317_008109	I was defeated %s %s.
-ETC_20150317_008110	傀儡 AI
+ETC_20150317_008110	哥雷姆 AI
 ETC_20150317_008111	Brush
 ETC_20150317_008112	Scorpion_Test
 ETC_20150317_008113	N/A
@@ -9123,7 +9123,7 @@ ETC_20150317_009121	Jibyu Ridimed
 ETC_20150317_009122	invisible NPC
 ETC_20150317_009123	Jibyu Jigeuri
 ETC_20150317_009124	Ludas Puragi
-ETC_20150317_009125	Jibyu Sakmoli
+ETC_20150317_009125	Jibyu 南瓜燈怪
 ETC_20150317_009126	Desmodus modifed
 ETC_20150317_009127	Ludas Fisherman
 ETC_20150317_009128	Jibyu Bushipider
@@ -9154,7 +9154,7 @@ ETC_20150317_009152	Laimonas 1 Trigger
 ETC_20150317_009153	Laimonas 2 Trigger
 ETC_20150317_009154	Chase Trigger of Hanaming
 ETC_20150317_009155	{memo X}Unexpected Accident 1
-ETC_20150317_009156	傀儡 track
+ETC_20150317_009156	哥雷姆 track
 ETC_20150317_009157	Large Kepa Trigger
 ETC_20150317_009158	Wagon Manager
 ETC_20150317_009159	{memo X}葉蟲v2
@@ -9516,7 +9516,7 @@ ETC_20150317_009514	[鎖鏈法師 導師]{nl}　薇諾娜 恩德
 ETC_20150317_009515	Hidden trigger for 5th advancement Psychokino_Linker_Alchemist
 ETC_20150317_009516	Mine Manager Brinker
 ETC_20150317_009517	Start Trigger
-ETC_20150317_009518	Medium Boss 傀儡 Trigger
+ETC_20150317_009518	Medium Boss 哥雷姆 Trigger
 ETC_20150317_009519	[重裝步兵 導師]{nl}   阿迪達斯 貝勒
 ETC_20150317_009520	For Krivis' 4th advancement quest track
 ETC_20150317_009521	Rocktortuga Spawn Trigger
@@ -9525,8 +9525,8 @@ ETC_20150317_009523	Inner Catacombs
 ETC_20150317_009524	Catacombs Outskirts
 ETC_20150317_009525	IMC_Guard
 ETC_20150320_009526	{memo X}Status Points can be used in enhancing different abilities{nl}{nl}
-ETC_20150323_009527	Orange Popolion
-ETC_20150323_009528	Orange Gribaru
+ETC_20150323_009527	橘色 Popolion
+ETC_20150323_009528	橘色 Gribaru
 ETC_20150323_009529	Marionette
 ETC_20150323_009530	Fire Lord
 ETC_20150323_009531	Organ
@@ -9753,7 +9753,7 @@ ETC_20150323_009751	{memo X}Treasure Hunter : Beginner
 ETC_20150323_009752	{memo X}You've robbed 10 treasure chests.
 ETC_20150323_009753	{memo X}Treasure Hunter : Master
 ETC_20150323_009754	{memo X}You've robbed 100 treasure chests.
-ETC_20150323_009755	哈那米擊殺數
+ETC_20150323_009755	哈娜米擊殺數
 ETC_20150323_009756	
 ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
@@ -9988,7 +9988,7 @@ ETC_20150323_009986	{memo X}Look through the nearby crops
 ETC_20150323_009987	{memo X}Create a magic circle using the lumber that Arunas gave you
 ETC_20150323_009988	{memo X}Burn the baron's spell doll at the magic circle
 ETC_20150323_009989	Remove the Protection Stone with Strange Aura
-ETC_20150323_009990	{memo X}Put the Yellow Ellom's evil energy into the first empty bottle
+ETC_20150323_009990	{memo X}Put the 黃色 Ellom's evil energy into the first empty bottle
 ETC_20150323_009991	{memo X}Put the Keposeed's evil energy into the second empty bottle
 ETC_20150323_009992	{memo X}Bury the bottle containing evil energy to the right side of the magic circle
 ETC_20150323_009993	{memo X}Bury the bottle containing evil energy to the left side of the magic circle
@@ -10150,7 +10150,7 @@ ETC_20150323_010148	{memo X}Go meet Malus and get some new rice cake!
 ETC_20150323_010149	{memo X}The new rice cake is not spoiled! Bring it to Dalryus!
 ETC_20150323_010150	{memo X}The new rice cake is spoiled! Throw away the spoiled cake and go to Malus to get the new rice cake!
 ETC_20150323_010151	{memo X}Throwing away the spoiled rice cake
-ETC_20150323_010152	Orange Hamming that suddenly appeared
+ETC_20150323_010152	橘色 Hamming that suddenly appeared
 ETC_20150323_010153	{memo X}As you throw away the spoiled rice cake, orange Haming has appeared!
 ETC_20150323_010154	Faint for a while because of the foul odor!
 ETC_20150323_010155	Rubbing it off
@@ -10428,13 +10428,13 @@ ETC_20150401_010426	Earth 撕裂者
 ETC_20150401_010427	Earth Deadborns Cap
 ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Temple Shooter
-ETC_20150401_010430	Earth Canceril
+ETC_20150401_010430	Earth 天蟹
 ETC_20150401_010431	Earth Archon
 ETC_20150401_010432	Catacomb Candle Spider 
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long-Branched Tree
 ETC_20150401_010435	Catacomb 蘑菇人
-ETC_20150401_010436	Confined Firent
+ETC_20150401_010436	Confined 火木
 ETC_20150401_010437	Ashrong
 ETC_20150401_010438	Cornuts
 ETC_20150401_010439	Papayam
@@ -10454,7 +10454,7 @@ ETC_20150401_010452	Residence of the Fallen Legwyn Family
 ETC_20150401_010453	Secret Statue
 ETC_20150401_010454	Warehouse Farmer
 ETC_20150401_010455	{memo X}Attack and destroy the magic circle!
-ETC_20150401_010456	{memo X}Take kindling from the Orange Dandel to keep the fire alive!
+ETC_20150401_010456	{memo X}Take kindling from the 橘色 Dandel to keep the fire alive!
 ETC_20150401_010457	{memo X}What is this taste? 
 ETC_20150401_010458	The crops suddenly dies and turns dark!
 ETC_20150401_010459	Oh.. no…
@@ -10537,7 +10537,7 @@ ETC_20150401_010535	惡魔監獄 zone exit event
 ETC_20150401_010536	Deliver without spoiling the bread
 ETC_20150401_010537	{memo X}Get rid of the strange energy
 ETC_20150401_010538	Pull out some crops and check if it is growing well
-ETC_20150401_010539	{memo X}Defeat Orange Dandells and retrieve the kindling
+ETC_20150401_010539	{memo X}Defeat 橘色 Dandells and retrieve the kindling
 ETC_20150401_010540	{memo X}Put the retrieved kindling into the burning magic field to maintain the flame
 ETC_20150401_010541	Check the crops
 ETC_20150401_010542	Get wood from the wooden structures nearby
@@ -10701,7 +10701,7 @@ ETC_20150406_010699	奧施麗涅 女神像 D
 ETC_20150406_010700	奧施麗涅 女神像 E
 ETC_20150406_010701	烈焰術士 的房間
 ETC_20150406_010702	宴會廳
-ETC_20150406_010703	{memo X}Get kindlings from Orange Dandel and keep the fire alive!
+ETC_20150406_010703	{memo X}Get kindlings from 橘色 Dandel and keep the fire alive!
 ETC_20150406_010704	The monsters seem to have smelled the purifying liquid. They are attacking!
 ETC_20150406_010705	Ugh.. My power…
 ETC_20150406_010706	You defeated them all!
@@ -10740,7 +10740,7 @@ ETC_20150406_010738	{memo X}IvnItem:FARM47_1_SQ_060_ITEM_1:1:0/DoTimeAction:Maki
 ETC_20150406_010739	Create a magic circle with the wood Arunas gave you
 ETC_20150406_010740	{memo X}Burn the shaman doll in the magic circle
 ETC_20150406_010741	{memo X}Opening the alcohol container using the wooden hammer
-ETC_20150406_010742	Defeat Orange Dandels for kindling
+ETC_20150406_010742	Defeat 橘色 Dandels for kindling
 ETC_20150406_010743	Add kindling into the burning magic circle to keep the fire alive
 ETC_20150406_010744	{memo X}Borrow the farming tool - Plow
 ETC_20150406_010745	{memo X}Borrow the faming tool - Hand Hoe
@@ -10785,7 +10785,7 @@ ETC_20150406_010783	Opening the wine cask
 ETC_20150406_010784	Observing the monster's reactions
 ETC_20150406_010785	{memo X}The withered crops are lively again.{nl}Tell Baras about this!
 ETC_20150406_010786	{memo X}The fire went out.
-ETC_20150406_010787	{memo X}Obtained Wing of Orange Dandel.{nl}Put the wing to keep the fire alive!
+ETC_20150406_010787	{memo X}Obtained Wing of 橘色 Dandel.{nl}Put the wing to keep the fire alive!
 ETC_20150406_010788	Talk to the guardian first
 ETC_20150406_010789	{memo X}Invalid coordinates. Cannot create Hauberk.
 ETC_20150406_010790	Blut.. How can I forget the traitor who made me like this.
@@ -10815,7 +10815,7 @@ ETC_20150406_010813	{memo X}Crystal of Stability (200 Crystal Fragments)
 ETC_20150406_010814	{memo X}Crystal of Luck (400 Crystal Fragments)
 ETC_20150406_010815	{memo X}紅色 Resonance Crystal (500 Crystal Fragments)
 ETC_20150406_010816	{memo X}藍色 Resonance Crystal (500 Crystal Fragments)
-ETC_20150406_010817	{memo X}Yellow Resonance Crystal (500 Crystal Fragments)
+ETC_20150406_010817	{memo X}黃色 Resonance Crystal (500 Crystal Fragments)
 ETC_20150406_010818	{memo X}Growth Enhancement Crystal (1,000 Crystal Fragments)
 ETC_20150406_010819	{memo X}You do not have enough crystal fragments.
 ETC_20150406_010820	{memo X}Vibrate the magic crystal. (20 Crystal Fragments)
@@ -10825,7 +10825,7 @@ ETC_20150406_010823	{memo X}Hazardous gas will leak from the broken purifier soo
 ETC_20150406_010824	{memo X}The device is activating. It's dangerous!
 ETC_20150406_010825	{memo X}紅色 Crystal Pillar is causing the resonance!
 ETC_20150406_010826	{memo X}藍色 Crystal Pillar is causing the resonance!
-ETC_20150406_010827	{memo X}Yellow Crystal Pillar is causing the resonance!
+ETC_20150406_010827	{memo X}黃色 Crystal Pillar is causing the resonance!
 ETC_20150406_010828	{memo X}You don't have any 裝備 to cause the resonance.{nl}Search the 1st floor.
 ETC_20150406_010829	{memo X}You have more of them for registering rather than consuming.
 ETC_20150406_010830	You already used the scroll in this area!
@@ -10838,7 +10838,7 @@ ETC_20150406_010836	Broken Purifier
 ETC_20150406_010837	{memo X}Trigger Music
 ETC_20150406_010838	{memo X}紅色 Crystal Pillar
 ETC_20150406_010839	{memo X}藍色 Crystal Pillar
-ETC_20150406_010840	{memo X}Yellow Crystal Pillar
+ETC_20150406_010840	{memo X}黃色 Crystal Pillar
 ETC_20150406_010841	警告標誌
 ETC_20150406_010842	{memo X}Magic Field??
 ETC_20150406_010843	{memo X}Magical Power Generator??
@@ -10858,7 +10858,7 @@ ETC_20150414_010856	Old Infrorocktor
 ETC_20150414_010857	紅色 Infro Blood
 ETC_20150414_010858	黑色 Colifly
 ETC_20150414_010859	{memo X}藍色 黑色 Colifly
-ETC_20150414_010860	{memo X}Yellow Colifly
+ETC_20150414_010860	{memo X}黃色 Colifly
 ETC_20150414_010861	Digo
 ETC_20150414_010862	Clothes rack
 ETC_20150414_010863	{memo X}Normal Type
@@ -10875,7 +10875,7 @@ ETC_20150414_010873	Pheasant
 ETC_20150414_010874	{memo X}Block the subordinates of Naktis until the transformation scroll is completed.
 ETC_20150414_010875	Altar of Knowledge
 ETC_20150414_010876	攻擊並破壞魔法陣！
-ETC_20150414_010877	The magic circle is on fire!{nl}Get kindling from Orange Dandel and keep the fire alive!
+ETC_20150414_010877	The magic circle is on fire!{nl}Get kindling from 橘色 Dandel and keep the fire alive!
 ETC_20150414_010878	Storage of Baron
 ETC_20150414_010879	Shaton Family Mercenary Chief
 ETC_20150414_010880	{memo X}Guardian stone of Tree Root Crystal of Laziness appeared! {nl}Destroy all of it.
@@ -11227,7 +11227,7 @@ ETC_20150428_011225	Taumas
 ETC_20150428_011226	Brown Rodelin
 ETC_20150428_011227	Panto Pathfinder
 ETC_20150428_011228	Panto Archer
-ETC_20150428_011229	Yellow Zigri
+ETC_20150428_011229	黃色 Zigri
 ETC_20150428_011230	Dionysus
 ETC_20150428_011231	Disgusting Deathweaver
 ETC_20150428_011232	Pyrokinetic Cerberus
@@ -11238,7 +11238,7 @@ ETC_20150428_011236	Defeat all the monsters!
 ETC_20150428_011237	Destroy the 2nd Transport Magic Circle restraining Grita!
 ETC_20150428_011238	This is restraining magic..{nl}It's a trap!
 ETC_20150428_011239	{memo X}Defeat the 蠑螈 that appeared in the defense shield device!
-ETC_20150428_011240	Defeat the 傀儡 guarding the seal stone!
+ETC_20150428_011240	Defeat the 哥雷姆 guarding the seal stone!
 ETC_20150428_011241	Defeat the Archon guarding the Flame Fusion Machine!
 ETC_20150428_011242	{memo X}Defeat all the Chomadogs summoned by Antares!
 ETC_20150428_011243	Destroy the Magic Control Valve!
@@ -11287,8 +11287,8 @@ ETC_20150428_011284	藍髮
 ETC_20150428_011285	Complete Manackle Grave Quest
 ETC_20150428_011286	意外的試練
 ETC_20150428_011287	粉髮
-ETC_20150428_011288	Hunted 500 Hanammings.
-ETC_20150428_011289	Wipe out Hanammings!
+ETC_20150428_011288	狩獵500隻哈娜米.
+ETC_20150428_011289	Wipe out 哈娜米!
 ETC_20150428_011290	黑髮
 ETC_20150428_011291	Play for 7 days
 ETC_20150428_011292	沒有結局的故事
@@ -11514,14 +11514,14 @@ ETC_20150428_011512	Failed to protect the statue!
 ETC_20150428_011513	You need to defeat the monsters to open the box!
 ETC_20150428_011514	No!
 ETC_20150428_011515	Activating the Altar
-ETC_20150428_011516	Yellow 蛆蟲 Eggs
+ETC_20150428_011516	黃色 蛆蟲 Eggs
 ETC_20150428_011517	{memo X}Usable only inside the Tomb Building Chapel.
 ETC_20150428_011518	Infroburk Flame
 ETC_20150428_011519	{memo X}All magical powers were absorbed.
 ETC_20150428_011520	Activate the Chapel Altar to kill the monsters!
 ETC_20150428_011521	{memo X}Open the door
 ETC_20150428_011522	{memo X}Attacks are impossible because of the magic barrier
-ETC_20150428_011523	Glackuman drawn to the spell is attacking!
+ETC_20150428_011523	古萊堤曼 drawn to the spell is attacking!
 ETC_20150428_011524	{memo X}The Spell Summon Crystal is transferring strong energy to the monsters.
 ETC_20150428_011525	Air Purification Crystal (50 Crystal Fragments)
 ETC_20150428_011526	Crystal of Quickness (80 Crystal Fragments)
@@ -11529,10 +11529,10 @@ ETC_20150428_011527	Crystal of Life (100 Crystal Fragments)
 ETC_20150428_011528	Crystal of Peace (100 Crystal Fragments)
 ETC_20150428_011529	{memo X}紅色 Vibrating Crystal (200 Crystal Fragments)
 ETC_20150428_011530	{memo X}藍色 Vibrating Crystal (200 Crystal Fragments)
-ETC_20150428_011531	{memo X}Yellow Vibrating Crystal (200 Crystal Fragments)
+ETC_20150428_011531	{memo X}黃色 Vibrating Crystal (200 Crystal Fragments)
 ETC_20150428_011532	{memo X}紅色 Crystal is resonating!
 ETC_20150428_011533	{memo X}藍色 Crystal is resonating!
-ETC_20150428_011534	{memo X}Yellow Crystal is resonating!
+ETC_20150428_011534	{memo X}黃色 Crystal is resonating!
 ETC_20150428_011535	{memo X}The grapes are already withered.
 ETC_20150428_011536	{memo X}Failed to guide the soldier left behind. 
 ETC_20150428_011537	{memo X}Unable to resonate the crystal yet.
@@ -11637,7 +11637,7 @@ ETC_20150714_011635	斯托里特 Mage
 ETC_20150714_011636	斯托里特 Archer
 ETC_20150714_011637	米諾斯 Mage
 ETC_20150714_011638	米諾斯 Archer
-ETC_20150714_011639	Stumpy Tree Magician
+ETC_20150714_011639	矮樹精 Magician
 ETC_20150714_011640	Flask Mage
 ETC_20150714_011641	凱帕莉 Sorcerer
 ETC_20150714_011642	Wendigo Magician
@@ -11793,7 +11793,7 @@ ETC_20150714_011791	This one passes.
 ETC_20150714_011792	Return to your positions!
 ETC_20150714_011793	Block that guy!
 ETC_20150714_011794	Hush, don't get spotted. Hurry!
-ETC_20150714_011795	Defeat the attacking Glackuman!
+ETC_20150714_011795	Defeat the attacking 古萊堤曼!
 ETC_20150714_011796	Petrification Detector
 ETC_20150714_011797	Lepus appeared by crossing over the time!{nl}Defeat Lepus!
 ETC_20150714_011798	Defeat all 紅色 InfroRocters that Antares summoned!
@@ -12118,7 +12118,7 @@ ETC_20150714_012116	紅色 Spatial Magic Stone(2)
 ETC_20150714_012117	Condensed Spite
 ETC_20150714_012118	藍色 Spatial Magic Stone(2)
 ETC_20150714_012119	Chase the location of Temple Shooter Witch at the shrine of the memories
-ETC_20150714_012120	Yellow Spatial Magic Stone(2)
+ETC_20150714_012120	黃色 Spatial Magic Stone(2)
 ETC_20150714_012121	The traces that can be heard from the spirits
 ETC_20150714_012122	Eliminate the evil energies of the pots of silence with the purification powders
 ETC_20150714_012123	Defeat the demons that rushed in
@@ -12694,7 +12694,7 @@ ETC_20150714_012692	You don't have enough power sources
 ETC_20150714_012693	You've turned off the guardian device of the native troops
 ETC_20150714_012694	This guardian device of the native troops is turned off
 ETC_20150714_012695	You've set the camouflage curtain
-ETC_20150714_012696	You do not have enough Stumpy Tree Branches
+ETC_20150714_012696	You do not have enough 矮樹精 Branches
 ETC_20150714_012697	It was an empty box
 ETC_20150714_012698	The sap hasn't been fully filled yet
 ETC_20150714_012699	You've found the monsters! Report to Lint!
@@ -13128,7 +13128,7 @@ ETC_20150714_013126	Monster Genx
 ETC_20150714_013127	Demons' Sealed Sphere
 ETC_20150714_013128	藍色 Magical Crystal
 ETC_20150714_013129	紅色 Magical Crystal
-ETC_20150714_013130	Yellow Magical Crystal
+ETC_20150714_013130	黃色 Magical Crystal
 ETC_20150714_013131	Hidden North Area Manager
 ETC_20150714_013132	Hidden South Area Manager
 ETC_20150714_013133	綠色 Crystal Controller
@@ -13576,7 +13576,7 @@ ETC_20150717_013574	{memo X}Put the strain of Big 希奧羊怪
 ETC_20150717_013575	{memo X}Put the mask of 希奧羊怪
 ETC_20150717_013576	{memo X}Put the core of 佐恩石像
 ETC_20150717_013577	{memo X}Put the hook
-ETC_20150717_013578	{memo X}Put the core of grave 傀儡s
+ETC_20150717_013578	{memo X}Put the core of grave 哥雷姆s
 ETC_20150717_013579	{memo X}Just go.
 ETC_20150717_013580	{memo X}Put the wing of Dandell
 ETC_20150717_013581	{memo X}Put the shells Kepos
@@ -13620,7 +13620,7 @@ ETC_20150729_013618	捕獸夾
 ETC_20150729_013619	溫迪戈搜查者
 ETC_20150729_013620	大地之彈幕
 ETC_20150729_013621	巨大蝙蝠
-ETC_20150729_013622	藍色 Grave傀儡
+ETC_20150729_013622	藍色 Grave哥雷姆
 ETC_20150729_013623	組隊戰鬥淘汰賽
 ETC_20150729_013624	組隊戰鬥聯賽
 ETC_20150729_013625	沿著這條路！
@@ -14217,7 +14217,7 @@ ETC_20150918_014215	Corpse Tower
 ETC_20150918_014216	Shoggoth
 ETC_20150918_014217	Skull Soldier
 ETC_20150918_014218	Magician Colimen of Earth
-ETC_20150918_014219	Orange Kodomor
+ETC_20150918_014219	橘色 Kodomor
 ETC_20150918_014220	藍色 Kodomor
 ETC_20150918_014221	紅色 Kodomor
 ETC_20150918_014222	Paper Box
@@ -14637,7 +14637,7 @@ ETC_20150918_014635	You've installed the bomb!
 ETC_20150918_014636	2. Defeat the monsters that are rushing in!
 ETC_20150918_014637	You have succeeded in Palanx trainings that prepare for the actual battles!
 ETC_20150918_014638	You have succeeded in persuasion!{nl}Bring it to the Apsauga Altar
-ETC_20150918_014639	You have obtained the Stumpy Tree's sap!
+ETC_20150918_014639	You have obtained the 矮樹精's sap!
 ETC_20150918_014640	You used the absorb scroll
 ETC_20150918_014641	You won't be able to summon the monsters in the region.
 ETC_20150918_014642	This skill can't be used in the region.
@@ -15344,7 +15344,7 @@ ETC_20151001_015342	Vubbes are pouring the last attack!
 ETC_20151001_015343	The crystal has been destroyed because of the Vubbe's attack!
 ETC_20151001_015344	You've obtained the energies that were in the crystal!
 ETC_20151001_015345	The energies of the crystal have been weakened!
-ETC_20151001_015346	Put the bleeding monster onto the yellow energy and let the crystal absorb the vitalities!
+ETC_20151001_015346	Put the bleeding monster onto the 黃色 energy and let the crystal absorb the vitalities!
 ETC_20151001_015347	You've restored the energies!
 ETC_20151001_015348	You've restored the energies!{nl}The energies form the crystal pole are coming into the body!
 ETC_20151001_015349	Capture a Hanaming!
@@ -15479,7 +15479,7 @@ ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop t
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
 ETC_20151001_015479	Archon is attacking!
 ETC_20151001_015480	Move to the next area through the Mage Tower Gate!
-ETC_20151001_015481	Gazing 傀儡 is attacking!
+ETC_20151001_015481	凝視哥雷姆 is attacking!
 ETC_20151001_015482	Move to the next area through the Mage Tower Gate
 ETC_20151001_015483	Yonazolem and Minotaur are attacking!
 ETC_20151001_015484	蠑螈 and Magburk are attacking!
@@ -15542,11 +15542,11 @@ ETC_20151001_015540	The reunification of the Demon Lord Hauberk has started!
 ETC_20151001_015541	Cold 小熊族
 ETC_20151001_015542	Cold Chinency
 ETC_20151001_015543	破壞這些傢具來開路
-ETC_20151001_015544	Defeat the Rough 灰色 傀儡!
+ETC_20151001_015544	Defeat the Rough 灰色 哥雷姆!
 ETC_20151001_015545	Cold Sparnicht
 ETC_20151001_015546	Cold Pokubu
 ETC_20151001_015547	保護火把 3 分鐘 來打開道路
-ETC_20151001_015548	Cold 傀儡lit
+ETC_20151001_015548	Cold 哥雷姆lit
 ETC_20151001_015549	Cold Stone Orca
 ETC_20151001_015550	火把 HP : 70%
 ETC_20151001_015551	火把 HP : 50%
@@ -15619,7 +15619,7 @@ ETC_20151001_015617	打敗所有 the servants of Hauberk!{nl}Find Kupole Sigita
 ETC_20151001_015618	Track down the Demon Lord Hauberk who fled through the Zinuma Passage!
 ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
 ETC_20151001_015620	Bearkaras Suppressor
-ETC_20151016_015621	藍色 Sakmoli
+ETC_20151016_015621	藍色 南瓜燈怪
 ETC_20151016_015622	紅色 Colifly
 ETC_20151016_015623	Vine2
 ETC_20151016_015624	Bellai Forest
@@ -15919,7 +15919,7 @@ ETC_20151016_015917	Silver Pillar
 ETC_20151016_015918	Bronze Pillar
 ETC_20151016_015919	Officer Lutas
 ETC_20151016_015920	打敗 Gray Golem 和 Carapace!
-ETC_20151022_015921	Yellow Colifly
+ETC_20151022_015921	黃色 Colifly
 ETC_20151022_015922	Evil Necroventer
 ETC_20151022_015923	Lapemiter is a unique occupation that is highly respected, but is also looked down upon among Lapes. A Lapemiter serves a religious role, but the other Lapes don't put great emphasis on religious rituals, so they want a Lapemiter to do their exhausting duty.
 ETC_20151022_015924	Unlike the prejudice of the humans, Lapezards are not Lapes that obtained their current status through long training. Most of them are selected by their breeds and they grow up accordingly and receive the necessary food to become a Lapezard.
@@ -15973,7 +15973,7 @@ ETC_20151022_015971	Blue Siaulav
 ETC_20151022_015972	Green Siaulav
 ETC_20151022_015973	Blue Siaulav Mage
 ETC_20151022_015974	Blue Siaulav Archer
-ETC_20151022_015975	Orange Siaulav Archer
+ETC_20151022_015975	橘色 Siaulav Archer
 ETC_20151022_015976	Blue 小熊族
 ETC_20151022_015977	Brown 小熊族
 ETC_20151022_015978	Brown 小熊族 Magician
@@ -15992,10 +15992,10 @@ ETC_20151022_015990	Green 斯托里特
 ETC_20151022_015991	Blue 斯托里特 Mage
 ETC_20151022_015992	Green 斯托里特 Mage
 ETC_20151022_015993	Brown 斯托里特 Archer
-ETC_20151022_015994	Orange 米諾斯
+ETC_20151022_015994	橘色 米諾斯
 ETC_20151022_015995	Green 米諾斯
 ETC_20151022_015996	Green 米諾斯 Mage
-ETC_20151022_015997	Orange 米諾斯 Archer
+ETC_20151022_015997	橘色 米諾斯 Archer
 ETC_20151022_015998	Green 米諾斯 Archer
 ETC_20151022_015999	Blue Socket
 ETC_20151022_016000	Green Socket
@@ -16064,7 +16064,7 @@ ETC_20151022_016062	Red Elma
 ETC_20151022_016063	Blue Guardian Spider
 ETC_20151022_016064	Red Guardian Spider
 ETC_20151022_016065	Blue Dumaro
-ETC_20151022_016066	Yellow Dumaro
+ETC_20151022_016066	黃色 Dumaro
 ETC_20151022_016067	Blue Wendigo
 ETC_20151022_016068	White Wendigo
 ETC_20151022_016069	Brown Wendigo
@@ -16487,7 +16487,7 @@ ETC_20151022_016485	Defeat Jack O'Lantern!
 ETC_20151022_016486	Defeat Moldyhorn!
 ETC_20151022_016487	Defeat Colimencia and Mothstem!
 ETC_20151022_016488	Defea the Cockat nest!
-ETC_20151022_016489	Defeat Moyabruka and Menticen!
+ETC_20151022_016489	Defeat 摩亞惡獸 and Menticen!
 ETC_20151022_016490	2 分鐘之內存活！
 ETC_20151102_016491	Voodoo Doll Castle
 ETC_20151102_016492	Spector
