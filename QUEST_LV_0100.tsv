@@ -269,9 +269,9 @@ QUEST_LV_0100_20150317_000268	謝謝你這麼快就幫我找到我的東西！{n
 QUEST_LV_0100_20150317_000269	如果你沿著路往北方走就可以看到搜索兵。{nl}祝你好運！
 QUEST_LV_0100_20150317_000270	雷默納斯
 QUEST_LV_0100_20150317_000271	{memo X}$Have you ever offered worship to the Statue?{nl}If not, I'd really recommend it.
-QUEST_LV_0100_20150317_000272	那取決於是哪位女神。{nl}如果你沿著路往右走，你就會看到女神澤米娜的雕像。 
+QUEST_LV_0100_20150317_000272	那取決於女神的決定。{nl}如果你沿著路往右走，你就會看到女神 澤米娜 雕像。
 QUEST_LV_0100_20150317_000273	{memo X}$I do worry that the monsters might harm the Goddess Statue.
-QUEST_LV_0100_20150317_000274	很高興雕像安全無事。{nl}這裡的魔物懂得害怕女神。{nl}
+QUEST_LV_0100_20150317_000274	很高興雕像平安無事。{nl}這裡的魔物都懂得害怕女神。{nl}
 QUEST_LV_0100_20150317_000275	沿著樹影路往下走，你很快就會到達克萊佩達。{nl}那麼，願女神的祝福與你同在。
 QUEST_LV_0100_20150317_000276	{memo X}$Please do me a favor if you are headed to Klaipeda.{nl}It's not easy to go back and forth from Klaipeda because of the Infrorocktors nowadays.
 QUEST_LV_0100_20150317_000277	也許守護著雕像，女神就會早一點回來……
@@ -279,7 +279,7 @@ QUEST_LV_0100_20150317_000278	{memo X}$Follow the road on the left at the camp c
 QUEST_LV_0100_20150317_000279	)}你很快就會遇到部隊。
 QUEST_LV_0100_20150317_000280	)}很好，做得不錯。{nl}順著樹影路走，很快就會抵達克萊佩達。{nl}別忘了去找烏斯加。
 QUEST_LV_0100_20150317_000281	作戰指揮官
-QUEST_LV_0100_20150317_000282	我會讓我的部下去告知部隊集合。{nl}你可以去回報給提圖斯了。
+QUEST_LV_0100_20150317_000282	我會讓我的部下去通知部隊集合。{nl}你可以回去向提圖斯報告了。
 QUEST_LV_0100_20150317_000283	這沒有什麼困難的。{nl}如果你不想幫忙，我會立刻送你到克萊佩達。
 QUEST_LV_0100_20150317_000284	搜索兵
 QUEST_LV_0100_20150317_000285	{memo X}$It sure is a problem.{nl}I didn't know Kepas could grow that big.
@@ -380,13 +380,13 @@ QUEST_LV_0100_20150317_000379	我們被魔物們包圍，身上的補給品也�
 QUEST_LV_0100_20150317_000380	在新的任務指派下來之前，我想再次以搜索兵的身份執行任務。{nl}你知道的，觀察魔物。
 QUEST_LV_0100_20150317_000381	{memo X}$The Miners' Village is under siege and entrance is prohibited for civilians.{nl}Remember that we can't guarantee your safety if you do not get my permission.
 QUEST_LV_0100_20150317_000382	{memo X}$You have to cheer up.{nl} Even 阿拉斯 is holding on.
-QUEST_LV_0100_20150317_000383	女神澤米娜主司著大地。{nl}有傳言說女神們已經拋棄我們了，但是那是不可能的！{nl}當你對著女神的雕像們祈禱時，她們依舊閃耀無比。
+QUEST_LV_0100_20150317_000383	女神 澤米娜的光輝照耀著大地。{nl}有傳言說女神們已經拋棄我們了，但那是不可能的！{nl}當你對著女神雕像祈禱時，她們依舊閃耀無比。
 QUEST_LV_0100_20150317_000384	瓦布們突然從水晶礦山湧入希奧莉艾森林。{nl}因此，被夾在礦山跟森林間的希奧莉艾礦工小鎮成了戰場。{nl}
 QUEST_LV_0100_20150317_000385	考量到安全，我不能放行前往希奧莉艾礦工小鎮。{nl}當然，如果你有充份的能力自保，且不需要警衛隊的幫助，{nl}事情還有轉圜的餘地。
 QUEST_LV_0100_20150317_000386	天啊，真的是非常驚險。{nl}那巨大的東西隱藏的真好。
 QUEST_LV_0100_20150317_000387	像這樣研究魔物是非常重要的。{nl}有助於預測魔物行動的原因或未來的發展。
 QUEST_LV_0100_20150317_000388	我很確定是Uoros farm的Leaf Bugs偷走的。{nl}它們之前也從我這偷走過東西。
-QUEST_LV_0100_20150317_000389	下次遇到護衛隊長，替我向他問好。
+QUEST_LV_0100_20150317_000389	如果遇到護衛隊長，請替我向他問好。
 QUEST_LV_0100_20150317_000390	{memo X}$In order to test if your skills are good enough to enter the Miners Village,{nl}I need you to help us solve a problem we have.{nl}
 QUEST_LV_0100_20150317_000391	首先，從波酷巴們手中奪回農場。{nl}我相信這是相對簡單的任務。
 QUEST_LV_0100_20150317_000392	岩石中似乎有個可以讓你嵌入東西的缺口。
@@ -1350,7 +1350,7 @@ QUEST_LV_0100_20150317_001349	I never knew that I would be able to see these bea
 QUEST_LV_0100_20150317_001350	$It seems that Wandering Spirit wants to give the reward to someone in Fedimian.
 QUEST_LV_0100_20150317_001351	After I finished the work, the Unicorn appeared.
 QUEST_LV_0100_20150317_001352	{memo X}Thank you for the regards from Laimonas. {nl} Come on in to Klaipeda. 烏斯加 is waiting.
-QUEST_LV_0100_20150317_001353	Don't forget to send my regards to the Klaipeda Chief Commander.
+QUEST_LV_0100_20150317_001353	別忘了替我向Klaipeda Chief Commander問好。
 QUEST_LV_0100_20150317_001354	When you are ready, please go to 阿拉斯 in the Eastern Woods.
 QUEST_LV_0100_20150317_001355	Welcome! {nl} Oh, you're the Revelator. I really wanted to meet you. {nl}
 QUEST_LV_0100_20150317_001356	This is a Warp Scroll. {nl} You can go to any Goddess Statue or return to previous location by using it. {nl}
@@ -2381,13 +2381,13 @@ QUEST_LV_0100_20150317_002380	與 搜索兵 交談
 QUEST_LV_0100_20150317_002381	關於召集的命令
 QUEST_LV_0100_20150317_002382	沒事
 QUEST_LV_0100_20150317_002383	{memo X}$Notice/!/ Use jump to avoid attacks from the Large Kepa!
-QUEST_LV_0100_20150317_002384	${memo }Laimonas's Favor
-QUEST_LV_0100_20150317_002385	$What will happen next?
-QUEST_LV_0100_20150317_002386	$I'm not interested
-QUEST_LV_0100_20150317_002387	$About the Goddess Statues
-QUEST_LV_0100_20150317_002388	$The Road to Klaipeda (1)
-QUEST_LV_0100_20150317_002389	$Sure, I can do that
-QUEST_LV_0100_20150317_002390	$The Road to Klaipeda (2)
+QUEST_LV_0100_20150317_002384	雷默納斯的請求
+QUEST_LV_0100_20150317_002385	接下來會發生什麼事？
+QUEST_LV_0100_20150317_002386	我不感興趣
+QUEST_LV_0100_20150317_002387	關於女神雕像
+QUEST_LV_0100_20150317_002388	前往克萊佩達的道路 (1)
+QUEST_LV_0100_20150317_002389	當然沒問題
+QUEST_LV_0100_20150317_002390	前往克萊佩達的道路 (2)
 QUEST_LV_0100_20150317_002391	$I'll lend my strength to you
 QUEST_LV_0100_20150317_002392	$Enter Klaipeda
 QUEST_LV_0100_20150317_002393	與 作戰指揮官 交談 (1)
@@ -3847,8 +3847,8 @@ QUEST_LV_0100_20150317_003846	擊敗Leaf Bugs並找回%s
 QUEST_LV_0100_20150317_003847	與 作戰指揮官 交談
 QUEST_LV_0100_20150317_003848	與 作戰指揮官 交談
 QUEST_LV_0100_20150317_003849	{memo X}Persuasion of the Battle Commander
-QUEST_LV_0100_20150317_003850	$The Battle Commander says he will tell his men to do the rest. Report back to Knight 提圖斯.
-QUEST_LV_0100_20150317_003851	Report to Knight 提圖斯
+QUEST_LV_0100_20150317_003850	作戰指揮官說他會叫手下去通知部隊集合。回去向騎士 提圖斯報告。
+QUEST_LV_0100_20150317_003851	向 騎士 提圖斯 報告
 QUEST_LV_0100_20150317_003852	{memo X}Please be prepared to now go to the Klaipeda.
 QUEST_LV_0100_20150317_003853	在標記的位置與搜索兵交談
 QUEST_LV_0100_20150317_003854	回去克萊佩達之前，你被要求去通知召集的命令。 通知搜索兵關於召集的事。
@@ -3857,17 +3857,17 @@ QUEST_LV_0100_20150317_003856	一隻Large Kepa突然出現了。擊敗它！
 QUEST_LV_0100_20150317_003857	與 搜索兵 交談
 QUEST_LV_0100_20150317_003858	$Inform the 搜索兵 about the order to assemble and find the location of the next soldier.
 QUEST_LV_0100_20150317_003859	擊敗the Large Kepa
-QUEST_LV_0100_20150317_003860	$Talk to Laimonas
-QUEST_LV_0100_20150317_003861	$Let's listen to Laimonas' favor like Sir 提圖斯 said.
-QUEST_LV_0100_20150317_003862	$Worship the Goddess Statue
-QUEST_LV_0100_20150317_003863	$Worship the Statue of Goddess Zemyna. The statue is located at the end of the road on the right of Laimonas.
-QUEST_LV_0100_20150317_003864	$You offered a prayer as Laimonas asked you to. Return and tell Laimonas about it.
+QUEST_LV_0100_20150317_003860	與 雷默納斯 交談
+QUEST_LV_0100_20150317_003861	就像提圖斯所說的，聽聽看雷默納斯的請求。
+QUEST_LV_0100_20150317_003862	向女神雕像祈禱
+QUEST_LV_0100_20150317_003863	向女神 澤米娜 雕像祈禱。雕像就位在雷默納斯右方道路的盡頭。
+QUEST_LV_0100_20150317_003864	你已經像雷默納斯所說的，完成了禱告。回去告訴雷默納斯。
 QUEST_LV_0100_20150317_003865	$Listen to Laimonas' request.
-QUEST_LV_0100_20150317_003866	$Defeat Infrorocktors at the marked area.
-QUEST_LV_0100_20150317_003867	$Do Laimonas a favor and defeat the Infrorocktors on the road to Klaipeda.
+QUEST_LV_0100_20150317_003866	在標記的位置擊敗Infrorocktors。
+QUEST_LV_0100_20150317_003867	接受雷默納斯請求，擊敗前往克萊佩達的道路上的Infrorocktors。
 QUEST_LV_0100_20150317_003868	Talk to the Klaipeda Guard Captain
 QUEST_LV_0100_20150317_003869	You seem to have taken care of Laimonas's request. Tell the Guard Captain that you got rid of the monsters on the road to Klaipeda.
-QUEST_LV_0100_20150317_003870	$Defeat Infrorocktors
+QUEST_LV_0100_20150317_003870	擊敗Infrorocktors
 QUEST_LV_0100_20150317_003871	$Go to Klaipeda
 QUEST_LV_0100_20150317_003872	$Let's go to Klaipeda.
 QUEST_LV_0100_20150317_003873	$Defeat the Rocktortuga that suddenly appeared
@@ -8096,11 +8096,11 @@ QUEST_LV_0100_20150908_008095	Making Beef Jerky
 QUEST_LV_0100_20150908_008096	Beej Jerky appeared!
 QUEST_LV_0100_20150918_008097	$This place has become dangerous ever since Medzio Diena, when the monsters emerged.{nl}Go back quickly while you still can, Kepas will overrun this position soon.
 QUEST_LV_0100_20150918_008098	噢，你是特地來告訴我關於召集命令的事？{nl}如果你能幫我找到我遺失的東西我就回去。
-QUEST_LV_0100_20150918_008099	$Have you ever tried offering worship to a Goddess Statue?{nl}The Goddesses might have vanished, but I believe they are still out there somewhere.
-QUEST_LV_0100_20150918_008100	I was worried that the monsters caused harm to the Goddess Statue.{nl}Even though the world is messed up.. It's terrible.
+QUEST_LV_0100_20150918_008099	你有沒有向女神雕像祈禱過？{nl}女神們或許已經消失了，但我仍然相信著祂們還存在於世界的某一處。
+QUEST_LV_0100_20150918_008100	我很擔心附近的魔物會傷害到女神雕像。{nl}世界陷入混亂…真是太可怕了！
 QUEST_LV_0100_20150918_008101	這真的已經失控了。{nl}誰知道Kepa會變得如此巨大呢…{nl}我想這也許是因為聖樹之日的關係吧？
-QUEST_LV_0100_20150918_008102	Don't forget to worship a Goddess Statue when you see one.{nl}I'm sure doing so will bestow a blessing upon you.{nl}I firmly believe that the Goddesses have not forsaken us.
-QUEST_LV_0100_20150918_008103	This is not the type of monster that can be encountered here so it is rather strange.{nl}I think the world is being ruined.
+QUEST_LV_0100_20150918_008102	當你經過女神雕像的時候，請別忘了祈禱。{nl}相信這會替你帶來祝福。{nl}我堅信著，女神並沒有拋棄我們。
+QUEST_LV_0100_20150918_008103	魔物不應該出現在這裡的，真是太奇怪了。{nl}世界正在遭受破壞。
 QUEST_LV_0100_20150918_008104	叫我現在去集合？{nl}也許世界正在走向毀滅，但是我不能接受這個命令。{nl}現在我手邊還有很多任務必須先完成。
 QUEST_LV_0100_20150918_008105	很好，這些應該就夠了{nl}這是一顆能讓你的體力瞬間恢復的藥丸，就當作是謝禮吧。{nl}
 QUEST_LV_0100_20150918_008106	你可以透過摧毀Tree Root Crystals來回復體力，或是使用休息。{nl}但通常在被怪物追逐的時候不會有時間可以讓你這麼做。{nl}當你碰到這種狀況的時候，藥丸就可以派上用場啦。
@@ -8157,7 +8157,7 @@ QUEST_LV_0100_20151001_008156	Goddess Laima is often called the recorded Goddess
 QUEST_LV_0100_20151001_008157	I'd like to ask you a favor. {nl}I have sinned because I was not able to fulfill my duties of guarding the kingdom on Medzio Diena. {nl}
 QUEST_LV_0100_20151001_008158	But I am not a Revelator. {nl}Even if I want to make up for my sins, my duty at the moment is to protect the many citizens of Klaipeda. {nl}
 QUEST_LV_0100_20151001_008159	So please find all the revelations. {nl}I will put my position as the Knight Commander of Klaipeda on the line and help you deal with it. 
-QUEST_LV_0100_20151001_008160	If you're on your way to Klaipeda, let me ask you a favor. {nl}It's not easy to go to Klaipeda because of the Infrorocktors.
+QUEST_LV_0100_20151001_008160	如果你要去克萊佩達的話，請你幫我一個忙。{nl}因為Infrorocktors的關係，使得前往克萊佩達的道路變得行徑困難。
 QUEST_LV_0100_20151001_008161	I feel so relieved to be stationed in the Western Woods.{nl}There are some places where you'd rather die than to be stationed.
 QUEST_LV_0100_20151001_008162	$Aren't you hurt?{nl}I appreciate that you got rid of the 波達 but what were you thinking? 
 QUEST_LV_0100_20151001_008163	$You mean you want to enter the Crystal Mines to find the evidence of Salvation? {nl}
