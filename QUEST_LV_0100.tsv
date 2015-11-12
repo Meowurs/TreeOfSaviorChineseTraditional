@@ -1371,7 +1371,7 @@ QUEST_LV_0100_20150317_001370	Those refugees are probably having a hard time get
 QUEST_LV_0100_20150317_001371	I can't help but think about it since he's worked here for so long.
 QUEST_LV_0100_20150317_001372	Thank you. Now I can feel at ease and return to the village. {nl} May the blessing of the Goddess be with you always.
 QUEST_LV_0100_20150317_001373	Being attacked by the Golem will get them back to their senses. 
-QUEST_LV_0100_20150317_001374	通常不論你怎麼找都找不到他們。 {nl} 很奇怪吧？
+QUEST_LV_0100_20150317_001374	通常不論你怎麼找都找不到他們。{nl}很奇怪吧？
 QUEST_LV_0100_20150317_001375	$I am pleased that my friend was able to go back safely.{nl}I was worried because of the stories that Molich is wandering around.
 QUEST_LV_0100_20150317_001376	$After removing the seal, learn the next few steps for the other seal from the brothers there.
 QUEST_LV_0100_20150317_001377	$You have the Seal Release Crystal to remove the seal.{nl}You are the person who Jonas sent right?{nl}
@@ -1721,10 +1721,10 @@ QUEST_LV_0100_20150317_001720	{memo X}The archer gives an arrow as a present, bu
 QUEST_LV_0100_20150317_001721	$There are those who fit with the sword and there are those who don't. {nl} It means that you should find something of value rather than readily throw your life away. 
 QUEST_LV_0100_20150317_001722	$A Ranger's arrows target many, not only one.{nl}
 QUEST_LV_0100_20150317_001723	{memo X}It's very likely you'll be exposed to the enemy when you shoot arrows. {nl} So my theory is that you have to use whatever comes in handy, like shields or stones. 
-QUEST_LV_0100_20150317_001724	對了，我覺得你的戰鬥方式好像缺了些什麼。 {nl} 如果你學會技能，你就可以在任何時候給予敵人更強力的攻擊。
-QUEST_LV_0100_20150317_001725	不同的職業有著不同的技能。 {nl} 當然，除了攻擊技能以外，你還有機會學習其他的技能。
+QUEST_LV_0100_20150317_001724	對了，我覺得你的戰鬥方式好像缺了些什麼。{nl}如果你學會技能，你就可以在任何時候給予敵人更強力的攻擊。
+QUEST_LV_0100_20150317_001725	不同的職業有著不同的技能。{nl}當然，除了攻擊技能以外，你還有機會學習其他的技能。
 QUEST_LV_0100_20150317_001726	{memo X}What do you think? There are a lot of useful skills, right? {nl} Using the skills effectively will be of great help in combat. {nl}
-QUEST_LV_0100_20150317_001727	噢，你說我必須去集合？ {nl} 請去讓作戰指揮官也知道關於the Large Kepa出沒的事情。往右邊走你就會看到他了。
+QUEST_LV_0100_20150317_001727	噢，你說我必須去集合？{nl}請去讓作戰指揮官也知道關於the Large Kepa出沒的事情。往右邊走你就會看到他了。
 QUEST_LV_0100_20150317_001728	Guiding spirits is an important task, but it's not a pleasant task.{nl}There's nothing happier than living right?
 QUEST_LV_0100_20150317_001729	Blackened boughs can be found when you defeat the monsters nearby.
 QUEST_LV_0100_20150317_001730	Others are violent as well, but Filibos are the worst.{nl}They are resilient as hell.{nl}I think I can relax a bit if they get taken care of.
@@ -3853,7 +3853,7 @@ QUEST_LV_0100_20150317_003852	{memo X}Please be prepared to now go to the Klaipe
 QUEST_LV_0100_20150317_003853	在標記的位置與搜索兵交談
 QUEST_LV_0100_20150317_003854	回去克萊佩達之前，你被要求去通知召集的命令。 通知搜索兵關於召集的事。
 QUEST_LV_0100_20150317_003855	通知搜索兵關於召集的事。
-QUEST_LV_0100_20150317_003856	$A Large Kepa suddenly appeared. Defeat it.
+QUEST_LV_0100_20150317_003856	一隻Large Kepa突然出現了。擊敗它！
 QUEST_LV_0100_20150317_003857	與 搜索兵 交談
 QUEST_LV_0100_20150317_003858	$Inform the 搜索兵 about the order to assemble and find the location of the next soldier.
 QUEST_LV_0100_20150317_003859	擊敗the Large Kepa
@@ -3881,10 +3881,10 @@ QUEST_LV_0100_20150317_003880	$Chase the Hanamings
 QUEST_LV_0100_20150317_003881	$Defeat the surrounding Hanamings
 QUEST_LV_0100_20150317_003882	$Go to the Hanaming habitat
 QUEST_LV_0100_20150317_003883	$Go to the Hanaming habitat and quickly complete the Battle Commander's assignment.
-QUEST_LV_0100_20150317_003884	收集Hanaming的花瓣。
-QUEST_LV_0100_20150317_003885	從Hanamings身上收集Hanaming的花瓣來完成作戰指揮官的任務。
-QUEST_LV_0100_20150317_003886	把Hanaming的花瓣交給作戰指揮官
-QUEST_LV_0100_20150317_003887	回去找作戰指揮官並把Hanaming的花瓣交給他，這樣你就可以早點回去克萊佩達了。
+QUEST_LV_0100_20150317_003884	收集哈娜米的花瓣。
+QUEST_LV_0100_20150317_003885	從哈娜米身上收集哈娜米的花瓣來完成作戰指揮官的任務。
+QUEST_LV_0100_20150317_003886	把哈娜米的花瓣交給作戰指揮官
+QUEST_LV_0100_20150317_003887	回去找作戰指揮官並把哈娜米的花瓣交給他，這樣你就可以早點回去克萊佩達了。
 QUEST_LV_0100_20150317_003888	$Collect %s to investigate
 QUEST_LV_0100_20150317_003889	$Talk to the Battle Commander. Something dubious seems to have happened.
 QUEST_LV_0100_20150317_003890	Scout the dangerous looking area
@@ -6628,7 +6628,7 @@ QUEST_LV_0100_20150414_006627	$It's better to use the cable car rather than figh
 QUEST_LV_0100_20150414_006628	$I think there are monsters crawling out of the mysterious barrier at Nuotori Cliff.{nl}Is it possible for you to get rid of that barrier?
 QUEST_LV_0100_20150414_006629	$With that barrier gone, maintenance will be a lot easier now.
 QUEST_LV_0100_20150414_006630	Go down from the middle of Twin Bridge and you'll arrive at Srautas Gorge. {nl}Go further right from there and you'll get to Gele Plateau.
-QUEST_LV_0100_20150414_006631	首先，擊敗附近的Hanamings。 {nl}並從他們身上收集Hanaming的花瓣。
+QUEST_LV_0100_20150414_006631	從哈娜米身上收集哈娜米的花瓣來完成作戰指揮官的任務。
 QUEST_LV_0100_20150414_006632	$Miners' Village is a problem but we also haven't gotten any rest from this endless skirmish. {nl}Defeating those 卓柏卡布拉們 would make it a lot better.
 QUEST_LV_0100_20150414_006633	Defeat 瓦布 Fighter. {nl}Search Scouts are on stand by in Nudegi Felled Area.
 QUEST_LV_0100_20150414_006634	You need to cross Srautas Gorge to get to Gele Plateau. {nl}Go down from the Twin Bridge and you'll arrive at Srautas Gorge.
@@ -8101,11 +8101,11 @@ QUEST_LV_0100_20150918_008100	I was worried that the monsters caused harm to the
 QUEST_LV_0100_20150918_008101	這真的已經失控了。{nl}誰知道Kepa會變得如此巨大呢…{nl}我想這也許是因為聖樹之日的關係吧？
 QUEST_LV_0100_20150918_008102	Don't forget to worship a Goddess Statue when you see one.{nl}I'm sure doing so will bestow a blessing upon you.{nl}I firmly believe that the Goddesses have not forsaken us.
 QUEST_LV_0100_20150918_008103	This is not the type of monster that can be encountered here so it is rather strange.{nl}I think the world is being ruined.
-QUEST_LV_0100_20150918_008104	叫我現在去集合？{nl}也許世界正在走向毀滅，但是我不能接受這個命令。 {nl}現在我手邊還有很多任務必須先完成。
+QUEST_LV_0100_20150918_008104	叫我現在去集合？{nl}也許世界正在走向毀滅，但是我不能接受這個命令。{nl}現在我手邊還有很多任務必須先完成。
 QUEST_LV_0100_20150918_008105	很好，這些應該就夠了{nl}這是一顆能讓你的體力瞬間恢復的藥丸，就當作是謝禮吧。{nl}
-QUEST_LV_0100_20150918_008106	你可以透過摧毀Tree Root Crystals來回復體力，或是使用休息。{nl}但通常在被怪物追逐的時候不會有時間可以讓你這麼做。 {nl}當你碰到這種狀況的時候，藥丸就可以派上用場啦。
+QUEST_LV_0100_20150918_008106	你可以透過摧毀Tree Root Crystals來回復體力，或是使用休息。{nl}但通常在被怪物追逐的時候不會有時間可以讓你這麼做。{nl}當你碰到這種狀況的時候，藥丸就可以派上用場啦。
 QUEST_LV_0100_20150918_008107	$I heard the news from my men and I was starting to become worried.{nl}With how messed up the world is, if that ended well, all is well.{nl}
-QUEST_LV_0100_20150918_008108	這裡已經不像四年前那樣沒有任何魔物出沒，但幸好附近的魔物不是很兇猛。 {nl}植物類型的魔物似乎最受影響，他們以前並不是這樣的…
+QUEST_LV_0100_20150918_008108	這裡已經不像四年前那樣沒有任何魔物出沒，但幸好附近的魔物不是很兇猛。{nl}植物類型的魔物似乎最受影響，他們以前並不是這樣的…
 QUEST_LV_0100_20150918_008109	做得好！很簡單對吧？{nl}There is no way to tell what is going to become of this world now that the Goddesses have left,{nl}所以我們必須不斷地把精力投入到自己的各種瑣事上。
 QUEST_LV_0100_20150918_008110	A shield that is advanced to level 4 will be enough.{nl}The determination should be checked.
 QUEST_LV_0100_20150918_008111	You are so determined unlike other guys nowadays.{nl}You can come to learn from me anytime you want.
@@ -8121,7 +8121,7 @@ QUEST_LV_0100_20150918_008120	就跟我想的一樣，對吧？{nl}正是這種�
 QUEST_LV_0100_20150918_008121	$It's been too long, my men should've come back, but I haven't heard anything from them yet.{nl}I know it's been four years since Medzio Diena, but my men have been getting too relaxed recently.
 QUEST_LV_0100_20150918_008122	
 QUEST_LV_0100_20150918_008123	隨著女神的消失，像是Golems的魔物開始出。{nl}這世界還殘存著希望嗎？
-QUEST_LV_0100_20150918_008124	How was it? Were there many skills that seemed useful?{nl}If you use skills effectively, they will be very useful in combat.{nl}
+QUEST_LV_0100_20150918_008124	怎麼樣？有沒有找到你喜歡的技能？{nl}如果你能將技能運用得當，在實戰中將會很有幫助。{nl}
 QUEST_LV_0100_20150918_008125	If that's the case, you will become bait and take care of the Royal Mausoleum defense device at Sesija Entrance.{nl}I will only say this once, so you better listen carefully.
 QUEST_LV_0100_20150918_008126	No one can disturb the eternal sleep of the great king.
 QUEST_LV_0100_20150918_008127	$Persuade the spirit that is heading towards Amolallul Hill{nl}and guide it to the Sad Owl Sculpture!
