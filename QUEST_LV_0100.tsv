@@ -530,8 +530,8 @@ QUEST_LV_0100_20150317_000529	Soldiers are reporting that other monsters are app
 QUEST_LV_0100_20150317_000530	Those silly things keep coming to us.{nl}Now may be the only chance we have to go and get Sparnas.{nl}Tell me when you are ready.
 QUEST_LV_0100_20150317_000531	They are just creating so many problems.{nl}They even got their hands on the supplies, I will not feel enough even if I hit him with a bat in the middle of the market.
 QUEST_LV_0100_20150317_000532	What? Tutu?{nl}I don't have time to think about those insignificant critters.
-QUEST_LV_0100_20150317_000533	$When you level up, you can increase a status of your choice and become stronger. {nl} Would you like to try doing so now?
-QUEST_LV_0100_20150317_000534	It's important to keep in mind what you want to become. {nl} That's never an easy thing.
+QUEST_LV_0100_20150317_000533	每當你升級的時候，你可以選擇一種素質來提升，讓你變得更強大。{nl}你現在就想試試看嗎？
+QUEST_LV_0100_20150317_000534	記住，不管你心中是怎麼想的，每一種素質都很重要。{nl}這不是件容易決定的事情。
 QUEST_LV_0100_20150317_000535	{memo X}Yes. That's how you do it. {nl} Pretty simple, huh?
 QUEST_LV_0100_20150317_000536	$阿拉斯 is at the center area of the woods. {nl} But there has been a tremendous increase in monsters around here, so I suggest you don't go in.
 QUEST_LV_0100_20150317_000537	Somehow Klaipeda has managed to hold back the monsters for now,{nl}but we have to find and remove the cause or we won't hold out for long.{nl}
@@ -2369,7 +2369,7 @@ QUEST_LV_0100_20150317_002368	{memo X}$Offer to help gather soldiers
 QUEST_LV_0100_20150317_002369	拒絕
 QUEST_LV_0100_20150317_002370	$Talk to the Scout (1)
 QUEST_LV_0100_20150317_002371	$I'm just here to tell the troops to assemble
-QUEST_LV_0100_20150317_002372	$Quickly run away
+QUEST_LV_0100_20150317_002372	離開
 QUEST_LV_0100_20150317_002373	$Talk to the Scout (2)
 QUEST_LV_0100_20150317_002374	$I'll find your missing belongings
 QUEST_LV_0100_20150317_002375	$I'll wait until you find it
@@ -2853,7 +2853,7 @@ QUEST_LV_0100_20150317_002852	{memo X}Attack of Mushcaria
 QUEST_LV_0100_20150317_002853	{memo X}Notice/!/Defeat Muchcaria!#8
 QUEST_LV_0100_20150317_002854	Learning Skills
 QUEST_LV_0100_20150317_002855	I'd like to learn some skills
-QUEST_LV_0100_20150317_002856	Give me some time to think about it
+QUEST_LV_0100_20150317_002856	給我一點時間讓我想想
 QUEST_LV_0100_20150317_002857	{memo X}Press the key to check the skills. #7
 QUEST_LV_0100_20150317_002858	Black-colored Honor (1)
 QUEST_LV_0100_20150317_002859	Destroy the corrupted Guardian
@@ -3537,8 +3537,8 @@ QUEST_LV_0100_20150317_003536	{memo X}Another enemy
 QUEST_LV_0100_20150317_003537	{memo X}I'll go and check on it
 QUEST_LV_0100_20150317_003538	{memo X}Fear from the Sky (1)
 QUEST_LV_0100_20150317_003539	I'll participate
-QUEST_LV_0100_20150317_003540	$Using Status Points
-QUEST_LV_0100_20150317_003541	Try increasing a Status
+QUEST_LV_0100_20150317_003540	使用素質點數
+QUEST_LV_0100_20150317_003541	試著提升一種素質
 QUEST_LV_0100_20150317_003542	{memo X}to check status #7
 QUEST_LV_0100_20150317_003543	The Road Back 
 QUEST_LV_0100_20150317_003544	Not As Intended (2)
@@ -5932,7 +5932,7 @@ QUEST_LV_0100_20150317_005931	{memo X}Liudas says he has to take care of things 
 QUEST_LV_0100_20150317_005932	{memo X}Defeat the monsters attacking Liudas
 QUEST_LV_0100_20150317_005933	Talk to the Scout.
 QUEST_LV_0100_20150317_005934	$Talk to the Scout to learn about status points.
-QUEST_LV_0100_20150317_005935	 - use this key to open your Character Information then use Status Points
+QUEST_LV_0100_20150317_005935	 - 按下這個鍵開啟角色資訊視窗並使用數質點數
 QUEST_LV_0100_20150317_005936	Listen to the Scout and try using a Status.
 QUEST_LV_0100_20150317_005937	Talk to the Scout
 QUEST_LV_0100_20150317_005938	Talk to the Scout again
@@ -8012,7 +8012,7 @@ QUEST_LV_0100_20150908_008011	$Defeat the monsters around the source of corrupti
 QUEST_LV_0100_20150908_008012	$Merregina has appeared!
 QUEST_LV_0100_20150908_008013	$Opening the chest with the key
 QUEST_LV_0100_20150908_008014	$Talk to Knight Commander 烏斯加 after going back to Klaipeda
-QUEST_LV_0100_20150908_008015	$Check your status by pressing F1 key
+QUEST_LV_0100_20150908_008015	按 F1 鍵來查看角色資訊
 QUEST_LV_0100_20150908_008016	$You've read the first tombstone of Lydia Schaffen{nl}Read the remaining tombstones!
 QUEST_LV_0100_20150908_008017	{memo X}
 QUEST_LV_0100_20150908_008018	$Defeat Chapparitions that are disturbing when you are checking the tombstone{nl}Check what was written on the last tombstone of Lydia Schaffen
