@@ -2284,8 +2284,8 @@ QUEST_LV_0100_20150317_002283	Seal of 瓦布 Tribe, Horn of Pantos, Heart of Mer
 QUEST_LV_0100_20150317_002284	The bootys that you've obtained are not to be boasted about.{nl}How about we bet?
 QUEST_LV_0100_20150317_002285	{memo X}
 QUEST_LV_0100_20150317_002286	Haha, I lost.{nl}You are great as I heard so. Here, it's your reward as promised/
-QUEST_LV_0100_20150317_002287	$I have buried a Revelator once in the past.{nl}He burdened the Goddess and placed too much faith in his abilities.
-QUEST_LV_0100_20150317_002288	$It's frightening to think that blunder happened at all.{nl}I don't even know if I will have to bury another Revelator in the future.. I don't know about you either.
+QUEST_LV_0100_20150317_002287	我曾在過去埋葬了一位 啟示者.{nl}他對自己的能力過於自信而成了眾神們的包袱.
+QUEST_LV_0100_20150317_002288	想到這個錯誤就讓人覺得害怕.{nl}我根本不知道將來我自己會不會再埋葬另一位 啟示者. 我也不知道你的能力如何.
 QUEST_LV_0100_20150317_002289	Are you proud of your skills to talk to me at this moment while the time passes?
 QUEST_LV_0100_20150317_002290	{memo X}If a person becomes a handful of soils after his death, can you imagine how he will be treated.{nl}The soils that once conquered this world..
 QUEST_LV_0100_20150317_002291	{memo X}Yes. You managed to avoid being like me. Yes..
@@ -2316,7 +2316,7 @@ QUEST_LV_0100_20150317_002315	Don't underestimate it. It was a strong animal in 
 QUEST_LV_0100_20150317_002316	{memo X}
 QUEST_LV_0100_20150317_002317	{memo X}The canyon area is like a grave for many explorers and historians. {nl} And we study to find more factual history on top of their graves.
 QUEST_LV_0100_20150317_002318	Thank you. {nl} Our academia will not forget him either. 
-QUEST_LV_0100_20150317_002319	The Revelator who said such things lies at rest here.{nl}If you can survive after facing nearby monsters for 2 minutes, I'll be able to think differently from now on.
+QUEST_LV_0100_20150317_002319	那位曾如此這般說的 啟示者 就長眠於此.{nl}如果你可以面對附近的怪物長於2分鐘, 我就會從此對你刮目相看.
 QUEST_LV_0100_20150317_002320	Next time, be careful when using public utilities. {nl} Well that's that and you have some great power. 
 QUEST_LV_0100_20150317_002321	Oh.. It's absurdity gets me at loss for words every time I look at it. {nl} Was is really this fragile..
 QUEST_LV_0100_20150317_002322	This isn't good.{nl}We may have to evacuate from here.
@@ -5447,12 +5447,12 @@ QUEST_LV_0100_20150317_005446	{memo X}
 QUEST_LV_0100_20150317_005447	Talk to James
 QUEST_LV_0100_20150317_005448	You've completed the amount you bet with James. Talk to him.
 QUEST_LV_0100_20150317_005449	{memo X}
-QUEST_LV_0100_20150317_005450	Talk to Gravekeeper Romas
-QUEST_LV_0100_20150317_005451	$Gravekeeper Romas is looking at you with pity. Talk to him.
-QUEST_LV_0100_20150317_005452	$Pass Gravekeeper Romas' Test
-QUEST_LV_0100_20150317_005453	$Gravekeeper Romas says he had to bury a Revelator once so do not be over confident. Defeat 15 monsters nearby within 2 minutes and prove that you are not weak.
-QUEST_LV_0100_20150317_005454	$Defeated 15 monsters in 2 minutes. Talk to Gravekeeper Romas.
-QUEST_LV_0100_20150317_005455	$Defeat monsters within 2 minutes
+QUEST_LV_0100_20150317_005450	和 守墓人 羅曼斯 交談
+QUEST_LV_0100_20150317_005451	守墓人 羅曼斯 正用憐憫的眼神看著你. 和他攀談.
+QUEST_LV_0100_20150317_005452	通過 守墓人 羅曼斯 的考驗
+QUEST_LV_0100_20150317_005453	守墓人 羅曼斯 說他才剛埋葬了一位 启示者， 所以不要过于自信. 在附近兩分鐘內斬殺 15 只小怪以證明你的實力不弱.
+QUEST_LV_0100_20150317_005454	在兩分鐘內斬殺 15 只小怪. 和 守墓人 羅曼斯 交談.
+QUEST_LV_0100_20150317_005455	兩分鐘內斬殺小怪
 QUEST_LV_0100_20150317_005456	The Paladin Master has something to say. Talk to him.
 QUEST_LV_0100_20150317_005457	Defeat Field Boss Chapparition
 QUEST_LV_0100_20150317_005458	The Paladin Master says there is a monster slaying people. Find and defeat the spooky chapparition in Tenet Chapel. 
@@ -6474,7 +6474,7 @@ QUEST_LV_0100_20150323_006473	$I'll go to Ramstis Ridge and release the seals
 QUEST_LV_0100_20150323_006474	$Let's go help Grita at Fedimian Suburbs
 QUEST_LV_0100_20150323_006475	{memo X}
 QUEST_LV_0100_20150323_006476	$About the barriers in Nefritas Cliff
-QUEST_LV_0100_20150323_006477	$Owl Burial Ground Test
+QUEST_LV_0100_20150323_006477	貓頭鷹墓地的考驗
 QUEST_LV_0100_20150323_006478	$Tyrant of the Srautas Gorge
 QUEST_LV_0100_20150323_006479	{memo X}Notice/Find the elderly in Vieta Gorge!#5
 QUEST_LV_0100_20150323_006480	$Curse of Laziness - Soul Attack
