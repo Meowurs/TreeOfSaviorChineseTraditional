@@ -678,7 +678,7 @@ ETC_20150317_000676	Quick Bebraspion
 ETC_20150317_000677	Hopping Bridge Honeypin
 ETC_20150317_000678	Stone-eating Kirmeleech
 ETC_20150317_000679	Fire Jar Magburk
-ETC_20150317_000680	Tempered Archon
+ETC_20150317_000680	惱火的 執政官
 ETC_20150317_000681	Indomitable Kepa Chieftain
 ETC_20150317_000682	Bizzare Velochard
 ETC_20150317_000683	Whirlwind Harpeia
@@ -970,7 +970,7 @@ ETC_20150317_000968	Mission 火蜥蜴
 ETC_20150317_000969	Mission Shadowgaler
 ETC_20150317_000970	Mission Specter Monarch
 ETC_20150317_000971	Mission Ironbaum
-ETC_20150317_000972	Mission Archon
+ETC_20150317_000972	Mission 執政官
 ETC_20150317_000973	Mission Yonazolem
 ETC_20150317_000974	Mission 克萊蒙
 ETC_20150317_000975	Simorph
@@ -2309,7 +2309,7 @@ ETC_20150317_002307	{memo X}Collected the herb!
 ETC_20150317_002308	Bring the jar near the pond!
 ETC_20150317_002309	You have already collected the sap!
 ETC_20150317_002310	這是什麼？
-ETC_20150317_002311	Archon seems to have recovered. Try talking to him!
+ETC_20150317_002311	執政官 看起來恢復正常了. 嘗試和他溝通吧!
 ETC_20150317_002312	In the description of the area where you picked up the music box
 ETC_20150317_002313	{memo X}The garbage is full.{nl}First to use the garbage and then re collect it.
 ETC_20150317_002314	Found a Piece of Vubbe Cloth! {nl} This might be a clue!
@@ -5780,7 +5780,7 @@ ETC_20150317_005778	攻擊減少
 ETC_20150317_005779	Attack has decreased.
 ETC_20150317_005780	Rage of Helgasercle
 ETC_20150317_005781	防禦增加
-ETC_20150317_005782	Rage of Archon
+ETC_20150317_005782	執政官的憤怒
 ETC_20150317_005783	Stickiness
 ETC_20150317_005784	Movement Speed has decreased due to stickiness.
 ETC_20150317_005785	In a state of rage. Your defense has increased.
@@ -10429,7 +10429,7 @@ ETC_20150401_010427	Earth Deadborns Cap
 ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Temple Shooter
 ETC_20150401_010430	Earth Canceril
-ETC_20150401_010431	Earth Archon
+ETC_20150401_010431	Earth 執政官
 ETC_20150401_010432	Catacomb Candle Spider 
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long-Branched Tree
@@ -10623,7 +10623,7 @@ ETC_20150401_010621	Hail 加比婭！
 ETC_20150401_010622	{memo X}Remembered a number {nl}
 ETC_20150401_010623	{memo X}Unjustifiable Bug Eggs
 ETC_20150401_010624	{memo X}Seal of Archon is weakened.
-ETC_20150401_010625	Archon is released from the seal!
+ETC_20150401_010625	執政官 從封印中解放了!
 ETC_20150401_010626	啟動中
 ETC_20150401_010627	Evil Energy Purifier activated!
 ETC_20150401_010628	Purifying the evil energy in 
@@ -11239,7 +11239,7 @@ ETC_20150428_011237	Destroy the 2nd Transport Magic Circle restraining Grita!
 ETC_20150428_011238	This is restraining magic..{nl}It's a trap!
 ETC_20150428_011239	{memo X}Defeat the 蠑螈 that appeared in the defense shield device!
 ETC_20150428_011240	Defeat the 傀儡 guarding the seal stone!
-ETC_20150428_011241	Defeat the Archon guarding the Flame Fusion Machine!
+ETC_20150428_011241	擊敗守護 Flame Fusion Machine 的 執政官!
 ETC_20150428_011242	{memo X}Defeat all the Chomadogs summoned by Antares!
 ETC_20150428_011243	Destroy the Magic Control Valve!
 ETC_20150428_011244	The Mineloader has started working!{nl}Defeat the Mineloader!
@@ -11766,11 +11766,11 @@ ETC_20150714_011764	Stop!
 ETC_20150714_011765	I am Evoniphon!
 ETC_20150714_011766	Yes!!
 ETC_20150714_011767	Yes!
-ETC_20150714_011768	Control the magic generating stones to stop all of them!
-ETC_20150714_011769	Magic Generating Stones
-ETC_20150714_011770	Archon has been released and abducted Jane!{nl}Defeat Archon and save Jane!
-ETC_20150714_011771	The magic stone of the interaction
-ETC_20150714_011772	Jane
+ETC_20150714_011768	控制并停止 魔力生成原石 的運作!
+ETC_20150714_011769	魔力生成原石
+ETC_20150714_011770	執政官已被釋放，拐走了 簡!{nl}打敗 執政官，拯救 簡!
+ETC_20150714_011771	作用魔力原石
+ETC_20150714_011772	簡
 ETC_20150714_011773	Defeat all the monsters that are going after spatial magic stones and{nl}retrieve the restored spatial magic stones!
 ETC_20150714_011774	Preserved Magic Field
 ETC_20150714_011775	Avoid the 黑色 shadow that is chasing after you and obtain the spatial magic stones!
@@ -13174,11 +13174,11 @@ ETC_20150714_013172	The second tree
 ETC_20150714_013173	The third tree
 ETC_20150714_013174	REMAINS37_2_SQ_080_The trigger to create a session
 ETC_20150714_013175	Zubeck's Box
-ETC_20150714_013176	Sealed Archon
-ETC_20150714_013177	Relics Archive
-ETC_20150714_013178	The lamp of the proof
+ETC_20150714_013176	封印的 執政官
+ETC_20150714_013177	文物檔案
+ETC_20150714_013178	佐證之燈
 ETC_20150714_013179	巴魯斯 的封印神器
-ETC_20150714_013180	Teleport Device
+ETC_20150714_013180	傳送器
 ETC_20150714_013181	黑色 Shadow
 ETC_20150714_013182	Wandering Spirit
 ETC_20150714_013183	The crystal of the hardened astral body
@@ -14255,7 +14255,7 @@ ETC_20150918_014253	Many are injured.. We need help!
 ETC_20150918_014254	Cross here after drinking the enhanced Thorn flower powders!
 ETC_20150918_014255	Protect the Royal Mausoleum's Stone Lantern from the guardians!
 ETC_20150918_014256	Defeat Echad that can't identify friends from foes
-ETC_20150918_014257	Stop Archon from destroying the suppressor!
+ETC_20150918_014257	阻止 執政官 破壞 抑制器!
 ETC_20150918_014258	Stop the Royal Mausoleum Guardian from destroying the Royal Mausoleum!
 ETC_20150918_014259	Stop Bearkaras from destroying the Royal Mausoleum
 ETC_20150918_014260	Developer
@@ -15477,7 +15477,7 @@ ETC_20151001_015475	在10分鐘內破壞 Vubbe tribe flag
 ETC_20151001_015476	Defeat Shadowgaler!
 ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop them!
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
-ETC_20151001_015479	Archon is attacking!
+ETC_20151001_015479	執政官 正在攻擊!
 ETC_20151001_015480	Move to the next area through the Mage Tower Gate!
 ETC_20151001_015481	Gazing 傀儡 is attacking!
 ETC_20151001_015482	Move to the next area through the Mage Tower Gate
