@@ -678,7 +678,7 @@ ETC_20150317_000676	Quick Bebraspion
 ETC_20150317_000677	Hopping Bridge Honeypin
 ETC_20150317_000678	Stone-eating Kirmeleech
 ETC_20150317_000679	Fire Jar Magburk
-ETC_20150317_000680	Tempered Archon
+ETC_20150317_000680	惱火的 執政官
 ETC_20150317_000681	Indomitable Kepa Chieftain
 ETC_20150317_000682	Bizzare Velochard
 ETC_20150317_000683	Whirlwind Harpeia
@@ -970,7 +970,7 @@ ETC_20150317_000968	Mission 火蜥蜴
 ETC_20150317_000969	Mission Shadowgaler
 ETC_20150317_000970	Mission Specter Monarch
 ETC_20150317_000971	Mission Ironbaum
-ETC_20150317_000972	Mission Archon
+ETC_20150317_000972	Mission 執政官
 ETC_20150317_000973	Mission Yonazolem
 ETC_20150317_000974	Mission 克萊蒙
 ETC_20150317_000975	Simorph
@@ -2309,7 +2309,7 @@ ETC_20150317_002307	{memo X}Collected the herb!
 ETC_20150317_002308	Bring the jar near the pond!
 ETC_20150317_002309	You have already collected the sap!
 ETC_20150317_002310	這是什麼？
-ETC_20150317_002311	Archon seems to have recovered. Try talking to him!
+ETC_20150317_002311	執政官 看起來恢復正常了. 嘗試和他溝通吧!
 ETC_20150317_002312	In the description of the area where you picked up the music box
 ETC_20150317_002313	{memo X}The garbage is full.{nl}First to use the garbage and then re collect it.
 ETC_20150317_002314	Found a Piece of Vubbe Cloth! {nl} This might be a clue!
@@ -5780,7 +5780,7 @@ ETC_20150317_005778	攻擊減少
 ETC_20150317_005779	Attack has decreased.
 ETC_20150317_005780	Rage of Helgasercle
 ETC_20150317_005781	防禦增加
-ETC_20150317_005782	Rage of Archon
+ETC_20150317_005782	執政官的憤怒
 ETC_20150317_005783	Stickiness
 ETC_20150317_005784	Movement Speed has decreased due to stickiness.
 ETC_20150317_005785	In a state of rage. Your defense has increased.
@@ -10429,7 +10429,7 @@ ETC_20150401_010427	Earth Deadborns Cap
 ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Temple Shooter
 ETC_20150401_010430	Earth Canceril
-ETC_20150401_010431	Earth Archon
+ETC_20150401_010431	Earth 執政官
 ETC_20150401_010432	Catacomb Candle Spider 
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long-Branched Tree
@@ -10623,7 +10623,7 @@ ETC_20150401_010621	Hail 加比婭！
 ETC_20150401_010622	{memo X}Remembered a number {nl}
 ETC_20150401_010623	{memo X}Unjustifiable Bug Eggs
 ETC_20150401_010624	{memo X}Seal of Archon is weakened.
-ETC_20150401_010625	Archon is released from the seal!
+ETC_20150401_010625	執政官 從封印中解放了!
 ETC_20150401_010626	啟動中
 ETC_20150401_010627	Evil Energy Purifier activated!
 ETC_20150401_010628	Purifying the evil energy in 
@@ -11239,7 +11239,7 @@ ETC_20150428_011237	Destroy the 2nd Transport Magic Circle restraining Grita!
 ETC_20150428_011238	This is restraining magic..{nl}It's a trap!
 ETC_20150428_011239	{memo X}Defeat the 蠑螈 that appeared in the defense shield device!
 ETC_20150428_011240	Defeat the 傀儡 guarding the seal stone!
-ETC_20150428_011241	Defeat the Archon guarding the Flame Fusion Machine!
+ETC_20150428_011241	擊敗守護 Flame Fusion Machine 的 執政官!
 ETC_20150428_011242	{memo X}Defeat all the Chomadogs summoned by Antares!
 ETC_20150428_011243	Destroy the Magic Control Valve!
 ETC_20150428_011244	The Mineloader has started working!{nl}Defeat the Mineloader!
@@ -11766,11 +11766,11 @@ ETC_20150714_011764	Stop!
 ETC_20150714_011765	I am Evoniphon!
 ETC_20150714_011766	Yes!!
 ETC_20150714_011767	Yes!
-ETC_20150714_011768	Control the magic generating stones to stop all of them!
-ETC_20150714_011769	Magic Generating Stones
-ETC_20150714_011770	Archon has been released and abducted Jane!{nl}Defeat Archon and save Jane!
-ETC_20150714_011771	The magic stone of the interaction
-ETC_20150714_011772	Jane
+ETC_20150714_011768	控制并停止 魔力生成原石 的運作!
+ETC_20150714_011769	魔力生成原石
+ETC_20150714_011770	執政官已被釋放，拐走了 簡!{nl}打敗 執政官，拯救 簡!
+ETC_20150714_011771	作用魔力原石
+ETC_20150714_011772	簡
 ETC_20150714_011773	Defeat all the monsters that are going after spatial magic stones and{nl}retrieve the restored spatial magic stones!
 ETC_20150714_011774	Preserved Magic Field
 ETC_20150714_011775	Avoid the 黑色 shadow that is chasing after you and obtain the spatial magic stones!
@@ -11990,12 +11990,12 @@ ETC_20150714_011988	Memum Corridor
 ETC_20150714_011989	Satarti Hall
 ETC_20150714_011990	Supuve Stone Room
 ETC_20150714_011991	Garbingal Burial Chamber
-ETC_20150714_011992	The Room of Ancestral Rituals
-ETC_20150714_011993	Veikini Pray Room
-ETC_20150714_011994	Mausoleum of Valius
-ETC_20150714_011995	The Room of Consciousness
-ETC_20150714_011996	Vebaiki Burial Chamber
-ETC_20150714_011997	Uzdromo Stone Room
+ETC_20150714_011992	儀式廳
+ETC_20150714_011993	維基尼 祈禱室
+ETC_20150714_011994	巴魯斯 陵墓
+ETC_20150714_011995	覺悟之廳
+ETC_20150714_011996	貝柏奇 墓室
+ETC_20150714_011997	烏基達 石室
 ETC_20150714_011998	Nevuo Stone Room
 ETC_20150714_011999	Petrification Lab Room
 ETC_20150714_012000	Schilt Observatory Room
@@ -12512,24 +12512,24 @@ ETC_20150714_012510	The orb is not in the box!
 ETC_20150714_012511	The spatial magic stone is sealed with the barrier so you can't pull it out
 ETC_20150714_012512	Talking
 ETC_20150714_012513	Scattering the purification powders
-ETC_20150714_012514	Ask about Jane
-ETC_20150714_012515	Ask him why he has come here
-ETC_20150714_012516	Ask him what you should do to release him
-ETC_20150714_012517	Stop conversation
-ETC_20150714_012518	It seems that there isn't anything that you can feel magical power from
-ETC_20150714_012519	You can sense strong magical power somewhere
-ETC_20150714_012520	This magic generating stone is fake!{nl}All the stones are starting to supply the magical power again
-ETC_20150714_012521	Checking the responses of Balryus to the magical power
-ETC_20150714_012522	You've found the real magic generating stone!
-ETC_20150714_012523	It doesn't react to the magical power of Balryus
-ETC_20150714_012524	Blocking the magical power of magic generating stones
-ETC_20150714_012525	This stone has been already blocked
-ETC_20150714_012526	Magic generating stones are reacting to the magical power of Malryus and all the stones started to supply the magical power
-ETC_20150714_012527	Injecting the magical power into Balryus
-ETC_20150714_012528	This is the lamp which is already injected with magical power
-ETC_20150714_012529	The magical power of Balryus should be injected to the lamp of the proof for the artifacts of Balryus{nl}Use the Brooch that is endowed with the magical power of Balryus
-ETC_20150714_012530	Using the seal
-ETC_20150714_012531	All the seals of the lamps has been released{nl}Obtain the artifacts of Balryus
+ETC_20150714_012514	詢問關於簡
+ETC_20150714_012515	詢問她滯留在此的原因
+ETC_20150714_012516	詢問你該怎麼釋放她
+ETC_20150714_012517	結束對話
+ETC_20150714_012518	看起來你感覺不到魔力泉源
+ETC_20150714_012519	你感覺到附近有強力的魔力泉源
+ETC_20150714_012520	這 魔力生成原石 是假的!{nl}全部原石恢復成魔力供應狀態。
+ETC_20150714_012521	使用 巴魯斯魔力 感應檢查中
+ETC_20150714_012522	你找到真正的 魔力生成原石!
+ETC_20150714_012523	它對 巴魯斯魔力 不起任何反應
+ETC_20150714_012524	截斷 魔力生成原石 的魔力
+ETC_20150714_012525	原石的魔力已被截斷
+ETC_20150714_012526	魔力生成原石 對 巴魯斯魔力 產生反應，所有的原石重新開始供應魔力
+ETC_20150714_012527	灌入 巴魯斯魔力 中
+ETC_20150714_012528	這是一盞灌滿魔力的燈
+ETC_20150714_012529	需對 佐證之燈 灌入 巴魯斯魔力 以獲得 封印神器{nl}使用充滿巴魯斯魔力 的印章胸針吧
+ETC_20150714_012530	使用 印章 中
+ETC_20150714_012531	所有佐證之燈的封印已被解除.{nl}可以拿取 巴魯斯封印的神器
 ETC_20150714_012532	The evil energy has been already suppressed!
 ETC_20150714_012533	The interruptions from the subordinates of Naktis are harsh!
 ETC_20150714_012534	The door may open.
@@ -13174,11 +13174,11 @@ ETC_20150714_013172	The second tree
 ETC_20150714_013173	The third tree
 ETC_20150714_013174	REMAINS37_2_SQ_080_The trigger to create a session
 ETC_20150714_013175	Zubeck's Box
-ETC_20150714_013176	Sealed Archon
-ETC_20150714_013177	Relics Archive
-ETC_20150714_013178	The lamp of the proof
-ETC_20150714_013179	Sealed Valius' Artifact
-ETC_20150714_013180	Teleport Device
+ETC_20150714_013176	封印的 執政官
+ETC_20150714_013177	文物檔案
+ETC_20150714_013178	佐證之燈
+ETC_20150714_013179	巴魯斯 的封印神器
+ETC_20150714_013180	傳送器
 ETC_20150714_013181	黑色 Shadow
 ETC_20150714_013182	Wandering Spirit
 ETC_20150714_013183	The crystal of the hardened astral body
@@ -13554,8 +13554,8 @@ ETC_20150717_013552	The Evil Energy Purifier is already activated
 ETC_20150717_013553	Released the Seal of Guidance and summoned Guardian!
 ETC_20150717_013554	Released the Seal of Protection and Terra Imps are charging in!
 ETC_20150717_013555	Released the Seal of Blessing and the monsters in residence are weakening.
-ETC_20150717_013556	You've found the documents about magic generating stones
-ETC_20150717_013557	Resetting with Valius' magic
+ETC_20150717_013556	你找到關於 魔力生成原石 的文件
+ETC_20150717_013557	使用 巴魯斯 魔力重置中
 ETC_20150717_013558	You don't have enough crystal pieces
 ETC_20150717_013559	The poison in this spring is not enough
 ETC_20150717_013560	Let's take a rest for a while
@@ -14255,7 +14255,7 @@ ETC_20150918_014253	Many are injured.. We need help!
 ETC_20150918_014254	Cross here after drinking the enhanced Thorn flower powders!
 ETC_20150918_014255	Protect the Royal Mausoleum's Stone Lantern from the guardians!
 ETC_20150918_014256	Defeat Echad that can't identify friends from foes
-ETC_20150918_014257	Stop Archon from destroying the suppressor!
+ETC_20150918_014257	阻止 執政官 破壞 抑制器!
 ETC_20150918_014258	Stop the Royal Mausoleum Guardian from destroying the Royal Mausoleum!
 ETC_20150918_014259	Stop Bearkaras from destroying the Royal Mausoleum
 ETC_20150918_014260	Developer
@@ -15477,7 +15477,7 @@ ETC_20151001_015475	在10分鐘內破壞 Vubbe tribe flag
 ETC_20151001_015476	Defeat Shadowgaler!
 ETC_20151001_015477	Monsters have invaded the Mage Tower.{nl}Only you can stop them!
 ETC_20151001_015478	All the players have died.{nl}Mission failed!
-ETC_20151001_015479	Archon is attacking!
+ETC_20151001_015479	執政官 正在攻擊!
 ETC_20151001_015480	Move to the next area through the Mage Tower Gate!
 ETC_20151001_015481	Gazing 傀儡 is attacking!
 ETC_20151001_015482	Move to the next area through the Mage Tower Gate
