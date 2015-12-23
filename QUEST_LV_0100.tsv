@@ -1184,12 +1184,12 @@ QUEST_LV_0100_20150317_001183	That's why I have a favor to ask you.{nl}
 QUEST_LV_0100_20150317_001184	This is the pumpkin where lizard is in. {nl}I heard it's somewhere..I am sure you will find it.
 QUEST_LV_0100_20150317_001185	Thank you. This is an amazing jewel.{nl}It is rare that a Sadhu is interested in contemporary objects.
 QUEST_LV_0100_20150317_001186	That proves that it is an important object.
-QUEST_LV_0100_20150317_001187	Unknown being.
-QUEST_LV_0100_20150317_001188	How dare someone wants to confront me.{nl}Tell me the secret number. I can't tell you unless you tell me the number.
-QUEST_LV_0100_20150317_001189	You're a brave guy. {nl} There are five clues in 1st Mine Lot . {nl} No need to hurry. It will take a long time.
-QUEST_LV_0100_20150317_001190	Found it. {nl} Then I'll start from now.
-QUEST_LV_0100_20150317_001191	I'll give you a riddle. {nl} It is something you must do, have done most, and will have to do. {nl} Show your answer in action.
-QUEST_LV_0100_20150317_001192	Good work. {nl} You will be rewarded with proper compensation.
+QUEST_LV_0100_20150317_001187	謎之聲
+QUEST_LV_0100_20150317_001188	你怎麼敢挑戰我.{nl}告訴我暗碼. 除非你告訴我暗碼，要不然我一句話都不會和你談.
+QUEST_LV_0100_20150317_001189	你很勇敢. {nl} 水晶礦山 1至2層 會有5個提示 . {nl} 慢慢來. 這將會耗上一些時間.
+QUEST_LV_0100_20150317_001190	找到了. {nl} 那現在我開始咯.
+QUEST_LV_0100_20150317_001191	我將會給你個謎題. {nl} 這將會是你需要做的, 做最多的, 和你將會需要做的. {nl} 用行動秀出你的答案.
+QUEST_LV_0100_20150317_001192	做得好. {nl} 您将獲得适当补偿予以奖励.
 QUEST_LV_0100_20150317_001193	{memo X}What do you think are the factors that affect outcomes?{nl}If you just focus on attacking, then you may receive more damages.
 QUEST_LV_0100_20150317_001194	If you ask me what the strongest weapon is, my answer to that would be faith.{nl}An ally that you can truly rely on.
 QUEST_LV_0100_20150317_001195	$A Thaumaturge does not get stronger just by learning.{nl}You should experience it yourself.
@@ -3471,10 +3471,10 @@ QUEST_LV_0100_20150317_003470	I'll make a bet
 QUEST_LV_0100_20150317_003471	$The Wizard and Mage Tower (2)
 QUEST_LV_0100_20150317_003472	I will do it
 QUEST_LV_0100_20150317_003473	Hidden, and hidden.
-QUEST_LV_0100_20150317_003474	Open Sesame (1)
-QUEST_LV_0100_20150317_003475	I'll find the clue so give me a hint
-QUEST_LV_0100_20150317_003476	Open Sesame (2)
-QUEST_LV_0100_20150317_003477	I'll solve the riddle
+QUEST_LV_0100_20150317_003474	芝麻开门 (1)
+QUEST_LV_0100_20150317_003475	我會找到線索，所以請給我一個提示
+QUEST_LV_0100_20150317_003476	芝麻开门 (2)
+QUEST_LV_0100_20150317_003477	我會解開這個謎語
 QUEST_LV_0100_20150317_003478	Unseal the broken seal of Pasaga Cliff in Pillar Canyon
 QUEST_LV_0100_20150317_003479	{memo X}Releasing/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003480	{memo X}Releasing/ MAKING/3/TRACK_BEFORE/SSN_HATE_AROUND
@@ -5801,17 +5801,17 @@ QUEST_LV_0100_20150317_005800	Collect amber with lizard in it
 QUEST_LV_0100_20150317_005801	The Sadhu Master wants you to bring him something dearly. Get him the amber with lizard in it. 
 QUEST_LV_0100_20150317_005802	Got the amber with lizard. Give it to the Sadhu Master.
 QUEST_LV_0100_20150317_005803	Get %s
-QUEST_LV_0100_20150317_005804	Talk to unknown being
-QUEST_LV_0100_20150317_005805	You can hear a strange voice somewhere. Talk to the unknown being.
-QUEST_LV_0100_20150317_005806	Enter the clue
-QUEST_LV_0100_20150317_005807	The unknown being says you need to bring more clues for him to talk. Find and enter the five clues from Crustal Mines 1st Floor. 
-QUEST_LV_0100_20150317_005808	Found the glues about the unknown being. Talk to the unknown being again. 
-QUEST_LV_0100_20150317_005809	Hunting.
-QUEST_LV_0100_20150317_005810	The unknown being gave you a riddle stating,
-QUEST_LV_0100_20150317_005811	the thing to do, thing that has been done, and will keep doing.
-QUEST_LV_0100_20150317_005812	Show your answer through action.
-QUEST_LV_0100_20150317_005813	Solved the riddle. Talk to the unknown being. 
-QUEST_LV_0100_20150317_005814	Answer to the riddle
+QUEST_LV_0100_20150317_005804	和 謎之聲 交談
+QUEST_LV_0100_20150317_005805	你可以聽到從某處傳出奇怪的交談聲. 和 謎之聲 交談.
+QUEST_LV_0100_20150317_005806	輸入線索
+QUEST_LV_0100_20150317_005807	謎之聲 說你需要帶來更多的線索，他才願意和你聊天. 到 水晶礦山 1層 尋找5個線索. 
+QUEST_LV_0100_20150317_005808	找到了所有關於 謎之聲 的線索. 回去向 謎之聲 報告. 
+QUEST_LV_0100_20150317_005809	狩獵.
+QUEST_LV_0100_20150317_005810	謎之聲 給你一個提示,
+QUEST_LV_0100_20150317_005811	即將要做的事情, 已經完成的事情, 和將會繼續做.
+QUEST_LV_0100_20150317_005812	用行動證明你的答案吧.
+QUEST_LV_0100_20150317_005813	解開謎語. 向 謎之聲 報告. 
+QUEST_LV_0100_20150317_005814	回答謎語
 QUEST_LV_0100_20150317_005815	Release the seal at Pasaga Cliff.
 QUEST_LV_0100_20150317_005816	{memo X}
 QUEST_LV_0100_20150317_005817	{memo X}Monsters suddenly appeared as you tried to remove the seal. Defeat them and protect yourself. 
