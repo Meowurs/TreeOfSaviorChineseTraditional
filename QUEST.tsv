@@ -44,8 +44,8 @@ QUEST_20150317_000043	Force start?
 QUEST_20150317_000044	Items to be deleted
 QUEST_20150317_000045	Select GenType
 QUEST_20150317_000046	Select Coordinates
-QUEST_20150317_000047	$Knight Titas
-QUEST_20150317_000048	$If so, go see Knight Commander Uska in Klaipeda. {nl}But first, I have an earnest request that I'd like you to attend to.
+QUEST_20150317_000047	$騎士 帝塔絲
+QUEST_20150317_000048	$If so, go see Knight Commander Uska in 克萊佩達. {nl}But first, I have an earnest request that I'd like you to attend to.
 QUEST_20150317_000049	$It would be nice if I could find a moment to relax…
 QUEST_20150317_000050	Sparnas… {nl}Not someone to take lightly…
 QUEST_20150317_000051	Soldier Moody
@@ -74,12 +74,12 @@ QUEST_20150317_000073	{memo X}Please, forget about me and just leave. {nl}The fl
 QUEST_20150317_000074	Lena
 QUEST_20150317_000075	Please, tell me your life story. {nl}We follow the will of Vibora and record all that is in this world.
 QUEST_20150317_000076	Henryka
-QUEST_20150317_000077	Hello! {nl}Welcome to the Klaipeda branch of the Mage Society. {nl}We specialize in studying the strange phenomena that occur when special items are combined.
+QUEST_20150317_000077	Hello! {nl}Welcome to the 克萊佩達 branch of the Mage Society. {nl}We specialize in studying the strange phenomena that occur when special items are combined.
 QUEST_20150317_000078	There's nothing to see here but steam and Vubbes. {nl}Wait, what's that thing with the big face that's approaching?!
 QUEST_20150317_000079	The land needs our attention as well. {nl}The world still isn't ruined… right?
 QUEST_20150317_000080	If we stayed respectful, then we'd still have that favor and knowledge. {nl}We should all consider whether or not this mess is our fault because we relied on the Goddess for everything.
-QUEST_20150317_000081	Bulletin Board
-QUEST_20150317_000082	Welcome to the mining town of Klaipeda!
+QUEST_20150317_000081 公告板
+QUEST_20150317_000082	Welcome to the mining town of 克萊佩達!
 QUEST_20150317_000083	Indifferent Widow
 QUEST_20150317_000084	I'm not sure I understand it completely, but what I'm sure of is that the Goddesses didn't disappear all at once.
 QUEST_20150317_000085	The first to disappear was the Goddess Gabija. {nl}I heard it was a very long time ago. {nl}One by one, starting with Gabija, they stopped replying.
@@ -106,36 +106,36 @@ QUEST_20150317_000105	$Isn't it true that the Goddesses haven't been responding 
 QUEST_20150317_000106	$You can find Class Masters all around the kingdom. {nl}Why don't you visit them and learn what you can?
 QUEST_20150317_000107	$You don't know about Medzio Diena? You must have come from really far away. {nl}Four years ago, things went out of control in the capital.
 QUEST_20150317_000108	${memo X}It was a disaster… Many people were either injured or killed. {nl}Once gentle creatures grew fierce and many new monsters emerged.
-QUEST_20150317_000109	$If you want to understand what happened on Medzio Diena four years ago, then go to Klaipeda. {nl}Many of its survivors have taken refuge there.
+QUEST_20150317_000109	$If you want to understand what happened on Medzio Diena four years ago, then go to 克萊佩達. {nl}Many of its survivors have taken refuge there.
 QUEST_20150317_000110	Eastern Woods Sentinel
 QUEST_20150317_000111	Are you heading to the Eastern Woods? {nl}You mustn't! It's far too dangerous!
 QUEST_20150317_000112	Damn, those stubborn things chased us this far!
 QUEST_20150317_000113	{memo X}Those screams… We're under attack!
 QUEST_20150317_000114	Safety Instructions
 QUEST_20150317_000115	1. Only authorized personnel may enter. {nl}2. Always follow the directions of the mining supervisor.
-QUEST_20150317_000116	3. Do not approach closed-off areas. {nl}4. Any suspicious individuals should be reported to the Klaipeda Knights.
+QUEST_20150317_000116	3. Do not approach closed-off areas. {nl}4. Any suspicious individuals should be reported to the 克萊佩達 Knights.
 QUEST_20150317_000117	Supply Base Soldier
 QUEST_20150317_000118	I've never been in a real fight before so I'm a bit nervous.
 QUEST_20150317_000119	Farm Sentinel
 QUEST_20150317_000120	My colleague is in the middle of a battle at the Miners' Village. {nl}I've thought of going to help, but the Eastern Woods is in trouble as well, so all I can do is worry.
 QUEST_20150317_000121	I think this mission has shown me enough monsters for a lifetime. {nl}It used to be just groups of Vubbes.
 QUEST_20150317_000122	{memo X}Chupacabras are fond of the streams and lush vegetation of the northern area.
-QUEST_20150317_000123	Klaipeda Guard Captain
+QUEST_20150317_000123	克萊佩達 Guard Captain
 QUEST_20150317_000124	You're the…
 QUEST_20150317_000125	{memo X}It looks like you can see into the upper forest from here. {nl}Try not to get into trouble.
 QUEST_20150317_000126	You don't have the required quest item. Are you sure you want to continue?
-QUEST_20150317_000127	Klaipeda Girl
+QUEST_20150317_000127	克萊佩達 Girl
 QUEST_20150317_000128	My neighbor used to be a monster hunter. {nl}He's retired now, though. It was too dangerous.
 QUEST_20150317_000129	{memo X}It would be nice if all these Revelators being here meant that the Goddesses are back.
 QUEST_20150317_000130	It might be silly to hope for the Goddess' return, but it's better than nothing.
-QUEST_20150317_000131	Klaipeda Lady
+QUEST_20150317_000131	克萊佩達 Lady
 QUEST_20150317_000132	We can still grow from the land, and have a warm hearth at our homes to rest at. {nl}I will always believe the Goddess is somewhere in the world.
 QUEST_20150317_000133	Keep faith. {nl}The Goddess may still send a savior to us.
 QUEST_20150317_000134	Hoplite Master
 QUEST_20150317_000135	$If the sword is a symbol of power, then the spear is that of pure destruction. {nl}Power or destruction - what would you reach for on the battlefield?
 QUEST_20150317_000136	Machine Worker
 QUEST_20150317_000137	Even with the world as chaotic as it is, we can't stop working. {nl}It's been four years. Isn't it time to make peace with it and start over?
-QUEST_20150317_000138	Klaipeda is a town that lives off its mining. {nl}With Medzio Diena, we ought to work on planting trees or cutting them.
+QUEST_20150317_000138	克萊佩達 is a town that lives off its mining. {nl}With Medzio Diena, we ought to work on planting trees or cutting them.
 QUEST_20150317_000139	My old man did this thing where he checked around corners for anything nice. {nl}Sometimes, he'd get lucky and find a nice treasure chest. I wonder who leaves them there.
 QUEST_20150317_000140	Retired Hunter
 QUEST_20150317_000141	I remember this battle in a deep canyon where soldiers fought a huge monster. {nl}Seeing the giant thing fall was amazing, but what was more amazing was the spoils.
@@ -170,9 +170,9 @@ QUEST_20150317_000169	{memo X}The thieves who entered this tower were burned ali
 QUEST_20150317_000170	Demon Queen Gesti
 QUEST_20150317_000171	Insolent humans.
 QUEST_20150317_000172	Just you wait. This isn't the end. {nl}Pray with your heart that Laima will save this world.
-QUEST_20150317_000173	Klaipeda Officer
-QUEST_20150317_000174	{memo X}Welcome, welcome. {nl}Sir Uska is waiting at Klaipeda's central square. {nl}Oh, did you need anything else, first?
-QUEST_20150317_000175	Do you want to head to Klaipeda's gate right away?
+QUEST_20150317_000173	克萊佩達 Officer
+QUEST_20150317_000174	{memo X}Welcome, welcome. {nl}Sir Uska is waiting at 克萊佩達's central square. {nl}Oh, did you need anything else, first?
+QUEST_20150317_000175	Do you want to head to 克萊佩達's gate right away?
 QUEST_20150317_000176	Temporary Operator
 QUEST_20150317_000177	Please change this character's status.
 QUEST_20150317_000178	NPC HIDE/UNHIDE Setting!
@@ -282,7 +282,7 @@ QUEST_20150317_000281	{memo X}I thank you, Savior. {nl}If I had listened to Laim
 QUEST_20150317_000282	{memo X}Thanks to you, I have regained my strength, but it has only just begun. {nl}In return, I shall lure away the demons with a false revelation at the tower.
 QUEST_20150317_000283	{memo X}Before that, I have something to tell you: {nl}Laima's story.
 QUEST_20150317_000284	Auctioneer
-QUEST_20150317_000285	It ain't easy to get the good stuff. {nl}Merchants have been rethinking their routes thanks to the monsters around Klaipeda.
+QUEST_20150317_000285	It ain't easy to get the good stuff. {nl}Merchants have been rethinking their routes thanks to the monsters around 克萊佩達.
 QUEST_20150317_000286	The auction has started! {nl}We went through a lot of trouble to bring you these listed items. {nl}Let's start the bidding!
 QUEST_20150317_000287	These are the West Siauliai Woods. {nl}We should give a certain amount away when the villagers tend to the memorials, right?
 QUEST_20150317_000288	So the Thaumaturge Master sent you. {nl}One question, first. The center of Fedimian holds a statue designed after which Goddess?
@@ -387,7 +387,7 @@ QUEST_20150317_000386	Speaking of… {nl}About the plants mutating since four ye
 QUEST_20150317_000387	I wonder what Goddess Zemyna will think. {nl}Everything will be revealed when the Goddess returns but… {nl}Oh, what blasphemous words I speak.
 QUEST_20150317_000388	Have you ever seen the stars glittering red in the night sky? {nl}That's the very symbol of Goddess Vakarine. {nl}She leads the evening star and wakes Goddess Ausrine the following day.
 QUEST_20150317_000389	$She also oversees energy and rest, so she is the guardian of travelers like you. {nl}Shout Goddess Vakarine's name three times when your legs hurt and you'll feel much better.
-QUEST_20150317_000390	What are you doing here? {nl}Did the Goddess also tell you to go to Klaipeda in your dreams?
+QUEST_20150317_000390	What are you doing here? {nl}Did the Goddess also tell you to go to 克萊佩達 in your dreams?
 QUEST_20150317_000391	Still following me after all that? {nl}Fine, struggle all you want.
 QUEST_20150317_000392	{memo X}There is a Maze Tower near Fedimian known to have been built by Archmage Agailla Flurry. {nl}The tower has never been revealed and no entrance can be found.
 QUEST_20150317_000393	{memo X}Well, that's why some say it's just a made up story… {nl}But recently there have been people claiming to have come from there.
@@ -399,14 +399,14 @@ QUEST_20150317_000398	{memo X}The first Paladin was told many things by the Godd
 QUEST_20150317_000399	{memo X}Anyway, I will go back to battle so please help the guards and my followers. {nl}I'll meet you again in Jade-Filled Cliff.
 QUEST_20150317_000400	Disciple of the Elderly
 QUEST_20150317_000401	{memo X}Helping reconstruct Fedimian may be more meaningful than pottery. {nl}But people need something to soothe their hearts.
-QUEST_20150317_000402	Sometimes, I also place the clay tablets with people's wishes. {nl}Reading old people's wishes is fun.
+QUEST_20150317_000402	Sometimes, I also place the 泥板s with people's wishes. {nl}Reading old people's wishes is fun.
 QUEST_20150317_000403	Fedimian Old Lady
 QUEST_20150317_000404	It's relieving to see the Holy District intact. {nl}This is all a blessing from Goddess Zemyna.
 QUEST_20150317_000405	Get the Token of Training from the Training Manager. {nl}I'll let you join our troop if you can pass the training.
 QUEST_20150317_000406	You should take responsibility for the troop's safety in the Training Camp. {nl}It'd be a bad idea to leave these excited young men without any supervision, right?
 QUEST_20150317_000407	Uska told me about you. {nl}All the Revelators I've met so far were no better than the Kepas, though.
 QUEST_20150317_000408	Help the herbalists before you get into training. {nl}I need to see if you have what it takes to protect my troops. Training will come after.
-QUEST_20150317_000409	My father told me Klaipeda is also becoming a difficult place to live.
+QUEST_20150317_000409	My father told me 克萊佩達 is also becoming a difficult place to live.
 QUEST_20150317_000410	There are many people who want to buy things but it's not easy to get what they want. {nl}We have enough food supplies for now but it won't last long.
 QUEST_20150317_000411	I heard the town men can't make their way back because of the monsters. {nl}We have food but it will run out soon…
 QUEST_20150317_000412	How will we live if this continues to go on? {nl}Where have all the Goddesses gone?
@@ -554,7 +554,7 @@ QUEST_20150317_000553	I used to be a miner myself. {nl}I didn't see many monster
 QUEST_20150317_000554	They say there are many holy relics hidden in the Tenet Church. {nl}Some of them are said to transport people to a place where no one can go… {nl}Amazing, isn't it?
 QUEST_20150317_000555	{memo X}One day, I will find out. {nl}Even if that entails my meeting the Goddess.
 QUEST_20150317_000556	{memo X}I don't know what to do if you are like that…
-QUEST_20150317_000557	Crystal Mine 2F is closed until further notice due to safety reasons. {nl} - Klaipeda Mines Union
+QUEST_20150317_000557	Crystal Mine 2F is closed until further notice due to safety reasons. {nl} - 克萊佩達 Mines Union
 QUEST_20150317_000558	Business Guide
 QUEST_20150317_000559	Welcome! This is the Mine Worker's Resting Place. {nl}Warm potatoes and drinks have been prepared for you. {nl}{nl}Business hours: same as mining time - may change seasonally.
 QUEST_20150317_000560	Notice
@@ -597,7 +597,7 @@ QUEST_20150317_000596	Old Potter
 QUEST_20150317_000597	The workshop was destroyed by the earthquake on Medzio Diena. {nl}It's been four years since I last worried on how to live.
 QUEST_20150317_000598	I used to do silver craft but now I'm using my talents to make pottery decorations. {nl}People from across the kingdom gather here for their wishes.
 QUEST_20150317_000599	Wagon Carrier
-QUEST_20150317_000600	It's a pot to put your wishes in. {nl}Look inside and you'll see clay tablets with wishes written on them. {nl}Some of them are pretty funny.
+QUEST_20150317_000600	It's a pot to put your wishes in. {nl}Look inside and you'll see 泥板s with wishes written on them. {nl}Some of them are pretty funny.
 QUEST_20150317_000601	Thankfully, workers from different areas are gathering to help restore Fedimian. {nl}Look at where we've come since Medzio Diena. {nl}I really thought the world would end that day.
 QUEST_20150317_000602	Fedimian Guard
 QUEST_20150317_000603	$It's impossible to see the gigantic Statue of Goddess Zemyna all at once. {nl}Even after its lower half was buried underground after the huge earthquake.
@@ -617,9 +617,9 @@ QUEST_20150317_000616	The tree was so tall that it touched the sky and none coul
 QUEST_20150317_000617	Flora
 QUEST_20150317_000618	On Medzio Diena, many plants and animals turned into violent monsters.
 QUEST_20150317_000619	If you could understand the nature of the changes, reversing it may be possible.
-QUEST_20150317_000620	Declaration of Klaipeda Priest-Bishop
-QUEST_20150317_000621	On Medzio Diena, the Market of Klaipeda disappeared and the king passed away. {nl}Most ministers and officials of the Kingdom perished as well, so we cannot expect support from the Capital.
-QUEST_20150317_000622	Hence, under the circumstances, I declare my autonomy as the Bishop of Klaipeda. {nl} - Bishop Baek
+QUEST_20150317_000620	Declaration of 克萊佩達 Priest-Bishop
+QUEST_20150317_000621	On Medzio Diena, the Market of 克萊佩達 disappeared and the king passed away. {nl}Most ministers and officials of the Kingdom perished as well, so we cannot expect support from the Capital.
+QUEST_20150317_000622	Hence, under the circumstances, I declare my autonomy as the Bishop of 克萊佩達. {nl} - Bishop Baek
 QUEST_20150317_000623	Hero Biography
 QUEST_20150317_000624	If it wasn't for the four heroes, most of the cities would have been destroyed. {nl}Their holy weapons were a sight to behold during Medzio Diena.
 QUEST_20150317_000625	{memo X}Among them, the Paladin Master was a hero who saved many lives in the capital. {nl}Currently, he has gone to Silverstream Gorge to fight a great evil.
@@ -634,8 +634,8 @@ QUEST_20150317_000633	Because of the revolt, Ruklys' city lost its name and fell
 QUEST_20150317_000634	Our Friend
 QUEST_20150317_000635	You're my cute companion. {nl}You have scary teeth and sharp claws,{nl}but I'm not scared! {nl}You're my cute companion!
 QUEST_20150317_000636	You're my good-friend companion. {nl}The world is full of monsters, {nl}but I'm not scared. {nl}You're my good-friend companion.
-QUEST_20150317_000637	Klaipeda Goddess Statue
-QUEST_20150317_000638	{memo X}Only the Dievdirbys that carved it and Modestas know for whom the Goddess Statue in Klaipeda Central Plaza is for.
+QUEST_20150317_000637	克萊佩達 Goddess Statue
+QUEST_20150317_000638	{memo X}Only the Dievdirbys that carved it and Modestas know for whom the Goddess Statue in 克萊佩達 Central Plaza is for.
 QUEST_20150317_000639	{memo X}Many challenged Modestas for a wager but he never lost until he died.
 QUEST_20150317_000640	Guardian of Zachariel Mausoleum
 QUEST_20150317_000641	Aside from the guardians who watch Zachariel's Mausoleum, {nl}there are stone statues guarding the Mausoleum.
@@ -694,39 +694,39 @@ QUEST_20150317_000693	This object must be from the era of Agailla Flurry as no o
 QUEST_20150317_000694	I am sure that this object will bring a new beginning of magic, {nl}but since it is separated at the highest place atop the tower, we have no way to reach it.
 QUEST_20150317_000695	We can't demolish the tower nor destroy part of it just to get it.
 QUEST_20150317_000696	I will end my writing by stating that this object has more to be investigated.
-QUEST_20150317_000697	Potter's Clay Tablet
+QUEST_20150317_000697	Potter's 泥板
 QUEST_20150317_000698	{memo X}I hope Fedimian is restored to its previous state before I die. {nl}At least, I hope I can make thousand potteries with a wish in each of them.
-QUEST_20150317_000699	Girl's Clay Tablet
+QUEST_20150317_000699	Girl's 泥板
 QUEST_20150317_000700	I hope you find your lost brother at the old garden of the Goddess.
-QUEST_20150317_000701	Commander Willis' Clay Tablet
+QUEST_20150317_000701	Commander Willis' 泥板
 QUEST_20150317_000702	I pray to the Goddess that I can continue my work as an administration officer in the city. {nl}I don't like work as a dispatched worker.
-QUEST_20150317_000703	Klaipeda Farmer's Clay Tablet
+QUEST_20150317_000703	克萊佩達 Farmer's 泥板
 QUEST_20150317_000704	I want to take back my farm and experience the challenge of potato farming again.
-QUEST_20150317_000705	Soldier's Clay Tablet
+QUEST_20150317_000705	Soldier's 泥板
 QUEST_20150317_000706	I hope Ryudas gets called up to the military. {nl}I hope the supplies come in time at the battlefield!
 QUEST_20150317_000707	I hope we can recapture Kateen Forest. {nl}I hope we never encounter Deadborn.
-QUEST_20150317_000708	Ranger Master's Clay Tablet
+QUEST_20150317_000708	Ranger Master's 泥板
 QUEST_20150317_000709	{memo X}I don't like Fiona and wonder why she's the Hunter Master. {nl}But, if we need her to defeat Evoniphon, I'm fine with allying with her.
-QUEST_20150317_000710	Coben's Clay Tablet
+QUEST_20150317_000710	Coben's 泥板
 QUEST_20150317_000711	I pray to the Goddess that I find my lost brother again. {nl}We could open another bar and spend all day there listening to his heroic stories.
-QUEST_20150317_000712	Kevin's Clay Tablet
+QUEST_20150317_000712	Kevin's 泥板
 QUEST_20150317_000713	{memo X}I hope I can make it big out of the excavation site of Zachariel's royal tomb…
-QUEST_20150317_000714	Uska's Clay Tablet
-QUEST_20150317_000715	Goddess. {nl}As the chief that leads the knights, I hope I can protect Klaipeda myself.
-QUEST_20150317_000716	Wizard Master's Clay Tablet
+QUEST_20150317_000714	Uska's 泥板
+QUEST_20150317_000715	Goddess. {nl}As the chief that leads the knights, I hope I can protect 克萊佩達 myself.
+QUEST_20150317_000716	Wizard Master's 泥板
 QUEST_20150317_000717	I will become a Wizard Master some day. {nl}And then I will become a great wizard like Agailla Flurry.
-QUEST_20150317_000718	Clay Tablet with a wish in it
+QUEST_20150317_000718	泥板 with a wish in it
 QUEST_20150317_000719	It is all due to the blessing of the Goddess that we {nl}were able to avoid Medzio Diena in Andale Village. {nl}I hope our village is happy and flourishes from now on.
-QUEST_20150317_000720	Titas' Clay Tablet
+QUEST_20150317_000720	帝塔絲的泥板
 QUEST_20150317_000721	I hope the Revelators I've met find the Goddess. {nl}I don't understand why I couldn't become a Revelator myself though.
-QUEST_20150317_000722	Paladin Master's Clay Tablet
+QUEST_20150317_000722	Paladin Master's 泥板
 QUEST_20150317_000723	{memo X}I beg to the Goddess. {nl}I hope the day where the Watchers collect my pledge never comes…
-QUEST_20150317_000724	Cyrenia Odell's Clay Tablet
+QUEST_20150317_000724	Cyrenia Odell's 泥板
 QUEST_20150317_000725	I hope I can solve the secret of the Royal Tomb of Zachariel.
 QUEST_20150317_000726	While I am on dispatch, I pray to the Goddess that I never get cursed by petrification.
-QUEST_20150317_000727	Pilgrim's Clay Tablet
+QUEST_20150317_000727	Pilgrim's 泥板
 QUEST_20150317_000728	I am going to the Great Cathedral to sanctify my marriage with him. {nl}I hope Pilgrim Path is safe.
-QUEST_20150317_000729	Wizard's Clay Tablet
+QUEST_20150317_000729	Wizard's 泥板
 QUEST_20150317_000730	Helgasercle, stop attacking!
 QUEST_20150317_000731	Zachariel's Fragment
 QUEST_20150317_000732	Forever shine, my Kingdom!
@@ -772,17 +772,17 @@ QUEST_20150317_000771	There is something in the pot. {nl}Which one should I chec
 QUEST_20150317_000772	There are some old pots among the new pots. {nl}Which one should I check?
 QUEST_20150317_000773	Seems like you can take out the contents of the pot if you turn it upside down. {nl}Which one should I turn?
 QUEST_20150317_000774	There are fragments scattered among the pot. {nl}Should I take a look?
-QUEST_20150317_000775	There is a clay tablet with writing on it. {nl}Should I take a look?
-QUEST_20150317_000776	There is a clay tablet that looks rather new.
-QUEST_20150317_000777	There is a clay tablet with writing on it.
-QUEST_20150317_000778	The clay tablet looks really old but it can be read.
-QUEST_20150317_000779	Found a very old clay tablet.
+QUEST_20150317_000775	There is a 泥板 with writing on it. {nl}Should I take a look?
+QUEST_20150317_000776	There is a 泥板 that looks rather new.
+QUEST_20150317_000777	There is a 泥板 with writing on it.
+QUEST_20150317_000778	The 泥板 looks really old but it can be read.
+QUEST_20150317_000779	Found a very old 泥板.
 QUEST_20150317_000780	There is nothing.
 QUEST_20150317_000781	Seems like you might break the pot if you mishandle it.
 QUEST_20150317_000782	Empty.
 QUEST_20150317_000783	A bug came out.
 QUEST_20150317_000784	A half eaten potato came out.
-QUEST_20150317_000785	A clay tablet came out, but it's too worn out to be read.
+QUEST_20150317_000785	A 泥板 came out, but it's too worn out to be read.
 QUEST_20150317_000786	Importance of Rest
 QUEST_20150317_000787	Young men nowadays are so restless. {nl}They try to do everything while standing up.
 QUEST_20150317_000788	Whether it be making weapons, making potions, or even cooking, they try to do it while standing. {nl}You must calm yourself and sit in a comfortable position.
@@ -790,7 +790,7 @@ QUEST_20150317_000789	Sit down and prepare all the tools and materials you need.
 QUEST_20150317_000790	Goddess Austeja
 QUEST_20150317_000791	{memo X}Thank you again in the name of the Goddess. {nl}Now I will follow the stars in search of Goddess Ausrine.
 QUEST_20150317_000792	$It may be better for me to just guard the seal. {nl}But I believe finding all my lost sisters will be the solution to all of this.
-QUEST_20150317_000793	$I wish you well… {nl}And may you and this land be blessed. 
+QUEST_20150317_000793	$I wish you well… {nl}And may you and this land be blessed.
 QUEST_20150317_000794	{memo X}Right. I think so too. {nl}The monsters are definitely preying on our honey. {nl}But it is better to have evidence on hand, so bring a piece of beehive {nl}from Saltus Bee Farm.
 QUEST_20150317_000795	Coward
 QUEST_20150317_000796	{memo X}I'm called a coward but I can't do anything. I'm really scared.
@@ -804,20 +804,20 @@ QUEST_20150317_000803	{memo X}The monsters have ruined the entire harvest.
 QUEST_20150317_000804	As you may already know, our kingdom has five major Goddesses and other Goddesses who assist them. {nl}But nobody knows where all of them are now.
 QUEST_20150317_000805	Flower Shop Lady
 QUEST_20150317_000806	People don't buy flowers anymore. {nl}The only flowers they buy are the ones to offer for the Goddesses' return. {nl}It's really depressing in many ways.
-QUEST_20150317_000807	I hope Klaipeda becomes lively like it used to be… {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
+QUEST_20150317_000807	I hope 克萊佩達 becomes lively like it used to be… {nl}With the fragrance of flowers in the air and people dancing in spring to worship Goddess Zemyna, {nl}the Goddess of the Earth…
 QUEST_20150317_000808	Warning
-QUEST_20150317_000809	$Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful. 
+QUEST_20150317_000809	$Beware of Leaf Bugs! They are different from Beetles. {nl}It is hard to fight them when they come in flocks so be careful.
 QUEST_20150317_000810	$Notice: Large Kepa is not an onion!{nl}Wearing goggles is useless against Large Kepa. {nl}Watch out for powerful attacks that shake the ground.
 QUEST_20150317_000811	$Please worship the Goddess Statue with a pious mind. You will grow stronger with {nl}the Goddess Zemyna's power, blessed by the Overseer of the Earth herself.
 QUEST_20150317_000812	$The Statue of Goddess Zemyna lies at the end of this road.
 QUEST_20150317_000813	$Warning! Hanaming-infested area. {nl}Do not be fooled by their cute appearance. {nl}They attack in groups and…{nl}(Red marks are covering the rest.)
 QUEST_20150317_000814	$Caution! What happens to you beyond this point is your responsibility! {nl}Golems are rumored to appear in this area. Do not go any further.
 QUEST_20150317_000815	P.S. It is better to run away than to pray to the Goddess in case you encounter Golems.
-QUEST_20150317_000816	The Goddesses have disappeared. {nl}But if we fight bravely against the demons, perhaps the Goddesses will return someday. {nl} - Laimonas
-QUEST_20150317_000817	Attention to those who come to Klaipeda after having a dream about the revelation. {nl}Knight Uska is waiting for you in the Central Plaza.
-QUEST_20150317_000818	Welcome to Klaipeda Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
-QUEST_20150317_000819	Use the stairs on the right to go to the Klaipeda Central Plaza.
-QUEST_20150317_000820	Klaipeda Central Plaza
+QUEST_20150317_000816	女神們都消失了. {nl}假如我們勇敢地和惡魔們戰鬥, 女神們應該會總有一天會歸來. {nl} - 萊莫納斯
+QUEST_20150317_000817	Attention to those who come to 克萊佩達 after having a dream about the revelation. {nl}Knight Uska is waiting for you in the Central Plaza.
+QUEST_20150317_000818	Welcome to 克萊佩達 Shopping Center. {nl}You can shop for a variety of accessories, tools, equipment, and other items.
+QUEST_20150317_000819	Use the stairs on the right to go to the 克萊佩達 Central Plaza.
+QUEST_20150317_000820	克萊佩達 Central Plaza
 QUEST_20150317_000821	Signboard
 QUEST_20150317_000822	East Siauliai Woods
 QUEST_20150317_000823	{memo X}It is unknown who the statue honors or how old it is. {nl}But it certainly has mysterious powers that move selected people to other areas.
@@ -828,7 +828,7 @@ QUEST_20150317_000827	Danger! The vacant lot below these crossroads {nl}has regu
 QUEST_20150317_000828	People are now praying less and less to the Goddesses. {nl}They're losing hope…
 QUEST_20150317_000829	How could I forget you… {nl}Please do not roam around this cursed land {nl}and go to the arms of the Goddess.
 QUEST_20150317_000830	Holiday Notice
-QUEST_20150317_000831	I have been enlisted to the army to save the kingdom. {nl}Therefore, the restaurant will be closed in the meantime. {nl} - Owner of Klaipeda's Specialty Restaurant, Vulinya
+QUEST_20150317_000831	I have been enlisted to the army to save the kingdom. {nl}Therefore, the restaurant will be closed in the meantime. {nl} - Owner of 克萊佩達's Specialty Restaurant, Vulinya
 QUEST_20150317_000832	$Don't blow out the candles. {nl}They guide the souls so they don't lose their way.
 QUEST_20150317_000833	As you know, the King died on Medzio Diena and the fate of other royalty and nobility were no different. {nl}The kingdom is holding together somehow but… now we can only pray.
 QUEST_20150317_000834	{memo X}Now we can only pray…
@@ -837,10 +837,10 @@ QUEST_20150317_000836	King Zachariel's Will
 QUEST_20150317_000837	{memo X}Dear Revelator. {nl}Listen to the interpretations of the revelation.
 QUEST_20150317_000838	Hahaha… {nl}Who would've thought that I would be challenged by humans…
 QUEST_20150317_000839	Your death shall be most painful!
-QUEST_20150317_000840	Soldier Recruitment Notice
-QUEST_20150317_000841	We want you! {nl}Protect your family and your kingdom. {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000842	We are seeking brave young men who will bring order to these chaotic times. {nl}The world needs you! {nl} - Klaipeda Recruiting Station
-QUEST_20150317_000843	Honor. {nl}That is what your uniform will be made of. {nl} - Klaipeda Recruiting Station
+QUEST_20150317_000840	招募公告
+QUEST_20150317_000841	我們需要你! {nl}保衛你的家人和你的王國. {nl} - 克萊佩達 徵兵站
+QUEST_20150317_000842	我們正在尋求像你這樣可以為這混沌時代帶來穩定的勇士. {nl}這世界需要你! {nl} - 克萊佩達 徵兵站
+QUEST_20150317_000843	榮譽. {nl}這就是你的軍裝材料. {nl} - 克萊佩達 徵兵站
 QUEST_20150317_000844	Warning! Civilians prohibited.
 QUEST_20150317_000845	{memo X}Only authorized personnel are allowed inside.
 QUEST_20150317_000846	Impossible.
@@ -990,7 +990,7 @@ QUEST_20150317_000989	The 4th of X {nl} - {nl} There's been very little traffic 
 QUEST_20150317_000990	I might not know for what reason people would come all the way out here for, {nl} but after Medzio Diena, it feels great to be in such a cheerful town. {Nl} I might skip work tomorrow and party along. {Nl} {nl}
 QUEST_20150317_000991	The 5th of X {nl} - {nl} I wanted to befriend my new neighbors as soon as possible so I brought some potato dumplings over. {nl}At the door, I could hear the house rattle. My neighbor then appeared, expressionless, {nl}but then had a cheerful expression when he saw the potato dumplings. {Nl}
 QUEST_20150317_000992	He apologized for his lack of spirit before, as he and his son were putting up wallpaper. {Nl} What a harmonious family, I wonder if I could create something like that?
-QUEST_20150317_000993	The 10th of X {nl} - {nl} Mr. Raman, who lived at the bank of the creek opposite from us, went on leave. His wife said he was off to get firewood. {nl} Well, for a long time he was gone in Klaipeda. {nl}I've heard that you can find a lot of beautiful girls in Klaipeda. {Nl}
+QUEST_20150317_000993	The 10th of X {nl} - {nl} Mr. Raman, who lived at the bank of the creek opposite from us, went on leave. His wife said he was off to get firewood. {nl} Well, for a long time he was gone in 克萊佩達. {nl}I've heard that you can find a lot of beautiful girls in 克萊佩達. {Nl}
 QUEST_20150317_000994	The 13th of X {nl} - {nl} Today was Goddess Origin Day, but somehow everyone in town had stomach pains, and could not celebrate. Why this happened specifically on this day I do not know. {Nl}Well, illnesses will be illnesses. After all that, we had to make potato porridge. {Nl}
 QUEST_20150317_000995	The 14th of X {nl} - {nl} Last night I had an argument with my little sister. {nl}Writing down what you really think isn't that embarrassing. After what happened, {nl}I made a necklace as a present to her, and she came back to me. {nl}Well, I had to give in eventually. Even so, she disappeared off somewhere one morning. {Nl}
 QUEST_20150317_000996	Ah, just now my neighbor made me some delicious porridge. {Nl} In return I made them some warm soup. I can cook too, you know? {Nl}Tonight will be another feast so I'm going to make sure to eat and drink plenty.
@@ -999,8 +999,8 @@ QUEST_20150317_000998	I've been throwing up a lot lately but it seems to be gett
 QUEST_20150317_000999	The 17th of X {nl} - {nl} The village was eerily quiet today. {Nl}There are no signs of the people who went earlier to get herbs from Mr. Gordon.
 QUEST_20150317_001000	$The 23rd of X {nl} - {nl} This might be the last time I get to write in this diary. {Nl} Lyliana, you are the only family I have left in this world… {nl} Please be alive somewhere… {Nl}
 QUEST_20150317_001001	{nl}(There is something written, but it's all jumbled up and has ceased to be legible.)
-QUEST_20150317_001002	Unknown Date {nl}- {nl}Several days must've passed. {nl}I've been on the run for around two days now without food or sleep. {nl}The people who fled to Klaipeda were all caught and killed. {nl}I don't even know how many are still alive and can walk. {nl}Everything is as quiet as the shadows, yet moving at a quick pace. We are all tense from fear of attack.
-QUEST_20150317_001003	They did not wish for any uproar or disorder. {nl}They are not people. {nl}We must somehow notify Klaipeda. {nl}A last resort would be to abandon everything we can't use and to move out.
+QUEST_20150317_001002	Unknown Date {nl}- {nl}Several days must've passed. {nl}I've been on the run for around two days now without food or sleep. {nl}The people who fled to 克萊佩達 were all caught and killed. {nl}I don't even know how many are still alive and can walk. {nl}Everything is as quiet as the shadows, yet moving at a quick pace. We are all tense from fear of attack.
+QUEST_20150317_001003	They did not wish for any uproar or disorder. {nl}They are not people. {nl}We must somehow notify 克萊佩達. {nl}A last resort would be to abandon everything we can't use and to move out.
 QUEST_20150317_001004	{memo X}Oh. It's you. {nl}This our army base camp, so feel free to relax.
 QUEST_20150317_001005	{memo X}Have you met the other soldiers already? {nl}Hmm… What's your name?
 QUEST_20150317_001006	{memo X}Alright, thanks. You guys are working hard. {nl}I want to talk to my aides. Where are they?
@@ -1039,7 +1039,7 @@ QUEST_20150317_001038	This is my friend, Donatas. {nl}I will go up first to figu
 QUEST_20150317_001039	Hey! You shouldn't come here!
 QUEST_20150317_001040	So the Peltasta Master sent it… Ah, so this is what those cowardly miners were talking about.
 QUEST_20150317_001041	No worries at all. I'm not scared. They're all fake rumors. {nl}It's no surprise the mine is shaking.
-QUEST_20150317_001042	Request Bulletin Board
+QUEST_20150317_001042	Request 公告板
 QUEST_20150317_001043	{memo X}Here are all gathered requests. {nl}Caution: We are not responsible for the rewards for these requests.
 QUEST_20150317_001044	Employee Brendon
 QUEST_20150317_001045	{memo X}I will show you the registered requests so far. {nl}You know that a day has to pass in order to receive a request again, even if you give up on it, right?
@@ -1136,12 +1136,12 @@ QUEST_20150317_001135	The king praised the people that caused the miracle with t
 QUEST_20150317_001136	On the day the statue was finally completed, {nl}something miraculous happened as the King and Aiste went together to make the first offering. {nl}From the circumference of the statue sprouted coins - all the silver coins that had been lost by Fedimians up until that time.
 QUEST_20150317_001137	After heated debate, the Fedimian people decided to not to hoard their lost silver coins. {nl}Instead, they asked the king to collect all the coins and distribute them among the poor of the Kingdom. {nl}The king readily agreed, and gave the order to record this beautiful event into the history of the Kingdom.
 QUEST_20150317_001138	Even now, nobody knows when and how the mysterious phenomenon of Fedimian started, {nl}but everybody knows when, how, and who helped unravel the mystery. {nl}It was through the kindness of Aiste and the people who helped her, as well as through the grace of the Goddess, that the mystery came to an end.
-QUEST_20150317_001139	The Gambler of Klaipeda
-QUEST_20150317_001140	{memo X}The Gambler of Klaipeda {nl}~A Short Story~
-QUEST_20150317_001141	In the town of Klaipeda, there once lived a man by the name of Modestas. {nl}He was a good, honest man - but had one major flaw that his friends and family all worried about, his wife especially so. {nl}Modestas was not lazy nor very clever nor not too foolish. {nl}He did not drink or repeatedly get into fights. {nl}The man had one flaw, and it was that he loved to gamble.
+QUEST_20150317_001139	The Gambler of 克萊佩達
+QUEST_20150317_001140	{memo X}The Gambler of 克萊佩達 {nl}~A Short Story~
+QUEST_20150317_001141	In the town of 克萊佩達, there once lived a man by the name of Modestas. {nl}He was a good, honest man - but had one major flaw that his friends and family all worried about, his wife especially so. {nl}Modestas was not lazy nor very clever nor not too foolish. {nl}He did not drink or repeatedly get into fights. {nl}The man had one flaw, and it was that he loved to gamble.
 QUEST_20150317_001142	During the day, Modestas would work hard and would never let himself go hungry - {nl}but whenever he earned more than he really needed, he would gamble. {nl}The wife would always try to save this money, but not one extra coin would ever go toward their home.
 QUEST_20150317_001143	Whenever she could, Modestas' wife would often go to the shrine, and pray to the Goddess' likeness. {nl}But Modestas continued his odd habits, and the people around him grew increasingly concerned. {nl}After all, the mind of a gambler would think, 'Today may be small, but tomorrow it could be big!' {nl}And so the days rolled by, same as they ever were, until one peculiar day.
-QUEST_20150317_001144	Like most of his days, Modestas was heading home after gambling away his excess coin. {nl}He was walking through the Siauliai Woods on the path to Klaipeda, when he saw a strange, old woman on the road.
+QUEST_20150317_001144	Like most of his days, Modestas was heading home after gambling away his excess coin. {nl}He was walking through the Siauliai Woods on the path to 克萊佩達, when he saw a strange, old woman on the road.
 QUEST_20150317_001145	This old woman seemed not only old and frail, but had an unnerving aura around her. {nl}She was acting strangely, as if deep in thought or obsessed with whatever she was doing. {nl}Modestas thought about simply ignoring the woman and walking past. Nothing would have happened if he did that, {nl}but curiosity got the better of him.
 QUEST_20150317_001146	To be precise, what really turned his head toward the old woman, was what she held in her hands. {n]}Gold. The woman seemed to be obsessing over two gold pieces, doing something with them. {nl}Unable to hear her mumblings, Modestas drew closer to the strange woman.
 QUEST_20150317_001147	{memo X}Over the jingling sound of gold, the old woman muttered. {nl}'If these two pieces of gold could ever marry, the baby gold would make me rich… but there's no life in these things…' {nl}Modestas heard those words, and decided to comment. {nl}'That gold won't make you rich by itself, so just put it into something worthwhile. {nl}Do you really think muttering at gold will do something?'
@@ -1213,28 +1213,28 @@ QUEST_20150317_001213	{memo X}Modestas confessed he was far from making profits,
 QUEST_20150317_001214	Modestas knew these gambles were more than just about money. {nl} Modestas, a dedicated gambler, nodded along with the woman's words. He clearly looked to be a man with a huge burden, his facial expression dark. {nl} The old woman could sense Modestas' thoughts, so she made this proposal. {nl}
 QUEST_20150317_001215	{memo X}'Since you are unsure how to transport this boulder you suddenly won, how about this? Normally, I wouldn't change the initial conditions, but as an amusement I will give you a suggestion. Why don't you use your last bet to see whether or not I can lift this boulder up into your wagon? Even if you lose, at least you can have this heavy boulder loaded on your wagon.'{nl}
 QUEST_20150317_001216	{memo X}Modestas who had nothing to lose, nodded his head to accept her proposal. But before he could consent to the bet, the old woman continued. {nl}'But I can't just give you such a favorable idea for free. Therefore I will add one more condition.'{nl}
-QUEST_20150317_001217	{memo X}When Modestas asked about the condition, the old woman answered.{nl}'You are to take the boulder, which I will load onto the wagon, to Klaipeda. Then, turn it into an object of value which everyone will recognize and esteem. If you are successful then the punishment for losing the bet against me will become void. Your friends will not disappear. Since you already lost the bet against me, although this is difficult, I will still give you one more chance. How about it?'{nl}Like always, Modestas had no choice.
+QUEST_20150317_001217	{memo X}When Modestas asked about the condition, the old woman answered.{nl}'You are to take the boulder, which I will load onto the wagon, to 克萊佩達. Then, turn it into an object of value which everyone will recognize and esteem. If you are successful then the punishment for losing the bet against me will become void. Your friends will not disappear. Since you already lost the bet against me, although this is difficult, I will still give you one more chance. How about it?'{nl}Like always, Modestas had no choice.
 QUEST_20150317_001218	The moment Modestas agreed to the proposal, the old woman pointed her finger past him. {nl} Modestas turned around and to his surprise, the boulder he had trouble with was effortlessly placed on the wagon. By the time Modestas looked back forward, the old woman had already disappeared. {nl}
-QUEST_20150317_001219	Because Modestas had no ropes or equipment to secure the boulder onto the wagon, he had to lean the wagon and carefully drive it to Klaipeda. {nl} On his way to Klaipeda, he again met the soldiers who he had earlier bet against. Their commanding officer was now aware of what had happened thus far, and wanted to apologize to Modestas for getting him caught and hurt in his subordinates' affairs. {nl}
-QUEST_20150317_001220	The officer returned Modesta's gold to him, and ordered his soldiers to help him transport the boulder back to Klaipeda. {nl}
-QUEST_20150317_001221	The officer and solders had sturdy rope, so they were able to transport the rock without worry of it falling off and unload it at Klaipeda. They decided to accompany Modestas all the way there. {nl} Modestas was very grateful for the help he got from the soldiers. {nl} Along with the soldiers, Modestas again ran into none other than the Alchemist he lost earlier against.
+QUEST_20150317_001219	Because Modestas had no ropes or equipment to secure the boulder onto the wagon, he had to lean the wagon and carefully drive it to 克萊佩達. {nl} On his way to 克萊佩達, he again met the soldiers who he had earlier bet against. Their commanding officer was now aware of what had happened thus far, and wanted to apologize to Modestas for getting him caught and hurt in his subordinates' affairs. {nl}
+QUEST_20150317_001220	The officer returned Modesta's gold to him, and ordered his soldiers to help him transport the boulder back to 克萊佩達. {nl}
+QUEST_20150317_001221	The officer and solders had sturdy rope, so they were able to transport the rock without worry of it falling off and unload it at 克萊佩達. They decided to accompany Modestas all the way there. {nl} Modestas was very grateful for the help he got from the soldiers. {nl} Along with the soldiers, Modestas again ran into none other than the Alchemist he lost earlier against.
 QUEST_20150317_001222	To Modestas, a promise was a promise, so he immediately handed over the gold the soldiers returned to him to the Alchemist. {nl} The Alchemist, surprised by how Modestas could do this with no complaints or dissatisfaction, took the gold and conversed with him.
-QUEST_20150317_001223	Not wanting to be left out of the conversation between Modestas and the Alchemist, the soldiers couldn't continue working, joined in, and learned about the Alchemist's past with Modestas. {nl} The Alchemist apologized to Modestas for turning his lead into gold, and promised to gather all the support he could for Modestas at Klaipeda. He then left. {nl}
-QUEST_20150317_001224	Soon after, Modestas and the soldiers reached Klaipeda. They set the stone down at the large open space at the center of town. {nl}
-QUEST_20150317_001225	{memo X}When the boulder was set in its proper place with the help of the soldiers, the Alchemist who had left returned with another person. The Alchemist had brought with him a famous Dievdirbys.{nl}To the Dievdirbys, the Alchemist suggested, {nl}'Why don't you sculpt a statue of a Goddess using this boulder, on this central site of Klaipeda? If this boulder is changed into a statue of a Goddess, then nobody in Klaipeda will be able to deny its significance. I think that will fulfill your promise to the old woman.'{nl}
-QUEST_20150317_001226	Everyone who were there on the spot favored the idea. {nl} The Alchemist took the gold he obtained from Modestas and paid it to the Dievdirbys as commission, and went to get permission from the Knight Leader and Bishop of Klaipeda.{nl}
-QUEST_20150317_001227	As news spread, everyone in Klaipeda was pleased to know a Goddess Statue was planned for their city. {nl} However, one last problem remained aside from winning their favor. And that question was, which Goddess should the statue commemorate? {nl} The soldiers who gave help transporting the boulder were especially passionate about this issue, and began quarrelling again. {nl}
-QUEST_20150317_001228	The one who answered this question was none other than Modestas. {nl} Without any real intent, Modestas argued that the Goddesses in power have guided him via divine providence to build a statue at Klaipeda that day. {nl}
-QUEST_20150317_001229	{memo X}That the old woman appeared before him, that the many bets occurred, that the mountain erupted a stone for material was the divine providence of the Goddesses, argued Modestas, persuading everyone. {nl} Thus, the people decided to follow the words of Modestas, and Modestas relayed to the Dievdirbys the order to create the statue. {nl} When the statue was finally finished, the citizens of Klaipeda gathered, curious to know the identity of the Goddess who had been raised in the center of their beloved city.{nl}
+QUEST_20150317_001223	Not wanting to be left out of the conversation between Modestas and the Alchemist, the soldiers couldn't continue working, joined in, and learned about the Alchemist's past with Modestas. {nl} The Alchemist apologized to Modestas for turning his lead into gold, and promised to gather all the support he could for Modestas at 克萊佩達. He then left. {nl}
+QUEST_20150317_001224	Soon after, Modestas and the soldiers reached 克萊佩達. They set the stone down at the large open space at the center of town. {nl}
+QUEST_20150317_001225	{memo X}When the boulder was set in its proper place with the help of the soldiers, the Alchemist who had left returned with another person. The Alchemist had brought with him a famous Dievdirbys.{nl}To the Dievdirbys, the Alchemist suggested, {nl}'Why don't you sculpt a statue of a Goddess using this boulder, on this central site of 克萊佩達? If this boulder is changed into a statue of a Goddess, then nobody in 克萊佩達 will be able to deny its significance. I think that will fulfill your promise to the old woman.'{nl}
+QUEST_20150317_001226	Everyone who were there on the spot favored the idea. {nl} The Alchemist took the gold he obtained from Modestas and paid it to the Dievdirbys as commission, and went to get permission from the Knight Leader and Bishop of 克萊佩達.{nl}
+QUEST_20150317_001227	As news spread, everyone in 克萊佩達 was pleased to know a Goddess Statue was planned for their city. {nl} However, one last problem remained aside from winning their favor. And that question was, which Goddess should the statue commemorate? {nl} The soldiers who gave help transporting the boulder were especially passionate about this issue, and began quarrelling again. {nl}
+QUEST_20150317_001228	The one who answered this question was none other than Modestas. {nl} Without any real intent, Modestas argued that the Goddesses in power have guided him via divine providence to build a statue at 克萊佩達 that day. {nl}
+QUEST_20150317_001229	{memo X}That the old woman appeared before him, that the many bets occurred, that the mountain erupted a stone for material was the divine providence of the Goddesses, argued Modestas, persuading everyone. {nl} Thus, the people decided to follow the words of Modestas, and Modestas relayed to the Dievdirbys the order to create the statue. {nl} When the statue was finally finished, the citizens of 克萊佩達 gathered, curious to know the identity of the Goddess who had been raised in the center of their beloved city.{nl}
 QUEST_20150317_001230	However, to their bewilderment, not a single soul could recognize the Goddess whom the completed statue commemorated.{nl}
-QUEST_20150317_001231	{memo X}The Dievdirbys who had sculpted the statue had already vanished deep into the Kateen Forest, so the citizens of Klaipeda repeatedly questioned Modestas for her name. {nl} Despite the numerous questions nobody received an answer from Modestas. {nl}At any rate, this is the story of how the Goddess Statue of Klaipeda came to be. Even now that statue stands in the center of Klaipeda.{nl}
+QUEST_20150317_001231	{memo X}The Dievdirbys who had sculpted the statue had already vanished deep into the Kateen Forest, so the citizens of 克萊佩達 repeatedly questioned Modestas for her name. {nl} Despite the numerous questions nobody received an answer from Modestas. {nl}At any rate, this is the story of how the Goddess Statue of 克萊佩達 came to be. Even now that statue stands in the center of 克萊佩達.{nl}
 QUEST_20150317_001232	And so, some people believed Modestas, having undertaken the Goddesses' intervention, was an honest man who did not gamble. In reality, Modestas didn't stop making gambles until his death. {nl}
-QUEST_20150317_001233	{memo X}Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of Klaipeda honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl} {nl} But no matter the impossible odds, Modestas never lost a bet. Therefore nobody was able to win the answer from Modestas for years and time flew by.{nl}
+QUEST_20150317_001233	{memo X}Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of 克萊佩達 honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl} {nl} But no matter the impossible odds, Modestas never lost a bet. Therefore nobody was able to win the answer from Modestas for years and time flew by.{nl}
 QUEST_20150317_001234	Though Modestas died an undefeated, invincible gambler, by then he had never bet anything other than the Goddess' identity, living purely off the profits gained from such bets through the end of his life. {nl}
-QUEST_20150317_001235	{memo X}In the end, this unknown Goddess, in exchange for giving income to a certain gambler from Klaipeda, created an interesting, mysterious, yet beautiful statue for the city of Klaipeda, and a tale to last for times to come.{nl} {nl}
-QUEST_20150317_001236	Talk To Knight Titas
+QUEST_20150317_001235	{memo X}In the end, this unknown Goddess, in exchange for giving income to a certain gambler from 克萊佩達, created an interesting, mysterious, yet beautiful statue for the city of 克萊佩達, and a tale to last for times to come.{nl} {nl}
+QUEST_20150317_001236	Talk To 騎士 帝塔絲
 QUEST_20150317_001237	$Talk to the Scout
-QUEST_20150317_001238	Road to Klaipeda
+QUEST_20150317_001238	Road to 克萊佩達
 QUEST_20150317_001239	Talk to the Battle Commander
 QUEST_20150317_001240	Sentinel's Favor
 QUEST_20150317_001241	Not As Intended
@@ -1267,7 +1267,7 @@ QUEST_20150317_001267	{memo X}War Trophy
 QUEST_20150317_001268	{memo X}Fear from the Sky
 QUEST_20150317_001269	Crazy Archivist
 QUEST_20150317_001270	Eye of Zachariel
-QUEST_20150317_001271	$Soldier's Precious Belongings 
+QUEST_20150317_001271	$Soldier's Precious Belongings
 QUEST_20150317_001272	Secure the Road to Gateway of the Great King
 QUEST_20150317_001273	Unfinished Mission
 QUEST_20150317_001274	Trivial Honor
@@ -1276,7 +1276,7 @@ QUEST_20150317_001276	$Business Interference
 QUEST_20150317_001277	Bothersome Disappearance
 QUEST_20150317_001278	New Researcher's Favor
 QUEST_20150317_001279	Jonas' Medicine
-QUEST_20150317_001280	$Fix the Central Purifier 
+QUEST_20150317_001280	$Fix the Central Purifier
 QUEST_20150317_001281	$Activate the Passage Purifier
 QUEST_20150317_001282	$Circulation Purifier Issues
 QUEST_20150317_001283	$Inoperable Auxiliary Purifier
@@ -1420,7 +1420,7 @@ QUEST_20150317_001420	Adaptation to Circumstances
 QUEST_20150317_001421	$The Bishop's Last Mission
 QUEST_20150317_001422	Research Data
 QUEST_20150317_001423	Pharmacist's Favor
-QUEST_20150323_001424	{memo X}Now go to Gintaro Highway in Sirdgelos Forest. {nl}Spray this potion on the Matsum dolls I placed there and tell me what happens. 
+QUEST_20150323_001424	{memo X}Now go to Gintaro Highway in Sirdgelos Forest. {nl}Spray this potion on the Matsum dolls I placed there and tell me what happens.
 QUEST_20150323_001425	{memo X}Four scouts were sent to Sirdgelos Forest not too long ago but all of them went missing. {nl}Maybe they took the Thorn Forest too lightly… {nl}Please find their whereabouts.
 QUEST_20150323_001426	I have no strength but I write this for anyone who may pass by this area. {nl}Naktis… It's a funny thing to wish a curse on the Monarch of Curses.
 QUEST_20150323_001427	Naktis spread cursed Tree Root Crystals in the area. {nl}To stop the curse, they must be destroyed.
@@ -1440,7 +1440,7 @@ QUEST_20150323_001440	{memo X}I feel like I'm drowning. {nl}The Tree Root Crysta
 QUEST_20150323_001441	Do whatever it takes to destroy it… {nl}Please save me.
 QUEST_20150323_001442	{memo X}I've lost all desire. Am I dying now? {nl}Eating and even breathing feels meaningless.
 QUEST_20150323_001443	But it must go on. {nl}Unless that cursed Tree Root Crystal is destroyed…
-QUEST_20150323_001444	{memo X}There are things that Witas cares about. {nl}Won't he get his mind back if you show him those? 
+QUEST_20150323_001444	{memo X}There are things that Witas cares about. {nl}Won't he get his mind back if you show him those?
 QUEST_20150323_001445	{memo X}Somebody's Diary
 QUEST_20150323_001446	Those brothers are crazy. They must be completely nuts. {nl}When did it start? When Dora attacked Gracius? {nl}When they saw the demons marching?
 QUEST_20150323_001447	Things have gone to hell since Gracius was incapacitated. {nl}From the very beginning, while I kept my mouth shut, everyone lusted for bloodshed. {nl}The town was like a volcano waiting to erupt. {nl}I thought it was an educational experience until then.
@@ -1459,19 +1459,19 @@ QUEST_20150323_001459	Blurry Spirit of Catacomb 1st Floor
 QUEST_20150323_001460	{memo X}Something murky is lurking around…
 QUEST_20150323_001461	{memo X}Something once invisible is appearing…
 QUEST_20150323_001462	Letter Someone Left Behind
-QUEST_20150323_001463	The Tree Root Crystals of Pilgrim Path are cursed by Naktis, {nl}as if to mock Sir Maven's teachings against laziness. 
-QUEST_20150323_001464	It should be destroyed before the curse spreads. {nl}However, I cannot handle the Tree Root Crystals alone. 
+QUEST_20150323_001463	The Tree Root Crystals of Pilgrim Path are cursed by Naktis, {nl}as if to mock Sir Maven's teachings against laziness.
+QUEST_20150323_001464	It should be destroyed before the curse spreads. {nl}However, I cannot handle the Tree Root Crystals alone.
 QUEST_20150323_001465	Souls of Pilgrims swallowed by the monsters can destroy the Tree Root Crystal. {nl}Maybe I too will be one of them soon.
 QUEST_20150323_001466	Notice for Pilgrims
 QUEST_20150323_001467	This is the Pilgrim Path that leads to the Great Cathedral. {nl}Maven, the first Archbishop of the Great Cathedral left teachings on each of the five Pilgrim Paths.
-QUEST_20150323_001468	They warn against the five deadly sins of mankind. {nl}Pilgrims heading to the Great Cathedral should reflect on these teachings. 
-QUEST_20150323_001469	The Starving Demon's Way is for Gluttony. {nl}Throw away your obsession for food and start your pilgrimage with reverence. 
+QUEST_20150323_001468	They warn against the five deadly sins of mankind. {nl}Pilgrims heading to the Great Cathedral should reflect on these teachings.
+QUEST_20150323_001469	The Starving Demon's Way is for Gluttony. {nl}Throw away your obsession for food and start your pilgrimage with reverence.
 QUEST_20150323_001470	The Pilgrim Path is for Sloth. {nl}You mustn't be indolent during the long journey to Cathedral.
 QUEST_20150323_001471	The Altar Way is for Wrath. {nl}Excessive rage impoverishes the soul.
 QUEST_20150323_001472	The Forest of Prayer is for Deceit. {nl}You cannot reach the Goddess with a deceitful heart.
 QUEST_20150323_001473	The Apsimesti Crossroads is for Envy. {nl}Compose yourself so that you won't fall into bewilderment.
 QUEST_20150323_001474	Tree of Faith
-QUEST_20150323_001475	The Tree of Faith. {nl}Like the power of the Goddess, its branches block evil curses. 
+QUEST_20150323_001475	The Tree of Faith. {nl}Like the power of the Goddess, its branches block evil curses.
 QUEST_20150323_001476	Pilgrims who pass by this road, {nl}If ever the pond is corrupted, pour sap from the Tree of Brothers.
 QUEST_20150323_001477	Tree of Brothers Notice
 QUEST_20150323_001478	First Tree of the Brothers. {nl}Guard the Tree of Faith with the name of the Goddess.
@@ -1480,38 +1480,38 @@ QUEST_20150323_001480	Third Tree of the Brothers. {nl}Live a full life with the 
 QUEST_20150323_001481	{memo X}Spoiled already? Here, take this.
 QUEST_20150323_001482	Magic circle is shaking.
 QUEST_20150323_001483	Baron Allerno
-QUEST_20150323_001484	{memo X}Wait, I came to see if the device is working well, but isn't my territory quiet and great to live in? There aren't that many people though. 
+QUEST_20150323_001484	{memo X}Wait, I came to see if the device is working well, but isn't my territory quiet and great to live in? There aren't that many people though.
 QUEST_20150323_001485	{memo X}I wonder when the explorers will return from the Closed Area…
 QUEST_20150323_001486	{memo X}It's just one thing that the old man wants.
-QUEST_20150323_001487	{memo X}This machine takes too much crops. You can say it was kept because of my prestige and morality. 
-QUEST_20150323_001488	{memo X}Haven't you heard the saying that not even the king can save poverty? What do they expect me to do? 
-QUEST_20150323_001489	{memo X}I have a talented wizard for the deity. But now he's busy, so I can't bring him here. 
-QUEST_20150323_001490	{memo X}Hmm, Goddess? You mean the Goddess? 
-QUEST_20150323_001491	{memo X}I wonder if the tenant farmers know that it is all thanks to me that they can eat and live like this. 
+QUEST_20150323_001487	{memo X}This machine takes too much crops. You can say it was kept because of my prestige and morality.
+QUEST_20150323_001488	{memo X}Haven't you heard the saying that not even the king can save poverty? What do they expect me to do?
+QUEST_20150323_001489	{memo X}I have a talented wizard for the deity. But now he's busy, so I can't bring him here.
+QUEST_20150323_001490	{memo X}Hmm, Goddess? You mean the Goddess?
+QUEST_20150323_001491	{memo X}I wonder if the tenant farmers know that it is all thanks to me that they can eat and live like this.
 QUEST_20150323_001492	{memo X}Youngsters nowadays don't have enough spirit in them. {nl}When I was their age, people would volunteer to go into those mysterious places ahead of others! {nl}Now they won't do anything unless something is offered in return. They just don't have passion.
 QUEST_20150323_001493	{memo X}Everlasting thing… Everlasting beauty…
-QUEST_20150323_001494	{memo X}Something that looks like the head of a statue is buried. 
+QUEST_20150323_001494	{memo X}Something that looks like the head of a statue is buried.
 QUEST_20150323_001495	{memo X}Better check out this liquor barrel.
-QUEST_20150323_001496	{memo X}Something that looks like the wing of a statue is buried. 
+QUEST_20150323_001496	{memo X}Something that looks like the wing of a statue is buried.
 QUEST_20150323_001497	Farmer
 QUEST_20150323_001498	{memo X}Okay, that'll be only 1,000 silver coins then.
 QUEST_20150323_001499	{memo X}Great! It's a deal!
 QUEST_20150323_001500	{memo X}Then don't. Pfft.
 QUEST_20150323_001501	{memo X}You're a bum.
 QUEST_20150323_001502	{memo X}$Here. You're more pathetic than I am…
-QUEST_20150323_001503	{memo X}Ah, what's up? 
+QUEST_20150323_001503	{memo X}Ah, what's up?
 QUEST_20150323_001504	Farming alone keeps me busy.
 QUEST_20150323_001505	I'm not sure yet… About that… Rebellion.
 QUEST_20150323_001506	$It's enticing, but…
-QUEST_20150323_001507	{memo X}Do you have a written letter of Horacius? 
+QUEST_20150323_001507	{memo X}Do you have a written letter of Horacius?
 QUEST_20150323_001508	{memo X}No wonder! Here you go.
 QUEST_20150323_001509	{memo X}$I can't just give my precious farming tools to someone so suspicious!
-QUEST_20150323_001510	{memo X}Huh? Why should I trust you? 
+QUEST_20150323_001510	{memo X}Huh? Why should I trust you?
 QUEST_20150323_001511	{memo X}$You're very persistent. Here.
 QUEST_20150323_001512	$I wonder how well the preparations are going.
 QUEST_20150323_001513	{memo X}Go away.
-QUEST_20150323_001514	{memo X}$Can't you see I'm busy? Go away. 
-QUEST_20150323_001515	{memo X}So what? 
+QUEST_20150323_001514	{memo X}$Can't you see I'm busy? Go away.
+QUEST_20150323_001515	{memo X}So what?
 QUEST_20150323_001516	{memo X}$I'll actively cooperate.
 QUEST_20150323_001517	{memo X}$Our rebellion will be successful. We can't be exploited like this any more.
 QUEST_20150323_001518	{memo X}Ah, really? Then I should give.
@@ -1522,7 +1522,7 @@ QUEST_20150323_001522	What do you want?
 QUEST_20150323_001523	Someone even more pathetic than me…
 QUEST_20150323_001524	I don't know. I'll just give it to you.
 QUEST_20150323_001525	$What are they talking about? The baron's hiding something…?
-QUEST_20150323_001526	$There is no such thing as a rest day for a farmer. 
+QUEST_20150323_001526	$There is no such thing as a rest day for a farmer.
 QUEST_20150323_001527	$I'm busy. Come back later.
 QUEST_20150323_001528	Don't bother me.
 QUEST_20150323_001529	{memo X}$Then, I will sign the petition if you pay 10,000 silver.
@@ -1533,33 +1533,33 @@ QUEST_20150323_001533	{memo X}$Oh, it's you… Hmm, the petition of Horacius… 
 QUEST_20150323_001534	{memo X}$Did you put the tools to good use last time? A petition? Sure, I'll sign it. For victory!
 QUEST_20150323_001535	{memo X}$Let me read the details of the petition.
 QUEST_20150323_001536	{memo X}$Oh, alright. Here, let me sign.
-QUEST_20150323_001537	{memo X}How can I trust someone who does not trust me? 
-QUEST_20150323_001538	{memo X}What is it? Are you a fraud? 
+QUEST_20150323_001537	{memo X}How can I trust someone who does not trust me?
+QUEST_20150323_001538	{memo X}What is it? Are you a fraud?
 QUEST_20150323_001539	{memo X}$You're persistent… Here's my signature.
 QUEST_20150323_001540	{memo X}$Later. I'm busy right now.
-QUEST_20150323_001541	{memo X}$Rebellion or not, life itself is not easy for me… Give me something if you want to say things like that. 
-QUEST_20150323_001542	{memo X}Oh, thank you. Here's my signature. 
+QUEST_20150323_001541	{memo X}$Rebellion or not, life itself is not easy for me… Give me something if you want to say things like that.
+QUEST_20150323_001542	{memo X}Oh, thank you. Here's my signature.
 QUEST_20150323_001543	{memo X}$How stingy. I'll have to be stingy as well then.
 QUEST_20150323_001544	{memo X}$Tsk, tsk. You're as cheap as I am.
-QUEST_20150323_001545	{memo X}$Sigh… Okay. I can't do that. Here's the signature. 
+QUEST_20150323_001545	{memo X}$Sigh… Okay. I can't do that. Here's the signature.
 QUEST_20150323_001546	{memo X}$I'm very busy right now so come back later.
 QUEST_20150323_001547	$My signature for the petition? You think I'd just give it to you? No. At least pay me for it or something…
 QUEST_20150323_001548	$Aha, now we're talking. Let me sign that. For the rebellion!
 QUEST_20150323_001549	{memo X}Is this a joke…
 QUEST_20150323_001550	$What kind of big plan could a bum come up with?
-QUEST_20150323_001551	$You've got some persistence. Here's my signature. 
+QUEST_20150323_001551	$You've got some persistence. Here's my signature.
 QUEST_20150323_001552	$I can't just take a break from farming. I'm busy right now.
 QUEST_20150323_001553	Do you have around 15,000 silver? Show some sincerity…
 QUEST_20150323_001554	Wow, thank you. My signature is all yours. Horacius really does good work!
 QUEST_20150323_001555	Then I'm busy too.
 QUEST_20150323_001556	Even if you're busy, you should take care of yourself. You're broke.
-QUEST_20150323_001557	I'll just do it for Horacius' sake. 
+QUEST_20150323_001557	I'll just do it for Horacius' sake.
 QUEST_20150323_001558	$Come back later. I'm resting.
-QUEST_20150323_001559	$The plan of Horacius? You must be talking about that thing. I knew this day would come. I'll definitely give you my signature. 
+QUEST_20150323_001559	$The plan of Horacius? You must be talking about that thing. I knew this day would come. I'll definitely give you my signature.
 QUEST_20150323_001560	I am just waiting for the day of the rebellion.
 QUEST_20150323_001561	I don't even have enough money for my sick family… I don't care about the rebellion!
-QUEST_20150323_001562	$Oh my, thank you! I'll definitely be joining the rebellion. 
-QUEST_20150323_001563	$Someone somewhere is gulping down food while I don't even have money to feed my family… 
+QUEST_20150323_001562	$Oh my, thank you! I'll definitely be joining the rebellion.
+QUEST_20150323_001563	$Someone somewhere is gulping down food while I don't even have money to feed my family…
 QUEST_20150323_001564	$You and I are both poor. We can't think of anything else while we're starving.
 QUEST_20150323_001565	$Okay. I'll sign it so you'll stop bugging me.
 QUEST_20150323_001566	I'm dizzy. Come back later.
@@ -1567,40 +1567,40 @@ QUEST_20150323_001567	Can we finally get to sleep in peace? If so, I'll gladly s
 QUEST_20150323_001568	$I believe things will soon get better.
 QUEST_20150323_001569	I just signed…
 QUEST_20150323_001570	$Hauberk's Introduction
-QUEST_20150323_001571	{memo X}$Demons kidnapped by Vakarine and those kicked out of the demonic world have gathered here. {nl}It's a place where vicious criminals are constantly preying on us. 
+QUEST_20150323_001571	{memo X}$Demons kidnapped by Vakarine and those kicked out of the demonic world have gathered here. {nl}It's a place where vicious criminals are constantly preying on us.
 QUEST_20150323_001572	{memo X}$Ready? Another group will be coming soon.
 QUEST_20150323_001573	$Demon Lord Hauberk
 QUEST_20150323_001574	{memo X}$You must have a lot of questions. Ask, Revelator…
 QUEST_20150323_001575	{memo X}$Vakarine is fighting Valtrus in the Demon Prison across the portal. {nl}She won't be able hold it for much longer unless someone helps.
 QUEST_20150323_001576	{memo X}$Men under the command of the Baron have been here though they weren't able to make it back. {nl}I watched everything with the wizard's eyes. {nl}Even the screams of Vakarine and her Kupoles.
-QUEST_20150323_001577	{memo X}$That depends on whether or not you have the will to save the Goddess. {nl}We can take time to talk about it. 
+QUEST_20150323_001577	{memo X}$That depends on whether or not you have the will to save the Goddess. {nl}We can take time to talk about it.
 QUEST_20150323_001578	{memo X}$The limbs of Nuaele were all cut off. {nl}Now go find Aldona. {nl}She will take you and Hauberk to Nuaele's territory.
 QUEST_20150323_001579	$We are now entering Nuaele's territory now. {nl}Prepare yourself.
-QUEST_20150323_001580	{memo X}$Once Nuaele is gone, we'll be able to fight the demons easily even with only the Kupoles. 
+QUEST_20150323_001580	{memo X}$Once Nuaele is gone, we'll be able to fight the demons easily even with only the Kupoles.
 QUEST_20150323_001581	{memo X}$Our biggest problem aside from the corruption breach was Nuaele. {nl}Now we can focus on the former. {nl}Go to Prison District 3. The Goddess awaits your support.
 QUEST_20150323_001582	$Keep your guard up. {nl}This may be the secret to the last key, but the demons are still watching.
 QUEST_20150323_001583	$You will enter a special room once you get all five keys of Maven. {nl}In there, you will be tested to see if you're eligible for the revelation.
 QUEST_20150323_001584	$The number of candles is important. But for this secret, you must remember the order of the candles as well. {nl}It is similar to the first secret.
 QUEST_20150323_001585	The device is operating.
-QUEST_20150323_001586	{memo X}$A few manic farmers assaulted the people. 
-QUEST_20150323_001587	{memo X}Guards are working hard to protect the farm. {nl}Help them. 
+QUEST_20150323_001586	{memo X}$A few manic farmers assaulted the people.
+QUEST_20150323_001587	{memo X}Guards are working hard to protect the farm. {nl}Help them.
 QUEST_20150323_001588	{memo X}$I thank you again in the name of fate. {nl}From here on, I will follow the stars to find Goddess Ausrine.
 QUEST_20150323_001589	$Thanks to you, the seal of Uskis Arable Land is now stable. {nl}However, many other Revelators have lost their consciousness to the evil energy at the Spring Light Woods.
 QUEST_20150323_001590	$This most glorious Great Cathedral was built 660 years ago under the guide of Archbishop Silvestro Maven.
 QUEST_20150323_001591	$I can still hear it. {nl}The priests' prayers filling the kingdom. {nl}The endless march of pilgrims coming for the grace of the Goddess.
 QUEST_20150323_001592	$It was like that until four years ago. {nl}Before the curse surrounded the Great Cathedral on Medzio Diena…
 QUEST_20150323_001593	Candlestick
-QUEST_20150323_001594	No candlesticks are lit. 
+QUEST_20150323_001594	No candlesticks are lit.
 QUEST_20150323_001595	$I buried Dallas. {nl}His death pains me so much.
 QUEST_20150323_001596	$More monsters! Run!
-QUEST_20150323_001597	{memo X}$You were running so hard for me. {nl}Why don't you give me the key, kid? 
-QUEST_20150323_001598	$The breach of corruption, once open, will continue to expand. {nl}Revelator, please help Vakarine as soon as possible. 
-QUEST_20150323_001599	{memo X}There seems to be some reaction in the platform of benevolence. 
+QUEST_20150323_001597	{memo X}$You were running so hard for me. {nl}Why don't you give me the key, kid?
+QUEST_20150323_001598	$The breach of corruption, once open, will continue to expand. {nl}Revelator, please help Vakarine as soon as possible.
+QUEST_20150323_001599	{memo X}There seems to be some reaction in the platform of benevolence.
 QUEST_20150323_001600	Bishop Ilam
 QUEST_20150323_001601	{memo X}$Bishop Aurelius, who was ordained at a young age, soon took ill and lost his life.
 QUEST_20150323_001602	{memo X}$His last request was for the Divine Mission for Maven to be fulfilled even after his death and the Church accepted.
 QUEST_20150323_001603	Nature of the Curse
-QUEST_20150323_001604	$Gluttony, Wrath, Sloth, etc. {nl}The nature of all curses that affect mankind is obsession. {nl}It's like the spirit of the dead staying behind and not going to the Goddess. 
+QUEST_20150323_001604	$Gluttony, Wrath, Sloth, etc. {nl}The nature of all curses that affect mankind is obsession. {nl}It's like the spirit of the dead staying behind and not going to the Goddess.
 QUEST_20150323_001605	$The difference is that it is the will of the dead that keeps the spirit behind {nl}while curses are forced upon by others onto you.
 QUEST_20150323_001606	$Naturally, priests learning the teachings of the Goddess are not permitted to use it unless it's for experiments.
 QUEST_20150323_001607	My Mission 1
@@ -1623,54 +1623,54 @@ QUEST_20150323_001623	$If you use the symbol of spirits, you can see the area wh
 QUEST_20150323_001624	$Once the Symbol of Spiritual Power is charged, go to Veinika Altar. {nl}Insert the symbol in the Veinika altar and you will receive the third key of Maven.
 QUEST_20150323_001625	{memo X}$The medicine should work.
 QUEST_20150323_001626	$The key is at Gaule Altar. {nl}I think you should leak that much information to Naktis' subordinates.
-QUEST_20150323_001627	$Of course, you'll need to use the transformation scroll before doing so. 
+QUEST_20150323_001627	$Of course, you'll need to use the transformation scroll before doing so.
 QUEST_20150323_001628	$The secret supposedly unveils upon application of a holy force, {nl}but the trap will activate regardless if it detects an evil force.
 QUEST_20150323_001629	$The plan is to get the key after exhausting that trap using Naktis' subordinates.
 QUEST_20150323_001630	$Naktis' subordinates will be punished for prying on Maven's secret. {nl}Use that opportunity to get the key.
 QUEST_20150323_001631	$Even if the Goddess condemns me for this… I will hold my head high,{nl} because it was for the protection of the revelation.
 QUEST_20150323_001632	$Did you find the last key?
-QUEST_20150323_001633	$This sanctuary is a treasure house of knowledge. {nl}You need to master the fundamentals of everything to protect the kingdom and revelation in the name of the Goddess. 
+QUEST_20150323_001633	$This sanctuary is a treasure house of knowledge. {nl}You need to master the fundamentals of everything to protect the kingdom and revelation in the name of the Goddess.
 QUEST_20150323_001634	$Studying the demons is no exception.
 QUEST_20150323_001635	$The Monarch of Curses, Naktis… {nl}He has not shown himself yet but I'm sure he's somewhere inside the sanctuary.
 QUEST_20150323_001636	$Perhaps he's waiting for us to get all the keys.
 QUEST_20150323_001637	$I am honored to be able to now guide you to the hidden room.
 QUEST_20150323_001638	$Focus on the colors of the orbs. {nl}You should insert the key in orbs of the same color.
-QUEST_20150323_001639	$Of course it is impossible to press down both footrests alone. {nl}You can use the wood chunks the demons scattered around… or ask colleagues for help. 
-QUEST_20150323_001640	{memo X}Coincidentally, I heard an eyewitness account from a refugee from this area. {nl}He asked for the safety of his family when I was being sent here… {nl}But I can't see any member of the Greene family, just refugees and monsters. 
+QUEST_20150323_001639	$Of course it is impossible to press down both footrests alone. {nl}You can use the wood chunks the demons scattered around… or ask colleagues for help.
+QUEST_20150323_001640	{memo X}Coincidentally, I heard an eyewitness account from a refugee from this area. {nl}He asked for the safety of his family when I was being sent here… {nl}But I can't see any member of the Greene family, just refugees and monsters.
 QUEST_20150323_001641	{memo X}$And I found this mysterious seedling. {nl}Unlike others, we can feel a mysterious force from these. {nl}I can't identify this force in detail… {nl}But I'm sure it can purify evil.
-QUEST_20150323_001642	{memo X}$We would have known better if Master was here. {nl}At any rate, we have to test if this seedling actually has the power to purify. {nl}I will do a simple purifying ritual. {nl}Get me some Ellom Leaves to grasp the pollution status of this area. 
-QUEST_20150323_001643	{memo X}Now, let's start. {nl}Please watch together. 
+QUEST_20150323_001642	{memo X}$We would have known better if Master was here. {nl}At any rate, we have to test if this seedling actually has the power to purify. {nl}I will do a simple purifying ritual. {nl}Get me some Ellom Leaves to grasp the pollution status of this area.
+QUEST_20150323_001643	{memo X}Now, let's start. {nl}Please watch together.
 QUEST_20150323_001644	{memo X}$But he is a druid who has accomplished as much as I have. {nl}I think he can find out what the secret of this seedling is.
 QUEST_20150323_001645	{memo X}Also, you may experience something unusual if you have this twig. {nl}If you do, please tell him about it too.
 QUEST_20150323_001646	{memo X}Please find my colleague in Shaton Farm.
-QUEST_20150323_001647	{memo X}$Aren't the dandelions around pretty? {nl}They disservice me, however, by sucking nutrients from the ground. {nl}If this continues, we won't be having a wheat harvest next season. {nl}Please remove the dandelions from the farm. 
+QUEST_20150323_001647	{memo X}$Aren't the dandelions around pretty? {nl}They disservice me, however, by sucking nutrients from the ground. {nl}If this continues, we won't be having a wheat harvest next season. {nl}Please remove the dandelions from the farm.
 QUEST_20150323_001648	{memo X}Huh?
 QUEST_20150323_001649	{memo X}Huh?
 QUEST_20150323_001650	{memo X}Huh?
-QUEST_20150323_001651	{memo X}Huh? 
+QUEST_20150323_001651	{memo X}Huh?
 QUEST_20150323_001652	{memo X}$We're fighting hard. {nl}My mens' injuries are far more urgent than the farmers, wouldn't you agree? {nl}But some druid provided medicine only to the farmers which they then hid away. {nl}I have no words…
 QUEST_20150323_001653	{memo X}$It's simple. I will look out for my men first. {nl}Bring me the medicine that they've hidden. It shouldn't be hard to find. {nl}Probably in some wooden box or grape wagon, possibly an empty house… Somewhere there.
-QUEST_20150323_001654	{memo X}But be careful. {nl}If this bowl fills with water, the spell will fume a special force. {nl}Then the monsters attracted to that force might attack. 
+QUEST_20150323_001654	{memo X}But be careful. {nl}If this bowl fills with water, the spell will fume a special force. {nl}Then the monsters attracted to that force might attack.
 QUEST_20150323_001655	$It was successful. {nl}Did you know these seeds are the same type as the mysterious seedlings? {nl}Seems like a wide range of land can be purified if it's grown well enough.
 QUEST_20150323_001656	$Growing these will use up parts of the cultivated farm however. {nl}The landlord of the farm in the reservoir area, Shaton, is here just in time so I should try persuading him while I can.
-QUEST_20150323_001657	$I'll meet you in the reservoir area. 
+QUEST_20150323_001657	$I'll meet you in the reservoir area.
 QUEST_20150323_001658	{memo X}Soldier Mike
 QUEST_20150323_001659	{memo X}$My parent passed away on Medzio Diena because of them. {nl}I applied as a soldier here for my parents' revenge. {nl}But… it's a shame. I can't even so much as look at them. {nl}Please, do me a favor and kill them for me!
 QUEST_20150323_001660	{memo X}$They'll jump out when you approach the bush and more'll come out if you shake it. {nl}You're partly responsible for it so you should help.
-QUEST_20150323_001661	{memo X}There was a young couple that used to work here. They were very diligent. {nl}Everyone here did not work hard because they hated Shaton but they were different. 
-QUEST_20150323_001662	{memo X}$But that Shaton abused and exploited them. {nl}They ended up dying of overwork. I have some of their keepsakes… {nl}I promised to bury it near the grave but I lost the bag I kept them in in the chaos of Medzio Diena. {nl}If you find an old bag, please check if there's a ring inside. 
-QUEST_20150323_001663	{memo X}$Good. This potion cost me a fortune at the Fedimian Black Market. {nl}It was from an elementalist who seemed trustworthy, unlike those druids. {nl}According to him, this potion contains the essence of alchemy. 
+QUEST_20150323_001661	{memo X}There was a young couple that used to work here. They were very diligent. {nl}Everyone here did not work hard because they hated Shaton but they were different.
+QUEST_20150323_001662	{memo X}$But that Shaton abused and exploited them. {nl}They ended up dying of overwork. I have some of their keepsakes… {nl}I promised to bury it near the grave but I lost the bag I kept them in in the chaos of Medzio Diena. {nl}If you find an old bag, please check if there's a ring inside.
+QUEST_20150323_001663	{memo X}$Good. This potion cost me a fortune at the Fedimian Black Market. {nl}It was from an elementalist who seemed trustworthy, unlike those druids. {nl}According to him, this potion contains the essence of alchemy.
 QUEST_20150323_001664	{memo X}$He said if I pour this on the ground, a powerful obedient monster will appear. {nl}I'll use it to wipe out all the monsters in my farm!
 QUEST_20150323_001665	{memo X}$Well, I've made some mistakes here and there but who doesn't? {nl}I mean, just look at grapes. How can you use water without wine mixed as drinking water? {nl}Even if the world is ending, you can't just drink plain water. That's barbaric! {nl}Hmm! Anyway, I appreciate the help. I'll listen to your story.
 QUEST_20150323_001666	{memo X}$I'm just listening! I'm not going to do what you say! {nl}I don't think wheat will grow here no matter what kind of magic you use. {nl}I need to look for my son's body, so you better keep it short!
-QUEST_20150323_001667	{memo X}$The wandering girl the farmers mentioned sounds suspicious. {nl}Elly agrees with me too. {nl}Looking at the facts together with her actions, we can't just dismiss her as an ordinary girl. {nl}Won't people in the Shaton family do anything about it? 
+QUEST_20150323_001667	{memo X}$The wandering girl the farmers mentioned sounds suspicious. {nl}Elly agrees with me too. {nl}Looking at the facts together with her actions, we can't just dismiss her as an ordinary girl. {nl}Won't people in the Shaton family do anything about it?
 QUEST_20150323_001668	{memo X}$And Medzio Diena came a few years after. {nl}My family barely made it out alive and this is what happened to the farm. {nl}That's not all. {nl}It was mentioned that a blue disaster will follow the great disaster.
 QUEST_20150323_001669	{memo X}$Think about it, it may have been a warning about those poisonous grapes. {nl}The true gold blessing will come after the blue disaster passes. I don't know what that means. {nl}I wanted to talk to her more but her father kicked her out saying she felt ominous. {nl}Where could she be wandering now…
 QUEST_20150323_001670	{memo X}$Thank you. {nl}Maybe we earned some of the master's trust. {nl}If so, then it's all thanks to you. {nl}Good luck…
 QUEST_20150323_001671	{memo X}$I heard things went well at the Shaton Farm. {nl}That's a relief. I will discuss with the master about the large-scale purification and how to make it successful.
 QUEST_20150323_001672	{memo X}$Thank you. This will help many people recover.
-QUEST_20150323_001673	{memo X}It's a task of getting rid of the Lauzinutes across the underground tunnel. {nl}The owner's son disappeared in the underground tunnel long ago. It's creepy and I don't ever want to go in there. 
-QUEST_20150323_001674	{memo X}$Good. My men need to defend this area. {nl}It was spotted in the upper area. I'll mark the map for you. {nl}You might have to go through some underground tunnels. 
+QUEST_20150323_001673	{memo X}It's a task of getting rid of the Lauzinutes across the underground tunnel. {nl}The owner's son disappeared in the underground tunnel long ago. It's creepy and I don't ever want to go in there.
+QUEST_20150323_001674	{memo X}$Good. My men need to defend this area. {nl}It was spotted in the upper area. I'll mark the map for you. {nl}You might have to go through some underground tunnels.
 QUEST_20150323_001675	Underground Tunnel
 QUEST_20150323_001676	(I can't seem to go the opposite way.)
 QUEST_20150323_001677	$Is Vietos Gorge a masterpiece of the Goddess or a marvel of nature? {nl}The limestone stairway in the southern area is shining with spring water and looks fantastic.
@@ -1685,7 +1685,7 @@ QUEST_20150323_001685	{memo X}$Srautas Canyon is filled with evil forces and the
 QUEST_20150323_001686	{memo X}$Strange things are happening in Vejo Ravine. {nl}All the villagers disappeared and monsters took their place.
 QUEST_20150323_001687	{memo X}$Monsters entered the Stele Road and are blocking the way. {nl}All towns and villages will be isolated if we don't get rid of the monsters.
 QUEST_20150323_001688	{memo X}$We need support to make our way from the Dvaisa Ridge to Gateway of Great King. {nl}Please help.
-QUEST_20150323_001689	$The Gambler of Klaipeda
+QUEST_20150323_001689	$The Gambler of 克萊佩達
 QUEST_20150323_001691	$Investigate the Miners' Village
 QUEST_20150323_001692	$Disaster of Saknis Plains
 QUEST_20150323_001693	$Vilna Forest: The Monsters' Purpose
@@ -1729,7 +1729,7 @@ QUEST_20150401_001730	{memo X}$The monsters weaken as the eerie shadow disappear
 QUEST_20150401_001731	Star Lamp
 QUEST_20150401_001732	{memo X}$Looks like it can't absorb any more.
 QUEST_20150401_001733	{memo X}$You feel like you're being sucked into the light…
-QUEST_20150401_001734	{memo X}$I remember hiding some in the grass so that I could eat it later on. {nl}Please bring it to me. 
+QUEST_20150401_001734	{memo X}$I remember hiding some in the grass so that I could eat it later on. {nl}Please bring it to me.
 QUEST_20150401_001735	It's spoiled. {nl}Take it again.
 QUEST_20150401_001736	$Oh, that stench. Throw it away first then come back.
 QUEST_20150401_001737	{memo X}$Ugh. How can you eat that? You should bring the fresh one.
@@ -1741,10 +1741,10 @@ QUEST_20150401_001742	$Seems like the hunger went away.
 QUEST_20150401_001743	$You must be full of questions right now. Ask away, Revelator…
 QUEST_20150401_001744	$Vakarine is fighting Valtrus in the Demon Prison across the portal. {nl}She won't be able hold it for much longer unless someone helps.
 QUEST_20150401_001745	{memo X}$Men under the command of the Baron have been here though they weren't able to make it back. {nl}I watched everything with the wizard's eyes. {nl}Even the screams of Vakarine and her Kupoles.
-QUEST_20150401_001746	{memo X}$That depends on whether or not you have the will to save the Goddess. {nl}We can take time to talk about it. 
-QUEST_20150401_001747	{memo X}$I hear the demons that crossed the corruption breach are gathered in Ausros Chapel. {nl}I wish you luck in the name of the Goddess. 
+QUEST_20150401_001746	{memo X}$That depends on whether or not you have the will to save the Goddess. {nl}We can take time to talk about it.
+QUEST_20150401_001747	{memo X}$I hear the demons that crossed the corruption breach are gathered in Ausros Chapel. {nl}I wish you luck in the name of the Goddess.
 QUEST_20150401_001748	Royal Mausoleum Construction Fee
-QUEST_20150401_001749	{memo X}Those who kept the honor of King Zachariel and his descendants built the King's grave here. 
+QUEST_20150401_001749	{memo X}Those who kept the honor of King Zachariel and his descendants built the King's grave here.
 QUEST_20150401_001750	{memo X}[Things about the secret place is written]
 QUEST_20150401_001751	{memo X}[Details of Shout the name of the King!]
 QUEST_20150401_001752	{memo X}[Details of Shout the name of the Goddess Ausrine!]}
@@ -1753,115 +1753,115 @@ QUEST_20150401_001754	{memo X}[Details of Shout the name of the Goddess Vakarine
 QUEST_20150401_001755	{memo X}[Details of Shout the name of the Goddess Laima!]
 QUEST_20150401_001756	{memo X}[Details of Shout the name of the Goddess Gabija!]
 QUEST_20150401_001757	Those who truly understand the words will be enlightened. {nl}If you're ever lost, shout his name and you'll find the way.
-QUEST_20150401_001758	{memo X}You hear whispers in your head. 
+QUEST_20150401_001758	{memo X}You hear whispers in your head.
 QUEST_20150401_001759	Unknown Crystal.
 QUEST_20150401_001760	Entrapped force of the spell is released.
 QUEST_20150401_001761	The crystal is empty because the seal was released.
 QUEST_20150401_001762	Sealing the spell.
-QUEST_20150401_001763	$The powerful spell can be suppressed using a fragment of the Spell Suppressing Crystal. 
+QUEST_20150401_001763	$The powerful spell can be suppressed using a fragment of the Spell Suppressing Crystal.
 QUEST_20150401_001764	Demon Lord Naktis
 QUEST_20150401_001765	$You have been running around hard in my land. {nl}Sorry, kid, but my name calls for the curse.
 QUEST_20150401_001766	{memo X}What is this…? {nl}What are you doing with my soul?!
 QUEST_20150401_001768	Reconstruction of Blessings
-QUEST_20150406_001769	{memo X}$You think so too, huh? {nl}Please collect some leather. You can get some from the monsters. 
+QUEST_20150406_001769	{memo X}$You think so too, huh? {nl}Please collect some leather. You can get some from the monsters.
 QUEST_20150406_001770	$Then give me 1,000 silver coins. I'm in a tight spot here too.
 QUEST_20150406_001771	$I'm very sorry but I do hope you understand.
 QUEST_20150406_001772	Then I have no business with you
 QUEST_20150406_001773	You're even worse than me.
 QUEST_20150406_001774	$Even more pathetic than I am… Take it.
-QUEST_20150406_001775	What is it? 
+QUEST_20150406_001775	What is it?
 QUEST_20150406_001776	$But you're a new face. {nl}Do you have anything to prove that you're Horacius' colleague?
 QUEST_20150406_001777	No wonder! Here it is.
 QUEST_20150406_001778	$I can't just give my precious farming tools to someone so suspicious!
-QUEST_20150406_001779	Huh? Why should I trust you? 
+QUEST_20150406_001779	Huh? Why should I trust you?
 QUEST_20150406_001780	{memo X}$You're very persistent. Here.
 QUEST_20150406_001781	Is Horacius really okay?
 QUEST_20150406_001782	I don't know who you are but I am very busy.
-QUEST_20150406_001783	What happens if it fails? 
-QUEST_20150406_001784	If it's just that then I'll cooperate. {nl}Will farming tools be enough? 
+QUEST_20150406_001783	What happens if it fails?
+QUEST_20150406_001784	If it's just that then I'll cooperate. {nl}Will farming tools be enough?
 QUEST_20150406_001785	$Of course I should give them. {nl}It'll be successful.
 QUEST_20150406_001786	$Is that not enough?
 QUEST_20150406_001787	Necklace of Shaton
-QUEST_20150406_001788	I found an old, blood stained necklace. Could this be Shaton's son's necklace? 
-QUEST_20150406_001789	$This machine can process crystal fragments. {nl}Which item would you like to process? 
+QUEST_20150406_001788	I found an old, blood stained necklace. Could this be Shaton's son's necklace?
+QUEST_20150406_001789	$This machine can process crystal fragments. {nl}Which item would you like to process?
 QUEST_20150406_001790	Memo
 QUEST_20150406_001791	$If you resonate the crystals a bit, you'll hear a beautiful melody.
 QUEST_20150406_001792	$Caution: This area is a rockslide zone!
 QUEST_20150406_001793	Machine of Riddles
-QUEST_20150406_001794	{memo X}There are red, blue, and yellow circles on the old surface. 
+QUEST_20150406_001794	{memo X}There are red, blue, and yellow circles on the old surface.
 QUEST_20150406_001795	{memo X}It's the reverting chain that shredded my soul… I collected my soul with it.
-QUEST_20150406_001796	{memo X}$Seems the plan was to block the corruption breach with my soul. {nl}Good thing I knew about it before it was too late. 
+QUEST_20150406_001796	{memo X}$Seems the plan was to block the corruption breach with my soul. {nl}Good thing I knew about it before it was too late.
 QUEST_20150406_001797	$Did you really think you could fool me that easily? {nl}Send my regards to Vakarine.
 QUEST_20150406_001798	{memo X}Hand it over, Revelator. {nl}The Goddess will take care of it.
 QUEST_20150406_001800	Lost Magic Circle
-QUEST_20150414_001801	What do you want to know? 
+QUEST_20150414_001801	What do you want to know?
 QUEST_20150414_001802	Receptionist Ramda
-QUEST_20150414_001803	{memo X}$The commission can start once all party members have gathered. 
-QUEST_20150414_001804	{memo X}You are not eligible to receive commissions yet. 
-QUEST_20150414_001805	{memo X}Star commission? 
+QUEST_20150414_001803	{memo X}$The commission can start once all party members have gathered.
+QUEST_20150414_001804	{memo X}You are not eligible to receive commissions yet.
+QUEST_20150414_001805	{memo X}Star commission?
 QUEST_20150414_001806	$That's right. {nl}The altar will move again.
 QUEST_20150414_001807	$Box of Legwyn Family
 QUEST_20150414_001808	{memo X}Nothing can be found now…
 QUEST_20150414_001809	Tesla's Dedication
-QUEST_20150414_001810	{memo X}I offer the Goddess Statue of Soul my honor and light. 
+QUEST_20150414_001810	{memo X}I offer the Goddess Statue of Soul my honor and light.
 QUEST_20150414_001811	$Ugh. How can you eat that? You should bring ones that aren't spoiled.
-QUEST_20150414_001812	$Good, good. The purification is going well. {nl}Welcome to my territory, Revelator. 
+QUEST_20150414_001812	$Good, good. The purification is going well. {nl}Welcome to my territory, Revelator.
 QUEST_20150414_001813	$The purification? Ah… yes, it's ongoing. {nl}This is all for the farmers as long as that engine works well.
 QUEST_20150414_001814	$This old man wants just one thing: {nl}beauty, everlasting beauty…
-QUEST_20150414_001815	Ah, I'm referring to the engine and purification. 
+QUEST_20150414_001815	Ah, I'm referring to the engine and purification.
 QUEST_20150414_001816	$This machine takes too many crops. {nl}You can say it was kept because of my prestige and morality.
 QUEST_20150414_001817	$Haven't you seen the weird aura around the farm? {nl}That's what's corrupting the farm.
 QUEST_20150414_001818	$The spell device is used to suppress the aura using the magic circle to purify the farm. {nl}It's all thanks to Rimas.
 QUEST_20150414_001819	$Anyway, when will the search team be back from the restricted area?
 QUEST_20150414_001820	$Ah, you're still here. {nl}Take your time and look around.
-QUEST_20150414_001821	$If we fail… Then what will happen to us? 
-QUEST_20150414_001822	$The farm rent has become a problem. People aren't generous any more. 
+QUEST_20150414_001821	$If we fail… Then what will happen to us?
+QUEST_20150414_001822	$The farm rent has become a problem. People aren't generous any more.
 QUEST_20150414_001823	$It's no joke.
 QUEST_20150414_001824	{memo X}$Someone's Memo
 QUEST_20150414_001825	{memo X}$This place is insane. {nl}The only way to get rid of this cursed Tree Root Crystal is to burn the place down. {nl}It should all be burned.
 QUEST_20150414_001826	$The Baron's greed had him send his men into this area. {nl}None of them made it back.
-QUEST_20150414_001827	$I watched everything through the eyes of this wizard. {nl}Even the screams of Vakarine and her Kupoles. 
-QUEST_20150414_001828	$That depends on whether or not you have the will to save the Goddess. {nl}We can take time later to talk about it. 
+QUEST_20150414_001827	$I watched everything through the eyes of this wizard. {nl}Even the screams of Vakarine and her Kupoles.
+QUEST_20150414_001828	$That depends on whether or not you have the will to save the Goddess. {nl}We can take time later to talk about it.
 QUEST_20150414_001829	$Isn't there a more effective way to block the monsters?
 QUEST_20150414_001830	$Freshly cultivating the farm isn't easy though at least there are less monsters than before.
-QUEST_20150414_001831	{memo X}$They were once gentle monsters that suddenly grew vicious. {nl}Have you heard of anything else like that? 
+QUEST_20150414_001831	{memo X}$They were once gentle monsters that suddenly grew vicious. {nl}Have you heard of anything else like that?
 QUEST_20150414_001832	$Many loved ones would have been lost if not for you. {nl}Why would someone do such a thing?
 QUEST_20150414_001833	$I'm sure it's a monster behind a man's mask. {nl}Spreading poison? Evoniphon? I'll remember that.
-QUEST_20150414_001834	$Weird things happen when you try to cultivate a new farm. {nl}Though nowadays it's even weirder if nothing happens. 
-QUEST_20150414_001835	$I didn't think we'd lack manpower since we're close to Klaipeda. Guess that was a mistake on my part. {nl}Well, at least we have enough soldiers to fight the large monsters.
-QUEST_20150414_001836	$Guarding the farm is tiring enough. {nl}How much time do the soldiers need to explore the Thorn Forest? 
+QUEST_20150414_001834	$Weird things happen when you try to cultivate a new farm. {nl}Though nowadays it's even weirder if nothing happens.
+QUEST_20150414_001835	$I didn't think we'd lack manpower since we're close to 克萊佩達. Guess that was a mistake on my part. {nl}Well, at least we have enough soldiers to fight the large monsters.
+QUEST_20150414_001836	$Guarding the farm is tiring enough. {nl}How much time do the soldiers need to explore the Thorn Forest?
 QUEST_20150414_001837	$One or two monsters I can handle just fine. {nl}But, I don't think I can handle an entire flock though.
 QUEST_20150414_001838	$I'm standing guard here. {nl}It's better than the Eastern Woods since there are less monsters{nl}but it isn't exactly easy.
-QUEST_20150414_001839	$My colleagues' faces turned pale and they ran away. What's going on? 
+QUEST_20150414_001839	$My colleagues' faces turned pale and they ran away. What's going on?
 QUEST_20150414_001840	$A Gorgon? Holy… I think I've seen one.
-QUEST_20150414_001841	A tremendous monster was sighted here. Have you seen it? 
+QUEST_20150414_001841	A tremendous monster was sighted here. Have you seen it?
 QUEST_20150414_001842	$It's a bit dubious, a monster hiding in a dead end like this. {nl}I can't just ignore the report though…
-QUEST_20150414_001843	Crops from here will be brought to Klaipeda. {nl}I heard the farm has been corrupted with an evil energy.
-QUEST_20150414_001844	$The farm's cultivation just started so I'm the only one who received farmland. {nl}I wonder when they'll cultivate the whole area like this. 
+QUEST_20150414_001843	Crops from here will be brought to 克萊佩達. {nl}I heard the farm has been corrupted with an evil energy.
+QUEST_20150414_001844	$The farm's cultivation just started so I'm the only one who received farmland. {nl}I wonder when they'll cultivate the whole area like this.
 QUEST_20150414_001845	$You defeated the Gorgon? {nl}Wow, Revelators must be some sort of superhuman.
-QUEST_20150414_001846	$One wrong move and we could've been wiped out. {nl}It feels like the Goddess has returned and is keeping us safe. 
+QUEST_20150414_001846	$One wrong move and we could've been wiped out. {nl}It feels like the Goddess has returned and is keeping us safe.
 QUEST_20150414_001847	I could have fought more but my colleagues ran away. {nl}I can take those monsters anytime…
-QUEST_20150414_001848	Next time, I'll fight at the front line. {nl}I'm sure I can take it down. 
-QUEST_20150414_001849	$It would have been dangerous if you weren't around. {nl}Such a big monster near Klaipeda…
+QUEST_20150414_001848	Next time, I'll fight at the front line. {nl}I'm sure I can take it down.
+QUEST_20150414_001849	$It would have been dangerous if you weren't around. {nl}Such a big monster near 克萊佩達…
 QUEST_20150414_001850	$Gatus, he was the first to run away but he loves to bluff… {nl}
-QUEST_20150414_001851	$How could Gytis lie to us? {nl}He said there were only gentle monsters. 
+QUEST_20150414_001851	$How could Gytis lie to us? {nl}He said there were only gentle monsters.
 QUEST_20150414_001852	Alan's worse. {nl}He should have correctly said it was Gorgon.
-QUEST_20150414_001853	$I saw your fight as I ran away and it was spectacular. {nl}Do you fight these kinds of monsters often? 
-QUEST_20150414_001854	$I really envy you. {nl}I could be a good soldier too if I had your abilities. 
+QUEST_20150414_001853	$I saw your fight as I ran away and it was spectacular. {nl}Do you fight these kinds of monsters often?
+QUEST_20150414_001854	$I really envy you. {nl}I could be a good soldier too if I had your abilities.
 QUEST_20150414_001855	I feel sick… Ugh…
-QUEST_20150414_001856	I still feel sick but it's getting better. {nl}Thank you very much. 
-QUEST_20150414_001857	$You brought the medicine for us? {nl}Thank you. The Goddess will surely bless you. 
+QUEST_20150414_001856	I still feel sick but it's getting better. {nl}Thank you very much.
+QUEST_20150414_001857	$You brought the medicine for us? {nl}Thank you. The Goddess will surely bless you.
 QUEST_20150414_001858	Hm… Is the antidote ready yet…?
 QUEST_20150414_001859	Save me…
 QUEST_20150414_001860	$If it weren't for you, I'd be meeting the Goddess right now. {nl}Thank you very much.
-QUEST_20150414_001861	$I lost consciousness on something weird that I then knew was poison. {nl}That pain… I don't ever want to think about it again. 
+QUEST_20150414_001861	$I lost consciousness on something weird that I then knew was poison. {nl}That pain… I don't ever want to think about it again.
 QUEST_20150414_001862	Help… I feel like dying…
 QUEST_20150414_001863	$Thank you for saving us. {nl}I was sure we were dead.
-QUEST_20150414_001864	$I suddenly felt hot and… I don't remember anything after that. {nl}Evoniphon? Never heard of it. 
+QUEST_20150414_001864	$I suddenly felt hot and… I don't remember anything after that. {nl}Evoniphon? Never heard of it.
 QUEST_20150414_001865	$My stomach's burning…
 QUEST_20150414_001866	{memo X}$Go back. {nl}Humans shouldn't enter this place.
 QUEST_20150414_001867	{memo X}$We cannot protect you. Go back.
-QUEST_20150414_001868	{memo X}$Nuaele's subordinates are all gone. {nl}Go find Aladona. She'll take you to Nuaele's territory. 
+QUEST_20150414_001868	{memo X}$Nuaele's subordinates are all gone. {nl}Go find Aladona. She'll take you to Nuaele's territory.
 QUEST_20150414_001869	{memo X}$Aside from the corruption breach, our biggest problem was Nuaele. {nl}Now we can focus on the corruption breach. {nl}Go to Prison District 3. The Goddess awaits your support.
 QUEST_20150414_001870	$Be prepared. We are establishing a new base.
 QUEST_20150414_001871	$We will make a home here, a world where both demons and humans meet.
@@ -1933,7 +1933,7 @@ QUEST_20150428_001936	$The Command Letter of Ausrine
 QUEST_20150428_001937	$We will lock those who oppose us in the isolated place between two worlds.
 QUEST_20150428_001938	$Unknown Adventurer's Diary
 QUEST_20150428_001939	$The house of the family cursed with revenge and slaughter welcomed us. {nl}As we stepped into the house, the tangled vines grasped our knees.
-QUEST_20150428_001940	$We released the seals as we defeated the monsters. {nl}The treasures of Legwyn Family are hidden somewhere in this house… {nl}We will find them. 
+QUEST_20150428_001940	$We released the seals as we defeated the monsters. {nl}The treasures of Legwyn Family are hidden somewhere in this house… {nl}We will find them.
 QUEST_20150428_001941	Beikeol's Reply
 QUEST_20150428_001942	{memo X}$I've received your letter. {nl}It's great to hear that the lads of Legwyn family trusts you.
 QUEST_20150428_001943	{memo X}$I've changed the name on this certificate for you so return the rest of documents to me. {nl}I guarantee either his will or his land document.
@@ -1969,7 +1969,7 @@ QUEST_20150428_001972	$The Order to Defeat the Demons
 QUEST_20150428_001973	$I hereby order in the name of Vakarine! {nl}After Medzio Diena, they can no longer be forgiven. {nl}They are trying to expand their power by penetrating into the crack that was created in the barrier.
 QUEST_20150428_001974	$All the Kupoles here shall defeat Demon Lords Boolut, Nuaele, and Baltrus first. {nl}The enemy will panic without their commanders and will be easier to defeat.
 QUEST_20150428_001975	$Kupoles who can't attack should concentrate on blocking the crack. {nl}We can't allow more demons from going to the Demon Lords.
-QUEST_20150428_001976	$How should I live from now on? {nl}I should have moved to Klaipeda.
+QUEST_20150428_001976	$How should I live from now on? {nl}I should have moved to 克萊佩達.
 QUEST_20150428_001977	{memo X}$Since you've placed them into the inventory, you can read them anytime.
 QUEST_20150428_001978	$Mirtis' power was so overwhelming that Cunningham had to make an important decision.
 QUEST_20150428_001979	{memo X}$I hear that more and more monsters are appearing in the Baron Arleruno's land. {nl}Please defeat those monsters before they take any innocent lives.
@@ -1994,7 +1994,7 @@ QUEST_20150511_001997	$King Zachariel had made many arrangements for future gene
 QUEST_20150511_001998	$Trees become bigger as years pass. {nl}There are only Woodmen here but when you think of the large trees or the trees that stand in the old capital city… {nl}You can't help but think of the existence of even larger trees. {nl}After the disaster occurred, many plants turned into monsters so we can't ever rule out that possibility.
 QUEST_20150511_001999	{memo X}$(There are barely legible words written here.) {nl}Euros could not hold his breath any longer so he ended up inhaling the spores and died. {nl}Mushworts hunt people with the cruelest method I've ever seen. {nl}They walk around our gathering places and shake out mushrooms that release spores.
 QUEST_20150511_002000	$We never know when they'll release spores. If we don't stop them, the entire camp could be annihilated. {nl}I have no way to keep safe from the spores. I can't stop coughing…
-QUEST_20150511_002001	$The training officer completed the training at the camp in the woods of the attached bridge, in accordance with the order to prepare for future disasters. {nl}I hereby grant this certificate. 
+QUEST_20150511_002001	$The training officer completed the training at the camp in the woods of the attached bridge, in accordance with the order to prepare for future disasters. {nl}I hereby grant this certificate.
 QUEST_20150511_002002	$The Mausoleum of Zachariel has never allowed anyone entry. {nl}If the object was not for the world to know of, then we could've hidden it so that none could find it, but instead we just built a giant tomb to protect it.{nl}Is this the great king's conceit or does it hold a different meaning?
 QUEST_20150511_002003	$For the first step: recharge the magical essence I gave to you. Look for where magic is condensed at Pavydo Mixed Forest. {nl}You won't be able to use the magical essence right away, however, since it has also absorbed some malign energy. {nl}For that, you'll need to collect Operor saliva and purify it at the altar of purification at the Wasteland of Renistu.
 QUEST_20150511_002004	$Name: High Raven{nl}Sex: Male{nl}Occupation: Merchant{nl}List of items: luxurious goods, weapons {nl}{nl}In accordance with kingdom laws, you may enter.
@@ -2172,7 +2172,7 @@ QUEST_20150714_002175	$I lie here without yet creating thirteen thousand pieces 
 QUEST_20150714_002176	$I can hear a whisper in my head.
 QUEST_20150714_002177	$Please install the device I gave you in the 2nd district of Crystal Mine.
 QUEST_20150714_002178	$The location is Sidabro Rest Place in Vejo Ravine. {nl}I hope he's still alive.
-QUEST_20150714_002179	$Klaipeda Market
+QUEST_20150714_002179	$克萊佩達 Market
 QUEST_20150714_002180	$Give me the effigy. I shall calm the spirits.
 QUEST_20150714_002181	The monsters will feel threatened by the energies that spurt out from the crystals containing my authority and begin their attack.
 QUEST_20150714_002182	$Please protect the crystals so that they may produce my authority and spread it to Sirdgelos Forest.
@@ -2241,12 +2241,12 @@ QUEST_20150714_002244	$So you are the famous Revelator. {nl}I've definitely hear
 QUEST_20150714_002245	$I shall temporarily permit your entrance. {nl}The Knights of Kaliss are looking for competent people like you.
 QUEST_20150714_002246	$However, all the authority here belongs to our kingdom army. {nl}I hope you behave well.
 QUEST_20150714_002247	$Saltistter? What are you talking about? {nl}Such nonsense you speak…
-QUEST_20150715_002248	{memo X}$The Gambler of Klaipeda
+QUEST_20150715_002248	{memo X}$The Gambler of 克萊佩達
 QUEST_20150715_002249	{memo X}$Modestas admitted defeat and said he'd pay him pay back. As he was leaving the place with wagon in tow, the old alchemist broke into a strange smile that caught Modestas' attention.
 QUEST_20150717_002250	$Please enter the name of your companion.
-QUEST_20150717_002251	Companions can help you in combat. {nl}You can make your companions watch you or teach them special attributes. 
+QUEST_20150717_002251	Companions can help you in combat. {nl}You can make your companions watch you or teach them special attributes.
 QUEST_20150717_002252	What do you think? They make a pretty good friend, right? {nl}But do take note that only certain classes can ride Companions. {nl}
-QUEST_20150717_002253	Item Merchant 
+QUEST_20150717_002253	Item Merchant
 QUEST_20150717_002254	$I am sorry, but I can't come forward myself. {nl}It's just, if I use magic, the demons will sense it.
 QUEST_20150717_002255	$I will correct the disrupted magic of this tower.{nl} I will have to use magic at first so monsters will rush in. Please protect me.
 QUEST_20150717_002256	$I hope Goddess Gabija is safe… Let's hurry.
@@ -2277,22 +2277,22 @@ QUEST_20150729_002284	$There is a good request that just came in.{nl}Would you l
 QUEST_20150729_002285	Anyway, that is very strange.{nl}If it was Goddess Laima's will, not just anyone could undo her seal.
 QUEST_20150729_002286	$Whether this revelation will become a new beacon of hope or a start of a new disaster, is indeed {nl}difficult to judge… We are thinking of continuing our investigation.
 QUEST_20150729_002287	)}My son volunteered to join the army.{nl}So I have been offering my prayers to the greatest Goddess Ausrine.{nl}
-QUEST_20150729_002288	)}Monsters have been multiplying to the point where people cannot safely live in the forest anymore.{nl}At least Klaipeda is still safe.{nl}
+QUEST_20150729_002288	)}Monsters have been multiplying to the point where people cannot safely live in the forest anymore.{nl}At least 克萊佩達 is still safe.{nl}
 QUEST_20150729_002289	Maybe the Goddess Ausrine gave us her protection.{nl}Isn't she the Goddess who leads all other Goddesses?
 QUEST_20150729_002290	)}I am glad my son dreams of becoming a soldier…{nl}But the monsters keep increasing in number, and I'm worried he will be injured.
 QUEST_20150729_002291	I told him about the Revelation that I found at the Crystal Mine.
 QUEST_20150729_002292	$The morning dawns after the night, does it not? Goddess Ausrine is the one who brings us the morning. {nl}Not only that, when we die, we go to her as well.
-QUEST_20150729_002293	{memo X}$Eternal life…{nl}Through the Goddess Ausrine's power, my life extends for every Owl Statue I sculpt.{nl}If this old body of mine can give her strength and help the world then I am determined to carry on forever. 
+QUEST_20150729_002293	{memo X}$Eternal life…{nl}Through the Goddess Ausrine's power, my life extends for every Owl Statue I sculpt.{nl}If this old body of mine can give her strength and help the world then I am determined to carry on forever.
 QUEST_20150729_002294	{memo X}$Are you interested in everlasting life?{nl}Since necromancers deal with the dead, they can sense life forces, and, depending on their ability, manipulate it. {nl}If you are as good as I am, absorbing that life force to extend your own is possible.
 QUEST_20150729_002295	{memo X}$Are you curious as to how I obtained eternal life?{nl}If stilled time is eternal, then you can consider it life everlasting.{nl}By stopping time I maintain a body that is neither aging nor dying.{nl}Whether or not quiescence can be described as eternal, I do not have an answer.
 QUEST_20150729_002296	Unless during a specific window of time, recklessly touching the terminal would only bring trouble. It could release the curse.
 QUEST_20150729_002297	$If all that is small is gathered, they shall one day add up to a larger force.
-QUEST_20150729_002298	$It is said the Goddess Ausrine statue at Klaipeda's central plaza is related with the story of Modestas the Gambler.
+QUEST_20150729_002298	$It is said the Goddess Ausrine statue at 克萊佩達's central plaza is related with the story of Modestas the Gambler.
 QUEST_20150729_002299	Back when the Goddess Statue was just finished, no one knew who the Statue represented. Only the Dievdirbys who carved the statue and Modestas knew.
 QUEST_20150729_002300	{memo X}Many tried to reveal the identity of the Statue by challenging Modestas to bets, but he passed away before losing even once.
 QUEST_20150729_002301	$I thank you again in the name of all fate. {nl}From here on, I will follow the stars to find Goddess Ausrine.{nl}
 QUEST_20150729_002302	About the Goddess Statue
-QUEST_20150729_002303	You can move to your desired location with the blessings of the Goddess Ausrine. 
+QUEST_20150729_002303	You can move to your desired location with the blessings of the Goddess Ausrine.
 QUEST_20150729_002304	Holy Relics of the Church Order
 QUEST_20150729_002305	{memo X}When greed and pride of men reaches its end, a divine tree will emerge from the ground to punish the greedy.
 QUEST_20150729_002306	{memo X}Coffin destroyed
@@ -2363,17 +2363,17 @@ QUEST_20150729_002370	$In front of Modestas, who had been worrying, appeared a f
 QUEST_20150729_002371	Modestas confessed he was far from making profits, instead being in debt, and he had wasted all his chances to win and only had his last, losing bet remaining.{nl}After listening to his story the old woman flatly added, {nl}'Since you only have one bet left, go ahead and make your last losing bet. Then all that's left for you to do is pay up your end of the bargain for losing the bet against me.'{nl}Modestas was a man who loved to gamble but he was not the type to throw a tantrum nor was he a sore loser.
 QUEST_20150729_002372	'Since you are unsure how to transport this boulder you suddenly won, how about this? Normally, I wouldn't change the initial conditions, but as an amusement I will give you a suggestion. Why don't you use your last bet to see whether or not I can lift this boulder up into your wagon? Even if you lose, at least you can have this heavy boulder loaded on your wagon.'{nl}
 QUEST_20150729_002373	$Modestas who had nothing to lose, nodded his head to accept her proposal. But before he could consent to the bet, the old woman continued. {nl}'But I can't just give you such a favorable idea for free. Therefore I will add one more condition.'{nl}
-QUEST_20150729_002374	When Modestas asked about the condition, the old woman answered.{nl}'You are to take the boulder, which I will load onto the wagon, to Klaipeda. Then, turn it into an object of value which everyone will recognize and esteem. If you are successful then the punishment for losing the bet against me will become void. Your friends will not disappear. Since you already lost the bet against me, although this is difficult, I will still give you one more chance. How about it?'{nl}Like always Modestas had no choice.
-QUEST_20150729_002375	When the boulder was set in its proper place with the help of the soldiers, the Alchemist who had left returned with another person. The Alchemist had brought with him a famous Dievdirbys sculptor.{nl}To the famous Dievdirbys, the Alchemist suggested, {nl}'Why don't you sculpt a statue of a Goddess using this boulder, on this central site of Klaipeda? If this boulder is changed into a statue of a Goddess, then nobody in Klaipeda will be able to deny its significance. I think that will fulfill your promise to the old woman.'{nl}
+QUEST_20150729_002374	When Modestas asked about the condition, the old woman answered.{nl}'You are to take the boulder, which I will load onto the wagon, to 克萊佩達. Then, turn it into an object of value which everyone will recognize and esteem. If you are successful then the punishment for losing the bet against me will become void. Your friends will not disappear. Since you already lost the bet against me, although this is difficult, I will still give you one more chance. How about it?'{nl}Like always Modestas had no choice.
+QUEST_20150729_002375	When the boulder was set in its proper place with the help of the soldiers, the Alchemist who had left returned with another person. The Alchemist had brought with him a famous Dievdirbys sculptor.{nl}To the famous Dievdirbys, the Alchemist suggested, {nl}'Why don't you sculpt a statue of a Goddess using this boulder, on this central site of 克萊佩達? If this boulder is changed into a statue of a Goddess, then nobody in 克萊佩達 will be able to deny its significance. I think that will fulfill your promise to the old woman.'{nl}
 QUEST_20150729_002376	$That the old woman appeared before him, that the many bets occurred, that the mountain erupted a stone for material was the divine providence of the Goddesses, argued Modestas, persuading everyone. {nl}
 QUEST_20150729_002377	Thus, the people decided to follow the words of Modestas, and Modestas relayed to the Dievdirbys the order to create the statue. {nl}
-QUEST_20150729_002378	When the statue was finally finished, the citizens of Klaipeda gathered, curious to know the identity of the Goddess who had been raised in the center of their beloved city.{nl}
-QUEST_20150729_002379	The Dievdirbys who had sculpted the statue had already vanished deep into the Kateen Forest, so the citizens of Klaipeda repeatedly questioned Modestas for her name. {nl}
-QUEST_20150729_002380	Despite the numerous questions nobody received an answer from Modestas. {nl}At any rate, this is the story of how the Goddess Statue of Klaipeda came to be. Even now that statue stands in the center of Klaipeda.{nl}
-QUEST_20150729_002381	$Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of Klaipeda honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl}
+QUEST_20150729_002378	When the statue was finally finished, the citizens of 克萊佩達 gathered, curious to know the identity of the Goddess who had been raised in the center of their beloved city.{nl}
+QUEST_20150729_002379	The Dievdirbys who had sculpted the statue had already vanished deep into the Kateen Forest, so the citizens of 克萊佩達 repeatedly questioned Modestas for her name. {nl}
+QUEST_20150729_002380	Despite the numerous questions nobody received an answer from Modestas. {nl}At any rate, this is the story of how the Goddess Statue of 克萊佩達 came to be. Even now that statue stands in the center of 克萊佩達.{nl}
+QUEST_20150729_002381	$Since that time, whenever Modestas took on a wager, he always bet the same thing. The answer to the question of who the Statue of 克萊佩達 honored.{nl}To uncover the name of the Goddess, numerous people challenged Modestas to a bet.{nl}
 QUEST_20150729_002382	But no matter the impossible odds, Modestas never lost a bet. Therefore nobody was able to win the answer from Modestas for years and time flew by.{nl}
 QUEST_20150729_002383	$And, as he lay dying, Modestas revealed the secret to the Goddess Statue in his will. When all became clear, the one who orchestrated all of this was none other than the one whom all other Goddesses stem from, Goddess Ausrine.{nl}
-QUEST_20150729_002384	$In the end, Goddess Ausrine, in exchange for giving income and an interesting life full of mystery to a certain gambler from Klaipeda, gave the city of Klaipeda a beautiful Goddess Statue, and a tale to last for times to come.{nl} {nl}
+QUEST_20150729_002384	$In the end, Goddess Ausrine, in exchange for giving income and an interesting life full of mystery to a certain gambler from 克萊佩達, gave the city of 克萊佩達 a beautiful Goddess Statue, and a tale to last for times to come.{nl} {nl}
 QUEST_20150730_002385	$Voodoo Doll
 QUEST_20150730_002386	{memo X}$The Gravekeeper's Magic Doll has shut down the barrier!
 QUEST_20150803_002387	$You need the key that fits the box
@@ -2398,7 +2398,7 @@ QUEST_20150918_002405	Historic Site Ruins
 QUEST_20150918_002406	Historic Site Ruins (Recommended Lv : 90){nl}Only you and your party members can enter together.{nl}Are you sure you want to enter?
 QUEST_20150918_002407	Right. Goddess Laima is the strangest of them all.{nl}No one knows when she disappeared. To be honest, I don't know if she really is a Goddess.{nl}
 QUEST_20150918_002408	Even if they say the world is doomed, our soldiers will guard this place until the end. {nl}However, we won't be responsible for you getting into trouble, so be careful.
-QUEST_20150918_002409	${memo Uska is a knight}Welcome. Sir Uska is waiting for you in the central square of Klaipeda. {nl}Well, is there anything that you are unsure of?
+QUEST_20150918_002409	${memo Uska is a knight}Welcome. Sir Uska is waiting for you in the central square of 克萊佩達. {nl}Well, is there anything that you are unsure of?
 QUEST_20150918_002410	{memo X}$But this is also my ordeal and mission that Laima has seen. {nl}I will tell you Laima's message.{nl}
 QUEST_20150918_002411	$Welcome! What do you need? {nl}Unlike my previous items, I made my best effort to collect these.
 QUEST_20150918_002412	$I heard that the Revelator appeared and saved the Mage Tower. {nl}I can't imagine what would have happened to Fedimian if the Mage Tower fell. It's such a relief.{nl}Here, feel free to look around anytime.
@@ -2413,7 +2413,7 @@ QUEST_20150918_002420	It looks like something is in that grass.
 QUEST_20150918_002421	{memo X}What was she looking for even when she was dying? {nl}There's definitely a tragic story behind all this.
 QUEST_20150918_002422	Then something snapped. {nl}A fellow clergyman, I can't remember who, had murdered Dion in his sleep with a mace and I… {nl}Everyone… {nl}No one can remember why they wanted to become priest in the past anymore.
 QUEST_20150918_002423	Each Goddess Statue is known to have different abilities depending on which Goddess it depicts. {nl}For example, the statue of Goddess Zemyna gives a blessing that enhances any ability you want.
-QUEST_20150918_002424	$But the statue of Goddess Ausrine in Klaipeda is a bit strange. {nl}It moves you to a desired area even though such a thing is Goddess Vakarine's power.
+QUEST_20150918_002424	$But the statue of Goddess Ausrine in 克萊佩達 is a bit strange. {nl}It moves you to a desired area even though such a thing is Goddess Vakarine's power.
 QUEST_20150918_002425	Go down quickly. It's dangerous. {nl}This place is empty.
 QUEST_20150918_002426	I cannot feel any magic.
 QUEST_20150918_002427	It's empty now.
@@ -2425,7 +2425,7 @@ QUEST_20150918_002432	Archmage Tower Dungeon
 QUEST_20150918_002433	Archmage Dungeon (Recommended Lv : 190){nl}Only you and your party members can enter together.{nl}Do you want to enter?
 QUEST_20150918_002434	Catacombs Underground Dungeon
 QUEST_20150918_002435	Catacombs Underground Dungeon (Recommended Lv. 200){nl}Only you and your party members can enter together.{nl}Do you want to enter?
-QUEST_20150918_002436	I'm looking over the shop because my father is busy. {nl}I may be not as good as my father, but my touch is precise. 
+QUEST_20150918_002436	I'm looking over the shop because my father is busy. {nl}I may be not as good as my father, but my touch is precise.
 QUEST_20150918_002437	Look around! {nl}It's a bit crowded but many items are waiting to meet its owner.
 QUEST_20150918_002438	Warehouse Keeper Jadan
 QUEST_20150918_002439	Welcome. It sure is busy here, right?{nl} Please be patient with us as we're trying our best to restore the area.{nl}Anyway, how can I help you?
@@ -2455,16 +2455,16 @@ QUEST_20151001_002462	It was a disaster… Many people were either injured or ki
 QUEST_20151001_002463	The best weapons and armors are the ones that you get used to over a long period of time. In order to do so, you must start by buying good items.
 QUEST_20151001_002464	The things I sell are good both in price and quality.
 QUEST_20151001_002465	A lot of people seem to be coming thanks to Sir Uska's recruitment notice.{nl}Take a look around at your own pace without feeling anxious.
-QUEST_20151001_002466	The days were better when Commander Uska took care of Klaipeda.
+QUEST_20151001_002466	The days were better when Commander Uska took care of 克萊佩達.
 QUEST_20151001_002467	Intelligence, calm judgment and cold rationality. These are the qualities required for our Cryomancers.{nl}These are the principles that will never change no matter what happens to the world.
 QUEST_20151001_002468	Vain death is the only thing that lies at the end for those who simply seek to be audacious.{nl}If you wish to save the world, lift the shield of the Peltasta.
-QUEST_20151001_002469	I heard the monsters are moving in herds outside Klaipeda.{nl}Instead of defeating them one by one, it will be better to learn my techniques.
+QUEST_20151001_002469	I heard the monsters are moving in herds outside 克萊佩達.{nl}Instead of defeating them one by one, it will be better to learn my techniques.
 QUEST_20151001_002470	My device will soon be functional. By the end of the day, you too will be able to enter the Mage Tower.
 QUEST_20151001_002471	The thief who foolishly entered this tower to rob it was burned alive. {nl}At the very least, the monuments he left will serve as a warning to other trespassers. {nl}- Agailla Flurry
-QUEST_20151001_002472	General Ruklys has fallen in battle, and the Fortress of the Great Earth has been taken. {nl}Some people say he was killed by Lydia Schaffen's arrow while others say by the royal magicians' magic, but it is certain that he passed away. {nl}It is indeed sad news.	
-QUEST_20151001_002473	There's no hope at all. Ah… my lovely Ridell. {nl}The kingdom soldiers did not keep their words. We're all going to die.{nl}	
-QUEST_20151001_002474	Even if the world collapses, the people will remain.{nl}If you have the desire to win with trustworthy companions.	
-QUEST_20151001_002475	This too is my ordeal and duty which Laima foresaw... {nl}I will tell you Laima's message.{nl}	
+QUEST_20151001_002472	General Ruklys has fallen in battle, and the Fortress of the Great Earth has been taken. {nl}Some people say he was killed by Lydia Schaffen's arrow while others say by the royal magicians' magic, but it is certain that he passed away. {nl}It is indeed sad news.
+QUEST_20151001_002473	There's no hope at all. Ah… my lovely Ridell. {nl}The kingdom soldiers did not keep their words. We're all going to die.{nl}
+QUEST_20151001_002474	Even if the world collapses, the people will remain.{nl}If you have the desire to win with trustworthy companions.
+QUEST_20151001_002475	This too is my ordeal and duty which Laima foresaw... {nl}I will tell you Laima's message.{nl}
 QUEST_20151001_002476	$If I'm paid well, there's no reason I would stop a person who wants to learn my techniques.{nl}Rather, I would even welcome that person. That doesn't mean they should follow my every move, though.
 QUEST_20151001_002477	Some Revelator drove out the demons in the Crystal Mine. {nl}That's just splendid news. {nl}Take your time and look around.
 QUEST_20151001_002478	Have you heard the rumors about Tenet Chapel?{nl}The Revelator may come see the Goddess.{nl}I can also benefit from it in terms of my business.
@@ -2479,11 +2479,11 @@ QUEST_20151001_002486	The Paladin Master could ask for our help...{nl}We would h
 QUEST_20151001_002487	I don't care who saved the Crystal Mine.{nl}Wasn't he a Cryomancer? I just hope he isn't a Pyromancer.
 QUEST_20151001_002488	You saved Tenet Chapel... But the Goddess wasn't there, right?{nl}That's unfortunate. Everyone wished deeply to see the Goddesses.
 QUEST_20151001_002489	About the Crystal Mine, I don't know who the Revelator is, but he has done us a great deed.{nl}Should we just look for the Goddesses now?{nl}
-QUEST_20151001_002490	I thought Tenet Chapel would not be influenced by Medzio Diena, but it turned into a demons' den.{nl}But, it is still has hope. We just have to start again. 
+QUEST_20151001_002490	I thought Tenet Chapel would not be influenced by Medzio Diena, but it turned into a demons' den.{nl}But, it is still has hope. We just have to start again.
 QUEST_20151001_002491	I feel embarrassed that the Revelator has done something which the Masters couldn't do.{nl}Please don't misunderstand. It is not an inferiority complex.
-QUEST_20151001_002492	I've heard about Tenet Chapel. Isn't it great? {nl}The expectations of you are getting bigger at Klaipeda. You realize this, right?
+QUEST_20151001_002492	I've heard about Tenet Chapel. Isn't it great? {nl}The expectations of you are getting bigger at 克萊佩達. You realize this, right?
 QUEST_20151001_002493	I could not save all the people at the capital city on Medzio Diena. {nl}But, I heard some Revelator saved everyone at the Crystal Mine. It is very good indeed.
-QUEST_20151001_002494	About Tenet Chapel, I know those Watchers well.{nl}I wanted them to move to Klaipeda since the world is dangerous these days, but they told me they feel more comfortable at Gele Plateau.{nl}Everything turned out well because of you.
+QUEST_20151001_002494	About Tenet Chapel, I know those Watchers well.{nl}I wanted them to move to 克萊佩達 since the world is dangerous these days, but they told me they feel more comfortable at Gele Plateau.{nl}Everything turned out well because of you.
 QUEST_20151001_002495	I want to research further about the sacred power which the first Paladin Master created on Gele Plateau.{nl}If we somehow use that power, we may find a way to save the kingdom.
 QUEST_20151001_002496	The Vubbes rushed out from the Crystal Mine because of the Demon Lord. {nl}But, I don't know why they took the villagers. Do you know anything about it?
 QUEST_20151001_002497	I can't believe it. Is the Cunningham legend at the Crystal Mine for real?{nl}If that's so, where is she?
@@ -2508,7 +2508,7 @@ QUEST_20151001_002515	Everyone is just busy trying to survive after Medzio Diena
 QUEST_20151001_002516	I don't know who the Revelator is, but I could have saved Mage Tower better than the Revelator. {nl}Of course, my fees would have be met.
 QUEST_20151001_002517	Even a person like me who goes after money, I know how important the Great Cathedral is.{nl}But, one thing that keeps my attention... The necklaces of the wise man, Maven. {nl}They are not in the hands of the demons right?
 QUEST_20151001_002518	I came here by passing through rough winds and waves while you've came here by going through Thorny Vines Forest.{nl} You must be joking that you haven't found the Goddesses. Seriously, how did you do that?
-QUEST_20151001_002519	If Mage Tower collapses, Fedimian won't be safe.{nl}The Demon Lord, Helgasercle... the end of the obsession ends in such vain. 
+QUEST_20151001_002519	If Mage Tower collapses, Fedimian won't be safe.{nl}The Demon Lord, Helgasercle... the end of the obsession ends in such vain.
 QUEST_20151001_002520	Ever since the Revelators who dreamt of the Goddesses appeared, the hands of the demons released them one by one.{nl}The same goes to the Great Cathedral. {nl}The proof that the Goddesses didn't abandon us is them.
 QUEST_20151001_002521	Leaving the kingdom
 QUEST_20151001_002522	A gigantic tree rose up from deep underground the capital city.{nl}The size of the tree was big enough that it couldn't even be compared against any mountain.{nl}As a result, many cities were destroyed and many people lost their beloved ones.{nl}
@@ -2570,7 +2570,7 @@ QUEST_20151001_002577	{memo X}You can see number 2 on the pillar.
 QUEST_20151001_002578	{memo X}You can see number 3 on the pillar.
 QUEST_20151001_002579	{memo X}There is something vaguely written on the pillar. Is this a piece of symbol?
 QUEST_20151001_002580	Hammer? You need it to make a sanctum?
-QUEST_20151001_002581	{nl}I can't give you what I was using so take this if you want. It will be gone once you use it. 
+QUEST_20151001_002581	{nl}I can't give you what I was using so take this if you want. It will be gone once you use it.
 QUEST_20151001_002582	Hammer, I've already gave it to you. Why are you asking for it again?
 QUEST_20151001_002583	Repairing the Sanctum...
 QUEST_20151001_002584	In usual circumstances, I would sell it, but I will just give it to you for free this time. But, it can be only used once.
@@ -2629,7 +2629,7 @@ QUEST_20151001_002636	$I beg to the Goddess. {nl}I hope the day when my oath to 
 QUEST_20151001_002637	$When I close my eyes at last, I hope my many disciples will protect me at my side.
 QUEST_20151001_002638	Now is the moment that we become one with our blades. My last wish is to die beside the one I love.
 QUEST_20151001_002639	Why have you returned?{nl}
-QUEST_20151001_002640	It is so fortunate to hear that Grazina is okay.{nl}But, I guess Grazina can't be relaxed since she gave this to me.{nl} 
+QUEST_20151001_002640	It is so fortunate to hear that Grazina is okay.{nl}But, I guess Grazina can't be relaxed since she gave this to me.{nl}
 QUEST_20151001_002641	This is the 2nd page of the Roxona Conflict that I gave to you a while ago.{nl}It was among the objects which Grazina stole. Please receive it.{nl}
 QUEST_20151001_002642	And Alina... I am not sure.{nl}She ran to the lower side so I think she may be near there.
 QUEST_20151001_002643	You've passed the object and the story of Grazina.
@@ -2639,7 +2639,7 @@ QUEST_20151001_002646	The time went by and the summer, the season of new green l
 QUEST_20151001_002647	One by one they fell in the dark to her unexpected arrows.{nl}Although it should have been an easy fight for them, they never knew where she was.{nl}The sound of her arrows ripped through air and skin.{nl}Soon there were no one other than Lydia Schaffen, who stood still.{nl}
 QUEST_20151001_002648	Lydia Schaffen raised her torch.{nl}The flame wavered ominously, causing her shadow to waver as well...{nl}She wanted to check the faces of the villains who killed her parents and neighbors as well as burnt the village.{nl}Many of the faces she saw for the first time, but some of them were familiar.{nl}They were loyal subordinates of Ruklys and she knew very well about them.{nl} If it had been a brighter time and different location, she may have noticed the incident before it occurred.{nl}But, the incident had occurred and it was irrevocable.{nl}Just as Lydia Schaffen had her reasons to kill her enemies, Ruklys now had his: to defeat her for killing his subordinates.{nl}
 QUEST_20151001_002649	With a gloomy sense of shame and unfamiliar embarrassment, she quietly picked up her bow and left the place.{nl}The news soon reached Ruklys.{nl}They both comforted themselves by thinking that they just fell into a wicked plan.{nl}But, it was useless.{nl}They felt the vague shadow of the wicked plan behind them.{nl}
-QUEST_20151001_002650	But, it was too late.{nl}There was nothing she could do except for put an end to Ruklys with the arrows that she now love and hate.{nl}Or else his sword will guide her to the Goddesses... there was nothing she could do. 
+QUEST_20151001_002650	But, it was too late.{nl}There was nothing she could do except for put an end to Ruklys with the arrows that she now love and hate.{nl}Or else his sword will guide her to the Goddesses... there was nothing she could do.
 QUEST_20151001_002651	$There is one more thing I must tell you. {nl}Follow the name of Ruklys.{nl}
 QUEST_20151001_002652	$His final battleground...{nl}Laima's revelation at the Fortress of the Great Earth is waiting for you.{nl}
 QUEST_20151001_002653	Goddess Laima...{nl}The Revelator who you foretold has finally come...{nl}
@@ -2647,7 +2647,7 @@ QUEST_20151001_002654	After a thousand years in sleep, I am finally able to meet
 QUEST_20151001_002655	Although I founded the kingdom,{nl}I wish to speak to you as the guardian of the revelation rather than as king.
 QUEST_20151001_002656	You are the savior of this kingdom.{nl}I can feel that you will save this world and become the one who the Goddesses would rely upon.{nl}
 QUEST_20151001_002657	After spending a thousand years of worshiping the providence of the Goddess...,{nl}I shall now show you the great will that was left to you in the revelation.
-QUEST_20151001_002658	The soldiers will die if I don't make it. {nl}I have to be strong. 
+QUEST_20151001_002658	The soldiers will die if I don't make it. {nl}I have to be strong.
 QUEST_20151001_002659	…Only after three years since Ruklys learned from my teachings…
 QUEST_20151001_002660	If the demons crosses the dimensional crack and join hands together with them at the Demon Prison...,{nl}the world will be in for another kind of threat.
 QUEST_20151001_002661	I've told sister Vakarine to promise me that she'd prepare for the worst.{nl}But the severed demons raised waves which might have seized her by her leg.
@@ -2695,20 +2695,20 @@ QUEST_20151001_002702	{memo X}Collecting the Shiny Moss
 QUEST_20151001_002703	Obtained Shiny Moss!
 QUEST_20151001_002704	Failed to obtain the moss!
 QUEST_20151001_002705	Obtained Nachi Mushroom!
-QUEST_20151016_002706	
-QUEST_20151016_002707	
-QUEST_20151016_002708	
-QUEST_20151016_002709	
-QUEST_20151016_002710	
-QUEST_20151016_002711	
-QUEST_20151016_002712	
-QUEST_20151016_002713	
-QUEST_20151016_002714	
-QUEST_20151016_002715	
-QUEST_20151016_002716	
-QUEST_20151016_002717	
+QUEST_20151016_002706
+QUEST_20151016_002707
+QUEST_20151016_002708
+QUEST_20151016_002709
+QUEST_20151016_002710
+QUEST_20151016_002711
+QUEST_20151016_002712
+QUEST_20151016_002713
+QUEST_20151016_002714
+QUEST_20151016_002715
+QUEST_20151016_002716
+QUEST_20151016_002717
 QUEST_20151016_002718	{memo X}
-QUEST_20151016_002719	
+QUEST_20151016_002719
 QUEST_20151016_002720	{memo X}
 QUEST_20151016_002721	{memo X}
 QUEST_20151016_002722	{memo X}
@@ -2722,180 +2722,180 @@ QUEST_20151016_002729	{memo X}
 QUEST_20151016_002730	{memo X}
 QUEST_20151016_002731	{memo X}
 QUEST_20151016_002732	{memo X}
-QUEST_20151016_002733	
-QUEST_20151016_002734	
-QUEST_20151016_002735	
-QUEST_20151016_002736	
-QUEST_20151016_002737	
-QUEST_20151016_002738	
-QUEST_20151016_002739	
-QUEST_20151016_002740	
-QUEST_20151016_002741	
-QUEST_20151016_002742	
-QUEST_20151016_002743	
-QUEST_20151016_002744	
-QUEST_20151016_002745	
-QUEST_20151016_002746	
-QUEST_20151016_002747	
-QUEST_20151016_002748	
-QUEST_20151016_002749	
-QUEST_20151016_002750	
-QUEST_20151016_002751	
-QUEST_20151016_002752	
-QUEST_20151016_002753	
-QUEST_20151016_002754	
-QUEST_20151016_002755	
-QUEST_20151016_002756	
-QUEST_20151016_002757	
-QUEST_20151016_002758	
-QUEST_20151016_002759	
-QUEST_20151016_002760	
-QUEST_20151016_002761	
-QUEST_20151016_002762	
-QUEST_20151016_002763	
-QUEST_20151016_002764	
-QUEST_20151016_002765	
-QUEST_20151016_002766	
-QUEST_20151016_002767	
-QUEST_20151016_002768	
-QUEST_20151016_002769	
-QUEST_20151016_002770	
-QUEST_20151016_002771	
-QUEST_20151016_002772	
-QUEST_20151016_002773	
-QUEST_20151016_002774	
-QUEST_20151016_002775	
-QUEST_20151016_002776	
-QUEST_20151016_002777	
-QUEST_20151016_002778	
-QUEST_20151016_002779	
-QUEST_20151016_002780	
-QUEST_20151016_002781	
-QUEST_20151016_002782	
-QUEST_20151016_002783	
-QUEST_20151016_002784	
-QUEST_20151016_002785	
-QUEST_20151016_002786	
-QUEST_20151016_002787	
-QUEST_20151016_002788	
+QUEST_20151016_002733
+QUEST_20151016_002734
+QUEST_20151016_002735
+QUEST_20151016_002736
+QUEST_20151016_002737
+QUEST_20151016_002738
+QUEST_20151016_002739
+QUEST_20151016_002740
+QUEST_20151016_002741
+QUEST_20151016_002742
+QUEST_20151016_002743
+QUEST_20151016_002744
+QUEST_20151016_002745
+QUEST_20151016_002746
+QUEST_20151016_002747
+QUEST_20151016_002748
+QUEST_20151016_002749
+QUEST_20151016_002750
+QUEST_20151016_002751
+QUEST_20151016_002752
+QUEST_20151016_002753
+QUEST_20151016_002754
+QUEST_20151016_002755
+QUEST_20151016_002756
+QUEST_20151016_002757
+QUEST_20151016_002758
+QUEST_20151016_002759
+QUEST_20151016_002760
+QUEST_20151016_002761
+QUEST_20151016_002762
+QUEST_20151016_002763
+QUEST_20151016_002764
+QUEST_20151016_002765
+QUEST_20151016_002766
+QUEST_20151016_002767
+QUEST_20151016_002768
+QUEST_20151016_002769
+QUEST_20151016_002770
+QUEST_20151016_002771
+QUEST_20151016_002772
+QUEST_20151016_002773
+QUEST_20151016_002774
+QUEST_20151016_002775
+QUEST_20151016_002776
+QUEST_20151016_002777
+QUEST_20151016_002778
+QUEST_20151016_002779
+QUEST_20151016_002780
+QUEST_20151016_002781
+QUEST_20151016_002782
+QUEST_20151016_002783
+QUEST_20151016_002784
+QUEST_20151016_002785
+QUEST_20151016_002786
+QUEST_20151016_002787
+QUEST_20151016_002788
 QUEST_20151016_002789	{memo X}
 QUEST_20151016_002790	{memo X}
 QUEST_20151016_002791	{memo X}
-QUEST_20151016_002792	
-QUEST_20151016_002793	
-QUEST_20151016_002794	
-QUEST_20151016_002795	
-QUEST_20151016_002796	
+QUEST_20151016_002792
+QUEST_20151016_002793
+QUEST_20151016_002794
+QUEST_20151016_002795
+QUEST_20151016_002796
 QUEST_20151016_002797	{memo X}
 QUEST_20151016_002798	{memo X}
-QUEST_20151022_002799	
-QUEST_20151022_002800	
-QUEST_20151022_002801	
-QUEST_20151022_002802	
-QUEST_20151022_002803	
-QUEST_20151022_002804	
-QUEST_20151022_002805	
-QUEST_20151022_002806	
-QUEST_20151022_002807	
-QUEST_20151022_002808	
-QUEST_20151022_002809	
-QUEST_20151022_002810	
-QUEST_20151022_002811	
-QUEST_20151022_002812	
-QUEST_20151022_002813	
-QUEST_20151022_002814	
-QUEST_20151022_002815	
-QUEST_20151022_002816	
-QUEST_20151022_002817	
-QUEST_20151022_002818	
-QUEST_20151022_002819	
-QUEST_20151022_002820	
-QUEST_20151022_002821	
-QUEST_20151022_002822	
-QUEST_20151022_002823	
-QUEST_20151022_002824	
-QUEST_20151022_002825	
-QUEST_20151022_002826	
-QUEST_20151022_002827	
-QUEST_20151022_002828	
-QUEST_20151022_002829	
-QUEST_20151022_002830	
-QUEST_20151022_002831	
-QUEST_20151022_002832	
-QUEST_20151022_002833	
-QUEST_20151022_002834	
-QUEST_20151022_002835	
-QUEST_20151022_002836	
-QUEST_20151022_002837	
-QUEST_20151022_002838	
-QUEST_20151022_002839	
-QUEST_20151022_002840	
-QUEST_20151022_002841	
-QUEST_20151022_002842	
-QUEST_20151022_002843	
-QUEST_20151022_002844	
-QUEST_20151022_002845	
-QUEST_20151022_002846	
-QUEST_20151022_002847	
-QUEST_20151022_002848	
-QUEST_20151022_002849	
-QUEST_20151022_002850	
-QUEST_20151022_002851	
-QUEST_20151022_002852	
-QUEST_20151022_002853	
-QUEST_20151022_002854	
-QUEST_20151022_002855	
-QUEST_20151022_002856	
-QUEST_20151022_002857	
-QUEST_20151022_002858	
-QUEST_20151022_002859	
-QUEST_20151022_002860	
-QUEST_20151022_002861	
-QUEST_20151022_002862	
-QUEST_20151022_002863	
-QUEST_20151022_002864	
-QUEST_20151022_002865	
-QUEST_20151022_002866	
-QUEST_20151022_002867	
-QUEST_20151022_002868	
-QUEST_20151022_002869	
-QUEST_20151022_002870	
-QUEST_20151022_002871	
-QUEST_20151022_002872	
-QUEST_20151022_002873	
-QUEST_20151022_002874	
-QUEST_20151022_002875	
-QUEST_20151022_002876	
-QUEST_20151022_002877	
-QUEST_20151022_002878	
-QUEST_20151022_002879	
-QUEST_20151022_002880	
-QUEST_20151022_002881	
-QUEST_20151022_002882	
-QUEST_20151022_002883	
-QUEST_20151022_002884	
-QUEST_20151022_002885	
-QUEST_20151022_002886	
-QUEST_20151022_002887	
-QUEST_20151022_002888	
-QUEST_20151022_002889	
-QUEST_20151022_002890	
-QUEST_20151022_002891	
-QUEST_20151022_002892	
-QUEST_20151022_002893	
-QUEST_20151022_002894	
-QUEST_20151022_002895	
-QUEST_20151022_002896	
-QUEST_20151022_002897	
-QUEST_20151022_002898	
-QUEST_20151022_002899	
-QUEST_20151022_002900	
-QUEST_20151022_002901	
-QUEST_20151022_002902	
-QUEST_20151022_002903	
-QUEST_20151022_002904	
-QUEST_20151022_002905	
-QUEST_20151022_002906	
-QUEST_20151022_002907	
-QUEST_20151022_002908	
-QUEST_20151022_002909	
+QUEST_20151022_002799
+QUEST_20151022_002800
+QUEST_20151022_002801
+QUEST_20151022_002802
+QUEST_20151022_002803
+QUEST_20151022_002804
+QUEST_20151022_002805
+QUEST_20151022_002806
+QUEST_20151022_002807
+QUEST_20151022_002808
+QUEST_20151022_002809
+QUEST_20151022_002810
+QUEST_20151022_002811
+QUEST_20151022_002812
+QUEST_20151022_002813
+QUEST_20151022_002814
+QUEST_20151022_002815
+QUEST_20151022_002816
+QUEST_20151022_002817
+QUEST_20151022_002818
+QUEST_20151022_002819
+QUEST_20151022_002820
+QUEST_20151022_002821
+QUEST_20151022_002822
+QUEST_20151022_002823
+QUEST_20151022_002824
+QUEST_20151022_002825
+QUEST_20151022_002826
+QUEST_20151022_002827
+QUEST_20151022_002828
+QUEST_20151022_002829
+QUEST_20151022_002830
+QUEST_20151022_002831
+QUEST_20151022_002832
+QUEST_20151022_002833
+QUEST_20151022_002834
+QUEST_20151022_002835
+QUEST_20151022_002836
+QUEST_20151022_002837
+QUEST_20151022_002838
+QUEST_20151022_002839
+QUEST_20151022_002840
+QUEST_20151022_002841
+QUEST_20151022_002842
+QUEST_20151022_002843
+QUEST_20151022_002844
+QUEST_20151022_002845
+QUEST_20151022_002846
+QUEST_20151022_002847
+QUEST_20151022_002848
+QUEST_20151022_002849
+QUEST_20151022_002850
+QUEST_20151022_002851
+QUEST_20151022_002852
+QUEST_20151022_002853
+QUEST_20151022_002854
+QUEST_20151022_002855
+QUEST_20151022_002856
+QUEST_20151022_002857
+QUEST_20151022_002858
+QUEST_20151022_002859
+QUEST_20151022_002860
+QUEST_20151022_002861
+QUEST_20151022_002862
+QUEST_20151022_002863
+QUEST_20151022_002864
+QUEST_20151022_002865
+QUEST_20151022_002866
+QUEST_20151022_002867
+QUEST_20151022_002868
+QUEST_20151022_002869
+QUEST_20151022_002870
+QUEST_20151022_002871
+QUEST_20151022_002872
+QUEST_20151022_002873
+QUEST_20151022_002874
+QUEST_20151022_002875
+QUEST_20151022_002876
+QUEST_20151022_002877
+QUEST_20151022_002878
+QUEST_20151022_002879
+QUEST_20151022_002880
+QUEST_20151022_002881
+QUEST_20151022_002882
+QUEST_20151022_002883
+QUEST_20151022_002884
+QUEST_20151022_002885
+QUEST_20151022_002886
+QUEST_20151022_002887
+QUEST_20151022_002888
+QUEST_20151022_002889
+QUEST_20151022_002890
+QUEST_20151022_002891
+QUEST_20151022_002892
+QUEST_20151022_002893
+QUEST_20151022_002894
+QUEST_20151022_002895
+QUEST_20151022_002896
+QUEST_20151022_002897
+QUEST_20151022_002898
+QUEST_20151022_002899
+QUEST_20151022_002900
+QUEST_20151022_002901
+QUEST_20151022_002902
+QUEST_20151022_002903
+QUEST_20151022_002904
+QUEST_20151022_002905
+QUEST_20151022_002906
+QUEST_20151022_002907
+QUEST_20151022_002908
+QUEST_20151022_002909
