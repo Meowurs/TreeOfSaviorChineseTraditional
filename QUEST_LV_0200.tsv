@@ -398,10 +398,10 @@ QUEST_LV_0200_20150317_000397	Are there still a lot of monsters in the tower?
 QUEST_LV_0200_20150317_000398	Even if they outnumber us, we can't let them ruin the tower!
 QUEST_LV_0200_20150317_000399	Suspicious Lamp
 QUEST_LV_0200_20150317_000400	I may just be an unusual lamp, or not.
-QUEST_LV_0200_20150317_000401	$Recently monsters have been swarming out of the deep parts of the forest. {nl}But our chronic shortage of manpower is hindering us from taking action. {nl}
-QUEST_LV_0200_20150317_000402	$After much debate on how to solve the situation, your name was brought up. {nl}They said you would gladly come forward to hunt down the monsters. {nl}
+QUEST_LV_0200_20150317_000401	最近魔物們正從森林深處湧出. {nl}但我們的嚴重人力短缺阻礙了我們對此採取任何行動. {nl}
+QUEST_LV_0200_20150317_000402	經過多番解決方案的爭論后, 你的名字被提起了. {nl}他們說你一定會樂意幫忙追捕這麼魔物. {nl}
 QUEST_LV_0200_20150317_000403	{memo X}I don't know how to thank you for accepting such a difficult mission.. {nl}Well then, please take care of the monsters in Purple Tree Fault Forest. {nl}Purple Tree Fault Forest is located past Fedimian, on the way to the Cathedral.
-QUEST_LV_0200_20150317_000404	$Good job. {nl}I've been hearing a lot about how great you are, but it seems like it wasn't all just rumours.
+QUEST_LV_0200_20150317_000404	做得好!{nl}我一向來曾聽說關於你不凡的傳說，看來它們並不是只是人云亦云而已。
 QUEST_LV_0200_20150317_000405	{memo X}Huh, tsk tsk... What a pity. {nl}Of course, a merchant like me won't fully understand it.. {nl}
 QUEST_LV_0200_20150317_000406	{memo X}But if you help me out, I will give you something. It may not be as great as what you broke but it's pretty good.
 QUEST_LV_0200_20150317_000407	{memo X}It's nothing much, really. {nl}The symbol of pilgrim on the Starving Demon's Way outside Fedimian will do.
@@ -1585,8 +1585,8 @@ QUEST_LV_0200_20150317_001584	I'll get rid of the monsters
 QUEST_LV_0200_20150317_001585	Medicing Made of Spring Light Grass
 QUEST_LV_0200_20150317_001586	Don't worry, I'll get it
 QUEST_LV_0200_20150317_001587	Just ignore it
-QUEST_LV_0200_20150317_001588	Failure and Success
-QUEST_LV_0200_20150317_001589	$Each Step United
+QUEST_LV_0200_20150317_001589	一步一步集聚
+QUEST_LV_0200_20150317_001590	我會協助征討它們.
 QUEST_LV_0200_20150317_001590	I'll help subjugate
 QUEST_LV_0200_20150317_001591	Story behind the collapse of the owl
 QUEST_LV_0200_20150317_001592	$Goddess Statue of Amolallul Hill
@@ -2137,7 +2137,7 @@ QUEST_LV_0200_20150317_002136	$It seems that the Scouts have differing opinions 
 QUEST_LV_0200_20150317_002137	$Defeat Deadborn
 QUEST_LV_0200_20150317_002138	$Deadborn suddenly attacked. Defeat Deadborn.
 QUEST_LV_0200_20150317_002139	$Officer Danus doesn't know what to do. Talk to Officer Danus.
-QUEST_LV_0200_20150317_002140	$Look for Danus' scouts 
+QUEST_LV_0200_20150317_002140	$Look for Danus' scouts
 QUEST_LV_0200_20150317_002141	$Officer Danus told you that the scouts who were sent to find out what's going on around here were all lost. Look for the scouts who went to the Crossroads.
 QUEST_LV_0200_20150317_002142	$Talk to Danus' Scout
 QUEST_LV_0200_20150317_002143	$It seems that you found one of the scouts that were lost. Talk to the Scout.
@@ -2523,7 +2523,7 @@ QUEST_LV_0200_20150317_002522	$Valda has something to ask you. Listen to him.
 QUEST_LV_0200_20150317_002523	$Collect the pieces of honeycomb
 QUEST_LV_0200_20150317_002524	$Maras asked Valda to collect the pieces of honeycomb, but the nearby monsters scare him from going. Collect the pieces of honeycomb at Saldus Bee Farm on behalf of Valda.
 QUEST_LV_0200_20150317_002525	$You've collected all pieces of honeycomb. Hand them over to Valda.
-QUEST_LV_0200_20150317_002526	$Collect %s at the Saldus Bee Farm 
+QUEST_LV_0200_20150317_002526	$Collect %s at the Saldus Bee Farm
 QUEST_LV_0200_20150317_002527	$Riesz seems to have a problem. Find out what happened.
 QUEST_LV_0200_20150317_002528	$Sow seeds at Radanza Farm
 QUEST_LV_0200_20150317_002529	$Riesz should be sowing seeds at the fields near the village, but he is scared of the monsters. Sow seeds at his farm for him.
@@ -2579,7 +2579,7 @@ QUEST_LV_0200_20150317_002578	$Go to Priest Dazine in the Spring Light Woods.
 QUEST_LV_0200_20150317_002579	$Collect the Fragmented Symbol of Austeja
 QUEST_LV_0200_20150317_002580	$You need the Symbol of Austeja to cure the Revelators who are addled by the evil energy. First, collect the fragmented symbols of Austeja.
 QUEST_LV_0200_20150317_002581	$Retrieve the Fragmented Symbol of Austeja
-QUEST_LV_0200_20150317_002582	$Restore the symbol at the Austeja Altar 
+QUEST_LV_0200_20150317_002582	$Restore the symbol at the Austeja Altar
 QUEST_LV_0200_20150317_002583	$Restore the fragments of the symbol at the Austeja Altar.
 QUEST_LV_0200_20150317_002584	$Restored the symbol at the Austeja Altar. Give it to Priest Dazine.
 QUEST_LV_0200_20150317_002585	$Talk to Priest Dazine about how to purify the addled Revelators.
@@ -2624,11 +2624,11 @@ QUEST_LV_0200_20150317_002623	Equipment Merchant offered pretty good rewards in 
 QUEST_LV_0200_20150317_002624	Give it to Fedimian Equipment Merchant
 QUEST_LV_0200_20150317_002625	Obtained all the Marks. Give it to the Equipment Merchant.
 QUEST_LV_0200_20150317_002626	Obtained %s from the monster in Way of the Big Starving Demon
-QUEST_LV_0200_20150317_002627	Meet Commander Uska
-QUEST_LV_0200_20150317_002628	Commander Uska seems to be have some troubles. Talk to him.
+QUEST_LV_0200_20150317_002627	Meet Commander 烏斯卡
+QUEST_LV_0200_20150317_002628	Commander 烏斯卡 seems to be have some troubles. Talk to him.
 QUEST_LV_0200_20150317_002629	{memo X}Hunt the monsters in Purple Tree Fault Forest
-QUEST_LV_0200_20150317_002630	{memo X}Commander Uska says a swarm of monster appeared from the deep forest but he did not have enough men to do anything about it. Defeat 100 monsters in Purple Tree Fault Forest for the commander.
-QUEST_LV_0200_20150317_002631	{memo X}Completed the Purple Tree Fault Forest monster huntdown mission. Return to Uska and tell him the good news.
+QUEST_LV_0200_20150317_002630	{memo X}Commander 烏斯卡 says a swarm of monster appeared from the deep forest but he did not have enough men to do anything about it. Defeat 100 monsters in Purple Tree Fault Forest for the commander.
+QUEST_LV_0200_20150317_002631	{memo X}Completed the Purple Tree Fault Forest monster huntdown mission. Return to 烏斯卡 and tell him the good news.
 QUEST_LV_0200_20150317_002632	{memo X}Defeat the monsters in Purple Tree Fault Forest
 QUEST_LV_0200_20150317_002633	Observe the Fallen Owl Sculpture
 QUEST_LV_0200_20150317_002634	There is an Owl Sculpture at Tomb Spider Nest. Take a look at it.
@@ -3791,7 +3791,7 @@ QUEST_LV_0200_20150323_003790	{memo X}The curse of gluttony makes a person not t
 QUEST_LV_0200_20150323_003791	$After he recovers from the curse, he will be totally exhausted, so I will take care of him by my side.
 QUEST_LV_0200_20150323_003792	$Gytis
 QUEST_LV_0200_20150323_003793	{memo X}Revelator, we are in trouble. Please help us!{nl}As you can see, the workers are dying due to the poison of the monsters.
-QUEST_LV_0200_20150323_003794	While we were clearing the forest to obtain some food as Uska ordered us, the incident occurred.{nl}The monsters here were in fact not that vicious before, but now they use poison.. I don't know what happened to them..
+QUEST_LV_0200_20150323_003794	While we were clearing the forest to obtain some food as 烏斯卡 ordered us, the incident occurred.{nl}The monsters here were in fact not that vicious before, but now they use poison.. I don't know what happened to them..
 QUEST_LV_0200_20150323_003795	The Pyromancer Master may help since she owes me something. {nl}Please. I am counting on you.
 QUEST_LV_0200_20150323_003796	$I know this well because I am from this region.{nl}Even during Medzio Diena, the monsters here just ran away from people instead of using their poison.
 QUEST_LV_0200_20150323_003797	But they attacked the workers with their poison.{nl}If we don't complete the farm, then we will have trouble supplying the city with food..
@@ -3831,7 +3831,7 @@ QUEST_LV_0200_20150323_003830	$The deadline for the farm's construction is appro
 QUEST_LV_0200_20150323_003831	$The other soldiers went to defeat Gorgon, and I can't leave this place.{nl}I can only trust you now for this. I am counting on you.
 QUEST_LV_0200_20150323_003832	$Really? Thanks..{nl}The location is the Joint Farmland. I am counting on you!
 QUEST_LV_0200_20150323_003833	Do you think this makes sense?{nl}Those monsters used to be scared of humans, but they now attack humans with their poison.
-QUEST_LV_0200_20150323_003834	$If it weren't for you, sir Uska would have scolded me.. Thank you so much.{nl}Anyways, I wonder why there isn't any news of the soldiers' return?
+QUEST_LV_0200_20150323_003834	$If it weren't for you, sir 烏斯卡 would have scolded me.. Thank you so much.{nl}Anyways, I wonder why there isn't any news of the soldiers' return?
 QUEST_LV_0200_20150323_003835	Ah, I am worried about it too much.{nl}I heard the monsters here were innocent before, but they turned violent suddenly.{nl}
 QUEST_LV_0200_20150323_003836	What the hell is the world coming to?{nl}And Alan, my colleague. He is protecting the entrance gate to the farm all by himself.{nl}
 QUEST_LV_0200_20150323_003837	Can you really do that?{nl}Alright, please take care of Alan before the other soldiers return.
@@ -3848,7 +3848,7 @@ QUEST_LV_0200_20150323_003847	It's so good to hear that you drove the Ridimeds a
 QUEST_LV_0200_20150323_003848	I think it would be helpful if I could at least make a fence.{nl}Can you help me little more?
 QUEST_LV_0200_20150323_003849	There's a lot of wood from the trees at the cultivation area that have been cut down.{nl}If you could bring me it, maybe we can make a fence.
 QUEST_LV_0200_20150323_003850	Among the farms that were damaged on Medzio Diena, there are lots of farms that can't be recovered.{nl}They are either corrupted by evil energies or there are too many monsters in them.{nl}
-QUEST_LV_0200_20150323_003851	So Uska's idea was to make farmland by cultivating the forest.{nl}The restoration is important right now, but we can't do anything if we can't obtain food supplies.{nl}
+QUEST_LV_0200_20150323_003851	So 烏斯卡's idea was to make farmland by cultivating the forest.{nl}The restoration is important right now, but we can't do anything if we can't obtain food supplies.{nl}
 QUEST_LV_0200_20150323_003852	If the monsters were innocent, I would have done it myself.{nl}We wouldn't have to make the fence in the first place.
 QUEST_LV_0200_20150323_003853	Fortunately the wood isn't corrupted.{nl}Please wait a bit. I will make the fence quickly.
 QUEST_LV_0200_20150323_003854	The scarecrow should scare the monsters, but it's size is too small.{nl}You should increase the size of the scarecrow. It will be good if you could use monsters' fluffy hair.
@@ -3858,7 +3858,7 @@ QUEST_LV_0200_20150323_003857	I am worried about the monsters, but I am also wor
 QUEST_LV_0200_20150323_003858	I appreciate you for making the fence.{nl}It will help the citizens of Klaipeda.
 QUEST_LV_0200_20150323_003859	Researcher Gareth
 QUEST_LV_0200_20150323_003860	The speed of the crops' growth is too bad.{nl}If we don't solve this, we may miss the right time to harvest.. Could you help me?
-QUEST_LV_0200_20150323_003861	$As Uska ordered, Gytis is leading the construction.{nl}Instead of risking restoring the farm that was corrupted on Medzio Diena, they want to cultivate the forest.{nl}
+QUEST_LV_0200_20150323_003861	$As 烏斯卡 ordered, Gytis is leading the construction.{nl}Instead of risking restoring the farm that was corrupted on Medzio Diena, they want to cultivate the forest.{nl}
 QUEST_LV_0200_20150323_003862	Originally, the farmland belonged to the city so the owner of the farm didn't have to come.{nl}But since there's a food problem, they made the farm in the name of the city.
 QUEST_LV_0200_20150323_003863	First, could you get me samples of the Sakmoli?{nl}That monster is a plant-type so it must have been influenced just like the crops were.
 QUEST_LV_0200_20150323_003864	This is our last chance.{nl}If we don't find out why the crops grow slowly, we may have to give up on this place.
@@ -3872,7 +3872,7 @@ QUEST_LV_0200_20150323_003871	Soldier Peirce
 QUEST_LV_0200_20150323_003872	{memo X}Run! Gorgon is coming!
 QUEST_LV_0200_20150323_003873	I hope I was wrong.{nl}The monsters are going crazy..
 QUEST_LV_0200_20150323_003874	You defeated the Gorgon yourself?{nl}It is fortunate that my colleagues are safe, but I don't know what they did as soldiers..{nl}
-QUEST_LV_0200_20150323_003875	I will report to sir Uska that you saved this farm.{nl}Thank you so much!
+QUEST_LV_0200_20150323_003875	I will report to sir 烏斯卡 that you saved this farm.{nl}Thank you so much!
 QUEST_LV_0200_20150323_003876	Help me! The Gorgon is chasing after us!
 QUEST_LV_0200_20150323_003877	The person who is leading the mission at Dvasia Peak is Julian.{nl}Julian will really welcome me.
 QUEST_LV_0200_20150323_003878	Thanks for your words.{nl}But it would be better to support Julian's squad at Dvasia Peak instead of this place.{nl}
@@ -4386,7 +4386,7 @@ QUEST_LV_0200_20150323_004385	{memo X}Looking closely at the magic circle/LOOK_S
 QUEST_LV_0200_20150323_004386	{memo X}Notice/!/You should report the situation to Wizard Rimas#5
 QUEST_LV_0200_20150323_004387	{memo X}Sprinkling the poison/STANDSPINKLE/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150323_004388	Recharge the energy(2)
-QUEST_LV_0200_20150323_004389	Anything Living 
+QUEST_LV_0200_20150323_004389	Anything Living
 QUEST_LV_0200_20150323_004390	{memo X}Look closely at the magic circle/LOOK_SIT/3/TRACK_BEFORE/None
 QUEST_LV_0200_20150323_004391	{memo X}Notict/!/Bring the monsters near the magic circle!#5
 QUEST_LV_0200_20150323_004392	Where is the Food
@@ -4410,7 +4410,7 @@ QUEST_LV_0200_20150323_004409	{memo X}About the aqueduct region
 QUEST_LV_0200_20150323_004410	$Positive Evidence (2)
 QUEST_LV_0200_20150323_004411	{memo X}I know something similar to the pieces of the statue of the Goddess
 QUEST_LV_0200_20150323_004412	{memo X}About the magic circle here
-QUEST_LV_0200_20150323_004413	Restoring Willpower! 
+QUEST_LV_0200_20150323_004413	Restoring Willpower!
 QUEST_LV_0200_20150323_004414	$Weapons Supply (1)
 QUEST_LV_0200_20150323_004415	{memo X}About Horacius
 QUEST_LV_0200_20150323_004416	$Weapons Supply (2)
@@ -4670,8 +4670,8 @@ QUEST_LV_0200_20150323_004669	$As Farmer Druva requested to you, you've obtained
 QUEST_LV_0200_20150323_004670	$Put up Farmer Druva's new scarecrow with his charm at his farm, which is at the left side of Arkllui Crossroads and check the monsters' response to it.
 QUEST_LV_0200_20150323_004671	Villager Emil says it's too dangerous to go to Vilna Forest. Defeat the monsters nearby for him to go there safely.
 QUEST_LV_0200_20150323_004672	Defeat the monsters at the Forest of Prayer
-QUEST_LV_0200_20150323_004673	Knight Commander Uska told you that many monsters have appeared from the deep in the forest, but he couldn't do anything since he didn't have enough soldiers. Defeat 100 monsters at the Forest of Prayer on behalf of the knightage.
-QUEST_LV_0200_20150323_004674	You've completed defeating all the monsters at the Forest of Prayer. Return to Uska and help him relieve his worry.
+QUEST_LV_0200_20150323_004673	Knight Commander 烏斯卡 told you that many monsters have appeared from the deep in the forest, but he couldn't do anything since he didn't have enough soldiers. Defeat 100 monsters at the Forest of Prayer on behalf of the knightage.
+QUEST_LV_0200_20150323_004674	You've completed defeating all the monsters at the Forest of Prayer. Return to 烏斯卡 and help him relieve his worry.
 QUEST_LV_0200_20150323_004675	Defeat the monsters at the Forest of Prayer
 QUEST_LV_0200_20150323_004676	$Talk to Pilgrim Liliya
 QUEST_LV_0200_20150323_004677	$You can see Liliya at the Starving Demon's Way. She desperately wants something so get closer to her and talk to her.
@@ -5132,7 +5132,7 @@ QUEST_LV_0200_20150323_005131	{memo X}Obtain %s from the monsters
 QUEST_LV_0200_20150323_005132	{memo X}Obtain the sticky liquid from the monsters
 QUEST_LV_0200_20150323_005133	{memo X}Meet Yoana
 QUEST_LV_0200_20150323_005134	{memo X}It seems that Yoana has some tasks to do. Get closer to her and ask her what's the matter.
-QUEST_LV_0200_20150323_005135	Verifying the nature of the strange aura 
+QUEST_LV_0200_20150323_005135	Verifying the nature of the strange aura
 QUEST_LV_0200_20150323_005136	{memo X}There's some energy coming out from the specific place, and Yoana wants to find out what that is. Decrease the Monster's HP into the half and talk to the magic circle to see what happens.
 QUEST_LV_0200_20150323_005137	Report to Joana
 QUEST_LV_0200_20150323_005138	{memo X}It seems that the energy is not negative since you can see the monsters disappearing. Tell this to Yoana.
@@ -6421,7 +6421,7 @@ QUEST_LV_0200_20150406_006424	Report to Baron Secretary Benius
 QUEST_LV_0200_20150406_006425	You had no other choice, but to defeat Manticen since it was trying to eat a person. Return to Baron Secretary and talk to him.
 QUEST_LV_0200_20150406_006426	Investigate the suspicious area
 QUEST_LV_0200_20150406_006427	$An object that looks like the head part of the sculpture is halfway buried under the ground. Go there and dig it out.
-QUEST_LV_0200_20150406_006428	Collect the head of the statue 
+QUEST_LV_0200_20150406_006428	Collect the head of the statue
 QUEST_LV_0200_20150406_006429	$It is strange that there is the head of a sculpture in this kind of place. Dig it.
 QUEST_LV_0200_20150406_006430	Investigate the old chest
 QUEST_LV_0200_20150406_006431	You can see the old chest. Get near it and open it.
@@ -6433,7 +6433,7 @@ QUEST_LV_0200_20150406_006436	$Make the wooden hammer and open the wine cask.
 QUEST_LV_0200_20150406_006437	$The wine cask could contain fragile objects, so it should not be carelessly opened. Gather some materials nearby that could be used to make a wooden hammer and open the wine cask.
 QUEST_LV_0200_20150406_006438	$There is a sculpture stuck on the ground that looks like wings. Get closer to it and look at it.
 QUEST_LV_0200_20150406_006439	$Joana remembered something about the fragment. Talk to Joana about the sculpture.
-QUEST_LV_0200_20150406_006440	$Obtain some Sticky Sap 
+QUEST_LV_0200_20150406_006440	$Obtain some Sticky Sap
 QUEST_LV_0200_20150406_006441	$Joana wants to glue the sculpture together. Obtain some Sticky Sap from the monsters nearby.
 QUEST_LV_0200_20150406_006442	$Hand it over to Joana
 QUEST_LV_0200_20150406_006443	$You've obtained the Sticky Sap from the monsters. Hand it over to Joana.
@@ -6836,9 +6836,9 @@ QUEST_LV_0200_20150414_006839	{memo X}Baron Secretary Arunas wanted to check the
 QUEST_LV_0200_20150414_006840	Bury it in front of the magic circle, after it has collected the monster's energy
 QUEST_LV_0200_20150414_006841	$To enhance the magic circle, the monster's magic should be captured in a pot and buried underground. Place the pot so that it'll attract monsters.
 QUEST_LV_0200_20150414_006842	Find the person who knows about the fragments
-QUEST_LV_0200_20150414_006843	Find the person who has a clue 
+QUEST_LV_0200_20150414_006843	Find the person who has a clue
 QUEST_LV_0200_20150414_006844	Find someone who knows about the fragments.
-QUEST_LV_0200_20150414_006845	Talk to Joana 
+QUEST_LV_0200_20150414_006845	Talk to Joana
 QUEST_LV_0200_20150414_006846	Regain the Padeka Altar
 QUEST_LV_0200_20150414_006847	All Place of Sanctuary
 QUEST_LV_0200_20150414_006848	The Pyromancer Master said she'd gladly help us. First, collect the samples from Pink Chupaluka at Ziuluti Vacant Lot.
@@ -7160,7 +7160,7 @@ QUEST_LV_0200_20150714_007163	But, the Fortress of the Earth can't be entered be
 QUEST_LV_0200_20150714_007164	Maybe... we could restore the time of the portal that was used when we retreated from the fortress of the earth.{nl}It is dangerous from this point on so if you are going to quit, please tell me now.
 QUEST_LV_0200_20150714_007165	What we are planning right now could lead us to the gallows.{nl}Please keep it secret.
 QUEST_LV_0200_20150714_007166	{memo X}When we were in the era of Premier Eminent, we were supported by the superior troops, lots of supplies and etc.{nl}But, 600 years have passed after Premier Eminent died.{nl}
-QUEST_LV_0200_20150714_007167	
+QUEST_LV_0200_20150714_007167
 QUEST_LV_0200_20150714_007168	I heard the Dico Thieves were well known thieves.{nl}I heard that they were seperated on Medzio Diena... Anyways... what they are doing is like what bandits are doing.{nl}
 QUEST_LV_0200_20150714_007169	I also know that there are thieves called Amanda Thieves. They were quiet.{nl}I want to know if they really exist or not since I never saw them before.{nl}
 QUEST_LV_0200_20150714_007170	Both of them are criminals that we should catch when we receive more reinforcements.{nl}Especially, Dico Thieves.
@@ -7541,11 +7541,11 @@ QUEST_LV_0200_20150714_007544	But, they will all disappear if they become extinc
 QUEST_LV_0200_20150714_007545	$Something is engraved on this tablet.{nl}To see what's written, you should obtain the materials to make rubbings with.
 QUEST_LV_0200_20150714_007546	Adrijus
 QUEST_LV_0200_20150714_007547	$Oh, you must have saw my notice board.{nl}Well, I don't care if that's not why you came here.{nl}If you could get me the rubbings found in this region, I will properly reward you.{nl}
-QUEST_LV_0200_20150714_007548	$Let's see...{nl} 
+QUEST_LV_0200_20150714_007548	$Let's see...{nl}
 QUEST_LV_0200_20150714_007549	May the threads of destiny be cut loose and flutter freely
 QUEST_LV_0200_20150714_007550	?{nl}Could this be Goddess Laima...
 QUEST_LV_0200_20150714_007551	May the threads of destiny be cut loose and flutter freely.
-QUEST_LV_0200_20150714_007552	$Oh, is that a rubbing? Thank you so much. {nl}Let's see...{nl} 
+QUEST_LV_0200_20150714_007552	$Oh, is that a rubbing? Thank you so much. {nl}Let's see...{nl}
 QUEST_LV_0200_20150714_007553	$The Kingdom's walls will last longer than the Kingdom itself
 QUEST_LV_0200_20150714_007554	$This is actually correct!{nl}The capital is in ruins now, yet the walls still remain standing.
 QUEST_LV_0200_20150714_007555	$Welcome!{nl}Pick out anything you want.
@@ -7556,7 +7556,7 @@ QUEST_LV_0200_20150714_007559	$I am sure that must be helpful forecasts in this 
 QUEST_LV_0200_20150714_007560	{memo X}
 QUEST_LV_0200_20150714_007561	$With the acidic fluid, I can etch deeper into the tombstone.{nl}Don't forget to pay a visit to Fedimian as well.
 QUEST_LV_0200_20150714_007562	$Ah, this is it. Thank you for your efforts.{nl}Now, I will combine it with the diluting solution and pour it...
-QUEST_LV_0200_20150714_007563	$Aha... what...? 
+QUEST_LV_0200_20150714_007563	$Aha... what...?
 QUEST_LV_0200_20150714_007564	To eat a Kepa, one simply boils it in salty water.
 QUEST_LV_0200_20150714_007565	...{nl}This isn't a useful forecast!{nl}
 QUEST_LV_0200_20150714_007566	$Kepas are edible?{nl}Is this a useful forecast? I am confused.
@@ -9109,7 +9109,7 @@ QUEST_LV_0200_20150918_009112	It seems that Tetraox ate up the spirit!
 QUEST_LV_0200_20150918_009113	The statue was fake!{nl}Defeat Sparnashorn!
 QUEST_LV_0200_20150918_009114	Worrying Owl at Ishrai Crossroads
 QUEST_LV_0200_20150918_009115	$Grita said in order to activate the Tower's Barrier Device again, it would need a great amount of energy. Set the gem Grita gave you on the ground and recharge the gem with the monsters' life force.
-QUEST_LV_0200_20150918_009116	$The Weak Owl Sculpture told you to find his Owl colleagues.{nl}Look for them at the monster hideout towards the right side of Ishrai Crossroads. 
+QUEST_LV_0200_20150918_009116	$The Weak Owl Sculpture told you to find his Owl colleagues.{nl}Look for them at the monster hideout towards the right side of Ishrai Crossroads.
 QUEST_LV_0200_20150918_009117	$The Destroyed Owl Sculpture was completely destroyed. Tell the Weak Owl Sculpture what happened.
 QUEST_LV_0200_20150918_009118	$Pilgrim Julius suddenly turned into a Drapeliun after seeing the music box. Calm down the Drapeliun that is attacking by reducing its HP below 50% and persuading it.
 QUEST_LV_0200_20150918_009119	Destroy the Cursed Tree Root Crystal Protection Stone
@@ -9129,7 +9129,7 @@ QUEST_LV_0200_20151001_009132	If you could help me...{nl}Maybe we could save the
 QUEST_LV_0200_20151001_009133	Did you defeat it? Great job!{nl}Now I don't have to fear this place being torn down until another monster shows up.
 QUEST_LV_0200_20151001_009134	Have you met Wilhelmina at Kovos Hall before?{nl}She is in charge of the Knights of Kaliss, but she is full of hatred towards the kingdom soldiers.{nl}
 QUEST_LV_0200_20151001_009135	We are in a good relationship with her since we work well together.{nl}We were able to plan this since she helped us well.{nl}
-QUEST_LV_0200_20151001_009136	{memo X}Can you hand over the records to Wilhelmina that you've brought?{nl}We told them that we would help penetrate into Gargoyle so don't forget to receive something before you come here. 
+QUEST_LV_0200_20151001_009136	{memo X}Can you hand over the records to Wilhelmina that you've brought?{nl}We told them that we would help penetrate into Gargoyle so don't forget to receive something before you come here.
 QUEST_LV_0200_20151001_009137	Finally, the records which weren't in hands of the kingdom soldiers are here.{nl}
 QUEST_LV_0200_20151001_009138	This is.. a love letter? {nl}I don't need it so you can take it or throw it away.{nl}
 QUEST_LV_0200_20151001_009139	Hmm... it contains most of what we need. {nl}Please give this scroll to Amanda{nl}
@@ -9203,7 +9203,7 @@ QUEST_LV_0200_20151001_009206	$Can you bring more of these old bombs?{nl}I am no
 QUEST_LV_0200_20151001_009207	$I will give you the tools to dismantle the bomb.{nl}If you break the detonator with those, you can bring the bombs safely.{nl}
 QUEST_LV_0200_20151001_009208	$I don't know how you found this bomb, but I think they've used a metal detector.{nl}When you investigate more with that, maybe we could find some remains.{nl}
 QUEST_LV_0200_20151001_009209	$Find the bombs using this metal detector and use the tools I gave to you to break the detonator.{nl}Then you would able to bring them safely. I am counting on you!
-QUEST_LV_0200_20151001_009210	$This must be more than a few hundreds years old.{nl}What were they trying to do with this bomb...{nl}Anyway, thanks! 
+QUEST_LV_0200_20151001_009210	$This must be more than a few hundreds years old.{nl}What were they trying to do with this bomb...{nl}Anyway, thanks!
 QUEST_LV_0200_20151001_009211	{memo X}By the way, why did you come here?{nl}Since you don't say anything about it, this must be important right?{nl}
 QUEST_LV_0200_20151001_009212	$Anyway, let's go deeper inside.{nl}You should tell me later. Okay?
 QUEST_LV_0200_20151001_009213	{memo X}The demons didn't have special objects.{nl}What... you don't have them?
@@ -9248,7 +9248,7 @@ QUEST_LV_0200_20151001_009251	$Please interrogate the servants of Nuaele.{nl}Sin
 QUEST_LV_0200_20151001_009252	$It seems she's planned to make this prison her world from the beginning. {nl}If her plans succeed, even if Goddess Vakarine powers were restored, it would not be enough.
 QUEST_LV_0200_20151001_009253	$Now, please meet with Aldona. {nl}She will take you to Nuaele's territory.
 QUEST_LV_0200_20151001_009254	$Goddess Vakarine is waiting for you at the 3rd District.{nl}But, I feel somewhat uneasy since she is so stubborn.
-QUEST_LV_0200_20151001_009255	$In the past, she told us that she couldn't just not do anything, even if her power was weakened.{nl}We barely managed to persuade her.{nl} 
+QUEST_LV_0200_20151001_009255	$In the past, she told us that she couldn't just not do anything, even if her power was weakened.{nl}We barely managed to persuade her.{nl}
 QUEST_LV_0200_20151001_009256	$To prevent something from happening to Vakarine, please move to the 3rd District as quickly as possible.{nl}
 QUEST_LV_0200_20151001_009257	$The dimensional crack and the Demon Lords.. they were inevitable.{nl}I could feel my power becoming weaker after Medzio Diena and I had to find some way.{nl}
 QUEST_LV_0200_20151001_009258	$I have given my Dionysus great power that should not be stolen by the Demon Lord.{nl}But, that power was so strong, it started to control Dionysus..{nl}
@@ -9318,7 +9318,7 @@ QUEST_LV_0200_20151001_009321	$We will close the dimensional crack now.
 QUEST_LV_0200_20151001_009322	$The Kupoles and I will try our best to seal the dimensional crack.{nl}This is our only chance... if we fail this time, we may not have another chance.{nl}
 QUEST_LV_0200_20151001_009323	$I repeat, this is the last chance for the demons to make a counter-attack.{nl}Until the dimensional crack completely seals off, please resist their attacks.{nl}{nl}
 QUEST_LV_0200_20151001_009324	$Every disaster that struck this land is over now.{nl}Savior. We owe everything to you. {nl}
-QUEST_LV_0200_20151001_009325	$Everything stemmed from our arrogance.{nl}When Laima warned us that a time of hardship would come...{nl}I believed in myself so much that I could not understand what she meant.{nl} 
+QUEST_LV_0200_20151001_009325	$Everything stemmed from our arrogance.{nl}When Laima warned us that a time of hardship would come...{nl}I believed in myself so much that I could not understand what she meant.{nl}
 QUEST_LV_0200_20151001_009326	$But, your sacred energy tells me everything.{nl}I believe it will be your power and not us that will save this world.{nl}
 QUEST_LV_0200_20151001_009327	$I cannot be of any help due to the circumstances.{nl}But, I will stay here and do my best until the Day of Salvation.{nl}
 QUEST_LV_0200_20151001_009328	$There is one more thing, though.{nl}The dimensional crack that was engraved here is also engraved at various places in your world.{nl}The most dangerous place among them now is Dina Bee Farm..{nl}
@@ -9327,13 +9327,13 @@ QUEST_LV_0200_20151001_009330	$Once Dionysus recovers, Vakarine will feel less p
 QUEST_LV_0200_20151001_009331	$Thank you.{nl}If Dionysus recovers completely, it'll be all thanks to you.
 QUEST_LV_0200_20151001_009332	$Can you deal with the dimensional crack at Gavara Isolation District?
 QUEST_LV_0200_20151001_009333	Wait a minute. {nl}The Knights of Kaliss told us that the important thing is located deep inside the fortress.{nl}
-QUEST_LV_0200_20151001_009334	We should go more deep inside to start the work on what I am looking for and what you are looking for.{nl}I will try looking for the outpost area with this monocle. {nl} 
+QUEST_LV_0200_20151001_009334	We should go more deep inside to start the work on what I am looking for and what you are looking for.{nl}I will try looking for the outpost area with this monocle. {nl}
 QUEST_LV_0200_20151001_009335	Hmm... there's nothing special.{nl}Instead, there are many kingdom soldiers.
 QUEST_LV_0200_20151001_009336	There are too many kingdom soldiers to go deep inside.
 QUEST_LV_0200_20151001_009337	We should lure the kingdom soldiers in order to go more deep inside,.{nl}Hmm...{nl}
 QUEST_LV_0200_20151001_009338	That's right. We have roar bombs!
 QUEST_LV_0200_20151001_009339	Roar bombs make really loud sounds although their explosiveness isn't that great.{nl}When you detonate them at various places, the soldiers would move to the locations where the sounds come from.{nl}
-QUEST_LV_0200_20151001_009340	I don't have roar bombs at the moment, but I can make them if I have necessary materials. {nl}For example, if I have Urechos and bombs. {nl} 
+QUEST_LV_0200_20151001_009340	I don't have roar bombs at the moment, but I can make them if I have necessary materials. {nl}For example, if I have Urechos and bombs. {nl}
 QUEST_LV_0200_20151001_009341	I will look for the bombs so I want you to look for Urechos.{nl}Be careful not to be detected by the kingdom soldiers.{nl}
 QUEST_LV_0200_20151001_009342	When you collect all Urechos, let's meet at the lower side of the hallway at the upper floor.
 QUEST_LV_0200_20151001_009343	The kingdom soldiers are on patrol so you should be careful all the time.{nl}I am sure they are busy getting hit instead of explaining for the situation.
@@ -9377,7 +9377,7 @@ QUEST_LV_0200_20151001_009380	We can just relax although we've retrieved the cam
 QUEST_LV_0200_20151001_009381	But, my colleagues are too tired.{nl}You should help us until we organize the camp again.
 QUEST_LV_0200_20151001_009382	It will be simple if you could place a barricade.{nl}It would help stopping the monsters for a while.
 QUEST_LV_0200_20151001_009383	There are woods inside the supply box so please set the barricade with those.
-QUEST_LV_0200_20151001_009384	I've told you before, but you can't be at the Fortress of the Great Earth.{nl}I am going to be quiet about the trespass since you've helped us so please leave at once.{nl} 
+QUEST_LV_0200_20151001_009384	I've told you before, but you can't be at the Fortress of the Great Earth.{nl}I am going to be quiet about the trespass since you've helped us so please leave at once.{nl}
 QUEST_LV_0200_20151001_009385	If you resist, we would have to execute the kingdom order.
 QUEST_LV_0200_20151001_009386	If a person becomes a handful of soils after his death, can you imagine how he will be treated.{nl}The soils that once conquered this world..
 QUEST_LV_0200_20151001_009387	Yes. You managed to avoid being like me. Yes..
@@ -9421,7 +9421,7 @@ QUEST_LV_0200_20151001_009424	Everyone is exhausted due to the coldness and the 
 QUEST_LV_0200_20151001_009425	Thank you for your efforts.{nl}I think the monsters have gotten weaken because of your help.
 QUEST_LV_0200_20151001_009426	We are most worried about the coldness.{nl}We sill have the food, but we are worried about the clothes.{nl}Chilly air comes into the holes on the clothes.{nl}
 QUEST_LV_0200_20151001_009427	Can you hunt for Trufflelia at Woozali Four Ways?{nl}Their hairy leathers are very warm.
-QUEST_LV_0200_20151001_009428	We should self supply as much as we could.{nl}Although this place is remote from the main land, we know what's going on in the kingdom. 
+QUEST_LV_0200_20151001_009428	We should self supply as much as we could.{nl}Although this place is remote from the main land, we know what's going on in the kingdom.
 QUEST_LV_0200_20151001_009429	Thanks.{nl}I already feel warm.
 QUEST_LV_0200_20151001_009430	Thanks for rescuing me. {nl}I saw you fighting while I was chasing after you and you are really great.{nl}
 QUEST_LV_0200_20151001_009431	I have a simple request to you.{nl}All of my colleagues are exhausted. I am exhausted as well. {nl}
@@ -9467,7 +9467,7 @@ QUEST_LV_0200_20151001_009470	For the continuous flow of food supplies to this s
 QUEST_LV_0200_20151001_009471	From a long time ago when famine comes, people ate barks inside tress.{nl}That was possible in an extreme situation, but we don't know when the situation would turn extreme.{nl}
 QUEST_LV_0200_20151001_009472	I will give you a small dagger so please peel off the barks from the 2nd work place.
 QUEST_LV_0200_20151001_009473	I am planning to develop various recipes using the barks.{nl}Whenever I eat meats, my gum starts to bleed and I feel weakened.
-QUEST_LV_0200_20151001_009474	Thanks.{nl}I am trying to experiment it as I recover, but...{nl}I guess we should hope the kingdom contact us before that. 
+QUEST_LV_0200_20151001_009474	Thanks.{nl}I am trying to experiment it as I recover, but...{nl}I guess we should hope the kingdom contact us before that.
 QUEST_LV_0200_20151001_009475	When we were constructing this location, there was a building that was used to manage the workers.{nl}Our squad is using it for cargo instead.
 QUEST_LV_0200_20151001_009476	But, from one day, Sparnashorn started to appear so we can't get near it.{nl}Of course, we can all rush in at the same time and get rid of them...{nl}
 QUEST_LV_0200_20151001_009477	But, the problem is that we have lots of more important and emergent matters to take care of at the moment.{nl}The supplies are still in that cargo.
@@ -9538,7 +9538,7 @@ QUEST_LV_0200_20151001_009541	How can I help you?
 QUEST_LV_0200_20151001_009542	You better take some rest first
 QUEST_LV_0200_20151001_009543	Priority
 QUEST_LV_0200_20151001_009544	I will kick out Sparnashorn for you
-QUEST_LV_0200_20151001_009545	It can't be done 
+QUEST_LV_0200_20151001_009545	It can't be done
 QUEST_LV_0200_20151001_009546	Collect the nucleuses of Red Infrorocters
 QUEST_LV_0200_20151001_009547	As the kingdom soldier, Retia requested to you, you eliminated all weak Stone Frosts. Go back to Retia.
 QUEST_LV_0200_20151001_009548	Secret Deal
@@ -9556,7 +9556,7 @@ QUEST_LV_0200_20151001_009559	Hand them over to the Graverobber Amanda who is at
 QUEST_LV_0200_20151001_009560	You've obtained the herbs which are the materials to make roar bombs. Hand them over to Amanda who is at the lower side of the upper level corridor.
 QUEST_LV_0200_20151001_009561	Amanda is trying to disturb the soldiers by making roar bombs. Ask the next step to the Graverobber Amanda.
 QUEST_LV_0200_20151001_009562	Steal the bombs from the guards
-QUEST_LV_0200_20151001_009563	The kingdom guards possess bombs, which are the next materials to make roar bombs. Faint the kingdom guards and steal the bombs. 
+QUEST_LV_0200_20151001_009563	The kingdom guards possess bombs, which are the next materials to make roar bombs. Faint the kingdom guards and steal the bombs.
 QUEST_LV_0200_20151001_009564	Hand them over to the Graverobber Amanda
 QUEST_LV_0200_20151001_009565	You've stolen enough bombs. Hand them over to Amanda.
 QUEST_LV_0200_20151001_009566	Talk with Graverobber Amanda.
@@ -9612,7 +9612,7 @@ QUEST_LV_0200_20151001_009615	Hix wants to come back to the squad, but it seems 
 QUEST_LV_0200_20151001_009616	Escort Hix to the camp
 QUEST_LV_0200_20151001_009617	It seems that Hix doesn't have any way of returning. Please escort him to the place where the Assistant Gorman is.
 QUEST_LV_0200_20151001_009618	You've escorted Hix to the camp safely. The Assistant Commander Gorman wants to to say thanks to you.
-QUEST_LV_0200_20151001_009619	This place seems to be an important place. Listen to the explanations about the region from Gorman. 
+QUEST_LV_0200_20151001_009619	This place seems to be an important place. Listen to the explanations about the region from Gorman.
 QUEST_LV_0200_20151001_009620	Assistant Commander Gorman is trying to give you the duty which Hix should've been responsible for. Talk with the Assistant Commander Gorman.
 QUEST_LV_0200_20151001_009621	Activate the desinates shrine to activate Romuva magic circle
 QUEST_LV_0200_20151001_009622	When you activate one of the shrines among Romuva magic circles, the shrines at each end will react at the same time. Use that and activate the altar which Gorman has told you. If you've forgotten which shrine to activate, check the letter which Gorman has given to you.
@@ -9674,51 +9674,51 @@ QUEST_LV_0200_20151001_009677	Mortimer feels that the supplies that are stored a
 QUEST_LV_0200_20151001_009678	Defeat Sparnashorn at the labor management office
 QUEST_LV_0200_20151001_009679	It seems that Mortimer is having a trouble due to Sparnashorn that is occupying the squad cargo. Defeat Sparnashorn at the labor management office and help him to retrieve the cargo.
 QUEST_LV_0200_20151001_009680	You successfully defeated Sparnashorn. Pass this happy news to Mortimer.
-QUEST_LV_0200_20151016_009681	
-QUEST_LV_0200_20151016_009682	
+QUEST_LV_0200_20151016_009681
+QUEST_LV_0200_20151016_009682
 QUEST_LV_0200_20151016_009683	{memo X}
 QUEST_LV_0200_20151016_009684	{memo X}
 QUEST_LV_0200_20151016_009685	{memo X}
-QUEST_LV_0200_20151016_009686	
-QUEST_LV_0200_20151016_009687	
-QUEST_LV_0200_20151016_009688	
-QUEST_LV_0200_20151016_009689	
-QUEST_LV_0200_20151016_009690	
-QUEST_LV_0200_20151016_009691	
+QUEST_LV_0200_20151016_009686
+QUEST_LV_0200_20151016_009687
+QUEST_LV_0200_20151016_009688
+QUEST_LV_0200_20151016_009689
+QUEST_LV_0200_20151016_009690
+QUEST_LV_0200_20151016_009691
 QUEST_LV_0200_20151016_009692	{memo X}
-QUEST_LV_0200_20151016_009693	
-QUEST_LV_0200_20151016_009694	
-QUEST_LV_0200_20151016_009695	
-QUEST_LV_0200_20151016_009696	
-QUEST_LV_0200_20151016_009697	
-QUEST_LV_0200_20151016_009698	
-QUEST_LV_0200_20151022_009699	
-QUEST_LV_0200_20151022_009700	
-QUEST_LV_0200_20151022_009701	
-QUEST_LV_0200_20151022_009702	
-QUEST_LV_0200_20151022_009703	
-QUEST_LV_0200_20151022_009704	
-QUEST_LV_0200_20151022_009705	
-QUEST_LV_0200_20151022_009706	
-QUEST_LV_0200_20151022_009707	
-QUEST_LV_0200_20151022_009708	
-QUEST_LV_0200_20151022_009709	
-QUEST_LV_0200_20151022_009710	
-QUEST_LV_0200_20151022_009711	
-QUEST_LV_0200_20151022_009712	
-QUEST_LV_0200_20151022_009713	
-QUEST_LV_0200_20151022_009714	
-QUEST_LV_0200_20151022_009715	
-QUEST_LV_0200_20151022_009716	
-QUEST_LV_0200_20151022_009717	
-QUEST_LV_0200_20151022_009718	
-QUEST_LV_0200_20151022_009719	
-QUEST_LV_0200_20151022_009720	
-QUEST_LV_0200_20151022_009721	
-QUEST_LV_0200_20151022_009722	
-QUEST_LV_0200_20151022_009723	
-QUEST_LV_0200_20151022_009724	
-QUEST_LV_0200_20151022_009725	
-QUEST_LV_0200_20151022_009726	
-QUEST_LV_0200_20151022_009727	
-QUEST_LV_0200_20151022_009728	
+QUEST_LV_0200_20151016_009693
+QUEST_LV_0200_20151016_009694
+QUEST_LV_0200_20151016_009695
+QUEST_LV_0200_20151016_009696
+QUEST_LV_0200_20151016_009697
+QUEST_LV_0200_20151016_009698
+QUEST_LV_0200_20151022_009699
+QUEST_LV_0200_20151022_009700
+QUEST_LV_0200_20151022_009701
+QUEST_LV_0200_20151022_009702
+QUEST_LV_0200_20151022_009703
+QUEST_LV_0200_20151022_009704
+QUEST_LV_0200_20151022_009705
+QUEST_LV_0200_20151022_009706
+QUEST_LV_0200_20151022_009707
+QUEST_LV_0200_20151022_009708
+QUEST_LV_0200_20151022_009709
+QUEST_LV_0200_20151022_009710
+QUEST_LV_0200_20151022_009711
+QUEST_LV_0200_20151022_009712
+QUEST_LV_0200_20151022_009713
+QUEST_LV_0200_20151022_009714
+QUEST_LV_0200_20151022_009715
+QUEST_LV_0200_20151022_009716
+QUEST_LV_0200_20151022_009717
+QUEST_LV_0200_20151022_009718
+QUEST_LV_0200_20151022_009719
+QUEST_LV_0200_20151022_009720
+QUEST_LV_0200_20151022_009721
+QUEST_LV_0200_20151022_009722
+QUEST_LV_0200_20151022_009723
+QUEST_LV_0200_20151022_009724
+QUEST_LV_0200_20151022_009725
+QUEST_LV_0200_20151022_009726
+QUEST_LV_0200_20151022_009727
+QUEST_LV_0200_20151022_009728
