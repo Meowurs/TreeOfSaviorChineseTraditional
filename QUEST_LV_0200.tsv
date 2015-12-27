@@ -1,15 +1,15 @@
-QUEST_LV_0200_20150317_000001	$Philipas' Soldier
+QUEST_LV_0200_20150317_000001	菲利帕斯 直屬部隊
 QUEST_LV_0200_20150317_000002	魔物們的攻勢變得更為暴力。{nl}雖然我下定決心要取得成功，但是我還為我們的安全感到擔憂。
 QUEST_LV_0200_20150317_000003	{memo X}$It doesn't matter - I can give up my life today, or be a dead man tomorrow.
-QUEST_LV_0200_20150317_000004	指揮官 Vacenin
+QUEST_LV_0200_20150317_000004	指揮官 凡士林
 QUEST_LV_0200_20150317_000005	無論如何，我們都得解決我們供給和兵力不足的問題{nl}當這一切解決后，我們將可以一點一點地碾過這片森林。
 QUEST_LV_0200_20150317_000006	雖然大夥兒都累了，我們將不會放棄直到收復整片 卡丁森林 為此.
-QUEST_LV_0200_20150317_000007	高級軍官 Philipas
+QUEST_LV_0200_20150317_000007	高級軍官 菲利帕斯
 QUEST_LV_0200_20150317_000008	我期待這一個和平的世界。{nl}為了實現著夢想，我須得更加把勁。
 QUEST_LV_0200_20150317_000009	為了收復這森林我願意做任何事情。{nl}這是值得拿我生命來冒險的。
-QUEST_LV_0200_20150317_000010	我們前線是由 Philipas專屬支隊組成的。{nl}他們會毫無異議地服從Philipas的命令。
+QUEST_LV_0200_20150317_000010	我們前線是由 菲利帕斯專屬支隊組成的。{nl}他們會毫無異議地服從菲利帕斯的命令。
 QUEST_LV_0200_20150317_000011	帶著任何時刻都可能成為你的最後一刻的想法活著吧！{nl}我們必須向過去學習然後運用它們成為我們的優勢。
-QUEST_LV_0200_20150317_000012	長官 Felix
+QUEST_LV_0200_20150317_000012	長官 菲利克斯
 QUEST_LV_0200_20150317_000013	{memo X}$卡丁森林入口 is rather on the safe side, but please refrain from going any deeper than this.
 QUEST_LV_0200_20150317_000014	虛弱的 貓頭鷹雕像
 QUEST_LV_0200_20150317_000015	我的力量正慢慢地減弱。{nl}然而還有許多的靈魂仍然需要指引...
@@ -71,54 +71,54 @@ QUEST_LV_0200_20150317_000070	士兵 戴紐斯
 QUEST_LV_0200_20150317_000071	鐵鮑姆 在 德利扎濕地 腹肌我們.{nl}那裡還有尚未逃脫的士兵.{nl}
 QUEST_LV_0200_20150317_000072	獨自逃脫讓我覺得羞愧{nl}
 QUEST_LV_0200_20150317_000073	安頓的 貓頭鷹雕像
-QUEST_LV_0200_20150317_000074	$I have something to ask of you.{nl}I'm worried about the soldiers suffering pain due to the Ravinelarvae.
-QUEST_LV_0200_20150317_000075	Thank you.{nl}From now on, can our soldiers work comfortably?
-QUEST_LV_0200_20150317_000076	$I appreciate your kind help.{nl}One day, I will return the favor when I meet your soul form.
+QUEST_LV_0200_20150317_000074	我想向請教你些事情。{nl}我十分擔心深受 洛白茵羅巴 折磨的兵士。
+QUEST_LV_0200_20150317_000075	謝謝。{nl}從現在開始，我們的戰士可以舒適地執行任務了吧？
+QUEST_LV_0200_20150317_000076	我十分感激你無私的幫忙。{nl}總有一天，我會報答你。
 QUEST_LV_0200_20150317_000077	{memo X}Are you the famous Revelator?{nl}Good, I'm puzzled with something. I need your help.
-QUEST_LV_0200_20150317_000078	$Ah, now I've received the order.{nl}Return to Commander 朱利安.
-QUEST_LV_0200_20150317_000079	$I'm collecting information about 鐵鮑姆.{nl}In order to reach the Gateway of the Great King, we have to defeat this monster first.
-QUEST_LV_0200_20150317_000080	$Thank you.{nl}Come back after taking this order to 波得 at Zaizda Hill.
-QUEST_LV_0200_20150317_000081	$Give me back the good old times.{nl} When there were no thorns.
-QUEST_LV_0200_20150317_000082	$If the path to the Gateway of the Great King is safe then I will be able to see more people.{nl}
-QUEST_LV_0200_20150317_000083	$Over all this time, I've seen it all.{nl}Now, I want only joy to be seen.
-QUEST_LV_0200_20150317_000084	$Why do human souls contain so many things?
-QUEST_LV_0200_20150317_000085	$If we run into monsters, we'll have no choice but to fight.
-QUEST_LV_0200_20150317_000086	$We're working to reach the Gateway of the Great King.{nl}Have you heard the news about 鐵鮑姆?
-QUEST_LV_0200_20150317_000087	$In order to be a group leader, you need unwavering principles.
-QUEST_LV_0200_20150317_000088	$It's true that trying to reach the Gateway of the Great King is reckless.{nl}However, we can't disobey the order.
-QUEST_LV_0200_20150317_000089	$It may seem bad at first, but the two commanders actually have a surprisingly good relationship.
-QUEST_LV_0200_20150317_000090	$I feel so lonely since no one is here.{nl}It's been a long time since I met new faces.
-QUEST_LV_0200_20150317_000091	What do you want to do here in this empty forest? No way, the way is available?
-QUEST_LV_0200_20150317_000092	$Thank you.{nl}The soldiers and my colleagues will now be able to sleep comfortably.
-QUEST_LV_0200_20150317_000093	$I can not feel my arms and legs.{nl}I feel so strange even though It's not cold.
-QUEST_LV_0200_20150317_000094	$We must defeat the Gaigalas.{nl}Otherwise, I won't be able to sleep in peace.
-QUEST_LV_0200_20150317_000095	$We will start the hunt for Gaigalas soon.{nl}I'm so excited.
-QUEST_LV_0200_20150317_000096	$This grudge is so sad.{nl}It's sad that we are powerless to stop it either.
-QUEST_LV_0200_20150317_000097	$Losses will continue unless somebody stops the demons.
-QUEST_LV_0200_20150317_000098	Joint Investigation Team Fray
-QUEST_LV_0200_20150317_000099	I'm Fray.{nl}Listening to the story, the situation sounds bad.{nl}If the information you and Scott researched is correct.
-QUEST_LV_0200_20150317_000100	{nl}Then, I will have to do something.{nl}Please defeat some Red Vubbes first. They have been bothering me lately.
+QUEST_LV_0200_20150317_000078	啊，現在我收到命令{nl回到 指揮官 朱利安 那裡。
+QUEST_LV_0200_20150317_000079	我正在收集關於 鐵鮑姆 的資訊.{nl}如果要到達 君王之門, 我們需要打倒這魔物。
+QUEST_LV_0200_20150317_000080	謝謝。{nl}傳送此命令給在 彩基達丘陵 的 波得 后，再回來 。
+QUEST_LV_0200_20150317_000081	還給我過去毫無荊棘的大好時光。
+QUEST_LV_0200_20150317_000082	如果前往 君王之門 的路徑是安全的，我將會看到跟多路人了。
+QUEST_LV_0200_20150317_000083	一向以來，我看到太多了。{nl}現在，我只想看到歡樂而已。
+QUEST_LV_0200_20150317_000084	為什麼人類靈魂含有這麼多東西？
+QUEST_LV_0200_20150317_000085	如果我們遭遇上了魔物，我們只有戰鬥了。
+QUEST_LV_0200_20150317_000086	我們正努力達到 君王之門。你有 鐵鮑姆 的消息嗎？
+QUEST_LV_0200_20150317_000087	成為一位領袖，你必須擁有堅定不移的原則。
+QUEST_LV_0200_20150317_000088	想達到 君王之門 是無可置疑的魯莽行為。但是，我們不可違抗命令。
+QUEST_LV_0200_20150317_000089	表面上看來很糟糕，但是兩位指揮官的實際關係還好得讓人驚訝。
+QUEST_LV_0200_20150317_000090	這裡沒人，我感覺很孤單。{nl}這是許久以來第一次見到新的臉孔了。
+QUEST_LV_0200_20150317_000091	你現在這空蕩蕩的森林幹什麼？不行，這行得通嗎？
+QUEST_LV_0200_20150317_000092	謝謝。{nl}現在我同事和士兵總算是可以高枕無憂了。
+QUEST_LV_0200_20150317_000093	我感覺不到我的四肢。{nl}雖然不會冷，但總覺得好奇怪。
+QUEST_LV_0200_20150317_000094	我們必須打敗 蓋格拉修。{nl}要不然，我不會睡得安穩。
+QUEST_LV_0200_20150317_000095	我們將會追捕 蓋格拉修 。{nl}我十分興奮。
+QUEST_LV_0200_20150317_000096	這怨恨讓人沮喪。{nl}它說我們也無力阻止它。
+QUEST_LV_0200_20150317_000097	損失將會持續，除非某人阻止魔物們。
+QUEST_LV_0200_20150317_000098	聯合調查小組 弗賴
+QUEST_LV_0200_20150317_000099	我是 弗賴。{nl}如果你和 聽著消息，看起來情況不大妙。{nl}就你和 斯科特 的研究資料而言...
+QUEST_LV_0200_20150317_000100	{nl}那麼，我就得做些事情了。{nl}請先打敗一些 紅瓦布，它們最近一直困擾著我。
 QUEST_LV_0200_20150317_000101	Please, I ask of you. .{nl}I get sick just looking at the red color.
 QUEST_LV_0200_20150317_000102	Oh, did you really defeat them for me?{nl}Thank you!
-QUEST_LV_0200_20150317_000103	I got something after talking with Scott.{nl}There are Woodman kind of a moving tree sculpture.{nl}Is it somehow related with the bark of a tree that the Vubbes got?
-QUEST_LV_0200_20150317_000104	By the way, there is still no news from Scott about a second report.{nl}I wonder what happened to our cute Scott? Hmm..
+QUEST_LV_0200_20150317_000103	I got something after talking with 斯科特.{nl}There are Woodman kind of a moving tree sculpture.{nl}Is it somehow related with the bark of a tree that the Vubbes got?
+QUEST_LV_0200_20150317_000104	By the way, there is still no news from 斯科特 about a second report.{nl}I wonder what happened to our cute 斯科特? Hmm..
 QUEST_LV_0200_20150317_000105	Wow, great!{nl}I owe you one. Thank you!
 QUEST_LV_0200_20150317_000106	Right? So I will ask you.{nl}Woodman are appearing on the Deer Hoot Site along with the left side of the path.
-QUEST_LV_0200_20150317_000107	I will take this combined result of the information Scott gave me and this fragment to my superior. {nl}By the way, There is still no news from Scott. Even the time Scott promised has long since passed. Just using the hearsay is not enough for the other investigator?{nl}
-QUEST_LV_0200_20150317_000108	Could you pick up the report from Scott?{nl}Do not forget to scold him for skipping work!
-QUEST_LV_0200_20150317_000109	Please handle Scott's report. Okay?{nl}Sometimes, he is stupid, but he is also cute.
+QUEST_LV_0200_20150317_000107	I will take this combined result of the information 斯科特 gave me and this fragment to my superior. {nl}By the way, There is still no news from 斯科特. Even the time 斯科特 promised has long since passed. Just using the hearsay is not enough for the other investigator?{nl}
+QUEST_LV_0200_20150317_000108	Could you pick up the report from 斯科特?{nl}Do not forget to scold him for skipping work!
+QUEST_LV_0200_20150317_000109	Please handle 斯科特's report. Okay?{nl}Sometimes, he is stupid, but he is also cute.
 QUEST_LV_0200_20150317_000110	I have no face. Nowadays, I have been investigating everywhere to find something..{nl}Thanks a lot. If you are not..{nl}Ah, I don't want to think about it.{nl}
-QUEST_LV_0200_20150317_000111	Oops, It's time for this.{nl}I'm sorry, Please give it to Fray instead of me.{nl}I don't know where to start to clean the mess that Vubbes did..
-QUEST_LV_0200_20150317_000112	Ah, it is the report! {nl}Good, and what was Scott doing?{nl}
+QUEST_LV_0200_20150317_000111	Oops, It's time for this.{nl}I'm sorry, Please give it to 弗賴 instead of me.{nl}I don't know where to start to clean the mess that Vubbes did..
+QUEST_LV_0200_20150317_000112	Ah, it is the report! {nl}Good, and what was 斯科特 doing?{nl}
 QUEST_LV_0200_20150317_000113	Really? He couldn't handle a single Vubbe and got in trouble instead.{nl}Such a shame..I will scold him later!
 QUEST_LV_0200_20150317_000114	Everything is messy. {nl}I can not concentrate as the Vubbes.{nl}He must laugh, If he look at it?
-QUEST_LV_0200_20150317_000115	Joint Investigation Team Fray
+QUEST_LV_0200_20150317_000115	聯合調查小組 弗賴
 QUEST_LV_0200_20150317_000116	It is still in progress to find the truth of the events.{nl}Take it. It's a soul collection scroll.{nl}
 QUEST_LV_0200_20150317_000117	Once you defeat the Red Vubbe using this scroll, the soul of Vubbe should be out?{nl}I'll have you collect it for me. Then, the data are almost done.
 QUEST_LV_0200_20150317_000118	Do not forget the order.{nl}You have to defeat the Red Vubbes after using the soul collection scroll on them. Alright?
 QUEST_LV_0200_20150317_000119	About the bark of a tree that the Vubbe got.{nl}I think I can combine it using something like a spirit..{nl}Well, Please tell this news to Ukirt.
 QUEST_LV_0200_20150317_000120	Joint Investigation Team Ukirt
-QUEST_LV_0200_20150317_000121	Scott and Fray did a good job. What do you think of it?{nl}I don't think so that Vubbe can't create themself.{nl}I will have to check what they do using this.{nl}
+QUEST_LV_0200_20150317_000121	斯科特 and 弗賴 did a good job. What do you think of it?{nl}I don't think so that Vubbe can't create themself.{nl}I will have to check what they do using this.{nl}
 QUEST_LV_0200_20150317_000122	There may be something inside the supply boxes that the soldiers left a long time ago.{nl}You will find some old supply boxes up there.{nl}Can you go there and check? If we obtain some clues there, we may get an answer.
 QUEST_LV_0200_20150317_000123	If you go back the way you just came, you will see an observatory tower on the hills.{nl}I hope the monsters haven't touch it yet..
 QUEST_LV_0200_20150317_000124	Are they really planning something?{nl}Something.. is suspicious..
@@ -151,7 +151,7 @@ QUEST_LV_0200_20150317_000150	$As you go deeper inside, there are a number of so
 QUEST_LV_0200_20150317_000151	$Fallen Messenger
 QUEST_LV_0200_20150317_000152	$This is my fault, for assuming the entrance to 卡丁森林 was secure.{nl}I will go back to the camp after taking a short rest.
 QUEST_LV_0200_20150317_000153	$Ah, this is my bag.. thank you for saving me.{nl}
-QUEST_LV_0200_20150317_000154	$Only you can help me right now.{nl}Can you tell Felix that the operation at Peljeda Crossroads has already started?{nl}{nl}
+QUEST_LV_0200_20150317_000154	$Only you can help me right now.{nl}Can you tell 菲利克斯 that the operation at Peljeda Crossroads has already started?{nl}{nl}
 QUEST_LV_0200_20150317_000155	$There are many strange things that can't be seen in forests other than 卡丁森林.{nl}Such as the wooden 貓頭鷹雕像s.
 QUEST_LV_0200_20150317_000156	$The operation? Oh, what an ignorant messenger.{nl}I can get that from the camp.. Thanks anyway.{nl}
 QUEST_LV_0200_20150317_000157	$Oh, the way back is dark, so it would be appreciated if you could light up the bonfire again.
@@ -662,7 +662,7 @@ QUEST_LV_0200_20150317_000661	I heard from the soldier in felled area that there
 QUEST_LV_0200_20150317_000662	I heard the strange grass is in Naudingas Felled Area. {nl}What a relief that you're here. Haha.
 QUEST_LV_0200_20150317_000663	Naudangis Felled Area is not that far from here. {nl}But the Vubbes will keep chasing you so better be careful.
 QUEST_LV_0200_20150317_000664	You plan to cross this forest? {nl}You can't. This place is seriously dangerous!{nl}
-QUEST_LV_0200_20150317_000665	Ahh, I'm Scott. {nl}I'm a member of the Highlander and Peltasta Masters' joint investigation team. {nl}We were ordered to investigate what's happening in here.
+QUEST_LV_0200_20150317_000665	Ahh, I'm 斯科特. {nl}I'm a member of the Highlander and Peltasta Masters' joint investigation team. {nl}We were ordered to investigate what's happening in here.
 QUEST_LV_0200_20150317_000666	I heard that you have great abilities. {nl}So if you insist that you must cross this area.. Why don't you just help our investigation?
 QUEST_LV_0200_20150317_000667	Oh, now we're talking. I like you. Haha. {nl}First, get me some tree barks those Vubbes are carrying around. {nl}The Vubbes won't carry around tree barks for no reason, don't you think? {nl}
 QUEST_LV_0200_20150317_000668	Vubbes are spread all over the area. {nl}They go around in groups so you better be careful.
@@ -676,7 +676,7 @@ QUEST_LV_0200_20150317_000675	Good. I have one last favor to ask. {nl}Please def
 QUEST_LV_0200_20150317_000676	Thanks. {nl}The Woodspirits were sighted in Atsylka Rest Area. {nl}
 QUEST_LV_0200_20150317_000677	When this is over, we will trace and find out who did this. {nl}It may be a long fight..
 QUEST_LV_0200_20150317_000678	The demons intervening.. Feels like things are getting bigger. {nl}I think I should report this to the head when it is over. {nl}Frey will want to do it himself but it doesn't feel right. Something like it's a different level?
-QUEST_LV_0200_20150317_000679	Haha.. You're incredibly strong like Scott says, huh? {nl}I didn't imagine you'd defeat the Woodspirit this fast. {nl}I owe you one. Thank you very much. Let's meet again!
+QUEST_LV_0200_20150317_000679	Haha.. You're incredibly strong like 斯科特 says, huh? {nl}I didn't imagine you'd defeat the Woodspirit this fast. {nl}I owe you one. Thank you very much. Let's meet again!
 QUEST_LV_0200_20150317_000680	$I have a favor. {nl}Can you take this Wing Fragment to our Owl Chief at Neuoder Field?
 QUEST_LV_0200_20150317_000681	$This Wing Fragment is the Brave Owl's. {nl}It's a very sad and painful thing.
 QUEST_LV_0200_20150317_000682	$This is a fragment of my friend's wing. {nl}It was broken off by the monsters.
@@ -816,13 +816,13 @@ QUEST_LV_0200_20150317_000815	$You mean you returned him to the Rearguard? {nl}T
 QUEST_LV_0200_20150317_000816	$Blood will be shed soon. {nl}I pity you for going in Roy's stead.
 QUEST_LV_0200_20150317_000817	$So, just as I've heard. {nl}
 QUEST_LV_0200_20150317_000818	$The next mission is to find my missing scouts. {nl}They were sent to Razygis Hill but have not returned for hours.
-QUEST_LV_0200_20150317_000819	$The scout unit was attacked, myself included. {nl}I hope I can at least find the report to send to sir Philipas..
+QUEST_LV_0200_20150317_000819	$The scout unit was attacked, myself included. {nl}I hope I can at least find the report to send to sir 菲利帕斯..
 QUEST_LV_0200_20150317_000820	{memo X}Our squad is all dead because of my incompetence. {nl}I'm the only one alive but I don't think I have much time left either.
 QUEST_LV_0200_20150317_000821	$This report is completely soaked in blood and unreadable. {nl}I can't stand that my men's efforts were all for nothing.
 QUEST_LV_0200_20150317_000822	$There is one last favor I would like to ask you. {nl}The remains of my men are up in the hills. Please take care of them.
 QUEST_LV_0200_20150317_000823	$I feel sorry for them being abandoned amongst the monsters.
 QUEST_LV_0200_20150317_000824	$Thank you.{nl}My men can now rest in peace. {nl}
-QUEST_LV_0200_20150317_000825	$Oh, I've found some readable parts from my men's reports. {nl}Please tell sir Philipas that the monsters will attack the regular troops soon.
+QUEST_LV_0200_20150317_000825	$Oh, I've found some readable parts from my men's reports. {nl}Please tell sir 菲利帕斯 that the monsters will attack the regular troops soon.
 QUEST_LV_0200_20150317_000826	$..Is that so? I guess it's too late for the scouts. {nl}I swear to treat them with respect. {nl}
 QUEST_LV_0200_20150317_000827	$According to Johan's report, we better strike them from behind. {nl}I will meet you in Izdaginakas Highway.
 QUEST_LV_0200_20150317_000828	$Revenge is best served cold. {nl}Even for Johan and his men.
@@ -836,7 +836,7 @@ QUEST_LV_0200_20150317_000835	When will this pitiful feeling end. {nl}When I loo
 QUEST_LV_0200_20150317_000836	$I can suffice with delayed supplies or reinforcements. {nl}But telling us to just wait around is too much.
 QUEST_LV_0200_20150317_000837	I'm afraid where the monsters will jump out from. {nl}I plan to run away if an unknown monster shows up.
 QUEST_LV_0200_20150317_000838	We're making up for the lacking supplies. {nl}If the supplies don't arrive, we have to cover for it on site.
-QUEST_LV_0200_20150317_000839	$Somehow, at least sir Philipas' troops...
+QUEST_LV_0200_20150317_000839	$Somehow, at least sir 菲利帕斯' troops...
 QUEST_LV_0200_20150317_000840	$There was another route that we used before. {nl}But it got like this when that gigantic tree suddenly emerged. {nl}
 QUEST_LV_0200_20150317_000841	$We're clearing up this route to make it easy for supplies but.. {nl}As if the monsters isolating us was not enough, now there are no news of supplies, and the soldiers are becoming weary.
 QUEST_LV_0200_20150317_000842	$I'll be grateful if you can do that. {nl}If you relieve us from their attacks, it might even boost the troop's morale.
@@ -858,7 +858,7 @@ QUEST_LV_0200_20150317_000857	(You cannot read it because it's broken.)
 QUEST_LV_0200_20150317_000858	$We are after an unknown monster. {nl}I hope it's not Deadborn, but I feel like it is. Can you help us?
 QUEST_LV_0200_20150317_000859	$That's weird. I think I saw a Deadborn.. {nl}What do you think?
 QUEST_LV_0200_20150317_000860	$Dear Revelator, please lend us your strength! {nl}We're fighting against Saltistter and us alone is not enough.
-QUEST_LV_0200_20150317_000861	$You're great, as expected! Commander Vacenin wants to meet you. Go to the camp quickly.
+QUEST_LV_0200_20150317_000861	$You're great, as expected! Commander 凡士林 wants to meet you. Go to the camp quickly.
 QUEST_LV_0200_20150317_000862	Soldier Rudolfas
 QUEST_LV_0200_20150317_000863	{memo X}Even if you're the Revelator, this place is too dangerous. {nl}Please go to a safe area.
 QUEST_LV_0200_20150317_000864	$What did I tell you? {nl}Thanks for your help but you should turn back quickly.
@@ -1232,7 +1232,7 @@ QUEST_LV_0200_20150317_001231	Let's get out of here together
 QUEST_LV_0200_20150317_001232	{memo X}Notice /Defeat the 鐵鮑姆! / 5
 QUEST_LV_0200_20150317_001233	Owner of the Grave
 QUEST_LV_0200_20150317_001234	What is it ?
-QUEST_LV_0200_20150317_001235	Commander Vacenin (1)
+QUEST_LV_0200_20150317_001235	Commander 凡士林 (1)
 QUEST_LV_0200_20150317_001236	I can help you
 QUEST_LV_0200_20150317_001237	About 卡丁森林
 QUEST_LV_0200_20150317_001238	{memo X}Collect Moss
@@ -1256,7 +1256,7 @@ QUEST_LV_0200_20150317_001255	{memo X}Installing/FIRE/1.5/TRACK_BEFORE/SSN_HATE_
 QUEST_LV_0200_20150317_001256	{memo X}Notice/Bonfire is lighted.#3
 QUEST_LV_0200_20150317_001257	Bonfire of the Patrol Route (3)
 QUEST_LV_0200_20150317_001258	Bonfire of the Patrol Route (4)
-QUEST_LV_0200_20150317_001259	Commander Vacenin (2)
+QUEST_LV_0200_20150317_001259	Commander 凡士林 (2)
 QUEST_LV_0200_20150317_001260	Return to Camp
 QUEST_LV_0200_20150317_001261	I'll rest for a while
 QUEST_LV_0200_20150317_001262	$Memorial Service (1)
@@ -1340,7 +1340,7 @@ QUEST_LV_0200_20150317_001339	Where are the Supply Troops (3)
 QUEST_LV_0200_20150317_001340	Mission over Mission
 QUEST_LV_0200_20150317_001341	I'll help collect the hooks
 QUEST_LV_0200_20150317_001342	Let's wait until everything is collected
-QUEST_LV_0200_20150317_001343	Leadership of Philipas
+QUEST_LV_0200_20150317_001343	Leadership of 菲利帕斯
 QUEST_LV_0200_20150317_001344	I will cooperate
 QUEST_LV_0200_20150317_001345	That is unfair
 QUEST_LV_0200_20150317_001346	Troop Left Alone
@@ -1771,7 +1771,7 @@ QUEST_LV_0200_20150317_001770	{memo X}Eccentric Statue (1)
 QUEST_LV_0200_20150317_001771	{memo X}I think you can't say they are not related
 QUEST_LV_0200_20150317_001772	{memo X}They don't seem to be related
 QUEST_LV_0200_20150317_001773	{memo X}Eccentric Statue (2)
-QUEST_LV_0200_20150317_001774	{memo X}I'll get the reports from Scott
+QUEST_LV_0200_20150317_001774	{memo X}I'll get the reports from 斯科特
 QUEST_LV_0200_20150317_001775	{memo X}Eccentric Statue (3)
 QUEST_LV_0200_20150317_001776	{memo X}I'll deliver the report to Frey
 QUEST_LV_0200_20150317_001777	{memo X}Secret of the Bark (1)
@@ -1924,7 +1924,7 @@ QUEST_LV_0200_20150317_001923	$Defeat the Giant Red Wood Goblin
 QUEST_LV_0200_20150317_001924	$Talk to Commander 朱利安
 QUEST_LV_0200_20150317_001925	指揮官 朱利安 is troubled with no one able to do a mission. Talk to Commander 朱利安.
 QUEST_LV_0200_20150317_001926	$Hand it over to Soldier 波得
-QUEST_LV_0200_20150317_001927	指揮官 朱利安 asked you to help with his work. Pass the order he gave you to the Soldier 波得 at Zaizda Hill.
+QUEST_LV_0200_20150317_001927	指揮官 朱利安 asked you to help with his work. Pass the order he gave you to the Soldier 波得 at 彩基達丘陵.
 QUEST_LV_0200_20150317_001928	$Talk to Soldier 波得
 QUEST_LV_0200_20150317_001929	$Upon receiving the order, 波得's face grew gloomy. Talk to Soldier 波得 again.
 QUEST_LV_0200_20150317_001930	$Defeat the monsters nearby to help 波得
@@ -1952,9 +1952,9 @@ QUEST_LV_0200_20150317_001951	$You saved Soldier 卡魯斯 who was running away 
 QUEST_LV_0200_20150317_001952	$Defeat the monsters threatening the soldier
 QUEST_LV_0200_20150317_001953	$Talk to the Settled 貓頭鷹雕像
 QUEST_LV_0200_20150317_001954	$There is a hesitant-looking 貓頭鷹雕像. Talk to the Settled 貓頭鷹雕像.
-QUEST_LV_0200_20150317_001955	$Defeat nearby Ravinelarvae
-QUEST_LV_0200_20150317_001956	$The Settled 貓頭鷹雕像 wants to repay the soldiers who saved it. To help the soldiers, please defeat the nearby Ravinelarvae.
-QUEST_LV_0200_20150317_001957	$You defeated all nearby Ravinelarvae. Talk to the Settled 貓頭鷹雕像.
+QUEST_LV_0200_20150317_001955	$Defeat nearby 洛白茵羅巴
+QUEST_LV_0200_20150317_001956	$The Settled 貓頭鷹雕像 wants to repay the soldiers who saved it. To help the soldiers, please defeat the nearby 洛白茵羅巴.
+QUEST_LV_0200_20150317_001957	$You defeated all nearby 洛白茵羅巴. Talk to the Settled 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001958	$Defeat Ravinelarva
 QUEST_LV_0200_20150317_001959	$Talk to Soldier 戴紐斯
 QUEST_LV_0200_20150317_001960	士兵 戴紐斯 is trembling from fear. Talk to Soldier 戴紐斯 to look for the other soldiers.
@@ -1968,23 +1968,23 @@ QUEST_LV_0200_20150317_001967	Please defeat the gigantic mushroom-like looking m
 QUEST_LV_0200_20150317_001968	Defeat Mushwort
 QUEST_LV_0200_20150317_001969	The gigantic monster was Mushwort
 QUEST_LV_0200_20150317_001970	$Find the Messenger
-QUEST_LV_0200_20150317_001971	指揮官 Vacenin sent a messenger into the depths of the forest and is worried. He is likely at the Crying Place. Go find him.
+QUEST_LV_0200_20150317_001971	指揮官 凡士林 sent a messenger into the depths of the forest and is worried. He is likely at the Crying Place. Go find him.
 QUEST_LV_0200_20150317_001972	$Find the Messenger at the Crying Place
-QUEST_LV_0200_20150317_001973	指揮官 Vacenin is worried about the messenger he sent and asked you to search for him. Find the Messenger near the Crying Place.
+QUEST_LV_0200_20150317_001973	指揮官 凡士林 is worried about the messenger he sent and asked you to search for him. Find the Messenger near the Crying Place.
 QUEST_LV_0200_20150317_001974	$Talk with the Fallen Messenger
 QUEST_LV_0200_20150317_001975	$Retrieve the Bag of the Messenger and talk to him.
 QUEST_LV_0200_20150317_001976	$Defeat the monsters who attacked the Messenger
-QUEST_LV_0200_20150317_001977	{memo X}Talk with Scott
+QUEST_LV_0200_20150317_001977	{memo X}Talk with 斯科特
 QUEST_LV_0200_20150317_001978	{memo X}He has to go to 卡丁森林 to look for the sculptor, but it is too dangerous to cross there due to an unknown incident. Ask him what you can do for him.
-QUEST_LV_0200_20150317_001979	{memo X}Scott wants to investigate the moss. Please collect the moss from the dock.
-QUEST_LV_0200_20150317_001980	{memo X}We have enough moss to be investigated. Return to Scott
+QUEST_LV_0200_20150317_001979	{memo X}斯科特 wants to investigate the moss. Please collect the moss from the dock.
+QUEST_LV_0200_20150317_001980	{memo X}We have enough moss to be investigated. Return to 斯科特
 QUEST_LV_0200_20150317_001981	{memo X}Collect %s stuck on a rock
-QUEST_LV_0200_20150317_001982	{memo X}Scott heard from the soldiers from the felled area that the grass that has unique color is growing. Collect the unique grass from Naudingas felled area.
-QUEST_LV_0200_20150317_001983	{memo X}You have collected enough unique grass. Return to Scott.
+QUEST_LV_0200_20150317_001982	{memo X}斯科特 heard from the soldiers from the felled area that the grass that has unique color is growing. Collect the unique grass from Naudingas felled area.
+QUEST_LV_0200_20150317_001983	{memo X}You have collected enough unique grass. Return to 斯科特.
 QUEST_LV_0200_20150317_001984	Gather %s
 QUEST_LV_0200_20150317_001985	{memo X}You should cross here to look for the sculptor of 卡丁森林 which the revelation of the Goddess is indicating, but the man with unnormal clothes is investigating something diligently. Talk to him what's going on.
-QUEST_LV_0200_20150317_001986	{memo X}Scott said he came here to investigate the dangerous incident that occurred here and suggested you to move with him. To aid his investigation, please collect the tree barks from Vubbes that are carrying spears.
-QUEST_LV_0200_20150317_001987	{memo X}You have collected enough tree barks. Return to Scott.
+QUEST_LV_0200_20150317_001986	{memo X}斯科特 said he came here to investigate the dangerous incident that occurred here and suggested you to move with him. To aid his investigation, please collect the tree barks from Vubbes that are carrying spears.
+QUEST_LV_0200_20150317_001987	{memo X}You have collected enough tree barks. Return to 斯科特.
 QUEST_LV_0200_20150317_001988	{memo X}Obtain %s by defeating Red Vubbes
 QUEST_LV_0200_20150317_001989	{memo X}Talk with Yukirt
 QUEST_LV_0200_20150317_001990	{memo X}You thwarted the conspiracy to make the Woodspirits, but you should get rid of the Woodspirits that were already created. Talk with Yukirt.
@@ -2010,10 +2010,10 @@ QUEST_LV_0200_20150317_002009	$Light up the Bonfires
 QUEST_LV_0200_20150317_002010	$The patrolling officer asked you to light up the Extinguished Bonfires. Light up the bonfires for him.
 QUEST_LV_0200_20150317_002011	$You lit up the Extinguished Bonfires. Talk with the Patrolling Officer again.
 QUEST_LV_0200_20150317_002012	$Light up the Bonfire.
-QUEST_LV_0200_20150317_002013	$Talk to Commander Felix
-QUEST_LV_0200_20150317_002014	$On behalf of the Messenger who can hardly move, tell Felix that the operation at Peljeda Crossroads has started.
-QUEST_LV_0200_20150317_002015	$Talk with the Commander Vacenin
-QUEST_LV_0200_20150317_002016	Return to Vacenin and tell him that the messenger is safe
+QUEST_LV_0200_20150317_002013	$Talk to Commander 菲利克斯
+QUEST_LV_0200_20150317_002014	$On behalf of the Messenger who can hardly move, tell 菲利克斯 that the operation at Peljeda Crossroads has started.
+QUEST_LV_0200_20150317_002015	$Talk with the Commander 凡士林
+QUEST_LV_0200_20150317_002016	Return to 凡士林 and tell him that the messenger is safe
 QUEST_LV_0200_20150317_002017	{memo X}The grave protecting owl seems to want something. Talk with the grave protecting owl.
 QUEST_LV_0200_20150317_002018	{memo X}Collect two spirit stones
 QUEST_LV_0200_20150317_002019	{memo X}The grave protecting owl says there is a spirit with the great resentment and wants to have the spirit. Obtain the two spirit stones to summon the spirit.
@@ -2163,14 +2163,14 @@ QUEST_LV_0200_20150317_002162	$Obtain a Puragi's Hook
 QUEST_LV_0200_20150317_002163	士兵 Roy told you that he can't go back before he completes his mission. Collect a Puragi's Hook to help him.
 QUEST_LV_0200_20150317_002164	$Hand it over to Soldier Roy
 QUEST_LV_0200_20150317_002165	$You've got a Puragi's Hook. Hand it over to Soldier Roy.
-QUEST_LV_0200_20150317_002166	$Talk to Senior Officer Philipas
-QUEST_LV_0200_20150317_002167	$Senior Commander Philipas is waiting for Soldier Roy at the Center Unit Camp. Talk to Philipas.
+QUEST_LV_0200_20150317_002166	$Talk to Senior Officer 菲利帕斯
+QUEST_LV_0200_20150317_002167	$Senior Commander 菲利帕斯 is waiting for Soldier Roy at the Center Unit Camp. Talk to 菲利帕斯.
 QUEST_LV_0200_20150317_002168	$Defeat a Big Blue Griba at the hills
-QUEST_LV_0200_20150317_002169	$Senior Officer Philipas is blaming you for Soldier Roy being at the Rearguard. First defeat a Big Blue Griba at the hills.
-QUEST_LV_0200_20150317_002170	$Report to Philipas
-QUEST_LV_0200_20150317_002171	$You've defeated a Big Blue Griba on the hills. Report to Senior Officer Philipas
+QUEST_LV_0200_20150317_002169	$Senior Officer 菲利帕斯 is blaming you for Soldier Roy being at the Rearguard. First defeat a Big Blue Griba at the hills.
+QUEST_LV_0200_20150317_002170	$Report to 菲利帕斯
+QUEST_LV_0200_20150317_002171	$You've defeated a Big Blue Griba on the hills. Report to Senior Officer 菲利帕斯
 QUEST_LV_0200_20150317_002172	$Look for Squad Commander Johan
-QUEST_LV_0200_20150317_002173	$Senior Officer Philipas is telling you that he direly needs the report of his scouts, but the scouts are not coming back. Look for the scouts who left for Razygis Hills.
+QUEST_LV_0200_20150317_002173	$Senior Officer 菲利帕斯 is telling you that he direly needs the report of his scouts, but the scouts are not coming back. Look for the scouts who left for Razygis Hills.
 QUEST_LV_0200_20150317_002174	$Look for the report from the monsters nearby
 QUEST_LV_0200_20150317_002175	$Squad Commander Johan told you that all his colleagues are dead and he is the only one that managed to survive. Defeat the monsters nearby and look for the report.
 QUEST_LV_0200_20150317_002176	$Give them to Squad Commander Johan
@@ -2181,14 +2181,14 @@ QUEST_LV_0200_20150317_002180	$Collect the remains of a soldier
 QUEST_LV_0200_20150317_002181	$Squad Commander Johan is sad to discover that the corpses of his comrades are left with the monsters. Recover the remains of the soldiers for him.
 QUEST_LV_0200_20150317_002182	$Hand them over to Squad Commander Johan
 QUEST_LV_0200_20150317_002183	$You've finished retrieving all the remains. Hand them over to Squad Commander Johan.
-QUEST_LV_0200_20150317_002184	$Please report Squad Commander Johan's message, and the story of his colleagues to the Senior Officer Philipas.
-QUEST_LV_0200_20150317_002185	$Follow the Senior Officer Philipas
-QUEST_LV_0200_20150317_002186	$Senior Officer Philipas is trembling with fury and decided to head to battle. Follow Philipas to Izdaginakas Highway.
-QUEST_LV_0200_20150317_002187	$Senior Officer Philipas' Mission
-QUEST_LV_0200_20150317_002188	$All the soldiers are participating in the battle. Talk with Senior Officer Philipas
+QUEST_LV_0200_20150317_002184	$Please report Squad Commander Johan's message, and the story of his colleagues to the Senior Officer 菲利帕斯.
+QUEST_LV_0200_20150317_002185	$Follow the Senior Officer 菲利帕斯
+QUEST_LV_0200_20150317_002186	$Senior Officer 菲利帕斯 is trembling with fury and decided to head to battle. Follow 菲利帕斯 to Izdaginakas Highway.
+QUEST_LV_0200_20150317_002187	$Senior Officer 菲利帕斯' Mission
+QUEST_LV_0200_20150317_002188	$All the soldiers are participating in the battle. Talk with Senior Officer 菲利帕斯
 QUEST_LV_0200_20150317_002189	$The soldiers are already fighting against Mushwort. Defeat the Mushwort.
-QUEST_LV_0200_20150317_002190	$Report to Senior Officer Philipas
-QUEST_LV_0200_20150317_002191	$You've defeated the Mushwort. Talk to Philipas.
+QUEST_LV_0200_20150317_002190	$Report to Senior Officer 菲利帕斯
+QUEST_LV_0200_20150317_002191	$You've defeated the Mushwort. Talk to 菲利帕斯.
 QUEST_LV_0200_20150317_002192	$Found a herd of small Gribas
 QUEST_LV_0200_20150317_002193	$There is a small herd of Gribas near the Rearguard Unit Camp. Let's go and see them carefully.
 QUEST_LV_0200_20150317_002194	$As you touched the small Gribas, Big Blue Gribas appeared. Defeat them.
@@ -2930,23 +2930,23 @@ QUEST_LV_0200_20150317_002929	The secret of the symbolized stone
 QUEST_LV_0200_20150317_002930	The boss appeared from here as the symbolized stone shone it self. What would happen when you defeat this boss?
 QUEST_LV_0200_20150317_002931	{memo X}Defeat the boss that protected that place
 QUEST_LV_0200_20150317_002932	{memo X}Talk with Frey who is a member of the kindom research team
-QUEST_LV_0200_20150317_002933	{memo X}Frey looks serious while he is reading the reports from Scott. Talk with Frey again.
+QUEST_LV_0200_20150317_002933	{memo X}Frey looks serious while he is reading the reports from 斯科特. Talk with Frey again.
 QUEST_LV_0200_20150317_002934	{memo X}Defeat Red Vubbe Thieves on behalf of Frey
 QUEST_LV_0200_20150317_002935	{memo X}Frey told you that he should go see other researchers for a minute and asked you to defeat Red Vubbe Thieves in the meantime. You feel strange, but you think you can handle this task.
 QUEST_LV_0200_20150317_002936	{memo X}It seems that Frey has returned while you were defeating Red Vubbe Thieves. Let's go back to Frey.
-QUEST_LV_0200_20150317_002937	{memo X}Frey remembered something as he was reading Scott's reports. Talk with Frey.
+QUEST_LV_0200_20150317_002937	{memo X}Frey remembered something as he was reading 斯科特's reports. Talk with Frey.
 QUEST_LV_0200_20150317_002938	{memo X}Defeat Woodmen and collect their fragments
 QUEST_LV_0200_20150317_002939	{memo X}Frey saws Woodmen at Deer Hooves Lot and he is thinking maybe they have something to do with those unpleasant barks that the Vubbes are carrying with them. For Frey to look into this, defeat Woodmen and bring him the fragments.
 QUEST_LV_0200_20150317_002940	{memo X}Frey won't have any problem researching the matter with this much amount. Please take the fragments of Woodmen to Frey.
 QUEST_LV_0200_20150317_002941	{memo X}Obtain %s by defeating Woodmen
 QUEST_LV_0200_20150317_002942	{memo X}Frey is confused since there are more things to come, but they haven't arrived yet. Talk to Frey again.
-QUEST_LV_0200_20150317_002943	{memo X}Bring the reports from Scott
-QUEST_LV_0200_20150317_002944	{memo X}Frey should receive the second report from Scott, but it hasn't arrived yet. Please get the report from Scott on behalf of Frey.
-QUEST_LV_0200_20150317_002945	{memo X}Scott was in a real danger since he was surrounded by Vubbes. Talk with Scott who seems to be stunned.
-QUEST_LV_0200_20150317_002946	{memo X}Defeat the monster that attacked Scott
-QUEST_LV_0200_20150317_002947	{memo X}Frey told you to bring the 2nd report from Scott. Talk with Scott to get the 2nd report.
-QUEST_LV_0200_20150317_002948	{memo X}Hand over the 2nd report to Scott
-QUEST_LV_0200_20150317_002949	{memo X}Frey may be waiting for Scott's information. Please hand over the 2nd report to Frey that you got from Scott.
+QUEST_LV_0200_20150317_002943	{memo X}Bring the reports from 斯科特
+QUEST_LV_0200_20150317_002944	{memo X}Frey should receive the second report from 斯科特, but it hasn't arrived yet. Please get the report from 斯科特 on behalf of Frey.
+QUEST_LV_0200_20150317_002945	{memo X}斯科特 was in a real danger since he was surrounded by Vubbes. Talk with 斯科特 who seems to be stunned.
+QUEST_LV_0200_20150317_002946	{memo X}Defeat the monster that attacked 斯科特
+QUEST_LV_0200_20150317_002947	{memo X}Frey told you to bring the 2nd report from 斯科特. Talk with 斯科特 to get the 2nd report.
+QUEST_LV_0200_20150317_002948	{memo X}Hand over the 2nd report to 斯科特
+QUEST_LV_0200_20150317_002949	{memo X}Frey may be waiting for 斯科特's information. Please hand over the 2nd report to Frey that you got from 斯科特.
 QUEST_LV_0200_20150317_002950	{memo X}Talk with Frey
 QUEST_LV_0200_20150317_002951	{memo X}The incident that occurred at Forgotten Port is yet to be resolved. Talk with Frey what to do next.
 QUEST_LV_0200_20150317_002952	{memo X}Obtain the spirit of Red Vubbe Archer by defeating Red Vubbe Archer using the scroll to collect the spirits
@@ -3008,9 +3008,9 @@ QUEST_LV_0200_20150317_003007	$Protect the fires until the Sculptures burn compl
 QUEST_LV_0200_20150317_003008	$Report to the Owl Chief Sculpture
 QUEST_LV_0200_20150317_003009	$You helped all the Owls to rest in peace eternally. Return to the Neuoder Field and let the Owl Chief know what you did.
 QUEST_LV_0200_20150317_003010	$The scout at 卡丁森林入口 wants you to help him. Talk to him.
-QUEST_LV_0200_20150317_003011	$Defeat Saltistter that attacked Vacenin Squad
+QUEST_LV_0200_20150317_003011	$Defeat Saltistter that attacked 凡士林 Squad
 QUEST_LV_0200_20150317_003012	$The scout wants you to help him since he is facing against Saltistter. Help the soldiers to defeat Saltistter.
-QUEST_LV_0200_20150317_003013	$You successfully defeated Saltistter. Talk to Commander Vacenin.
+QUEST_LV_0200_20150317_003013	$You successfully defeated Saltistter. Talk to Commander 凡士林.
 QUEST_LV_0200_20150317_003014	$Light up the Patrol's Bonfires that were extinguished
 QUEST_LV_0200_20150317_003015	$Talk to Bishop Aurelius
 QUEST_LV_0200_20150317_003016	$Someone is welcoming you at the Great Cathedral. Talk with Bishop Aurelius.
@@ -7043,8 +7043,8 @@ QUEST_LV_0200_20150511_007046	Nuaele is gone from Demon Prison and to stabilize 
 QUEST_LV_0200_20150714_007047	$I really want to help the soldiers who are trying to clear the Thorn Forest,{nl} but sadly I just don't have the means to.{nl} Could you do something about the Treegools that are harassing the soldiers?
 QUEST_LV_0200_20150714_007048	It's dangerous here, get back to the town.{nl} What are the soldiers even doing.{nl}
 QUEST_LV_0200_20150714_007049	$Ah, so you're the Revelator? {nl} I have a problem, but with you here it might not be so bad. {nl} Mind if I borrow some of your time?
-QUEST_LV_0200_20150714_007050	You are aware that we are the unit sent out to take care of the Gaigalas?{nl} Recruit! Take this report to Commander Wallace.
-QUEST_LV_0200_20150714_007051	If we get rid of Gaigalas, we can smooth things out with them.{nl}Please make your way to the Worrying Owl.
+QUEST_LV_0200_20150714_007050	You are aware that we are the unit sent out to take care of the 蓋格拉修?{nl} Recruit! Take this report to Commander Wallace.
+QUEST_LV_0200_20150714_007051	If we get rid of 蓋格拉修, we can smooth things out with them.{nl}Please make your way to the Worrying Owl.
 QUEST_LV_0200_20150714_007052	$Hunter Tracking Leader Mintz
 QUEST_LV_0200_20150714_007053	What a pain in the ass.{nl} How to convince those monks...
 QUEST_LV_0200_20150714_007054	Hey you, have you ever seen the one called Evoniphon?
@@ -8903,7 +8903,7 @@ QUEST_LV_0200_20150803_008906	Defeat the Wood Goblins
 QUEST_LV_0200_20150803_008907	Get %s from the box
 QUEST_LV_0200_20150908_008908	$The Giant Red Wood Goblin is very angry!
 QUEST_LV_0200_20150908_008909	Defeat the 鐵鮑姆!
-QUEST_LV_0200_20150908_008910	Defeat the Unlucky Gaigalas!
+QUEST_LV_0200_20150908_008910	Defeat the Unlucky 蓋格拉修!
 QUEST_LV_0200_20150908_008911	{memo X}A group of Blue Big Griba suddenly appeared!
 QUEST_LV_0200_20150908_008912	Trying on the necklace
 QUEST_LV_0200_20150908_008913	Defeat the Werewolf that killed the owner of the keepsake!
