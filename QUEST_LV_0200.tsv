@@ -1,7 +1,7 @@
 QUEST_LV_0200_20150317_000001	$Philipas' Soldier
 QUEST_LV_0200_20150317_000002	魔物們的攻勢變得更為暴力。{nl}雖然我下定決心要取得成功，但是我還為我們的安全感到擔憂。
 QUEST_LV_0200_20150317_000003	{memo X}$It doesn't matter - I can give up my life today, or be a dead man tomorrow.
-QUEST_LV_0200_20150317_000004	$Commander Vacenin
+QUEST_LV_0200_20150317_000004	指揮官 Vacenin
 QUEST_LV_0200_20150317_000005	無論如何，我們都得解決我們供給和兵力不足的問題{nl}當這一切解決后，我們將可以一點一點地碾過這片森林。
 QUEST_LV_0200_20150317_000006	雖然大夥兒都累了，我們將不會放棄直到收復整片 卡丁森林 為此.
 QUEST_LV_0200_20150317_000007	高級軍官 Philipas
@@ -19,71 +19,71 @@ QUEST_LV_0200_20150317_000018	這太可怕了。{nl}如果女神們還在，這�
 QUEST_LV_0200_20150317_000019	真摯的 貓頭鷹雕像
 QUEST_LV_0200_20150317_000020	這森林被詛咒了... 它侵蝕了貓頭鷹。{nl}我幾乎沒有任何東西可從他人身上迫出一絲勇氣。
 QUEST_LV_0200_20150317_000021	自從那大樹突然冒出來后，這森林已變成一樣可拍的東西。{nl}就算是凝視它的樹根也感到恐懼。
-QUEST_LV_0200_20150317_000022	$Devoted 貓頭鷹雕像
-QUEST_LV_0200_20150317_000023	$Someone was held captive. {nl} I have a feeling he's going to disappear...
-QUEST_LV_0200_20150317_000024	$The sacred force created by the Goddess has not completely dissipated. {nl}Will it be able to suppress this devastation? {nl}
-QUEST_LV_0200_20150317_000025	$The chief gave me power.{nl}I won't be scared.
-QUEST_LV_0200_20150317_000026	$I'm not going to be afraid anymore. I will never be eaten by monsters.
-QUEST_LV_0200_20150317_000027	$Painful 貓頭鷹雕像
-QUEST_LV_0200_20150317_000028	$I'm suffering every day.{nl}Perhaps, I will also be eaten by monsters.
-QUEST_LV_0200_20150317_000029	$This forest is increasingly covered with demons.{nl}Where is the Goddess?
-QUEST_LV_0200_20150317_000030	$I was chosen by the chief... {nl} I'll do my best to defeat the monsters.
-QUEST_LV_0200_20150317_000031	$The chief is also struggling like this..{nl}Never will I be eaten until the Goddess comes back.
-QUEST_LV_0200_20150317_000032	Subordinate Owl 3
-QUEST_LV_0200_20150317_000033	We are always here at this place, but where is our Goddess who is always worried about us?
-QUEST_LV_0200_20150317_000034	Do we exist only for the human's soul?
-QUEST_LV_0200_20150317_000035	$Soldier Dominic
-QUEST_LV_0200_20150317_000036	$I've been ordered to protect this place with my life and to do some reconnaissance at the same time.{nl}I don't know exactly what they expect me to do.
-QUEST_LV_0200_20150317_000037	$Next time I'm going to make sure they tell me exactly what they want me to do.{nl}No. wouldn't it be better to ask Julian?
-QUEST_LV_0200_20150317_000038	$If it's just monsters of that level, I guess I can report that there is no serious problem.{nl}Oh, if you happen to run into Samson, please tell him to stop fooling around and continue scouting.
-QUEST_LV_0200_20150317_000039	$I will protect this area, so go patrol Veltui Crossroads.{nl}As for the reports, I will do them separately at a later time.
-QUEST_LV_0200_20150317_000040	$Soldier Samson
-QUEST_LV_0200_20150317_000041	$Can you please help me find Dominic's engagement ring? {nl} I'm currently undertaking a mission, so I won't be able to leave this spot.
-QUEST_LV_0200_20150317_000042	$I tell you, he acts like that even though I bought him a roughly similar one. So stingy..
-QUEST_LV_0200_20150317_000043	$What is this ugly thing? Oh, could the ring be inside?
-QUEST_LV_0200_20150317_000044	$A knife won't fit inside, and there's no other way to get it out.{nl}Right! Can't we burn it to retrieve what's inside?
-QUEST_LV_0200_20150317_000045	$Just make sure to bring me ones that aren't too thick.
-QUEST_LV_0200_20150317_000046	$This should be just right.{nl}Good. Now, how do I burn this while I am working and not get caught?
-QUEST_LV_0200_20150317_000047	$There should be plenty of Dry Thorn Forest Wood at the edge of Ishisineti Cliff. {nl} I'm on patrol and don't have time, so I ask of you again.
-QUEST_LV_0200_20150317_000048	$Ah, you should be able to burn it secretly at the top of Ishisineti Cliff. {nl} This is my last request. You just need to make preparations for the fire.
-QUEST_LV_0200_20150317_000049	$I will never again care for another's wedding ceremony.
-QUEST_LV_0200_20150317_000050	$I'll just say I have to go to the bathroom and burn it secretly there.{nl}Thank you very much.
-QUEST_LV_0200_20150317_000051	$Soldier Poulter
-QUEST_LV_0200_20150317_000052	$My goodness, the order states to eliminate all of the monsters in this area!{nl}How am I supposed to handle this many enemies all by myself?
-QUEST_LV_0200_20150317_000053	It was too overwhelming to carry out the task just by myself.{nl}However, I'm really fortunate since you decided to help me.
-QUEST_LV_0200_20150317_000054	$I could almost cry my eyes out!{nl}Thank you very much for your help.
-QUEST_LV_0200_20150317_000055	$Commander Julian
-QUEST_LV_0200_20150317_000056	$Thanks for the help! {nl} If it's okay with you, I'd like to borrow some more of your strength.{nl}
-QUEST_LV_0200_20150317_000057	$Won't you support Commander O'Rourke's unit at the Veltui Crossroads?
-QUEST_LV_0200_20150317_000058	$Commander O'Rourke
-QUEST_LV_0200_20150317_000059	$Very impressive.{nl}Looks like I'll have to buy Julian a drink.
-QUEST_LV_0200_20150317_000060	It occurred to me while watching Ironbaum. {nl} What an exceptional companion it could be.
-QUEST_LV_0200_20150317_000061	$O'Rourke's unit has been exhausted through big and small battles with Ironbaum.{nl}It would be very reassuring if you could become our strength.
-QUEST_LV_0200_20150317_000062	$Substitute 貓頭鷹雕像
+QUEST_LV_0200_20150317_000022	忠誠的 貓頭鷹雕像
+QUEST_LV_0200_20150317_000023	有人被俘虜了。{nl}我的感覺告訴我他將會消失...
+QUEST_LV_0200_20150317_000024	女神們所創的圣能還未完全消散。{nl}它能否抑制這災難呢？
+QUEST_LV_0200_20150317_000025	隊長給與我力量。{nl}我不再害怕了。
+QUEST_LV_0200_20150317_000026	我不會再害怕了。{nl}我不會被魔物們吞噬。
+QUEST_LV_0200_20150317_000027	痛苦的 貓頭鷹雕像
+QUEST_LV_0200_20150317_000028	我每天都忍受著折磨。{nl}也許，我也將會被魔物們吞噬。
+QUEST_LV_0200_20150317_000029	這森林日益佈滿了魔物。{nl}女神們到底在哪裡？
+QUEST_LV_0200_20150317_000030	我被隊長選中了...{nl}我將會盡我能力打敗魔物們。
+QUEST_LV_0200_20150317_000031	隊長也是這樣奮鬥著...{nl}直到女神歸來前我千萬不能被吞噬。
+QUEST_LV_0200_20150317_000032	3部猫头鹰
+QUEST_LV_0200_20150317_000033	我們總是在這裡，但總是擔憂我們的女神又在哪裡呢？
+QUEST_LV_0200_20150317_000034	我們只因為人類的靈魂而存在嗎？
+QUEST_LV_0200_20150317_000035	士兵 多明尼加
+QUEST_LV_0200_20150317_000036	我接到了以我性命保衛這地方的命令和同時進行一些偵查。{nl}但，我根本不知道他們具體是期望我做些什麼。.
+QUEST_LV_0200_20150317_000037	下一次我會確保他們告訴我具體是做什麼。{nl}不對，這樣豈不是問 朱利安 比較好嗎？
+QUEST_LV_0200_20150317_000038	如果只是這種水準怪物，我想我可以報告說這根本不是問題。{nl}哦，如果你碰巧遇到 參孫，請告訴他不要再鬼混，繼續偵查。
+QUEST_LV_0200_20150317_000039	我會守衛這區，你就到 貝爾尵岔路 巡邏去。{nl}至於報告，我會再遲些個別完成。
+QUEST_LV_0200_20150317_000040	士兵 參孫
+QUEST_LV_0200_20150317_000041	你可以幫助我尋找 多明尼加的訂婚戒指 嗎？{nl}我現在在執行任務，因此無法離開這裡。
+QUEST_LV_0200_20150317_000042	我告訴你，他還是老樣子就算是我買了一枚差不多這樣的戒指。真吝嗇...
+QUEST_LV_0200_20150317_000043	這是什麼醜陋的東西？哦？裡面可能是那戒指？
+QUEST_LV_0200_20150317_000044	這連刀子都塞不進去，而且也沒其他辦法把它弄出來。{nl}對了！難道我們不能一把火把它燒了然後取出裡面的東西？
+QUEST_LV_0200_20150317_000045	確保給我帶來不太厚的。
+QUEST_LV_0200_20150317_000046	這應該恰恰好。好了。{nl}現在，我要怎麼在工作中而且不被發現的情況下燒這東西？
+QUEST_LV_0200_20150317_000047	伊絲謝涅媞懸崖 那裡應該有很多 乾燥的荆棘樹枝。{nl}我現在在巡邏也沒時間，所以就靠你了。
+QUEST_LV_0200_20150317_000048	啊，你應該可以在 伊絲謝涅媞懸崖 偷偷地燒。{nl}這是我最後的請求了。你只需要為生火做準備。
+QUEST_LV_0200_20150317_000049	我再也不會再關心另一個婚禮了。
+QUEST_LV_0200_20150317_000050	我就直說我需要上個洗手間然後把它偷偷燒了。{nl}謝謝你。
+QUEST_LV_0200_20150317_000051	士兵 波得
+QUEST_LV_0200_20150317_000052	天啊，命令要求殲滅這區域的所有魔物！{nl}要我一個人怎麼單獨處理這麼多敵人？！
+QUEST_LV_0200_20150317_000053	我一人絕對無法勝任這任務。{nl}幸虧你決定協助我。
+QUEST_LV_0200_20150317_000054	我差不多哭出來了。{nl}幸十分感激你的幫忙。
+QUEST_LV_0200_20150317_000055	指揮官 朱利安
+QUEST_LV_0200_20150317_000056	謝謝你! {nl}如果你不介意，我想再借用你的實力.{nl}
+QUEST_LV_0200_20150317_000057	你可以到 貝爾尵岔路 支援 指揮官歐魯克 的單位嗎？?
+QUEST_LV_0200_20150317_000058	指揮官 歐魯克
+QUEST_LV_0200_20150317_000059	太讓人印象深刻了。{nl}看來我得請 朱利安 喝一杯。
+QUEST_LV_0200_20150317_000060	這發生在我在看 鐵鮑姆 的時候。{nl}它可以成為不一樣的同伴。
+QUEST_LV_0200_20150317_000061	歐魯克部隊以被與 鐵鮑姆 所進行的大大小小戰鬥拖得精疲力盡了.{nl}如果你加入戰局，這將會讓人安心。
+QUEST_LV_0200_20150317_000062	候補 貓頭鷹雕像
 QUEST_LV_0200_20150317_000063	{memo X}I want to help purify the thorny forest, but I'm not strong enough. Could you eliminate the Tree Ghouls bothering the soldiers?
-QUEST_LV_0200_20150317_000064	$It would be nice if more people could come and go using this road like before.{nl}I find people very interesting.
-QUEST_LV_0200_20150317_000065	$Thank you. I hope I'm not giving you needless trouble all because of my aspirations.
-QUEST_LV_0200_20150317_000066	$Alright. We haven't received any word from our forces at Niurus Highway.{nl}I request you find them.
-QUEST_LV_0200_20150317_000067	$If you can't find them, return to us.
-QUEST_LV_0200_20150317_000068	$Soldier Kallus
-QUEST_LV_0200_20150317_000069	$There are still a few of our colleagues further in.{nl}Please help us.
-QUEST_LV_0200_20150317_000070	$Soldier Dainus
-QUEST_LV_0200_20150317_000071	$Ironbaum attacked us at the Drieza Waterland.{nl}There are still soldiers left that have not yet escaped.{nl}
-QUEST_LV_0200_20150317_000072	$I'm embarrassed to have escaped by myself.{nl}
-QUEST_LV_0200_20150317_000073	$Settled 貓頭鷹雕像
+QUEST_LV_0200_20150317_000064	如果這路像以前那麼熙熙攘攘就好了。{nl}我覺得人類還蠻有趣的。
+QUEST_LV_0200_20150317_000065	謝謝。我希望我這願望不會給你帶來不必要的麻煩。
+QUEST_LV_0200_20150317_000066	好了。我們還沒收到我們 紐拉斯大街 部隊的任何音訊。{nl}請你尋找他們。
+QUEST_LV_0200_20150317_000067	如果你找不到他們，請回來這裡。
+QUEST_LV_0200_20150317_000068	士兵 卡魯斯
+QUEST_LV_0200_20150317_000069	在裡頭還有我的幾位同事。{nl}請幫幫我們。
+QUEST_LV_0200_20150317_000070	士兵 戴紐斯
+QUEST_LV_0200_20150317_000071	鐵鮑姆 在 德利扎濕地 腹肌我們.{nl}那裡還有尚未逃脫的士兵.{nl}
+QUEST_LV_0200_20150317_000072	獨自逃脫讓我覺得羞愧{nl}
+QUEST_LV_0200_20150317_000073	安頓的 貓頭鷹雕像
 QUEST_LV_0200_20150317_000074	$I have something to ask of you.{nl}I'm worried about the soldiers suffering pain due to the Ravinelarvae.
 QUEST_LV_0200_20150317_000075	Thank you.{nl}From now on, can our soldiers work comfortably?
 QUEST_LV_0200_20150317_000076	$I appreciate your kind help.{nl}One day, I will return the favor when I meet your soul form.
 QUEST_LV_0200_20150317_000077	{memo X}Are you the famous Revelator?{nl}Good, I'm puzzled with something. I need your help.
-QUEST_LV_0200_20150317_000078	$Ah, now I've received the order.{nl}Return to Commander Julian.
-QUEST_LV_0200_20150317_000079	$I'm collecting information about Ironbaum.{nl}In order to reach the Gateway of the Great King, we have to defeat this monster first.
-QUEST_LV_0200_20150317_000080	$Thank you.{nl}Come back after taking this order to Poulter at Zaizda Hill.
+QUEST_LV_0200_20150317_000078	$Ah, now I've received the order.{nl}Return to Commander 朱利安.
+QUEST_LV_0200_20150317_000079	$I'm collecting information about 鐵鮑姆.{nl}In order to reach the Gateway of the Great King, we have to defeat this monster first.
+QUEST_LV_0200_20150317_000080	$Thank you.{nl}Come back after taking this order to 波得 at Zaizda Hill.
 QUEST_LV_0200_20150317_000081	$Give me back the good old times.{nl} When there were no thorns.
 QUEST_LV_0200_20150317_000082	$If the path to the Gateway of the Great King is safe then I will be able to see more people.{nl}
 QUEST_LV_0200_20150317_000083	$Over all this time, I've seen it all.{nl}Now, I want only joy to be seen.
 QUEST_LV_0200_20150317_000084	$Why do human souls contain so many things?
 QUEST_LV_0200_20150317_000085	$If we run into monsters, we'll have no choice but to fight.
-QUEST_LV_0200_20150317_000086	$We're working to reach the Gateway of the Great King.{nl}Have you heard the news about Ironbaum?
+QUEST_LV_0200_20150317_000086	$We're working to reach the Gateway of the Great King.{nl}Have you heard the news about 鐵鮑姆?
 QUEST_LV_0200_20150317_000087	$In order to be a group leader, you need unwavering principles.
 QUEST_LV_0200_20150317_000088	$It's true that trying to reach the Gateway of the Great King is reckless.{nl}However, we can't disobey the order.
 QUEST_LV_0200_20150317_000089	$It may seem bad at first, but the two commanders actually have a surprisingly good relationship.
@@ -411,7 +411,7 @@ QUEST_LV_0200_20150317_000410	$The monsters are eating my companions. {nl}I stil
 QUEST_LV_0200_20150317_000411	Officer Danus
 QUEST_LV_0200_20150317_000412	Many cities will become isolated if we don't get back this forest.. {nl}But the situation isn't on our side.
 QUEST_LV_0200_20150317_000413	This forest doesn't even have 貓頭鷹雕像s. {nl}Makes you feel like you really don't want to come back.
-QUEST_LV_0200_20150317_000414	$Soldier Roy
+QUEST_LV_0200_20150317_000414	士兵 Roy
 QUEST_LV_0200_20150317_000415	$I heard the Rearguard Unit was surrounded. How did you make it through? {nl}
 QUEST_LV_0200_20150317_000416	$Squad Commander Johan
 QUEST_LV_0200_20150317_000417	I am a squad commander who sent his men first. What words can I say? {nl}I feel miserable.
@@ -865,13 +865,13 @@ QUEST_LV_0200_20150317_000864	$What did I tell you? {nl}Thanks for your help but
 QUEST_LV_0200_20150317_000865	Soldier Aspas
 QUEST_LV_0200_20150317_000866	$I was careless. {nl}It would be big trouble if the monsters attacked now.
 QUEST_LV_0200_20150317_000867	$You saved me. {nl}Do you know what happened to my colleagues?
-QUEST_LV_0200_20150317_000868	$Meleech swallowed Dominic's engagement ring. {nl}I did lose it, it's really terrible.
+QUEST_LV_0200_20150317_000868	$Meleech swallowed 多明尼加's engagement ring. {nl}I did lose it, it's really terrible.
 QUEST_LV_0200_20150317_000869	$This place is too dangerous for citizens to go around. {nl}Go to a safe area.
 QUEST_LV_0200_20150317_000870	$I understand that you are strong but it's dangerous to go around alone here.
-QUEST_LV_0200_20150317_000871	$I could have supported O'Rourke and the troops, if only I was not injured..
-QUEST_LV_0200_20150317_000872	$This place is dangerous. {nl}Especially with Ironbaum around, I have not seen such a violent monster before.
+QUEST_LV_0200_20150317_000871	$I could have supported 歐魯克 and the troops, if only I was not injured..
+QUEST_LV_0200_20150317_000872	$This place is dangerous. {nl}Especially with 鐵鮑姆 around, I have not seen such a violent monster before.
 QUEST_LV_0200_20150317_000873	$There are still many who have not yet returned. {nl}Do we really have to go through all this danger to clear a path to the Gorge Area..
-QUEST_LV_0200_20150317_000874	$I'm safe thanks to my colleagues. {nl}I did not think we could defeat Ironbaum.
+QUEST_LV_0200_20150317_000874	$I'm safe thanks to my colleagues. {nl}I did not think we could defeat 鐵鮑姆.
 QUEST_LV_0200_20150317_000875	$Bishop Aurelius' Spirit
 QUEST_LV_0200_20150317_000876	{memo X}Revelator.. It was a long time. {nl}I have awaited centuries to guide you. {nl}
 QUEST_LV_0200_20150317_000877	$This Great Cathedral is a legacy of Maven, the first bishop, and a sanctuary with a revelation. {nl}But I am unable to leave this precise area. {nl}As it stands, I have no power to aid the holy mission.
@@ -961,11 +961,11 @@ QUEST_LV_0200_20150317_000960	$Writing on the Platform
 QUEST_LV_0200_20150317_000961	$Remember the holy number with your two eyes. {nl}The light of candles drives away the evil dark.
 QUEST_LV_0200_20150317_000962	You must thoroughly check the writings on the altar. {nl}Well then, I will.. wait in the Grand Hall.
 QUEST_LV_0200_20150317_000963	You must have seen the recruitment notice. {nl}It's true that we lack military manpower.
-QUEST_LV_0200_20150317_000964	{memo X}The person in charge of the mission in Soul Peak is Julian. {nl}He will probably welcome you with open arms.
+QUEST_LV_0200_20150317_000964	{memo X}The person in charge of the mission in Soul Peak is 朱利安. {nl}He will probably welcome you with open arms.
 QUEST_LV_0200_20150317_000965	That was great. You were of great help to this mission. {nl}What do you think about enlisting to the army?
 QUEST_LV_0200_20150317_000966	Can that thing even be broken? {nl}What the.. I'm at a loss for words to say. {nl}
 QUEST_LV_0200_20150317_000967	But you have to pay for damaging public facilities. {nl}Sorry but you have to fix the wooden seal.
-QUEST_LV_0200_20150317_000968	{memo X}Thank you for saying that. {nl}I guess it is better to support Julian's troops in Soul Peak than here.
+QUEST_LV_0200_20150317_000968	{memo X}Thank you for saying that. {nl}I guess it is better to support 朱利安's troops in Soul Peak than here.
 QUEST_LV_0200_20150317_000969	{memo X}I'm planning to exterminate the monsters interfering the route to Gorge Area.
 QUEST_LV_0200_20150317_000970	{memo X}I heard the Pirent Wood in Jade Filled Cliff is solid and elastic. {nl}You can get ropes to tie those from the Red Panto Spearmans. Get me those first.
 QUEST_LV_0200_20150317_000971	Villager Darren
@@ -1203,12 +1203,12 @@ QUEST_LV_0200_20150317_001202	{memo X}The revelation is in the room behind. Plac
 QUEST_LV_0200_20150317_001203	{memo X}It's horrible. {nl}Our church, to that blasphemous monster..
 QUEST_LV_0200_20150317_001204	$Two Types of Orders
 QUEST_LV_0200_20150317_001205	$I'll help scout around
-QUEST_LV_0200_20150317_001206	$Soldier's Precious Belongings (1)
+QUEST_LV_0200_20150317_001206	士兵's Precious Belongings (1)
 QUEST_LV_0200_20150317_001207	I will find it
-QUEST_LV_0200_20150317_001208	$Soldier's Precious Belongings (2)
+QUEST_LV_0200_20150317_001208	士兵's Precious Belongings (2)
 QUEST_LV_0200_20150317_001209	I will collect the dried twigs
 QUEST_LV_0200_20150317_001210	I don't want to touch it anymore
-QUEST_LV_0200_20150317_001211	$Soldier's Precious Belongings (3)
+QUEST_LV_0200_20150317_001211	士兵's Precious Belongings (3)
 QUEST_LV_0200_20150317_001212	Leave it to me
 QUEST_LV_0200_20150317_001213	{memo X}Preparing firewood/#SITGROPESET2/3.5/TRACK_BEFORE
 QUEST_LV_0200_20150317_001214	$Attack of the Giant Red Wood Goblin
@@ -1227,9 +1227,9 @@ QUEST_LV_0200_20150317_001226	I will find it
 QUEST_LV_0200_20150317_001227	It looks dangerous
 QUEST_LV_0200_20150317_001228	Off to a Journey
 QUEST_LV_0200_20150317_001229	$Search Scouts under Attack
-QUEST_LV_0200_20150317_001230	$I'll go to Drieza Waterland
+QUEST_LV_0200_20150317_001230	$I'll go to 德利扎濕地
 QUEST_LV_0200_20150317_001231	Let's get out of here together
-QUEST_LV_0200_20150317_001232	{memo X}Notice /Defeat the Ironbaum! / 5
+QUEST_LV_0200_20150317_001232	{memo X}Notice /Defeat the 鐵鮑姆! / 5
 QUEST_LV_0200_20150317_001233	Owner of the Grave
 QUEST_LV_0200_20150317_001234	What is it ?
 QUEST_LV_0200_20150317_001235	Commander Vacenin (1)
@@ -1737,7 +1737,7 @@ QUEST_LV_0200_20150317_001736	{memo X}Buring Purifier/ FIRE / 3 / TRACK_BEFORE /
 QUEST_LV_0200_20150317_001737	{memo X}Notice /The Sanctum has been purified! # 3
 QUEST_LV_0200_20150317_001738	{memo X}Blessings through Money (2)
 QUEST_LV_0200_20150317_001739	With Devotion
-QUEST_LV_0200_20150317_001740	{memo X}Notice /You defeated the Ironbaum that was suppressing the Sanctum! Now receive the blessing of the Sanctum! # 3
+QUEST_LV_0200_20150317_001740	{memo X}Notice /You defeated the 鐵鮑姆 that was suppressing the Sanctum! Now receive the blessing of the Sanctum! # 3
 QUEST_LV_0200_20150317_001741	$Avoiding Infatuation (1)
 QUEST_LV_0200_20150317_001742	Reason for coming in pilgrimage
 QUEST_LV_0200_20150317_001743	$Avoiding Infatuation (2)
@@ -1893,27 +1893,27 @@ QUEST_LV_0200_20150317_001892	I can get them
 QUEST_LV_0200_20150317_001893	{memo X}Research(2)
 QUEST_LV_0200_20150317_001894	I can get them for sure
 QUEST_LV_0200_20150317_001895	I should go back
-QUEST_LV_0200_20150317_001896	$Talk to Soldier Dominic
-QUEST_LV_0200_20150317_001897	$I met Soldier Dominic, who seems to be puzzled. Talk with Dominic.
-QUEST_LV_0200_20150317_001898	$Patrol Veltui Crossroads
-QUEST_LV_0200_20150317_001899	$Soldier Dominic seems to be puzzled by two different conflicting orders. Help Dominic by patrolling Veltui Crossroads for him.
-QUEST_LV_0200_20150317_001900	$I ran into monsters, but they were easy. Return to Soldier Dominic and talk with him again.
+QUEST_LV_0200_20150317_001896	$Talk to Soldier 多明尼加
+QUEST_LV_0200_20150317_001897	$I met Soldier 多明尼加, who seems to be puzzled. Talk with 多明尼加.
+QUEST_LV_0200_20150317_001898	$Patrol 貝爾尵岔路
+QUEST_LV_0200_20150317_001899	士兵 多明尼加 seems to be puzzled by two different conflicting orders. Help 多明尼加 by patrolling 貝爾尵岔路 for him.
+QUEST_LV_0200_20150317_001900	$I ran into monsters, but they were easy. Return to Soldier 多明尼加 and talk with him again.
 QUEST_LV_0200_20150317_001901	$Defeat the monsters that appeared near the Crossroads
-QUEST_LV_0200_20150317_001902	$Talk to Soldier Samson
-QUEST_LV_0200_20150317_001903	$Soldier Samson seems to be troubled. Talk with Soldier Samson.
+QUEST_LV_0200_20150317_001902	$Talk to Soldier 參孫
+QUEST_LV_0200_20150317_001903	士兵 參孫 seems to be troubled. Talk with Soldier 參孫.
 QUEST_LV_0200_20150317_001904	$Look for the engagement ring in Meleech's stomach
-QUEST_LV_0200_20150317_001905	$Soldier Samson says that he is too tired to be ordered around by Dominic. As Samson requested, defeat Meleech and look for the engagement ring.
-QUEST_LV_0200_20150317_001906	$Give it to Soldier Samson
-QUEST_LV_0200_20150317_001907	$I found a sticky lump with the ring in it. Return to Soldier Samson and give it to him.
+QUEST_LV_0200_20150317_001905	士兵 參孫 says that he is too tired to be ordered around by 多明尼加. As 參孫 requested, defeat Meleech and look for the engagement ring.
+QUEST_LV_0200_20150317_001906	$Give it to Soldier 參孫
+QUEST_LV_0200_20150317_001907	$I found a sticky lump with the ring in it. Return to Soldier 參孫 and give it to him.
 QUEST_LV_0200_20150317_001908	$Meleech that swallowed the engagement ring
-QUEST_LV_0200_20150317_001909	$An object that looks like a ring is visible through the disgusting lump, but I have no way of taking it out. Talk with Soldier Samson.
-QUEST_LV_0200_20150317_001910	$Collected Dry Thorn Forest Wood from Ishisineti Cliff
-QUEST_LV_0200_20150317_001911	$Soldier Samson told you that he may be able to obtain the ring by burning the lump. Collect Dry Thorn Forest Wood to burn from Ishisineti Cliff.
-QUEST_LV_0200_20150317_001912	$Got an ample amount to light up. Hand them over to Soldier Samson.
-QUEST_LV_0200_20150317_001913	$Even after you brought the Dry Thorn Forest Wood, it seems that Samson is still worried. Talk with Soldier Samson again.
-QUEST_LV_0200_20150317_001914	$Set the firewood at the top of Ishisineti Cliff.
-QUEST_LV_0200_20150317_001915	$The ring can be extracted by burning the lump atop the firewood. On behalf of Samson who is concentrating on his work, set the firewood at the top of the cliff.
-QUEST_LV_0200_20150317_001916	$The fire is now ready to be started. Return to the Soldier Samson.
+QUEST_LV_0200_20150317_001909	$An object that looks like a ring is visible through the disgusting lump, but I have no way of taking it out. Talk with Soldier 參孫.
+QUEST_LV_0200_20150317_001910	$Collected Dry Thorn Forest Wood from 伊絲謝涅媞懸崖
+QUEST_LV_0200_20150317_001911	士兵 參孫 told you that he may be able to obtain the ring by burning the lump. Collect Dry Thorn Forest Wood to burn from 伊絲謝涅媞懸崖.
+QUEST_LV_0200_20150317_001912	$Got an ample amount to light up. Hand them over to Soldier 參孫.
+QUEST_LV_0200_20150317_001913	$Even after you brought the Dry Thorn Forest Wood, it seems that 參孫 is still worried. Talk with Soldier 參孫 again.
+QUEST_LV_0200_20150317_001914	$Set the firewood at the top of 伊絲謝涅媞懸崖.
+QUEST_LV_0200_20150317_001915	$The ring can be extracted by burning the lump atop the firewood. On behalf of 參孫 who is concentrating on his work, set the firewood at the top of the cliff.
+QUEST_LV_0200_20150317_001916	$The fire is now ready to be started. Return to the Soldier 參孫.
 QUEST_LV_0200_20150317_001917	$Inspect the Rotten Stump
 QUEST_LV_0200_20150317_001918	$There is an interesting rotten tree stump over at Suvyte Cliff. Why not try touching it?
 QUEST_LV_0200_20150317_001919	$Defeat the Giant Red Wood Goblin
@@ -1921,20 +1921,20 @@ QUEST_LV_0200_20150317_001920	$Defeat the Giant Red Wood Goblin that appeared fr
 QUEST_LV_0200_20150317_001921	Talk with Soldier Rinas
 QUEST_LV_0200_20150317_001922	It was a little dangerous, but you were able to defeat all the monsters.
 QUEST_LV_0200_20150317_001923	$Defeat the Giant Red Wood Goblin
-QUEST_LV_0200_20150317_001924	$Talk to Commander Julian
-QUEST_LV_0200_20150317_001925	$Commander Julian is troubled with no one able to do a mission. Talk to Commander Julian.
-QUEST_LV_0200_20150317_001926	$Hand it over to Soldier Poulter
-QUEST_LV_0200_20150317_001927	$Commander Julian asked you to help with his work. Pass the order he gave you to the Soldier Poulter at Zaizda Hill.
-QUEST_LV_0200_20150317_001928	$Talk to Soldier Poulter
-QUEST_LV_0200_20150317_001929	$Upon receiving the order, Poulter's face grew gloomy. Talk to Soldier Poulter again.
-QUEST_LV_0200_20150317_001930	$Defeat the monsters nearby to help Poulter
-QUEST_LV_0200_20150317_001931	$Soldier Poulter is agonizing over an order that seems unreasonable to him. Get rid of the monsters nearby on behalf of Soldier Poulter.
-QUEST_LV_0200_20150317_001932	$You defeated all the monsters nearby. Talk with Soldier Poulter again.
+QUEST_LV_0200_20150317_001924	$Talk to Commander 朱利安
+QUEST_LV_0200_20150317_001925	指揮官 朱利安 is troubled with no one able to do a mission. Talk to Commander 朱利安.
+QUEST_LV_0200_20150317_001926	$Hand it over to Soldier 波得
+QUEST_LV_0200_20150317_001927	指揮官 朱利安 asked you to help with his work. Pass the order he gave you to the Soldier 波得 at Zaizda Hill.
+QUEST_LV_0200_20150317_001928	$Talk to Soldier 波得
+QUEST_LV_0200_20150317_001929	$Upon receiving the order, 波得's face grew gloomy. Talk to Soldier 波得 again.
+QUEST_LV_0200_20150317_001930	$Defeat the monsters nearby to help 波得
+QUEST_LV_0200_20150317_001931	士兵 波得 is agonizing over an order that seems unreasonable to him. Get rid of the monsters nearby on behalf of Soldier 波得.
+QUEST_LV_0200_20150317_001932	$You defeated all the monsters nearby. Talk with Soldier 波得 again.
 QUEST_LV_0200_20150317_001933	$Defeat the nearby monsters
-QUEST_LV_0200_20150317_001934	$Since you passed the order to Soldier Poulter, go back to Commander Julian and talk to him.
-QUEST_LV_0200_20150317_001935	$Talk to Commander O'Rourke
-QUEST_LV_0200_20150317_001936	$Commander Julian wants you to support O'Rourke's unit, which lost strength due to many battles. Talk to Commander O'Rourke at Veltui Crossroads.
-QUEST_LV_0200_20150317_001937	You defeated Infrogalas that suddenly attacked. Talk with Commander O'Rourke.
+QUEST_LV_0200_20150317_001934	$Since you passed the order to Soldier 波得, go back to Commander 朱利安 and talk to him.
+QUEST_LV_0200_20150317_001935	$Talk to Commander 歐魯克
+QUEST_LV_0200_20150317_001936	指揮官 朱利安 wants you to support 歐魯克's unit, which lost strength due to many battles. Talk to Commander 歐魯克 at 貝爾尵岔路.
+QUEST_LV_0200_20150317_001937	You defeated Infrogalas that suddenly attacked. Talk with Commander 歐魯克.
 QUEST_LV_0200_20150317_001938	$Defeat the attacking Wood Goblins
 QUEST_LV_0200_20150317_001939	$Talk to the Substitute 貓頭鷹雕像
 QUEST_LV_0200_20150317_001940	$There is an 貓頭鷹雕像 that seems to have something to say. Talk to the Substitute 貓頭鷹雕像.
@@ -1943,12 +1943,12 @@ QUEST_LV_0200_20150317_001942	$The Substitute 貓頭鷹雕像 wants to help out 
 QUEST_LV_0200_20150317_001943	$Report to the Substitute 貓頭鷹雕像
 QUEST_LV_0200_20150317_001944	$You've defeated all Treegools you could find. Report to the Substitute 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001945	$Defeat Treegools
-QUEST_LV_0200_20150317_001946	$Talk with O'Rourke
-QUEST_LV_0200_20150317_001947	$Commander O'Rourke is astonished by your skills after seeing you defeating the monster ambush. Talk with Commander O'Rourke.
-QUEST_LV_0200_20150317_001948	$Look for the soldiers at Niurus Highway
-QUEST_LV_0200_20150317_001949	$Commander O'Rourke is saying that his soldiers who were dispatched to an operation have not returned. Go to Niurus Highway and look for the soldiers.
-QUEST_LV_0200_20150317_001950	$Talk to Soldier Kallus
-QUEST_LV_0200_20150317_001951	$You saved Soldier Kallus who was running away from the monsters. Talk to Soldier Kallus.
+QUEST_LV_0200_20150317_001946	$Talk with 歐魯克
+QUEST_LV_0200_20150317_001947	指揮官 歐魯克 is astonished by your skills after seeing you defeating the monster ambush. Talk with Commander 歐魯克.
+QUEST_LV_0200_20150317_001948	$Look for the soldiers at 紐拉斯大街
+QUEST_LV_0200_20150317_001949	指揮官 歐魯克 is saying that his soldiers who were dispatched to an operation have not returned. Go to 紐拉斯大街 and look for the soldiers.
+QUEST_LV_0200_20150317_001950	$Talk to Soldier 卡魯斯
+QUEST_LV_0200_20150317_001951	$You saved Soldier 卡魯斯 who was running away from the monsters. Talk to Soldier 卡魯斯.
 QUEST_LV_0200_20150317_001952	$Defeat the monsters threatening the soldier
 QUEST_LV_0200_20150317_001953	$Talk to the Settled 貓頭鷹雕像
 QUEST_LV_0200_20150317_001954	$There is a hesitant-looking 貓頭鷹雕像. Talk to the Settled 貓頭鷹雕像.
@@ -1956,11 +1956,11 @@ QUEST_LV_0200_20150317_001955	$Defeat nearby Ravinelarvae
 QUEST_LV_0200_20150317_001956	$The Settled 貓頭鷹雕像 wants to repay the soldiers who saved it. To help the soldiers, please defeat the nearby Ravinelarvae.
 QUEST_LV_0200_20150317_001957	$You defeated all nearby Ravinelarvae. Talk to the Settled 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001958	$Defeat Ravinelarva
-QUEST_LV_0200_20150317_001959	$Talk to Soldier Dainus
-QUEST_LV_0200_20150317_001960	$Soldier Dainus is trembling from fear. Talk to Soldier Dainus to look for the other soldiers.
-QUEST_LV_0200_20150317_001961	$Look for the other soldiers at Drieza Waterland
-QUEST_LV_0200_20150317_001962	$Soldier Dainus told you that there may be other soldiers at Drieza Waterland. Go to Drieza Waterland and look for the soldiers there.
-QUEST_LV_0200_20150317_001963	$Defeat Ironbaum
+QUEST_LV_0200_20150317_001959	$Talk to Soldier 戴紐斯
+QUEST_LV_0200_20150317_001960	士兵 戴紐斯 is trembling from fear. Talk to Soldier 戴紐斯 to look for the other soldiers.
+QUEST_LV_0200_20150317_001961	$Look for the other soldiers at 德利扎濕地
+QUEST_LV_0200_20150317_001962	士兵 戴紐斯 told you that there may be other soldiers at 德利扎濕地. Go to 德利扎濕地 and look for the soldiers there.
+QUEST_LV_0200_20150317_001963	$Defeat 鐵鮑姆
 QUEST_LV_0200_20150317_001964	Find the grave at the Sunset Flag Forest
 QUEST_LV_0200_20150317_001965	Find the grave at the Sunset Flag Forest
 QUEST_LV_0200_20150317_001966	Defeat the gigantic monster at Kaklas Cliffs
@@ -1968,9 +1968,9 @@ QUEST_LV_0200_20150317_001967	Please defeat the gigantic mushroom-like looking m
 QUEST_LV_0200_20150317_001968	Defeat Mushwort
 QUEST_LV_0200_20150317_001969	The gigantic monster was Mushwort
 QUEST_LV_0200_20150317_001970	$Find the Messenger
-QUEST_LV_0200_20150317_001971	$Commander Vacenin sent a messenger into the depths of the forest and is worried. He is likely at the Crying Place. Go find him.
+QUEST_LV_0200_20150317_001971	指揮官 Vacenin sent a messenger into the depths of the forest and is worried. He is likely at the Crying Place. Go find him.
 QUEST_LV_0200_20150317_001972	$Find the Messenger at the Crying Place
-QUEST_LV_0200_20150317_001973	$Commander Vacenin is worried about the messenger he sent and asked you to search for him. Find the Messenger near the Crying Place.
+QUEST_LV_0200_20150317_001973	指揮官 Vacenin is worried about the messenger he sent and asked you to search for him. Find the Messenger near the Crying Place.
 QUEST_LV_0200_20150317_001974	$Talk with the Fallen Messenger
 QUEST_LV_0200_20150317_001975	$Retrieve the Bag of the Messenger and talk to him.
 QUEST_LV_0200_20150317_001976	$Defeat the monsters who attacked the Messenger
@@ -2067,7 +2067,7 @@ QUEST_LV_0200_20150317_002066	$Collect the soldiers' belongings
 QUEST_LV_0200_20150317_002067	$The Weak Owl tried to calm the dead soldiers with their corpses, but it couldn't calm the others. To calm the dead soldiers, collect their belongings.
 QUEST_LV_0200_20150317_002068	$Talk to Weak Owl with the dead soldiers' belongings that you have gathered.
 QUEST_LV_0200_20150317_002069	$Obtain %s by defeating Ellomago
-QUEST_LV_0200_20150317_002070	$Soldiers' Belongings
+QUEST_LV_0200_20150317_002070	士兵s' Belongings
 QUEST_LV_0200_20150317_002071	$The dead soldiers seem calmed with their belongings. Talk to the Weak Owl.
 QUEST_LV_0200_20150317_002072	$Collect Butterfly Fragrance
 QUEST_LV_0200_20150317_002073	{memo X}The Weak Owl wants to give the dead soldiers who followed it well Butterfly Fragrance, which reminds them of their hometown, as a gift. Collect the Butterfly Fragrance from the bushes with broad leaves.
@@ -2160,7 +2160,7 @@ QUEST_LV_0200_20150317_002159	$The Supply Officer told you that since the soldie
 QUEST_LV_0200_20150317_002160	$Talk to Soldier Roy
 QUEST_LV_0200_20150317_002161	$It seems that you found Soldier Roy. Talk to Soldier Roy.
 QUEST_LV_0200_20150317_002162	$Obtain a Puragi's Hook
-QUEST_LV_0200_20150317_002163	$Soldier Roy told you that he can't go back before he completes his mission. Collect a Puragi's Hook to help him.
+QUEST_LV_0200_20150317_002163	士兵 Roy told you that he can't go back before he completes his mission. Collect a Puragi's Hook to help him.
 QUEST_LV_0200_20150317_002164	$Hand it over to Soldier Roy
 QUEST_LV_0200_20150317_002165	$You've got a Puragi's Hook. Hand it over to Soldier Roy.
 QUEST_LV_0200_20150317_002166	$Talk to Senior Officer Philipas
@@ -2424,9 +2424,9 @@ QUEST_LV_0200_20150317_002423	You've defeated Gargoyles as Graverobber Amanda re
 QUEST_LV_0200_20150317_002424	Talk to Knight Titas
 QUEST_LV_0200_20150317_002425	After reading the notice to recruit more soldiers, you feel like you should help. Talk to Knight Titas at the west forest of Siaulai.
 QUEST_LV_0200_20150317_002426	{memo X}Defeat the monsters at the hills of the spirits
-QUEST_LV_0200_20150317_002427	{memo X}Knight Titas told you to help Julian squad who is trying to march forward between the hills of the spirits and the gateway of great king. Destroy 100 monsters on the hills of the spirits.
-QUEST_LV_0200_20150317_002428	Report to Commander Julian
-QUEST_LV_0200_20150317_002429	{memo X}You've defeated many monsters on the hills of the spirits. Report to Commander Julian.
+QUEST_LV_0200_20150317_002427	{memo X}Knight Titas told you to help 朱利安 squad who is trying to march forward between the hills of the spirits and the gateway of great king. Destroy 100 monsters on the hills of the spirits.
+QUEST_LV_0200_20150317_002428	Report to Commander 朱利安
+QUEST_LV_0200_20150317_002429	{memo X}You've defeated many monsters on the hills of the spirits. Report to Commander 朱利安.
 QUEST_LV_0200_20150317_002430	{memo X}Defeat the monsters at the hills of the spirits
 QUEST_LV_0200_20150317_002431	$Talk to Villager Darren
 QUEST_LV_0200_20150317_002432	$Darren seems to be puzzled. Listen to him.
@@ -2870,7 +2870,7 @@ QUEST_LV_0200_20150317_002869	{memo X}The Sanctum will be back if you burn the p
 QUEST_LV_0200_20150317_002870	{memo X}Learn from Pardoner Master how to purify
 QUEST_LV_0200_20150317_002871	{memo X}The monsters suddenly appeared from the Sanctum! The Sanctum must have been polluted. Please first defeat monsters.
 QUEST_LV_0200_20150317_002872	{memo X}You've successfully defeated the monsters. Since you defeated the monsters who were the source of the pollution, pray again at the Sanctum and receive its blessing.
-QUEST_LV_0200_20150317_002873	$Defeat Ironbaum
+QUEST_LV_0200_20150317_002873	$Defeat 鐵鮑姆
 QUEST_LV_0200_20150317_002874	Talk with Pilgrim
 QUEST_LV_0200_20150317_002875	{memo X}There is a Pilgrim who fell down on Sestine Wilderness at the Pretense Intersection. Ask him what happened to him.
 QUEST_LV_0200_20150317_002876	Obtain water
@@ -3874,8 +3874,8 @@ QUEST_LV_0200_20150323_003873	I hope I was wrong.{nl}The monsters are going craz
 QUEST_LV_0200_20150323_003874	You defeated the Gorgon yourself?{nl}It is fortunate that my colleagues are safe, but I don't know what they did as soldiers..{nl}
 QUEST_LV_0200_20150323_003875	I will report to sir 烏斯卡 that you saved this farm.{nl}Thank you so much!
 QUEST_LV_0200_20150323_003876	Help me! The Gorgon is chasing after us!
-QUEST_LV_0200_20150323_003877	The person who is leading the mission at Dvasia Peak is Julian.{nl}Julian will really welcome me.
-QUEST_LV_0200_20150323_003878	Thanks for your words.{nl}But it would be better to support Julian's squad at Dvasia Peak instead of this place.{nl}
+QUEST_LV_0200_20150323_003877	The person who is leading the mission at Dvasia Peak is 朱利安.{nl}朱利安 will really welcome me.
+QUEST_LV_0200_20150323_003878	Thanks for your words.{nl}But it would be better to support 朱利安's squad at Dvasia Peak instead of this place.{nl}
 QUEST_LV_0200_20150323_003879	{memo X}I heard that the hardness and the elasticity of the wood sticks of Firent at Nepritas Cliffs is good.{nl}You can get the rope that was made from tieing those sticks from Red Pantos with spears. Please get me those first.
 QUEST_LV_0200_20150323_003880	At first, they were gathered to Uskis Arable Land and Spring Light Wood.{nl}But, not after a long time, they came to this place.{nl}They must be going after the honey.
 QUEST_LV_0200_20150323_003881	$You're the most trustworthy Revelator I've ever met.{nl}If it's okay with you, could you look for a person named Maras at Vilna Forest up north?
@@ -4273,7 +4273,7 @@ QUEST_LV_0200_20150323_004272	{memo X}Putting the flower in front of the Sanctum
 QUEST_LV_0200_20150323_004273	{memo X}Notice/!/The Sanctum is not showing any signs!#3
 QUEST_LV_0200_20150323_004274	{memo X}Burning the place of the purification/FIRE/2/TRACK/_BEFORE/None
 QUEST_LV_0200_20150323_004275	{memo X}Notice/The Sanctum has been purified!#5
-QUEST_LV_0200_20150323_004276	{memo X}Notice/You've defeated the Ironbaum that were chasing after the pilgrims! Now receive the blessing from the Sanctum!#3
+QUEST_LV_0200_20150323_004276	{memo X}Notice/You've defeated the 鐵鮑姆 that were chasing after the pilgrims! Now receive the blessing from the Sanctum!#3
 QUEST_LV_0200_20150323_004277	I will consume the medicine
 QUEST_LV_0200_20150323_004278	Reject it since it seems suspicious
 QUEST_LV_0200_20150323_004279	I will get the materials
@@ -4651,8 +4651,8 @@ QUEST_LV_0200_20150323_004650	Cryomancer Kostas is looking for someone who could
 QUEST_LV_0200_20150323_004651	{memo X}Cryomancer Kostas is looking for someone who could complete his experiment at Roxona market, the Petrified City.
 QUEST_LV_0200_20150323_004652	Graverobber Rudolfas is waiting for someone's help at Roxona market in the Petrified City.
 QUEST_LV_0200_20150323_004653	Defeat the monsters at Dvasia Peak
-QUEST_LV_0200_20150323_004654	Knight Titas told you that it will be better to help Julian's squad that is trying to penetrate the way to the Gateway of the Great King from Dvasia Peak. Defeat 100 monsters at Dvasia Peak.
-QUEST_LV_0200_20150323_004655	You've defeated many monsters at Dvasia Peak. Report to Commander Julian.
+QUEST_LV_0200_20150323_004654	Knight Titas told you that it will be better to help 朱利安's squad that is trying to penetrate the way to the Gateway of the Great King from Dvasia Peak. Defeat 100 monsters at Dvasia Peak.
+QUEST_LV_0200_20150323_004655	You've defeated many monsters at Dvasia Peak. Report to Commander 朱利安.
 QUEST_LV_0200_20150323_004656	Defeat the monsters at Dvasia Peak
 QUEST_LV_0200_20150323_004657	Remove %s
 QUEST_LV_0200_20150323_004658	Talk with Maras who is investigating in Vilna Forest
@@ -4824,7 +4824,7 @@ QUEST_LV_0200_20150323_004823	{memo X}It seems that this place is also polluted 
 QUEST_LV_0200_20150323_004824	$Purify the corruption at the sanctum
 QUEST_LV_0200_20150323_004825	$The Purifier that you bought from the Pardoner Master can purify the sanctum a bit. Burn the Purifier in front of the sanctum.
 QUEST_LV_0200_20150323_004826	$Ask the Pardoner Master how to purify the sanctum
-QUEST_LV_0200_20150323_004827	$As you were about to pray in front of the sanctum, Ironbaum appeared. You better defeat it first.
+QUEST_LV_0200_20150323_004827	$As you were about to pray in front of the sanctum, 鐵鮑姆 appeared. You better defeat it first.
 QUEST_LV_0200_20150323_004828	$Pray in front of the Sanctum and receive the blessing.
 QUEST_LV_0200_20150323_004829	$Fortunately, it seems that the sanctum is not corrupted yet. Pray again at the sanctum and receive the blessing.
 QUEST_LV_0200_20150323_004830	$There is a pilgrim who fell down at the Sestine Wilderness on Apsimesti Crossroads. Ask him what happened.
@@ -5608,7 +5608,7 @@ QUEST_LV_0200_20150401_005607	I am not sure. I was working like I usually do, an
 QUEST_LV_0200_20150401_005608	I don't know what happened.
 QUEST_LV_0200_20150401_005609	What happened to all the people who were with me..{nl}Just what the hell happened..
 QUEST_LV_0200_20150401_005610	$Thank you. {nl}I should recover some energy after consuming this..
-QUEST_LV_0200_20150401_005611	$Soldier Stepas
+QUEST_LV_0200_20150401_005611	士兵 Stepas
 QUEST_LV_0200_20150401_005612	$Are you the supporting workforce? No? {nl}We don't have enough workforce so I want to ask someone to help us.{nl}
 QUEST_LV_0200_20150401_005613	$I need to distribute a nutritious tonic that the baron gave to me.{nl}But, since this is undiluted, I should mix something into it.
 QUEST_LV_0200_20150401_005614	{memo X}The relationship between the farmer and the private soldier is always the same.{nl}One side works and the other side manages it.{nl}
@@ -5978,10 +5978,10 @@ QUEST_LV_0200_20150401_005981	$You need to extract venom to make nutritious toni
 QUEST_LV_0200_20150401_005982	Give it to Soldier Stepas
 QUEST_LV_0200_20150401_005983	Collected enough Scorpio Venom. Give the venom to Soldier Stepas.
 QUEST_LV_0200_20150401_005984	Collect Sweet Herb
-QUEST_LV_0200_20150401_005985	$Soldier Stepas asked you to get Sweet Herb so that it will be easier for Dalius to drink the the Nutritious tonic.
+QUEST_LV_0200_20150401_005985	士兵 Stepas asked you to get Sweet Herb so that it will be easier for Dalius to drink the the Nutritious tonic.
 QUEST_LV_0200_20150401_005986	$Give the tonic to Dalius at Shlake Trail
 QUEST_LV_0200_20150401_005987	$Give tonic to Dalius
-QUEST_LV_0200_20150401_005988	$Soldier Stepas asked you to put Sweet Herb in the Nutritious Tonic and deliver it to Dalius.
+QUEST_LV_0200_20150401_005988	士兵 Stepas asked you to put Sweet Herb in the Nutritious Tonic and deliver it to Dalius.
 QUEST_LV_0200_20150401_005989	$Dalius is acting strangely after drinking the Nutritious tonic. You better report it to Soldier Stepas.
 QUEST_LV_0200_20150401_005990	$Give unspoiled bread to Dalius
 QUEST_LV_0200_20150401_005991	$Marius asked you to give the bread to his brother, Dalius. If the bread spoils on the way, throw it away and get the bread again from Marius.
@@ -8902,7 +8902,7 @@ QUEST_LV_0200_20150803_008905	{memo X}
 QUEST_LV_0200_20150803_008906	Defeat the Wood Goblins
 QUEST_LV_0200_20150803_008907	Get %s from the box
 QUEST_LV_0200_20150908_008908	$The Giant Red Wood Goblin is very angry!
-QUEST_LV_0200_20150908_008909	Defeat the Ironbaum!
+QUEST_LV_0200_20150908_008909	Defeat the 鐵鮑姆!
 QUEST_LV_0200_20150908_008910	Defeat the Unlucky Gaigalas!
 QUEST_LV_0200_20150908_008911	{memo X}A group of Blue Big Griba suddenly appeared!
 QUEST_LV_0200_20150908_008912	Trying on the necklace
@@ -8985,7 +8985,7 @@ QUEST_LV_0200_20150908_008988	$Putting the flowers in front of the Sanctum
 QUEST_LV_0200_20150908_008989	$The Sanctum is not showing any reaction!
 QUEST_LV_0200_20150908_008990	$Burning the purifier
 QUEST_LV_0200_20150908_008991	$The Sanctum has been purified
-QUEST_LV_0200_20150908_008992	$You've defeated Ironbaum that was going after the pilgrim! Now, you will receive the blessing from the sanctum.
+QUEST_LV_0200_20150908_008992	$You've defeated 鐵鮑姆 that was going after the pilgrim! Now, you will receive the blessing from the sanctum.
 QUEST_LV_0200_20150908_008993	$Witas passed away.{nl}Please make his grave.
 QUEST_LV_0200_20150908_008994	$Making a grave
 QUEST_LV_0200_20150908_008995	$You've made the grave for Witas
