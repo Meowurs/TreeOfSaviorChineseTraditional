@@ -1,30 +1,30 @@
 QUEST_LV_0200_20150317_000001	$Philipas' Soldier
-QUEST_LV_0200_20150317_000002	$The monsters' attacks are becoming more violent. {nl} I'm determined to succeed, but I also fear for our safety.
+QUEST_LV_0200_20150317_000002	魔物們的攻勢變得更為暴力。{nl}雖然我下定決心要取得成功，但是我還為我們的安全感到擔憂。
 QUEST_LV_0200_20150317_000003	{memo X}$It doesn't matter - I can give up my life today, or be a dead man tomorrow.
 QUEST_LV_0200_20150317_000004	$Commander Vacenin
-QUEST_LV_0200_20150317_000005	$Somehow, we need to resolve our poor supplies and forces. {nl} Once we accomplish that we will be able to break through the forest, piece by piece.
-QUEST_LV_0200_20150317_000006	$Even though everyone's getting tired, we can't give up until Kateen Forest is ours again.
-QUEST_LV_0200_20150317_000007	$Senior Officer Philipas
-QUEST_LV_0200_20150317_000008	$I wish for a peaceful world. {nl} In order for this to happen, I need to work harder.
-QUEST_LV_0200_20150317_000009	$I'll do anything to regain this forest from the monsters. {nl} It's worth risking my life for.
-QUEST_LV_0200_20150317_000010	$Our front line is composed exclusively of Philipas's troops. {nl} They'll follow Philipas's commands through anything.
-QUEST_LV_0200_20150317_000011	$Live with the idea that any moment could become your last. {nl} We must learn from the past and use it to our advantage.
-QUEST_LV_0200_20150317_000012	$Officer Felix
-QUEST_LV_0200_20150317_000013	{memo X}$The Entrance of Kateen Forest is rather on the safe side, but please refrain from going any deeper than this.
-QUEST_LV_0200_20150317_000014	$Weak Owl Sculpture
-QUEST_LV_0200_20150317_000015	$My power is slowly weakening. {nl} Even though there are many souls that need guidance...
-QUEST_LV_0200_20150317_000016	$Scared Owl Sculpture
-QUEST_LV_0200_20150317_000017	$The holy power of the forest is weakening. {nl} What will happen to us after it's gone?!
-QUEST_LV_0200_20150317_000018	$It's too scary. {nl} This never happened when the Goddess was still around...
-QUEST_LV_0200_20150317_000019	$Sincere Owl Sculpture
-QUEST_LV_0200_20150317_000020	$This forest is cursed... it consumes the owls. {nl} I have hardly anything to compel bravery from others.
-QUEST_LV_0200_20150317_000021	$Ever since that huge tree suddenly arose, this forest has changed into something horrid. {nl} Even the trees' roots frighten whoever stares at them.
-QUEST_LV_0200_20150317_000022	$Devoted Owl Sculpture
+QUEST_LV_0200_20150317_000005	無論如何，我們都得解決我們供給和兵力不足的問題{nl}當這一切解決后，我們將可以一點一點地碾過這片森林。
+QUEST_LV_0200_20150317_000006	雖然大夥兒都累了，我們將不會放棄直到收復整片 卡丁森林 為此.
+QUEST_LV_0200_20150317_000007	高級軍官 Philipas
+QUEST_LV_0200_20150317_000008	我期待這一個和平的世界。{nl}為了實現著夢想，我須得更加把勁。
+QUEST_LV_0200_20150317_000009	為了收復這森林我願意做任何事情。{nl}這是值得拿我生命來冒險的。
+QUEST_LV_0200_20150317_000010	我們前線是由 Philipas專屬支隊組成的。{nl}他們會毫無異議地服從Philipas的命令。
+QUEST_LV_0200_20150317_000011	帶著任何時刻都可能成為你的最後一刻的想法活著吧！{nl}我們必須向過去學習然後運用它們成為我們的優勢。
+QUEST_LV_0200_20150317_000012	長官 Felix
+QUEST_LV_0200_20150317_000013	{memo X}$卡丁森林入口 is rather on the safe side, but please refrain from going any deeper than this.
+QUEST_LV_0200_20150317_000014	虛弱的 貓頭鷹雕像
+QUEST_LV_0200_20150317_000015	我的力量正慢慢地減弱。{nl}然而還有許多的靈魂仍然需要指引...
+QUEST_LV_0200_20150317_000016	害怕的 貓頭鷹雕像
+QUEST_LV_0200_20150317_000017	森林的圣力正在減弱。{nl}如果它消失了，什麼事情將會發生在我們身上？！
+QUEST_LV_0200_20150317_000018	這太可怕了。{nl}如果女神們還在，這絕對不會發生...
+QUEST_LV_0200_20150317_000019	真摯的 貓頭鷹雕像
+QUEST_LV_0200_20150317_000020	這森林被詛咒了... 它侵蝕了貓頭鷹。{nl}我幾乎沒有任何東西可從他人身上迫出一絲勇氣。
+QUEST_LV_0200_20150317_000021	自從那大樹突然冒出來后，這森林已變成一樣可拍的東西。{nl}就算是凝視它的樹根也感到恐懼。
+QUEST_LV_0200_20150317_000022	$Devoted 貓頭鷹雕像
 QUEST_LV_0200_20150317_000023	$Someone was held captive. {nl} I have a feeling he's going to disappear...
 QUEST_LV_0200_20150317_000024	$The sacred force created by the Goddess has not completely dissipated. {nl}Will it be able to suppress this devastation? {nl}
 QUEST_LV_0200_20150317_000025	$The chief gave me power.{nl}I won't be scared.
 QUEST_LV_0200_20150317_000026	$I'm not going to be afraid anymore. I will never be eaten by monsters.
-QUEST_LV_0200_20150317_000027	$Painful Owl Sculpture
+QUEST_LV_0200_20150317_000027	$Painful 貓頭鷹雕像
 QUEST_LV_0200_20150317_000028	$I'm suffering every day.{nl}Perhaps, I will also be eaten by monsters.
 QUEST_LV_0200_20150317_000029	$This forest is increasingly covered with demons.{nl}Where is the Goddess?
 QUEST_LV_0200_20150317_000030	$I was chosen by the chief... {nl} I'll do my best to defeat the monsters.
@@ -59,7 +59,7 @@ QUEST_LV_0200_20150317_000058	$Commander O'Rourke
 QUEST_LV_0200_20150317_000059	$Very impressive.{nl}Looks like I'll have to buy Julian a drink.
 QUEST_LV_0200_20150317_000060	It occurred to me while watching Ironbaum. {nl} What an exceptional companion it could be.
 QUEST_LV_0200_20150317_000061	$O'Rourke's unit has been exhausted through big and small battles with Ironbaum.{nl}It would be very reassuring if you could become our strength.
-QUEST_LV_0200_20150317_000062	$Substitute Owl Sculpture
+QUEST_LV_0200_20150317_000062	$Substitute 貓頭鷹雕像
 QUEST_LV_0200_20150317_000063	{memo X}I want to help purify the thorny forest, but I'm not strong enough. Could you eliminate the Tree Ghouls bothering the soldiers?
 QUEST_LV_0200_20150317_000064	$It would be nice if more people could come and go using this road like before.{nl}I find people very interesting.
 QUEST_LV_0200_20150317_000065	$Thank you. I hope I'm not giving you needless trouble all because of my aspirations.
@@ -70,7 +70,7 @@ QUEST_LV_0200_20150317_000069	$There are still a few of our colleagues further i
 QUEST_LV_0200_20150317_000070	$Soldier Dainus
 QUEST_LV_0200_20150317_000071	$Ironbaum attacked us at the Drieza Waterland.{nl}There are still soldiers left that have not yet escaped.{nl}
 QUEST_LV_0200_20150317_000072	$I'm embarrassed to have escaped by myself.{nl}
-QUEST_LV_0200_20150317_000073	$Settled Owl Sculpture
+QUEST_LV_0200_20150317_000073	$Settled 貓頭鷹雕像
 QUEST_LV_0200_20150317_000074	$I have something to ask of you.{nl}I'm worried about the soldiers suffering pain due to the Ravinelarvae.
 QUEST_LV_0200_20150317_000075	Thank you.{nl}From now on, can our soldiers work comfortably?
 QUEST_LV_0200_20150317_000076	$I appreciate your kind help.{nl}One day, I will return the favor when I meet your soul form.
@@ -138,7 +138,7 @@ QUEST_LV_0200_20150317_000137	I think we've done our best for now. {nl}Since we 
 QUEST_LV_0200_20150317_000138	I can feel the closest flag from here is near Gatves Highway.{nl}The huge trees that people saw is probably Woodspirits.{nl}How could I miss this simple thing.
 QUEST_LV_0200_20150317_000139	$Earnest Owl Chief Sculpture
 QUEST_LV_0200_20150317_000140	$Thank you so much. {nl}The other owls must have gained confidence because of you.
-QUEST_LV_0200_20150317_000141	$Weak Owl Sculpture
+QUEST_LV_0200_20150317_000141	虛弱的 貓頭鷹雕像
 QUEST_LV_0200_20150317_000142	$It really was too late..{nl}The Goddess really can be harsh sometimes..
 QUEST_LV_0200_20150317_000143	$I have one last request. {nl}Can you burn the Owls so they could rest in peace?
 QUEST_LV_0200_20150317_000144	$Do you think my allies can reach Goddess Ausrine safely?
@@ -146,16 +146,16 @@ QUEST_LV_0200_20150317_000145	$Thank you so much. {nl}First bring me the Oil fro
 QUEST_LV_0200_20150317_000146	$If you are okay with it, I'd like to get some more help from you.{nl}I've sent a messenger, but due to the last attack, I am now worried about him.{nl}
 QUEST_LV_0200_20150317_000147	$That messenger should be safe... but I still worry for him.
 QUEST_LV_0200_20150317_000148	$Thank you so much.{nl}He must be there by now.
-QUEST_LV_0200_20150317_000149	$The squad was dispatched to recover Kateen Forest from the monsters.{nl}The entrance here to Kateen Forest is safe compared to other areas. The other areas are yet to be recovered.{nl}
+QUEST_LV_0200_20150317_000149	$The squad was dispatched to recover 卡丁森林 from the monsters.{nl}The entrance here to 卡丁森林 is safe compared to other areas. The other areas are yet to be recovered.{nl}
 QUEST_LV_0200_20150317_000150	$As you go deeper inside, there are a number of soldiers along the way lacking in supplies.{nl}If a well known person like you can help them, it will be a great help.{nl}
 QUEST_LV_0200_20150317_000151	$Fallen Messenger
-QUEST_LV_0200_20150317_000152	$This is my fault, for assuming the entrance to Kateen Forest was secure.{nl}I will go back to the camp after taking a short rest.
+QUEST_LV_0200_20150317_000152	$This is my fault, for assuming the entrance to 卡丁森林 was secure.{nl}I will go back to the camp after taking a short rest.
 QUEST_LV_0200_20150317_000153	$Ah, this is my bag.. thank you for saving me.{nl}
 QUEST_LV_0200_20150317_000154	$Only you can help me right now.{nl}Can you tell Felix that the operation at Peljeda Crossroads has already started?{nl}{nl}
-QUEST_LV_0200_20150317_000155	$There are many strange things that can't be seen in forests other than Kateen Forest.{nl}Such as the wooden owl sculptures.
+QUEST_LV_0200_20150317_000155	$There are many strange things that can't be seen in forests other than 卡丁森林.{nl}Such as the wooden 貓頭鷹雕像s.
 QUEST_LV_0200_20150317_000156	$The operation? Oh, what an ignorant messenger.{nl}I can get that from the camp.. Thanks anyway.{nl}
 QUEST_LV_0200_20150317_000157	$Oh, the way back is dark, so it would be appreciated if you could light up the bonfire again.
-QUEST_LV_0200_20150317_000158	$You can't see much sunlight in Kateen Forest due to the enormous amount of trees.{nl}It seems like ghosts could come out at any moment.
+QUEST_LV_0200_20150317_000158	$You can't see much sunlight in 卡丁森林 due to the enormous amount of trees.{nl}It seems like ghosts could come out at any moment.
 QUEST_LV_0200_20150317_000159	$Okay, so the messenger is safe?{nl}This place has been well taken care of thanks to your efforts.
 QUEST_LV_0200_20150317_000160	$I shall take some rest here.{nl}Is there a good place to hide?
 QUEST_LV_0200_20150317_000161	$For letting Saltistter come in this far behind our lines, I should scold the person in charge of guarding this place.{nl}Thanks anyways. You sure live up to your reputation.{nl}
@@ -410,7 +410,7 @@ QUEST_LV_0200_20150317_000409	{memo X}Oh, you got it... {nl}Well, aren't reckles
 QUEST_LV_0200_20150317_000410	$The monsters are eating my companions. {nl}I still have some holy power from the Goddess, but it won't last long.
 QUEST_LV_0200_20150317_000411	Officer Danus
 QUEST_LV_0200_20150317_000412	Many cities will become isolated if we don't get back this forest.. {nl}But the situation isn't on our side.
-QUEST_LV_0200_20150317_000413	This forest doesn't even have Owl Sculptures. {nl}Makes you feel like you really don't want to come back.
+QUEST_LV_0200_20150317_000413	This forest doesn't even have 貓頭鷹雕像s. {nl}Makes you feel like you really don't want to come back.
 QUEST_LV_0200_20150317_000414	$Soldier Roy
 QUEST_LV_0200_20150317_000415	$I heard the Rearguard Unit was surrounded. How did you make it through? {nl}
 QUEST_LV_0200_20150317_000416	$Squad Commander Johan
@@ -723,7 +723,7 @@ QUEST_LV_0200_20150317_000722	Excuse me! Please help me! {nl}Whew, my god! I did
 QUEST_LV_0200_20150317_000723	If we announce that we've found the epitaph of the sculptor, people will recognize our family again. {nl}But strangely, I can't get off my feet. {nl}I need to take down the writings on the epitaph as evidence that it's found..
 QUEST_LV_0200_20150317_000724	Thinking of which.. I don't know. I don't know who I am, where I am from.. {nl}My head is full of thoughts about that epitaph and I can't think of anything else.
 QUEST_LV_0200_20150317_000725	It was a memorial stone meant to show to humans but the writings must have had powers of calming the souls. {nl}
-QUEST_LV_0200_20150317_000726	Desperate Owl Sculpture
+QUEST_LV_0200_20150317_000726	Desperate 貓頭鷹雕像
 QUEST_LV_0200_20150317_000727	Sequoia Flame alone is a critical threat to us. {nl}Those might burn us first. {nl}It's painful and horrible to just think about it.
 QUEST_LV_0200_20150317_000728	I don't want to burn. {nl}Please help.
 QUEST_LV_0200_20150317_000729	Thank you. Now I don't have to worry about burning. {nl}I'm sick and tired of the Sequoias now.
@@ -739,7 +739,7 @@ QUEST_LV_0200_20150317_000738	$Thank you very much. {nl}Now they can rest in pea
 QUEST_LV_0200_20150317_000739	$Please pray for them at the Garden of Consolation later when you have time.
 QUEST_LV_0200_20150317_000740	$You are a very kind person. {nl}Butterfly Fragrance only grow in bushes at Butterfly Tomb.
 QUEST_LV_0200_20150317_000741	$We guide souls to Goddess Ausrine. {nl}But it's a big problem now because the number of souls is multiplying while the Goddess is not around.
-QUEST_LV_0200_20150317_000742	$Sad Owl Sculpture
+QUEST_LV_0200_20150317_000742	$Sad 貓頭鷹雕像
 QUEST_LV_0200_20150317_000743	$Help! {nl}A Throneweaver is destroying us.
 QUEST_LV_0200_20150317_000744	$Monsters were around even before. {nl}But ever since that tree emerged in the capital, they began to destroy us. {nl}
 QUEST_LV_0200_20150317_000745	$Do you think the end of the world is really coming?
@@ -751,12 +751,12 @@ QUEST_LV_0200_20150317_000750	$Teach it a lesson so that it won't destroy the ow
 QUEST_LV_0200_20150317_000751	$Thank you. {nl}They will not dare to attack us now.
 QUEST_LV_0200_20150317_000752	$To the monsters, our magic powers provide them good nourishment. {nl}
 QUEST_LV_0200_20150317_000753	$But we shouldn't end up like that. {nl}Who else will guide the souls then? {nl}
-QUEST_LV_0200_20150317_000754	$Shy Owl Sculpture
+QUEST_LV_0200_20150317_000754	$Shy 貓頭鷹雕像
 QUEST_LV_0200_20150317_000755	$Something strange is happening. {nl}The souls I've been guiding have suddenly stopped moving. {nl}
 QUEST_LV_0200_20150317_000756	$I think they were caught at Nelasve Shore but I have no way of knowing. {nl}Please help me. If we don't save the souls, they will fall to evil.
 QUEST_LV_0200_20150317_000757	$More and more wandering souls are beginning to suffer. {nl}Maybe someone is doing this on purpose..
 QUEST_LV_0200_20150317_000758	$Thank you. {nl}Who would do such a thing?
-QUEST_LV_0200_20150317_000759	$Sad Owl Sculpture
+QUEST_LV_0200_20150317_000759	$Sad 貓頭鷹雕像
 QUEST_LV_0200_20150317_000760	$Help me. {nl}Souls are disappearing towards Amolallul Hill. {nl}
 QUEST_LV_0200_20150317_000761	$I want to find out what is happening. {nl}Please persuade the souls going to the hill and guide them to me. {nl}
 QUEST_LV_0200_20150317_000762	$The souls are disappearing. What do you think is happening? {nl}{nl}
@@ -768,7 +768,7 @@ QUEST_LV_0200_20150317_000767	$If someone is intentionally intercepting the soul
 QUEST_LV_0200_20150317_000768	$You can find Sakmolis near the Tomb Spider Nest.
 QUEST_LV_0200_20150317_000769	$Officer's Spirit
 QUEST_LV_0200_20150317_000770	$Can you see me?{nl}Then let me ask you a favor.{nl}I need someone to help us finish our last mission.{nl}{nl}
-QUEST_LV_0200_20150317_000771	That Owl Sculpture is not moving an inch. {nl}I heard they guide souls, but I don't think it's true.
+QUEST_LV_0200_20150317_000771	That 貓頭鷹雕像 is not moving an inch. {nl}I heard they guide souls, but I don't think it's true.
 QUEST_LV_0200_20150317_000772	$Good job. This will be enough.
 QUEST_LV_0200_20150317_000773	$I will weave this wood to make it human-like. {nl}After this, the crisp skin of Old Kepa at Purple Fountain would be just right. Please do me another favor.
 QUEST_LV_0200_20150317_000774	$I've spent a long time without salvation. {nl}My men will also be saved if you defeat those monsters.
@@ -786,8 +786,8 @@ QUEST_LV_0200_20150317_000785	$Well. I don't know what I'm still doing here. {nl
 QUEST_LV_0200_20150317_000786	$Maybe we can go back to the Goddess if we achieve what we were not able to. {nl}
 QUEST_LV_0200_20150317_000787	$That fellow worries a lot. {nl}I said it's not Deadborn but he's still like that.
 QUEST_LV_0200_20150317_000788	$It's worth a shot if it's Saltistter. {nl}But if it's Deadborn, then I'm outta here.
-QUEST_LV_0200_20150317_000789	$I never heard of any Deadborn sightings in Kateen Forest.
-QUEST_LV_0200_20150317_000790	$We had to go through so much to recapture this entrance to Kateen Forest. I don't think Deadborn will appear, would it?
+QUEST_LV_0200_20150317_000789	$I never heard of any Deadborn sightings in 卡丁森林.
+QUEST_LV_0200_20150317_000790	$We had to go through so much to recapture this entrance to 卡丁森林. I don't think Deadborn will appear, would it?
 QUEST_LV_0200_20150317_000791	$The monsters' endless raids are tiring us. {nl}If you help us and break their assault, then my soldiers can cheer up.
 QUEST_LV_0200_20150317_000792	$Not knowing what happened to the other troops is frustrating.
 QUEST_LV_0200_20150317_000793	$Thank you. I can feel relieved for the time being. {nl}Ah, if you see a soldier named Roy, please tell him to return.
@@ -890,7 +890,7 @@ QUEST_LV_0200_20150317_000889	Cleric
 QUEST_LV_0200_20150317_000890	$This Great Cathedral is like a repository of knowledge. {nl}Of course, that should mean that we can find how to release Naktis' curses.
 QUEST_LV_0200_20150317_000891	$I'm roughly done studying this area, but we need the reports of clerics from other areas. {nl}If you meet other clerics in the Great Cathedral, can you get their reports for me?
 QUEST_LV_0200_20150317_000892	If we've got the reports, even Naktis' curse will just be as if it were a mere spell. {nl}Yup, that's right. Great work. {nl}
-QUEST_LV_0200_20150317_000893	Isn't it scary in here? {nl}Even the Owl Sculpture feels gloomy..
+QUEST_LV_0200_20150317_000893	Isn't it scary in here? {nl}Even the 貓頭鷹雕像 feels gloomy..
 QUEST_LV_0200_20150317_000894	{memo X}I've heard about sightings of souls with resentment. {nl}If it's true.. Uhh, you're not one of them, are you?
 QUEST_LV_0200_20150317_000895	Gravekeeper Romas
 QUEST_LV_0200_20150317_000896	$Being a Revelator doesn't mean that you can roam around freely tomorrow as you do today.
@@ -1220,7 +1220,7 @@ QUEST_LV_0200_20150317_001219	Secure the Area(1)
 QUEST_LV_0200_20150317_001220	$Secure Route to the Gateway of the Great King (2)
 QUEST_LV_0200_20150317_001221	I will apply for it
 QUEST_LV_0200_20150317_001222	I don't have time for that
-QUEST_LV_0200_20150317_001223	$Owl Sculpture's Little Help
+QUEST_LV_0200_20150317_001223	$貓頭鷹雕像's Little Help
 QUEST_LV_0200_20150317_001224	I'll get rid of them for you
 QUEST_LV_0200_20150317_001225	$Secure Route to the Gateway of the Great King (3)
 QUEST_LV_0200_20150317_001226	I will find it
@@ -1234,7 +1234,7 @@ QUEST_LV_0200_20150317_001233	Owner of the Grave
 QUEST_LV_0200_20150317_001234	What is it ?
 QUEST_LV_0200_20150317_001235	Commander Vacenin (1)
 QUEST_LV_0200_20150317_001236	I can help you
-QUEST_LV_0200_20150317_001237	About Kateen Forest
+QUEST_LV_0200_20150317_001237	About 卡丁森林
 QUEST_LV_0200_20150317_001238	{memo X}Collect Moss
 QUEST_LV_0200_20150317_001239	{memo X}I will collect the moss
 QUEST_LV_0200_20150317_001240	{memo X}Collect discolored grass
@@ -1262,7 +1262,7 @@ QUEST_LV_0200_20150317_001261	I'll rest for a while
 QUEST_LV_0200_20150317_001262	$Memorial Service (1)
 QUEST_LV_0200_20150317_001263	$I'll collect their remains
 QUEST_LV_0200_20150317_001264	There is no time for that
-QUEST_LV_0200_20150317_001265	About the Owl Sculpture
+QUEST_LV_0200_20150317_001265	About the 貓頭鷹雕像
 QUEST_LV_0200_20150317_001266	{memo X}Completion of the Power of Soul (1)
 QUEST_LV_0200_20150317_001267	{memo X}I will bring the Soul Stone
 QUEST_LV_0200_20150317_001268	{memo X}Completion of the Power of Soul (2)
@@ -1292,7 +1292,7 @@ QUEST_LV_0200_20150317_001291	$Where can I get Butterfly Fragrance?
 QUEST_LV_0200_20150317_001292	$Prayer for the Souls
 QUEST_LV_0200_20150317_001293	$Dangerous Throneweaver (1)
 QUEST_LV_0200_20150317_001294	Just ignore it
-QUEST_LV_0200_20150317_001295	$Why are the monsters destroying Owl Sculptures
+QUEST_LV_0200_20150317_001295	$Why are the monsters destroying 貓頭鷹雕像s
 QUEST_LV_0200_20150317_001296	$Dangerous Throneweaver (2)
 QUEST_LV_0200_20150317_001297	$I will get Sakmoli Roots
 QUEST_LV_0200_20150317_001298	$Restrained Souls
@@ -1323,7 +1323,7 @@ QUEST_LV_0200_20150317_001322	Last Mission (5)
 QUEST_LV_0200_20150317_001323	I will clear the mission
 QUEST_LV_0200_20150317_001324	It seems dangerous. I quit.
 QUEST_LV_0200_20150317_001325	{memo X}Installing bait/MAKING/3/TRACK_BEFORE/None
-QUEST_LV_0200_20150317_001326	Remote Area of Kateen Forest
+QUEST_LV_0200_20150317_001326	Remote Area of 卡丁森林
 QUEST_LV_0200_20150317_001327	Calm down. It can't be a Deadborn.
 QUEST_LV_0200_20150317_001328	Missing Troop(1)
 QUEST_LV_0200_20150317_001329	I will find the scout
@@ -1796,23 +1796,23 @@ QUEST_LV_0200_20150317_001795	{memo X}Digging it again / SITGROPE / 5 / TRACK_AF
 QUEST_LV_0200_20150317_001796	{memo X}Notice / GetItem /You found truffles in the hole! # 5
 QUEST_LV_0200_20150317_001797	Defeat the monsters blocking the road
 QUEST_LV_0200_20150317_001798	Open the Treasure Chest
-QUEST_LV_0200_20150317_001799	$Story of the Owl Sculpture
+QUEST_LV_0200_20150317_001799	$Story of the 貓頭鷹雕像
 QUEST_LV_0200_20150317_001800	{memo X}Notice /!/Monsters appeared nearby the Owl Statue! # 5
-QUEST_LV_0200_20150317_001801	$Traces of the Owl Sculpture
-QUEST_LV_0200_20150317_001802	$Why the Owl Sculpture Fell
+QUEST_LV_0200_20150317_001801	$Traces of the 貓頭鷹雕像
+QUEST_LV_0200_20150317_001802	$Why the 貓頭鷹雕像 Fell
 QUEST_LV_0200_20150317_001803	{memo X}Notice /! /Mushwort Appeared! It must have broken the Owl Statue! # 5
 QUEST_LV_0200_20150317_001804	$Eternal Sleep of the Owls
 QUEST_LV_0200_20150317_001805	{memo X}Finding oil/#SITGROPESET2/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150317_001806	{memo X}Destroyer of the Fault Line
 QUEST_LV_0200_20150317_001807	{memo X}Standing the fallen statue/ MAKING / 3 / TRACK_BEFORE / SSN_HATE_AROUND
-QUEST_LV_0200_20150317_001808	$Rest of the Owl Sculptures
+QUEST_LV_0200_20150317_001808	$Rest of the 貓頭鷹雕像s
 QUEST_LV_0200_20150317_001809	{memo X}Lighting fire/ FIRE / 2 / TRACK_BEFORE / SSN_HATE_AROUND
 QUEST_LV_0200_20150317_001810	{memo X}Notice /! /Monsters suddenly rushed out when you tried to light fire! {nl}Let's get rid of these first then light the fire again! # 5
 QUEST_LV_0200_20150317_001811	{memo X}Notice /You burned the statue well! # 5
-QUEST_LV_0200_20150317_001812	$Owl Sculpture Cremation
+QUEST_LV_0200_20150317_001812	$貓頭鷹雕像 Cremation
 QUEST_LV_0200_20150317_001813	{memo X}Igniting fire/ MAKING / 3 / TRACK_BEFORE / SSN_HATE_AROUND
 QUEST_LV_0200_20150317_001814	{memo X}Notice /! /Keep the fire alive and get rid of the monsters! # 6
-QUEST_LV_0200_20150317_001815	$Owl Sculpture Funeral
+QUEST_LV_0200_20150317_001815	$貓頭鷹雕像 Funeral
 QUEST_LV_0200_20150317_001816	{memo X}Notice /! / The fire is dying. {nl} Steal the arrows from High Vubbe archer and throw it in the fire !! # 5
 QUEST_LV_0200_20150317_001817	$Saltistter's Raid
 QUEST_LV_0200_20150317_001818	Run away quickly
@@ -1936,12 +1936,12 @@ QUEST_LV_0200_20150317_001935	$Talk to Commander O'Rourke
 QUEST_LV_0200_20150317_001936	$Commander Julian wants you to support O'Rourke's unit, which lost strength due to many battles. Talk to Commander O'Rourke at Veltui Crossroads.
 QUEST_LV_0200_20150317_001937	You defeated Infrogalas that suddenly attacked. Talk with Commander O'Rourke.
 QUEST_LV_0200_20150317_001938	$Defeat the attacking Wood Goblins
-QUEST_LV_0200_20150317_001939	$Talk to the Substitute Owl Sculpture
-QUEST_LV_0200_20150317_001940	$There is an Owl Sculpture that seems to have something to say. Talk to the Substitute Owl Sculpture.
+QUEST_LV_0200_20150317_001939	$Talk to the Substitute 貓頭鷹雕像
+QUEST_LV_0200_20150317_001940	$There is an 貓頭鷹雕像 that seems to have something to say. Talk to the Substitute 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001941	$Defeat Treegools at Byreti Vacant Lot
-QUEST_LV_0200_20150317_001942	$The Substitute Owl Sculpture wants to help out the soldiers. On behalf of the Substitute Owl Sculpture, defeat Treegools at Byreti Vacant Lot.
-QUEST_LV_0200_20150317_001943	$Report to the Substitute Owl Sculpture
-QUEST_LV_0200_20150317_001944	$You've defeated all Treegools you could find. Report to the Substitute Owl Sculpture.
+QUEST_LV_0200_20150317_001942	$The Substitute 貓頭鷹雕像 wants to help out the soldiers. On behalf of the Substitute 貓頭鷹雕像, defeat Treegools at Byreti Vacant Lot.
+QUEST_LV_0200_20150317_001943	$Report to the Substitute 貓頭鷹雕像
+QUEST_LV_0200_20150317_001944	$You've defeated all Treegools you could find. Report to the Substitute 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001945	$Defeat Treegools
 QUEST_LV_0200_20150317_001946	$Talk with O'Rourke
 QUEST_LV_0200_20150317_001947	$Commander O'Rourke is astonished by your skills after seeing you defeating the monster ambush. Talk with Commander O'Rourke.
@@ -1950,11 +1950,11 @@ QUEST_LV_0200_20150317_001949	$Commander O'Rourke is saying that his soldiers wh
 QUEST_LV_0200_20150317_001950	$Talk to Soldier Kallus
 QUEST_LV_0200_20150317_001951	$You saved Soldier Kallus who was running away from the monsters. Talk to Soldier Kallus.
 QUEST_LV_0200_20150317_001952	$Defeat the monsters threatening the soldier
-QUEST_LV_0200_20150317_001953	$Talk to the Settled Owl Sculpture
-QUEST_LV_0200_20150317_001954	$There is a hesitant-looking Owl Sculpture. Talk to the Settled Owl Sculpture.
+QUEST_LV_0200_20150317_001953	$Talk to the Settled 貓頭鷹雕像
+QUEST_LV_0200_20150317_001954	$There is a hesitant-looking 貓頭鷹雕像. Talk to the Settled 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001955	$Defeat nearby Ravinelarvae
-QUEST_LV_0200_20150317_001956	$The Settled Owl Sculpture wants to repay the soldiers who saved it. To help the soldiers, please defeat the nearby Ravinelarvae.
-QUEST_LV_0200_20150317_001957	$You defeated all nearby Ravinelarvae. Talk to the Settled Owl Sculpture.
+QUEST_LV_0200_20150317_001956	$The Settled 貓頭鷹雕像 wants to repay the soldiers who saved it. To help the soldiers, please defeat the nearby Ravinelarvae.
+QUEST_LV_0200_20150317_001957	$You defeated all nearby Ravinelarvae. Talk to the Settled 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001958	$Defeat Ravinelarva
 QUEST_LV_0200_20150317_001959	$Talk to Soldier Dainus
 QUEST_LV_0200_20150317_001960	$Soldier Dainus is trembling from fear. Talk to Soldier Dainus to look for the other soldiers.
@@ -1975,14 +1975,14 @@ QUEST_LV_0200_20150317_001974	$Talk with the Fallen Messenger
 QUEST_LV_0200_20150317_001975	$Retrieve the Bag of the Messenger and talk to him.
 QUEST_LV_0200_20150317_001976	$Defeat the monsters who attacked the Messenger
 QUEST_LV_0200_20150317_001977	{memo X}Talk with Scott
-QUEST_LV_0200_20150317_001978	{memo X}He has to go to Kateen Forest to look for the sculptor, but it is too dangerous to cross there due to an unknown incident. Ask him what you can do for him.
+QUEST_LV_0200_20150317_001978	{memo X}He has to go to 卡丁森林 to look for the sculptor, but it is too dangerous to cross there due to an unknown incident. Ask him what you can do for him.
 QUEST_LV_0200_20150317_001979	{memo X}Scott wants to investigate the moss. Please collect the moss from the dock.
 QUEST_LV_0200_20150317_001980	{memo X}We have enough moss to be investigated. Return to Scott
 QUEST_LV_0200_20150317_001981	{memo X}Collect %s stuck on a rock
 QUEST_LV_0200_20150317_001982	{memo X}Scott heard from the soldiers from the felled area that the grass that has unique color is growing. Collect the unique grass from Naudingas felled area.
 QUEST_LV_0200_20150317_001983	{memo X}You have collected enough unique grass. Return to Scott.
 QUEST_LV_0200_20150317_001984	Gather %s
-QUEST_LV_0200_20150317_001985	{memo X}You should cross here to look for the sculptor of Kateen Forest which the revelation of the Goddess is indicating, but the man with unnormal clothes is investigating something diligently. Talk to him what's going on.
+QUEST_LV_0200_20150317_001985	{memo X}You should cross here to look for the sculptor of 卡丁森林 which the revelation of the Goddess is indicating, but the man with unnormal clothes is investigating something diligently. Talk to him what's going on.
 QUEST_LV_0200_20150317_001986	{memo X}Scott said he came here to investigate the dangerous incident that occurred here and suggested you to move with him. To aid his investigation, please collect the tree barks from Vubbes that are carrying spears.
 QUEST_LV_0200_20150317_001987	{memo X}You have collected enough tree barks. Return to Scott.
 QUEST_LV_0200_20150317_001988	{memo X}Obtain %s by defeating Red Vubbes
@@ -1991,19 +1991,19 @@ QUEST_LV_0200_20150317_001990	{memo X}You thwarted the conspiracy to make the Wo
 QUEST_LV_0200_20150317_001991	{memo X}Defeat Woodspirits
 QUEST_LV_0200_20150317_001992	{memo X}Defeat Woodspirits that are the source of the bad rumor of the Forgotten Dock.
 QUEST_LV_0200_20150317_001993	{memo X}You finally defeated the Woodspirits that were the source of the bad rumor of the Forgotten Dock. Return to Yukirt.
-QUEST_LV_0200_20150317_001994	$Talk to the Scared Owl Sculpture
-QUEST_LV_0200_20150317_001995	$The Scared Owl Sculpture is calling you desperately. Talk with the Scared Owl Sculpture.
+QUEST_LV_0200_20150317_001994	$Talk to the Scared 貓頭鷹雕像
+QUEST_LV_0200_20150317_001995	$The Scared 貓頭鷹雕像 is calling you desperately. Talk with the Scared 貓頭鷹雕像.
 QUEST_LV_0200_20150317_001996	$Give it to the Earnest Owl Chief Sculpture
 QUEST_LV_0200_20150317_001997	$The Scared Owl asked you to send it's friend's Wing Fragment. Hand over the fragment to the Earnest Owl Chief Sculpture at Neuoder Field.
 QUEST_LV_0200_20150317_001998	$Talk with the Earnest Owl Chief Sculpture
 QUEST_LV_0200_20150317_001999	$The Earnest Owl Chief looks sad after receiving the Wing Fragment. Talk with the Earnest Owl Chief.
-QUEST_LV_0200_20150317_002000	$Send the wing to the Devoted Owl Sculpture
-QUEST_LV_0200_20150317_002001	$The Earnest Owl Chief wants you to pass his Wing Fragment that is endowed with the power of the Goddess to the owls in this region. Give the Wing Fragment to the Devoted Owl Sculpture at Kongfiska Hill.
-QUEST_LV_0200_20150317_002002	$Hand the Wing Fragment to the Painful Owl Sculpture
-QUEST_LV_0200_20150317_002003	$The Earnest Owl Chief wants you to pass his Wing Fragment that is endowed with the power of the Goddess to the owls in this region. Give the Wing Fragment to the Painful Owl Sculpture at Clover Highland.
+QUEST_LV_0200_20150317_002000	$Send the wing to the Devoted 貓頭鷹雕像
+QUEST_LV_0200_20150317_002001	$The Earnest Owl Chief wants you to pass his Wing Fragment that is endowed with the power of the Goddess to the owls in this region. Give the Wing Fragment to the Devoted 貓頭鷹雕像 at Kongfiska Hill.
+QUEST_LV_0200_20150317_002002	$Hand the Wing Fragment to the Painful 貓頭鷹雕像
+QUEST_LV_0200_20150317_002003	$The Earnest Owl Chief wants you to pass his Wing Fragment that is endowed with the power of the Goddess to the owls in this region. Give the Wing Fragment to the Painful 貓頭鷹雕像 at Clover Highland.
 QUEST_LV_0200_20150317_002004	$Report to the Earnest Owl Chief Sculpture
 QUEST_LV_0200_20150317_002005	$You've handed over the Wing Fragments to all the owls. Return and report to the Earnest Owl Chief.
-QUEST_LV_0200_20150317_002006	$Defeat the monsters that are attacking the Owl Sculpture
+QUEST_LV_0200_20150317_002006	$Defeat the monsters that are attacking the 貓頭鷹雕像
 QUEST_LV_0200_20150317_002007	$Talk to the Patrolling Officer
 QUEST_LV_0200_20150317_002008	$The Patrolling Officer has been staring at you for some time. Talk to him.
 QUEST_LV_0200_20150317_002009	$Light up the Bonfires
@@ -2048,8 +2048,8 @@ QUEST_LV_0200_20150317_002047	{memo X}Talk with the wandering adventurer's spiri
 QUEST_LV_0200_20150317_002048	{memo X}It seems that you found the spirit of the wandering adventurer that doesn't know what to do. Talk with the spirit.
 QUEST_LV_0200_20150317_002049	{memo X}Write down what's in the epitaph
 QUEST_LV_0200_20150317_002050	{memo X}The spirit of the wandering adventurer finally found the the epitaph, but somehow he can't move. For the adventurer, copy down what's on the epitaph.
-QUEST_LV_0200_20150317_002051	{memo X}The spirit of the wandering adventurer seems to be satisfied now. Return to the desperate owl sculpture.
-QUEST_LV_0200_20150317_002052	{memo X}Talk with the desperate owl sculpture
+QUEST_LV_0200_20150317_002051	{memo X}The spirit of the wandering adventurer seems to be satisfied now. Return to the desperate 貓頭鷹雕像.
+QUEST_LV_0200_20150317_002052	{memo X}Talk with the desperate 貓頭鷹雕像
 QUEST_LV_0200_20150317_002053	{memo X}I can see the shade from the desperate owl. Talk with the desperate owl.
 QUEST_LV_0200_20150317_002054	{memo X}The desperate owl is scared of dying in the flames of Sequoia. Extinguish the flames of Sequoia for the desperate owl.
 QUEST_LV_0200_20150317_002055	{memo X}It seems that the flames of Sequoia are not strong anymore. Return to the desperate owl.
@@ -2058,8 +2058,8 @@ QUEST_LV_0200_20150317_002057	&You can see an exhausted Officer Danus. Talk to h
 QUEST_LV_0200_20150317_002058	&Defeat the monsters that are attacking the Readguard Unit
 QUEST_LV_0200_20150317_002059	&Officer Danus says that his squad has been cut off due to the monsters. Defeat the monsters nearby for Danus' Squad.
 QUEST_LV_0200_20150317_002060	&I think the squad can be freed from the monsters now. Talk to Officer Danus.
-QUEST_LV_0200_20150317_002061	$Talk to the Weak Owl Sculpture
-QUEST_LV_0200_20150317_002062	$There are many Owl Sculptures that guide souls in Kateen Forest. Listen to the story of the Weak Owl Sculpture.
+QUEST_LV_0200_20150317_002061	$Talk to the Weak 貓頭鷹雕像
+QUEST_LV_0200_20150317_002062	$There are many 貓頭鷹雕像s that guide souls in 卡丁森林. Listen to the story of the Weak 貓頭鷹雕像.
 QUEST_LV_0200_20150317_002063	$Collect the soldiers' corpses
 QUEST_LV_0200_20150317_002064	$They were soldiers of a tragic tale. After collecting their corpses, take them to Weak Owl.
 QUEST_LV_0200_20150317_002065	$The Weak Owl trying to calm the soldiers seems to be in trouble. Talk to the Weak Owl.
@@ -2076,8 +2076,8 @@ QUEST_LV_0200_20150317_002075	$Prayer for the Regretful Souls
 QUEST_LV_0200_20150317_002076	$The souls that passed away sadly sleep at the Garden of Consolation near the Goddess Statue. Pray in front of the Goddess Statue and calm the souls.
 QUEST_LV_0200_20150317_002077	$Perform the Memorial Ceremony
 QUEST_LV_0200_20150317_002078	$As you prayed in front of the Goddess, the regretful souls started to gather toward the Goddess Statue! Protect these souls for a specified time frame.
-QUEST_LV_0200_20150317_002079	$Talk to the Sad Owl Sculpture
-QUEST_LV_0200_20150317_002080	$There are many Owl Sculptures that guide the souls in Kateen Forest. Listen to the story of the Sad Owl Sculpture.
+QUEST_LV_0200_20150317_002079	$Talk to the Sad 貓頭鷹雕像
+QUEST_LV_0200_20150317_002080	$There are many 貓頭鷹雕像s that guide the souls in 卡丁森林. Listen to the story of the Sad 貓頭鷹雕像.
 QUEST_LV_0200_20150317_002081	$Collect Ridimed Leaves
 QUEST_LV_0200_20150317_002082	$The Sad Owl said a Throneweaver keeps trying to destroy the owls. Lure the Throneweaver out with the Ridimed Leaves.
 QUEST_LV_0200_20150317_002083	$You have collected enough Ridimed Leaves that the Throneweaver likes. Return to the Sad Owl.
@@ -2087,12 +2087,12 @@ QUEST_LV_0200_20150317_002086	$Obtain Sakmoli Roots
 QUEST_LV_0200_20150317_002087	$The Sad Owl suggested you use Sakmoli Roots to lure out the Throneweaver. Collect Sakmoli Roots.
 QUEST_LV_0200_20150317_002088	$You have obtained some Sakmoli Roots. Talk with the Sad Owl about what to do next from here on.
 QUEST_LV_0200_20150317_002089	$Sakmoli Roots
-QUEST_LV_0200_20150317_002090	$Talk to the Shy Owl Sculpture
-QUEST_LV_0200_20150317_002091	$There are many Owl Sculptures that guide souls in Kateen Forest. Listen to the story of the Shy Owl Sculpture.
+QUEST_LV_0200_20150317_002090	$Talk to the Shy 貓頭鷹雕像
+QUEST_LV_0200_20150317_002091	$There are many 貓頭鷹雕像s that guide souls in 卡丁森林. Listen to the story of the Shy 貓頭鷹雕像.
 QUEST_LV_0200_20150317_002092	{memo X}Rescue the spirit of the restrained soldier
 QUEST_LV_0200_20150317_002093	$The Shy Owl told you that the souls that once followed its guidance stopped moving some time ago. Find out what happened to the souls and do something to make them move again.
 QUEST_LV_0200_20150317_002094	$The souls were being tied with branches. By releasing the souls from the restraints, could you find out the origin of the evil energies? Talk to the Shy Owl again.
-QUEST_LV_0200_20150317_002095	$Talk to Sad Owl Sculpture
+QUEST_LV_0200_20150317_002095	$Talk to Sad 貓頭鷹雕像
 QUEST_LV_0200_20150317_002096	{memo X}There are not only restrained spirits among wandering spirits. Listen to the detailed story from the sorrowful owl.
 QUEST_LV_0200_20150317_002097	$Persuade the souls that lost their way
 QUEST_LV_0200_20150317_002098	{memo X}The sorrowful owl told you that the spirits that went to the statue of the Goddess for comfort are agonizing themselves so something must be wrong. Persuade the spirits that try to go to the Goddess Statue and take them to the sorrowful owl.
@@ -2197,10 +2197,10 @@ QUEST_LV_0200_20150317_002196	Defeat Werewolf
 QUEST_LV_0200_20150317_002197	{memo X}So that's the Beowolf that led the unknown soldier to the death. Defeat the Beowolf and pray for his soul.
 QUEST_LV_0200_20150317_002198	Pray for his soul
 QUEST_LV_0200_20150317_002199	{memo X}Pray for his soul in front of the belongings of the unknown soldier
-QUEST_LV_0200_20150317_002200	$You've got enough Sakmoli Roots that you would use to lure Throneweavers. Talk with Sad Owl Sculpture.
+QUEST_LV_0200_20150317_002200	$You've got enough Sakmoli Roots that you would use to lure Throneweavers. Talk with Sad 貓頭鷹雕像.
 QUEST_LV_0200_20150317_002201	$Defeat Throneweaver
 QUEST_LV_0200_20150317_002202	$Defeat Throneweaver for the Sad Owl
-QUEST_LV_0200_20150317_002203	$Defeated the Throneweaver that was destroying the owl sculptures. Talk to the Sad Owl again.
+QUEST_LV_0200_20150317_002203	$Defeated the Throneweaver that was destroying the 貓頭鷹雕像s. Talk to the Sad Owl again.
 QUEST_LV_0200_20150317_002204	$Defeat Throneweaver
 QUEST_LV_0200_20150317_002205	Talk with Soldier Rudolfas
 QUEST_LV_0200_20150317_002206	Talk with Soldier Rudolfas
@@ -2630,8 +2630,8 @@ QUEST_LV_0200_20150317_002629	{memo X}Hunt the monsters in Purple Tree Fault For
 QUEST_LV_0200_20150317_002630	{memo X}Commander 烏斯卡 says a swarm of monster appeared from the deep forest but he did not have enough men to do anything about it. Defeat 100 monsters in Purple Tree Fault Forest for the commander.
 QUEST_LV_0200_20150317_002631	{memo X}Completed the Purple Tree Fault Forest monster huntdown mission. Return to 烏斯卡 and tell him the good news.
 QUEST_LV_0200_20150317_002632	{memo X}Defeat the monsters in Purple Tree Fault Forest
-QUEST_LV_0200_20150317_002633	Observe the Fallen Owl Sculpture
-QUEST_LV_0200_20150317_002634	There is an Owl Sculpture at Tomb Spider Nest. Take a look at it.
+QUEST_LV_0200_20150317_002633	Observe the Fallen 貓頭鷹雕像
+QUEST_LV_0200_20150317_002634	There is an 貓頭鷹雕像 at Tomb Spider Nest. Take a look at it.
 QUEST_LV_0200_20150317_002635	Throneweaver appeared when you touched the collapsed sculpture!
 QUEST_LV_0200_20150317_002636	$Suspicious Goddess Statue
 QUEST_LV_0200_20150317_002637	$There is a Goddess Statue in Amolallul Hill. This statue looks different from the other statues but worship it first anyway.
@@ -2640,14 +2640,14 @@ QUEST_LV_0200_20150317_002639	$The Goddess Statue turned into Corrupted! Defeat 
 QUEST_LV_0200_20150317_002640	$Defeat Corrupted
 QUEST_LV_0200_20150317_002641	$Talk to the Owl Chief Sculpture
 QUEST_LV_0200_20150317_002642	$The Earnest Owl Chief Sculpture seems gloomy. Talk to it again.
-QUEST_LV_0200_20150317_002643	$Check on the Weak Owl Sculpture at Ishrai Crossroads
+QUEST_LV_0200_20150317_002643	$Check on the Weak 貓頭鷹雕像 at Ishrai Crossroads
 QUEST_LV_0200_20150317_002644	$The Owl Chief says it's worried about the owl at Ishrai Crossroads. Look for the Weak Owl and if it is out of place or fallen down, help it back up.
-QUEST_LV_0200_20150317_002645	$Talk to the Weak Owl Sculpture
-QUEST_LV_0200_20150317_002646	$Stood back the Weak Owl Sculpture lying on the floor. Talk to it.
-QUEST_LV_0200_20150317_002647	$The Weak Owl Sculpture seems like it is about to cry. Talk to it.
+QUEST_LV_0200_20150317_002645	$Talk to the Weak 貓頭鷹雕像
+QUEST_LV_0200_20150317_002646	$Stood back the Weak 貓頭鷹雕像 lying on the floor. Talk to it.
+QUEST_LV_0200_20150317_002647	$The Weak 貓頭鷹雕像 seems like it is about to cry. Talk to it.
 QUEST_LV_0200_20150317_002648	$Find traces of the kidnapped Owls
 QUEST_LV_0200_20150317_002649	{memo X}The Weak Owl wants you to find other owls that the monsters took away. Find the traces of owl statue in the monster's hideaway located at each end of the Ishrai Crossroad.
-QUEST_LV_0200_20150317_002650	$Give the broken owl sculpture parts to the Weak Owl
+QUEST_LV_0200_20150317_002650	$Give the broken 貓頭鷹雕像 parts to the Weak Owl
 QUEST_LV_0200_20150317_002651	{memo X}Found all the Broken Pieces of the Owl. Give it to the Weak Owl.
 QUEST_LV_0200_20150317_002652	{memo X}Talk to Liliya
 QUEST_LV_0200_20150317_002653	{memo X}There is a pilgrim names Liliya in Way of the Big Staving Demons. Seems like she desperately needs something so try talking to her.
@@ -2982,32 +2982,32 @@ QUEST_LV_0200_20150317_002981	{memo X}There are strange looking treasure boxes a
 QUEST_LV_0200_20150317_002982	Defeat the monsters that gathered around the treasure chest
 QUEST_LV_0200_20150317_002983	As you touched the treasure chest, the monsters suddenly rushed in! You don't know why they are rushing in, but defeat them first!
 QUEST_LV_0200_20150317_002984	Defeat the monsters that are around the treasure chest
-QUEST_LV_0200_20150317_002985	$Inspect the Destroyed Owl Sculpture
-QUEST_LV_0200_20150317_002986	$There are broken Owl Sculptures at the end of Ishrai Crossroads. When you take a close look at them, you may be able to find out why.
-QUEST_LV_0200_20150317_002987	$Monsters appeared right after you found the traces of the Owl Sculptures! Defeat them first.
-QUEST_LV_0200_20150317_002988	$Defeat the monsters that destroyed the Owl Sculptures
+QUEST_LV_0200_20150317_002985	$Inspect the Destroyed 貓頭鷹雕像
+QUEST_LV_0200_20150317_002986	$There are broken 貓頭鷹雕像s at the end of Ishrai Crossroads. When you take a close look at them, you may be able to find out why.
+QUEST_LV_0200_20150317_002987	$Monsters appeared right after you found the traces of the 貓頭鷹雕像s! Defeat them first.
+QUEST_LV_0200_20150317_002988	$Defeat the monsters that destroyed the 貓頭鷹雕像s
 QUEST_LV_0200_20150317_002989	$Defeat the monsters that destroyed the Owls
 QUEST_LV_0200_20150317_002990	$Defeat the Mushwort that suddenly appeared
-QUEST_LV_0200_20150317_002991	$It seems that the Mushwort over there destroyed the owl sculpture in this place. Destroy the Mushwort to calm down the spirit of the Owl Sculpture.
+QUEST_LV_0200_20150317_002991	$It seems that the Mushwort over there destroyed the 貓頭鷹雕像 in this place. Destroy the Mushwort to calm down the spirit of the 貓頭鷹雕像.
 QUEST_LV_0200_20150317_002992	$Defeat the Mushwort that destroyed the Owl
 QUEST_LV_0200_20150317_002993	$Talk with the Weak Owl
 QUEST_LV_0200_20150317_002994	$The Weak Owl is very sad after receiving the fragments of the Owls. Talk to the Weak Owl again.
 QUEST_LV_0200_20150317_002995	$Obtain Oil from the Oil Box
 QUEST_LV_0200_20150317_002996	$The Weak Owl wants you to burn the Destroyed Owls to send their spirits to the Goddesses. Obtain Oil from the Oil Boxes on the way to Neuoder Field.
-QUEST_LV_0200_20150317_002997	$An Owl Sculpture fell on the Ishrai Crossroads. Get near it and try to stand it up.
+QUEST_LV_0200_20150317_002997	$An 貓頭鷹雕像 fell on the Ishrai Crossroads. Get near it and try to stand it up.
 QUEST_LV_0200_20150317_002998	$Burn the destroyed fragments of the Sculptures so that the Owls can rest in peace eternally
-QUEST_LV_0200_20150317_002999	$Burn the destroyed Owl Sculptures using the Oil as the Weak Owl requested. The Destroyed Owls are at the end of Ishrai Crossroads.
+QUEST_LV_0200_20150317_002999	$Burn the destroyed 貓頭鷹雕像s using the Oil as the Weak Owl requested. The Destroyed Owls are at the end of Ishrai Crossroads.
 QUEST_LV_0200_20150317_003000	$Help the Owls to rest in peace eternally
-QUEST_LV_0200_20150317_003001	$Since you lit it up, protect the fire so that the Owl Sculptures can rest in peace eternally.
-QUEST_LV_0200_20150317_003002	$Try to burn the Owl Sculptures again
-QUEST_LV_0200_20150317_003003	$You were surprised by monsters' sudden attack, but since you defeated them all, burn the Owl Sculptures again.
+QUEST_LV_0200_20150317_003001	$Since you lit it up, protect the fire so that the 貓頭鷹雕像s can rest in peace eternally.
+QUEST_LV_0200_20150317_003002	$Try to burn the 貓頭鷹雕像s again
+QUEST_LV_0200_20150317_003003	$You were surprised by monsters' sudden attack, but since you defeated them all, burn the 貓頭鷹雕像s again.
 QUEST_LV_0200_20150317_003004	$Protect the fire so that the Owls could rest in peace eternally.
 QUEST_LV_0200_20150317_003005	$Defeat the monsters that are rushing in after seeing the fire within the specified time frame
 QUEST_LV_0200_20150317_003006	$Burn the destroyed fragments of the Sculptures
 QUEST_LV_0200_20150317_003007	$Protect the fires until the Sculptures burn completely
 QUEST_LV_0200_20150317_003008	$Report to the Owl Chief Sculpture
 QUEST_LV_0200_20150317_003009	$You helped all the Owls to rest in peace eternally. Return to the Neuoder Field and let the Owl Chief know what you did.
-QUEST_LV_0200_20150317_003010	$The scout at the entrance of Kateen Forest wants you to help him. Talk to him.
+QUEST_LV_0200_20150317_003010	$The scout at 卡丁森林入口 wants you to help him. Talk to him.
 QUEST_LV_0200_20150317_003011	$Defeat Saltistter that attacked Vacenin Squad
 QUEST_LV_0200_20150317_003012	$The scout wants you to help him since he is facing against Saltistter. Help the soldiers to defeat Saltistter.
 QUEST_LV_0200_20150317_003013	$You successfully defeated Saltistter. Talk to Commander Vacenin.
@@ -6960,7 +6960,7 @@ QUEST_LV_0200_20150428_006963	{memo X}Checking../LOOK_SIT/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150428_006964	{memo X}Checking the altar/LOOK_SIT/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150428_006965	Of Father, by Father (1)
 QUEST_LV_0200_20150428_006966	Of Father, by Father (2)
-QUEST_LV_0200_20150428_006967	The Weak Owl Sculpture wants to give the scent of its hometown as a gift to the dead soldiers who has followed its guide. Gather Butterfly Fragrance from the bushes at Butterfly Tomb.
+QUEST_LV_0200_20150428_006967	The Weak 貓頭鷹雕像 wants to give the scent of its hometown as a gift to the dead soldiers who has followed its guide. Gather Butterfly Fragrance from the bushes at Butterfly Tomb.
 QUEST_LV_0200_20150428_006968	Defeat Demon Lord Taumas
 QUEST_LV_0200_20150428_006969	Demon Lords have appeared and are aiming for the weakened Seal Tower. Defeat Demon Lord Taumas.
 QUEST_LV_0200_20150428_006970	Defeat Demon Lord %s
@@ -6996,7 +6996,7 @@ QUEST_LV_0200_20150428_006999	$You're prepared to defeat the Demon Lord Nuaele. 
 QUEST_LV_0200_20150428_007000	$Defeat the Demon Lord Nuaele
 QUEST_LV_0200_20150428_007001	{memo X}Nuaele is gone from Demon Prison and to stabilize it Kupole Arune asked you to defeat the remaining demons in 1st Isolation Area.
 QUEST_LV_0200_20150428_007002	There are demon monsters left in 4th Isolation Area that are still following Nuaele's orders because of her fragments. Kupole Arune asked you to defeat those monsters and retrieve the fragments.
-QUEST_LV_0200_20150511_007003	Kateen Forest Entrance is relatively safe but don't think of going in any further.
+QUEST_LV_0200_20150511_007003	卡丁森林 Entrance is relatively safe but don't think of going in any further.
 QUEST_LV_0200_20150511_007004	The baron is trying his best to purify this farm. {nl}The workers sometimes say weird stuff but don't mind them.
 QUEST_LV_0200_20150511_007005	It would be best if I went myself, but I'm in no position to leave my place now. {nl}Please purify the sanctum using this Holy Water for now. {nl}
 QUEST_LV_0200_20150511_007006	$I want to see my son healthy soon. {nl}It's a pain waiting for him to spit out the energy of the evil curse.
@@ -8731,7 +8731,7 @@ QUEST_LV_0200_20150717_008734	Long time ago, it used be a big city when compared
 QUEST_LV_0200_20150717_008735	But, that was the story when the city used to belong to the humans. {nl}The monsters are adopting faster than the humans.
 QUEST_LV_0200_20150717_008736	We can't even find the traces of the bodies of the victims who were sacrificed on the day of Ruklys' rebellion due to Stone Frosts.{nl}But, that angry souls are deeply permeated into the city.{nl}
 QUEST_LV_0200_20150717_008737	Please light the bonfire that I set at Vienti Fortress.{nl}I may get a chance to toak to the spirits.
-QUEST_LV_0200_20150717_008738	I've put the scent of butterflies that can be obtained from the deep inside Kateen Forest into the bonfire. {nl}It has the power to comfort the souls.
+QUEST_LV_0200_20150717_008738	I've put the scent of butterflies that can be obtained from the deep inside 卡丁森林 into the bonfire. {nl}It has the power to comfort the souls.
 QUEST_LV_0200_20150717_008739	$Even if one is in danger, if one knows that help is coming,{nl} one will have the extra energy to endure longer.
 QUEST_LV_0200_20150717_008740	$A suitable end for a crazy magician. It could have been dangerous without the defensive magic.{nl}He probably operated the wrong line, without knowing the first valve was destroyed...{nl}
 QUEST_LV_0200_20150717_008741	$Anyway, that's great.{nl}Since we've dealt with Antares, let's go up.
@@ -8914,7 +8914,7 @@ QUEST_LV_0200_20150908_008917	Use the Prominence Detector to find the monsters w
 QUEST_LV_0200_20150908_008918	$Completed the Jewel of Prominence!
 QUEST_LV_0200_20150908_008919	Checking the magic tile
 QUEST_LV_0200_20150908_008920	This device is suppressing the magic power of the Tower. {nl}You better destroy it quickly.
-QUEST_LV_0200_20150908_008921	Arrived at Kateen Forest as Goddess Gabija mentioned
+QUEST_LV_0200_20150908_008921	Arrived at 卡丁森林 as Goddess Gabija mentioned
 QUEST_LV_0200_20150908_008922	Fortunately, the beehive seems alright
 QUEST_LV_0200_20150908_008923	Found the mead that Dorjen asked you to bring
 QUEST_LV_0200_20150908_008924	Tried setting up a scarecrow but the monsters aren't showing unusual reactions.
@@ -8930,7 +8930,7 @@ QUEST_LV_0200_20150908_008933	Thank you for releasing me.
 QUEST_LV_0200_20150908_008934	Thank you for freeing me.
 QUEST_LV_0200_20150908_008935	Now I'm really released.
 QUEST_LV_0200_20150908_008936	Go upstairs and find Goddess Gabija!
-QUEST_LV_0200_20150908_008937	$The Mushwort that destroyed the Owl Sculpture appeared!
+QUEST_LV_0200_20150908_008937	$The Mushwort that destroyed the 貓頭鷹雕像 appeared!
 QUEST_LV_0200_20150908_008938	$Liliya passed away. {nl}Make a grave for her.
 QUEST_LV_0200_20150908_008939	$Made a grave for Liliya
 QUEST_LV_0200_20150908_008940	$Searching through the rotten meat
@@ -9097,7 +9097,7 @@ QUEST_LV_0200_20150918_009100	You would feel some weight of it.{nl}But, you shou
 QUEST_LV_0200_20150918_009101	What you've done is really amazing.{nl}I am looking forward to see your growth as a Sadhu Master.
 QUEST_LV_0200_20150918_009102	{memo X}Dionysus is too strong for us to face against.{nl}Even Vakarine won't be able to do anything if we go late.
 QUEST_LV_0200_20150918_009103	$Suddenly, a squad of Red Fishermen appeared!
-QUEST_LV_0200_20150918_009104	$The Mushwort that ate the Owl Sculpture has appeared!
+QUEST_LV_0200_20150918_009104	$The Mushwort that ate the 貓頭鷹雕像 has appeared!
 QUEST_LV_0200_20150918_009105	$After absorbing stamina, the Tree Root Crystal scattered its Cores!{nl}Find the scattered Cores and destroy them!
 QUEST_LV_0200_20150918_009106	Tree Root Crystals were divided and scattered!{nl}Find the real ones and destroy them!
 QUEST_LV_0200_20150918_009107	Looking at the crystal
@@ -9109,8 +9109,8 @@ QUEST_LV_0200_20150918_009112	It seems that Tetraox ate up the spirit!
 QUEST_LV_0200_20150918_009113	The statue was fake!{nl}Defeat Sparnashorn!
 QUEST_LV_0200_20150918_009114	Worrying Owl at Ishrai Crossroads
 QUEST_LV_0200_20150918_009115	$Grita said in order to activate the Tower's Barrier Device again, it would need a great amount of energy. Set the gem Grita gave you on the ground and recharge the gem with the monsters' life force.
-QUEST_LV_0200_20150918_009116	$The Weak Owl Sculpture told you to find his Owl colleagues.{nl}Look for them at the monster hideout towards the right side of Ishrai Crossroads.
-QUEST_LV_0200_20150918_009117	$The Destroyed Owl Sculpture was completely destroyed. Tell the Weak Owl Sculpture what happened.
+QUEST_LV_0200_20150918_009116	$The Weak 貓頭鷹雕像 told you to find his Owl colleagues.{nl}Look for them at the monster hideout towards the right side of Ishrai Crossroads.
+QUEST_LV_0200_20150918_009117	$The Destroyed 貓頭鷹雕像 was completely destroyed. Tell the Weak 貓頭鷹雕像 what happened.
 QUEST_LV_0200_20150918_009118	$Pilgrim Julius suddenly turned into a Drapeliun after seeing the music box. Calm down the Drapeliun that is attacking by reducing its HP below 50% and persuading it.
 QUEST_LV_0200_20150918_009119	Destroy the Cursed Tree Root Crystal Protection Stone
 QUEST_LV_0200_20150918_009120	$Talk to the Trapped Soul
