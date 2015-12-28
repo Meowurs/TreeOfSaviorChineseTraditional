@@ -1015,7 +1015,7 @@ QUEST_LV_0100_20150317_001014	{memo X}All other magicians either died or ran awa
 QUEST_LV_0100_20150317_001015	{memo X}Gabija did not hide herself.{nl}She just coudnl't come forward because she had to protect the tower from demons.{nl}
 QUEST_LV_0100_20150317_001016	{memo X}I heard Agailla Flurry went because she coun't find a successor. {nl}I heard it was for something important.. But I don't know what it is.
 QUEST_LV_0100_20150317_001017	Medzio Diena could strike again anytime, whether in your hometown or my kingdom. {nl} The one responsible for this plague would be someone worthy of my sword.
-QUEST_LV_0100_20150317_001018	Owyn
+QUEST_LV_0100_20150317_001018	歐文
 QUEST_LV_0100_20150317_001019	$Reinforcements? That would really lift our spirits!{nl}Please defeat the monsters nearby.
 QUEST_LV_0100_20150317_001020	$All the other magicians either died or ran away.{nl}Only Goddess Gabija remains protecting the tower.
 QUEST_LV_0100_20150317_001021	$The demons have attacked before, but this battle is taking just too long.{nl}I read about Helgasercle from a book. Maybe she has appeared again..
@@ -1024,7 +1024,7 @@ QUEST_LV_0100_20150317_001023	$You are indeed the Revelator.{nl}Look at yourself
 QUEST_LV_0100_20150317_001024	$Can we have another go, with the same momentum?{nl}I will take care of the other monsters, you go focus on those troublesome Drakes.
 QUEST_LV_0100_20150317_001025	$Those monsters are not as strong when we fight together!
 QUEST_LV_0100_20150317_001026	$Now I feel safe.{nl}I will be okay by myself from here. Thanks!{nl}{nl}
-QUEST_LV_0100_20150317_001027	Cordelier
+QUEST_LV_0100_20150317_001027	科德利亞
 QUEST_LV_0100_20150317_001028	$Black Coal Powder.. With that, we can unleash the seal that is written on this recipe.{nl}But I can't just find it. I am sorry, but could you bring me that powder?
 QUEST_LV_0100_20150317_001029	{memo X}Isn't it better to just scratch the powder from the monsters nearby?
 QUEST_LV_0100_20150317_001030	$Thanks!{nl}Now, I better get ready to unleash the seal.
@@ -1062,8 +1062,8 @@ QUEST_LV_0100_20150317_001061	Suspicious Table
 QUEST_LV_0100_20150317_001062	There's a Golem near here.{nl}I am too scared to go out. Please help me.
 QUEST_LV_0100_20150317_001063	This won't come out.
 QUEST_LV_0100_20150317_001064	Thanks.{nl}I will stay here until it becomes safe, and then run away.
-QUEST_LV_0100_20150317_001065	Furry Odd
-QUEST_LV_0100_20150317_001066	$Pleased to meet you. {nl}I am Furry Odd. I am a magician specialized in object variation.{nl}
+QUEST_LV_0100_20150317_001065	菲莉 奧德
+QUEST_LV_0100_20150317_001066	$Pleased to meet you. {nl}I am 菲莉 奧德. I am a magician specialized in object variation.{nl}
 QUEST_LV_0100_20150317_001067	$I see the Revelator is here to help the Goddess.{nl}While you do so, can you help me collect Variation Mediators from the monsters?
 QUEST_LV_0100_20150317_001068	$The magicians that ran away?{nl}What can we do.. For them, their lives are more important than the Goddess Gabija.{nl}I don't think they are cowards. They are just hopeless.
 QUEST_LV_0100_20150317_001069	Thanks. You are so reliable.
@@ -1078,7 +1078,7 @@ QUEST_LV_0100_20150317_001077	The time to retrieve my body and spirit is near.
 QUEST_LV_0100_20150317_001078	$I can't stand it anymore.{nl}Please destroy the watchers that imprison me.{nl}
 QUEST_LV_0100_20150317_001079	So I guess I can be released now.
 QUEST_LV_0100_20150317_001080	$I promise. That there will be something in the future.
-QUEST_LV_0100_20150317_001081	$Simon Shaw
+QUEST_LV_0100_20150317_001081	$西門 逍爾
 QUEST_LV_0100_20150317_001082	$We should stop Bearkaras, but there are so many monsters.{nl}Can you help us?
 QUEST_LV_0100_20150317_001083	$Now it's time to get revenge!
 QUEST_LV_0100_20150317_001084	$You are so great. {nl}Now we will be able to face against it.
@@ -1171,13 +1171,13 @@ QUEST_LV_0100_20150317_001170	Crafting is only possible during rest mode. {nl}Yo
 QUEST_LV_0100_20150317_001171	If it weren't for you, I would just live believing that my brother is living well somewhere. {nl}You can't say you are not responsible for this.
 QUEST_LV_0100_20150317_001172	Well made.{nl}You will definitely need it sometime in the future.
 QUEST_LV_0100_20150317_001173	Until then, I would hold on to it.{nl}When you need it, don't forget to come and take it from me. I will give it to you when the time comes.
-QUEST_LV_0100_20150317_001174	You surely know a lot of people. {nl}All the masters at Klaipeda and Fedimian know your name.{nl}
-QUEST_LV_0100_20150317_001175	Do you want to bet on this? {nl}Answering all the questions at Mage Tower.
-QUEST_LV_0100_20150317_001176	You can get the quizzes from the magicians from the 1st to 4th floors of the Mage Tower.{nl}I will give you a small present if you can solve all of them.
-QUEST_LV_0100_20150317_001177	Wow, you came up here! You are incredible.{nl}Okay that's it for questions, should we do other things?
-QUEST_LV_0100_20150317_001178	It's nothing special. {nl}If you can collect all scattered pages of the book at the Laboratory on the 3rd floor, I will take that as you answering the question.
-QUEST_LV_0100_20150317_001179	That book is very important to me so I can't just leave this place.
-QUEST_LV_0100_20150317_001180	Yes. That's correct! This is it.{nl}
+QUEST_LV_0100_20150317_001174	你一定認識很多人吧。{nl}所有在 克萊佩達 和 佩帝米安 都知道你的大名。{nl}
+QUEST_LV_0100_20150317_001175	要打個賭嗎？{nl}回答所有在 魔法塔 的問題。
+QUEST_LV_0100_20150317_001176	你可以從在 1 至 4層 魔法塔 內的魔法師獲得小測驗。{nl}如果你能回答所有問題，我會給你個小禮物。
+QUEST_LV_0100_20150317_001177	哇，你來到這了！你真了不起。{nl}好吧，那就是提問時間，或我們該做其他東西？
+QUEST_LV_0100_20150317_001178	這不算什麼。 {nl}如果你可以收集所有散落在 3層 實驗室 的書籍頁面，我就會當你已經回答了提問。
+QUEST_LV_0100_20150317_001179	這書籍是對於我來說是很重要的，因此我不能把它留在那裡。
+QUEST_LV_0100_20150317_001180	是的。這就是正解！{nl}
 QUEST_LV_0100_20150317_001181	{memo X}The Thaumaturge Master told me to give it to you.{nl}If you hadn't done it, I would have kept it for myself.. Such a pity.
 QUEST_LV_0100_20150317_001182	I heard your story before.{nl}You did a tremendous job at the Mage Tower right?{nl}
 QUEST_LV_0100_20150317_001183	That's why I have a favor to ask you.{nl}
@@ -3308,9 +3308,9 @@ QUEST_LV_0100_20150317_003307	Learn Swordsman Attributes
 QUEST_LV_0100_20150317_003308	Learn about the attributes
 QUEST_LV_0100_20150317_003309	Learn Wizard Attributes
 QUEST_LV_0100_20150317_003310	Learn Archer Attributes
-QUEST_LV_0100_20150317_003311	$Young Magician Owyn (1)
+QUEST_LV_0100_20150317_003311	$Young Magician 歐文 (1)
 QUEST_LV_0100_20150317_003312	About the current situation of the tower
-QUEST_LV_0100_20150317_003313	$Young Magician Owyn (2)
+QUEST_LV_0100_20150317_003313	$Young Magician 歐文 (2)
 QUEST_LV_0100_20150317_003314	I'll take care of Drake
 QUEST_LV_0100_20150317_003315	Well then, I shall get going. Goodbye.
 QUEST_LV_0100_20150317_003316	$Evidence of Bedazzlement (1)
@@ -3349,13 +3349,13 @@ QUEST_LV_0100_20150317_003348	{memo X}NPCChat/FTOWER43_SQ_03 /Freedom. I'm final
 QUEST_LV_0100_20150317_003349	Scream in the silence
 QUEST_LV_0100_20150317_003350	Seems strange but let's help
 QUEST_LV_0100_20150317_003351	Pretend you didn't hear it
-QUEST_LV_0100_20150317_003352	$Transmuter Furry Odd (1)
+QUEST_LV_0100_20150317_003352	$Transmuter 菲莉 奧德 (1)
 QUEST_LV_0100_20150317_003353	$I'll find the Variation Mediators
 QUEST_LV_0100_20150317_003354	That's tough
-QUEST_LV_0100_20150317_003355	$Transmuter Furry Odd (2)
+QUEST_LV_0100_20150317_003355	$Transmuter 菲莉 奧德 (2)
 QUEST_LV_0100_20150317_003356	I'll collect it so go ahead
 QUEST_LV_0100_20150317_003357	I can't because I have other things to do
-QUEST_LV_0100_20150317_003358	$Transmuter Furry Odd (3)
+QUEST_LV_0100_20150317_003358	$Transmuter 菲莉 奧德 (3)
 QUEST_LV_0100_20150317_003359	Let's just run away
 QUEST_LV_0100_20150317_003360	A Suspicious Seal
 QUEST_LV_0100_20150317_003361	Defeat the surrounding monsters
@@ -3363,11 +3363,11 @@ QUEST_LV_0100_20150317_003362	{memo X}NPCChat/FTOWER44_SQ_04 /Thank you for rele
 QUEST_LV_0100_20150317_003363	Now It's Really Suspicious
 QUEST_LV_0100_20150317_003364	I'll defeat it
 QUEST_LV_0100_20150317_003365	{memo X}NPCChat/FTOWER44_SQ_05 /Thank you for letting me free
-QUEST_LV_0100_20150317_003366	Hot-blooded Simon Shaw (1)
+QUEST_LV_0100_20150317_003366	Hot-blooded 西門 逍爾 (1)
 QUEST_LV_0100_20150317_003367	I'm sorry, but I don't think I can
-QUEST_LV_0100_20150317_003368	Hot-blooded Simon Shaw (2)
+QUEST_LV_0100_20150317_003368	Hot-blooded 西門 逍爾 (2)
 QUEST_LV_0100_20150317_003369	Don't worry
-QUEST_LV_0100_20150317_003370	Hot-blooded Simon Shaw (3)
+QUEST_LV_0100_20150317_003370	Hot-blooded 西門 逍爾 (3)
 QUEST_LV_0100_20150317_003371	I'll defeat the Bearkaras for you
 QUEST_LV_0100_20150317_003372	Better run away quickly
 QUEST_LV_0100_20150317_003373	Identity of the Suspicous Seals (1)
@@ -3466,10 +3466,10 @@ QUEST_LV_0100_20150317_003465	I appreciate it
 QUEST_LV_0100_20150317_003466	{memo X}Opening box with the key/# SITGROPESET2/3/TRACK_BEFORE/SSN_HATE_AROUND
 QUEST_LV_0100_20150317_003467	Crafting and materials
 QUEST_LV_0100_20150317_003468	I'll try making it
-QUEST_LV_0100_20150317_003469	$The Wizard and Mage Tower (1)
-QUEST_LV_0100_20150317_003470	I'll make a bet
-QUEST_LV_0100_20150317_003471	$The Wizard and Mage Tower (2)
-QUEST_LV_0100_20150317_003472	I will do it
+QUEST_LV_0100_20150317_003469	魔法師與魔法塔 (1)
+QUEST_LV_0100_20150317_003470	我接受這打賭
+QUEST_LV_0100_20150317_003471	魔法師與魔法塔 (2)
+QUEST_LV_0100_20150317_003472	我會辦到
 QUEST_LV_0100_20150317_003473	Hidden, and hidden.
 QUEST_LV_0100_20150317_003474	芝麻开门 (1)
 QUEST_LV_0100_20150317_003475	我會找到線索，所以請給我一個提示
@@ -5499,36 +5499,36 @@ QUEST_LV_0100_20150317_005498	Listen to the explanation about Attributes
 QUEST_LV_0100_20150317_005499	Learn the Attributes and talk to the Swordman Master
 QUEST_LV_0100_20150317_005500	Talk to the Wizard Master
 QUEST_LV_0100_20150317_005501	Talk to the Archer Master
-QUEST_LV_0100_20150317_005502	Talk to Young Magician Owyn
+QUEST_LV_0100_20150317_005502	Talk to Young Magician 歐文
 QUEST_LV_0100_20150317_005503	There is a young magician standing at the marked area of the map. He seems to need some help.
 QUEST_LV_0100_20150317_005504	$Defeat the 賽拉肯 occupying Mage Tower
-QUEST_LV_0100_20150317_005505	Owyn is trying to save the Mage Tower from the demons. Defeat the monsters nearby to help him.
-QUEST_LV_0100_20150317_005506	Report to Owyn
-QUEST_LV_0100_20150317_005507	Done what Owyn requested. Return to him.
+QUEST_LV_0100_20150317_005505	歐文 is trying to save the Mage Tower from the demons. Defeat the monsters nearby to help him.
+QUEST_LV_0100_20150317_005506	Report to 歐文
+QUEST_LV_0100_20150317_005507	Done what 歐文 requested. Return to him.
 QUEST_LV_0100_20150317_005508	$Defeat the 賽拉肯 occupying Mage Tower 1st Floor
-QUEST_LV_0100_20150317_005509	Owyn's Request
-QUEST_LV_0100_20150317_005510	Owyn looks like he has another request. Talk to him.
-QUEST_LV_0100_20150317_005511	Owyn is having a hard time getting rid of Drakes. Defeat the Drakes nearby for him.
-QUEST_LV_0100_20150317_005512	Report to Owyn
-QUEST_LV_0100_20150317_005513	You completed all of Owyn's requests. Return to him.
-QUEST_LV_0100_20150317_005514	$Talk to Cordelier
-QUEST_LV_0100_20150317_005515	$Cordelier is busy in the middle of the Mage Tower. Talk to her.
+QUEST_LV_0100_20150317_005509	歐文's Request
+QUEST_LV_0100_20150317_005510	歐文 looks like he has another request. Talk to him.
+QUEST_LV_0100_20150317_005511	歐文 is having a hard time getting rid of Drakes. Defeat the Drakes nearby for him.
+QUEST_LV_0100_20150317_005512	Report to 歐文
+QUEST_LV_0100_20150317_005513	You completed all of 歐文's requests. Return to him.
+QUEST_LV_0100_20150317_005514	$Talk to 科德利亞
+QUEST_LV_0100_20150317_005515	$科德利亞 is busy in the middle of the Mage Tower. Talk to her.
 QUEST_LV_0100_20150317_005516	{memo X}Defeat the monsters nearby and get black coal powder
-QUEST_LV_0100_20150317_005517	{memo X}Cordelier wants black coal powder. Defeat the monsters nearby and get her the powder.
-QUEST_LV_0100_20150317_005518	$Give Black Coal Powder to Cordelier
-QUEST_LV_0100_20150317_005519	$Gathered enough Black Coal Powder. Talk to Cordelier again.
+QUEST_LV_0100_20150317_005517	{memo X}科德利亞 wants black coal powder. Defeat the monsters nearby and get her the powder.
+QUEST_LV_0100_20150317_005518	$Give Black Coal Powder to 科德利亞
+QUEST_LV_0100_20150317_005519	$Gathered enough Black Coal Powder. Talk to 科德利亞 again.
 QUEST_LV_0100_20150317_005520	$Defeat the monsters nearby and get %s
-QUEST_LV_0100_20150317_005521	$Cordelier is looking at the manual. Talk to her again.
+QUEST_LV_0100_20150317_005521	$科德利亞 is looking at the manual. Talk to her again.
 QUEST_LV_0100_20150317_005522	{memo X}Collect the Eternal Embers
-QUEST_LV_0100_20150317_005523	{memo X}After looking at the manual, Cordelier is asking you to get Eternal Embers. Get it from the monsters nearby.
-QUEST_LV_0100_20150317_005524	$Give the Eternal Ember to Cordelier
-QUEST_LV_0100_20150317_005525	$Collected the Eternal Embers. Give it to Cordelier.
+QUEST_LV_0100_20150317_005523	{memo X}After looking at the manual, 科德利亞 is asking you to get Eternal Embers. Get it from the monsters nearby.
+QUEST_LV_0100_20150317_005524	$Give the Eternal Ember to 科德利亞
+QUEST_LV_0100_20150317_005525	$Collected the Eternal Embers. Give it to 科德利亞.
 QUEST_LV_0100_20150317_005526	Obtain %s
-QUEST_LV_0100_20150317_005527	$Ask Cordelier about the unpleasant vibration that you felt a while ago
+QUEST_LV_0100_20150317_005527	$Ask 科德利亞 about the unpleasant vibration that you felt a while ago
 QUEST_LV_0100_20150317_005528	$Check the bookshelf in the Reading Room
 QUEST_LV_0100_20150317_005529	$Check the bookshelf in the Reading Room to find out about the vibration felt in the Reading Room.
-QUEST_LV_0100_20150317_005530	$Report to Cordelier
-QUEST_LV_0100_20150317_005531	$Defeated the Ginklas that suddenly appeared. Report to Cordelier.
+QUEST_LV_0100_20150317_005530	$Report to 科德利亞
+QUEST_LV_0100_20150317_005531	$Defeated the Ginklas that suddenly appeared. Report to 科德利亞.
 QUEST_LV_0100_20150317_005532	$Talk to the Sealed Stone
 QUEST_LV_0100_20150317_005533	$There's a strange sound coming from the Large Reading Room. Talk to the Sealed Stone.
 QUEST_LV_0100_20150317_005534	$Defeat Belegg and Blindlem
@@ -5584,42 +5584,42 @@ QUEST_LV_0100_20150317_005583	{memo X}Golem is aiming your back like the table s
 QUEST_LV_0100_20150317_005584	Talk to the suspicous table
 QUEST_LV_0100_20150317_005585	It seems like you got out of danger. Talk to the weird and polite table.
 QUEST_LV_0100_20150317_005586	{memo X}Defeat the Gray Golem
-QUEST_LV_0100_20150317_005587	$Talk to Transmuter Furry Odd
+QUEST_LV_0100_20150317_005587	$Talk to Transmuter 菲莉 奧德
 QUEST_LV_0100_20150317_005588	$There is a lady magician in the resting area. Talk to her.
 QUEST_LV_0100_20150317_005589	$Defeat the monsters nearby and get Variation Mediators
-QUEST_LV_0100_20150317_005590	$Furry Odd needs more Variation Mediators to defeat the monsters effectively. Get Variation Mediators from monsters nearby.
-QUEST_LV_0100_20150317_005591	$Give the Variation Mediators to Furry Odd
-QUEST_LV_0100_20150317_005592	$Collected all the Variation Mediators needed. Give it to Furry Odd.
-QUEST_LV_0100_20150317_005593	$Furry Odd seems to have more favors to ask. Talk to her again.
+QUEST_LV_0100_20150317_005590	$菲莉 奧德 needs more Variation Mediators to defeat the monsters effectively. Get Variation Mediators from monsters nearby.
+QUEST_LV_0100_20150317_005591	$Give the Variation Mediators to 菲莉 奧德
+QUEST_LV_0100_20150317_005592	$Collected all the Variation Mediators needed. Give it to 菲莉 奧德.
+QUEST_LV_0100_20150317_005593	$菲莉 奧德 seems to have more favors to ask. Talk to her again.
 QUEST_LV_0100_20150317_005594	$Defeat monsters and get Hardened Black Crystal
-QUEST_LV_0100_20150317_005595	{memo X}Furry Odd says let's meet in Machinery room 1 and tells you to bring the hardened crystal when you meet her. Get the crystals from the monsters nearby.
-QUEST_LV_0100_20150317_005596	{memo X}Meet Furry Odd in front of Machine Room 1
-QUEST_LV_0100_20150317_005597	{memo X}Got the hardened crystals. Join Furry Odd in Machine Room 1.
-QUEST_LV_0100_20150317_005598	$Met Furry Odd near the Machinery room. Talk to her.
+QUEST_LV_0100_20150317_005595	{memo X}菲莉 奧德 says let's meet in Machinery room 1 and tells you to bring the hardened crystal when you meet her. Get the crystals from the monsters nearby.
+QUEST_LV_0100_20150317_005596	{memo X}Meet 菲莉 奧德 in front of Machine Room 1
+QUEST_LV_0100_20150317_005597	{memo X}Got the hardened crystals. Join 菲莉 奧德 in Machine Room 1.
+QUEST_LV_0100_20150317_005598	$Met 菲莉 奧德 near the Machinery room. Talk to her.
 QUEST_LV_0100_20150317_005599	$Defeat Yonazolem
-QUEST_LV_0100_20150317_005600	$Furry Odd says she saw a Yonazolem inside the machine room. Defeat the Yonazolem while Furry Odd stops the monsters at the entrance.
-QUEST_LV_0100_20150317_005601	$Defeated Yonazolem. Return to Furry Odd.
+QUEST_LV_0100_20150317_005600	$菲莉 奧德 says she saw a Yonazolem inside the machine room. Defeat the Yonazolem while 菲莉 奧德 stops the monsters at the entrance.
+QUEST_LV_0100_20150317_005601	$Defeated Yonazolem. Return to 菲莉 奧德.
 QUEST_LV_0100_20150317_005602	$There is a Sealed Stone near the Magic Stabilizing Device. Talk to it.
 QUEST_LV_0100_20150317_005603	$The Sealed Stone asked you to defeat the monsters nearby so that it can be freed. What will happen when all of them are freed? First, defeat the monsters as the seal requested.
 QUEST_LV_0100_20150317_005604	$Finished the request of the Sealed Stone. Release the soul.
 QUEST_LV_0100_20150317_005605	$Find the Sealed Stone
 QUEST_LV_0100_20150317_005606	$There is a Sealed Stone in the 2nd Machinery Room. Talk to it.
 QUEST_LV_0100_20150317_005607	$Defeated the monsters around. Go to the Stone and release the possessed soul.
-QUEST_LV_0100_20150317_005608	$Talk to Simon Shaw
-QUEST_LV_0100_20150317_005609	$There is a well-dressed, gentlemanly wizard resisting the monsters. Talk to Simon Shaw.
+QUEST_LV_0100_20150317_005608	$Talk to 西門 逍爾
+QUEST_LV_0100_20150317_005609	$There is a well-dressed, gentlemanly wizard resisting the monsters. Talk to 西門 逍爾.
 QUEST_LV_0100_20150317_005610	$Defeat Black Drake and retrieve the Flame Charms
-QUEST_LV_0100_20150317_005611	$Simon Shaw is doing his best to resist the monsters. Help him retrieve the Flame Charms that he planted on monsters.
-QUEST_LV_0100_20150317_005612	$Give Flame Charms to Simon Shaw
-QUEST_LV_0100_20150317_005613	$Retrieved all Flame Charms. Give them to Simon Shaw.
+QUEST_LV_0100_20150317_005611	$西門 逍爾 is doing his best to resist the monsters. Help him retrieve the Flame Charms that he planted on monsters.
+QUEST_LV_0100_20150317_005612	$Give Flame Charms to 西門 逍爾
+QUEST_LV_0100_20150317_005613	$Retrieved all Flame Charms. Give them to 西門 逍爾.
 QUEST_LV_0100_20150317_005614	$Defeat Black Drake and get %s
-QUEST_LV_0100_20150317_005615	$Simon Shaw saw something. Talk to him.
+QUEST_LV_0100_20150317_005615	$西門 逍爾 saw something. Talk to him.
 QUEST_LV_0100_20150317_005616	$Defeat the monsters nearby
-QUEST_LV_0100_20150317_005617	$Simon Shaw says he saw Bearkaras and will chase him. Stop the monsters marching in while Simon chases after Bearkaras.
-QUEST_LV_0100_20150317_005618	$Find Simon Shaw
-QUEST_LV_0100_20150317_005619	$Simon Shaw is not back. Go to the Small Hall where he went chasing Bearkaras.
+QUEST_LV_0100_20150317_005617	$西門 逍爾 says he saw Bearkaras and will chase him. Stop the monsters marching in while Simon chases after Bearkaras.
+QUEST_LV_0100_20150317_005618	$Find 西門 逍爾
+QUEST_LV_0100_20150317_005619	$西門 逍爾 is not back. Go to the Small Hall where he went chasing Bearkaras.
 QUEST_LV_0100_20150317_005620	$Simon looks very tired. Talk to him.
 QUEST_LV_0100_20150317_005621	$Simon says he can't defeat Bearkaras on his own. Defeat the Bearkaras for him.
-QUEST_LV_0100_20150317_005622	$Defeated Bearkaras. Tell Simon Shaw about it so that he can be relieved.
+QUEST_LV_0100_20150317_005622	$Defeated Bearkaras. Tell 西門 逍爾 about it so that he can be relieved.
 QUEST_LV_0100_20150317_005623	If you have released all the trapped souls in the seal stone along your way from the Mage Tower, you can get the last mission from the suspicious lamp on the way to Keturidu Grand Hall.
 QUEST_LV_0100_20150317_005624	If you do the seal stone's favors, then you will be able to find out the identity of those trapped inside the seal stones. Kill the monsters guarding around the seal stone as requested.
 QUEST_LV_0100_20150317_005625	Defeated all the monsters around. Return to the seal stone.
@@ -5779,23 +5779,23 @@ QUEST_LV_0100_20150317_005778	Bring %s
 QUEST_LV_0100_20150317_005779	Talk to Koven
 QUEST_LV_0100_20150317_005780	Find the Treasure Chest
 QUEST_LV_0100_20150317_005781	Find the Treasure chest hidden somewhere in the Crystal Stream. It can be opened it with the key Koven gave you.
-QUEST_LV_0100_20150317_005782	Talk to Furry Odd
-QUEST_LV_0100_20150317_005783	Furry Odd is surprised with the bag full of Drake's Horn. Talk to her.
+QUEST_LV_0100_20150317_005782	Talk to 菲莉 奧德
+QUEST_LV_0100_20150317_005783	菲莉 奧德 is surprised with the bag full of Drake's Horn. Talk to her.
 QUEST_LV_0100_20150317_005784	Make badge of Drake
-QUEST_LV_0100_20150317_005785	Received recipe from Furry Odd
+QUEST_LV_0100_20150317_005785	Received recipe from 菲莉 奧德
 QUEST_LV_0100_20150317_005786	key can be used to create the badge of Drake
-QUEST_LV_0100_20150317_005787	Crafted the badge of Drake. Talk to Furry Odd.
-QUEST_LV_0100_20150317_005788	Make %s and give it to Furry Odd
-QUEST_LV_0100_20150317_005789	Talk to all the masters. Talk to the Thaumaturge Master in Fedimian.
-QUEST_LV_0100_20150317_005790	Find the Wizards in Mage Tower
-QUEST_LV_0100_20150317_005791	The Thaumaturge Master offered a bet. You have to meet all the wizards in Mage Tower and solve the quiz questions they give.
-QUEST_LV_0100_20150317_005792	Solve the quiz of Simon Shaw in Mage Tower 5th Floor
-QUEST_LV_0100_20150317_005793	Solved quizzes of three wizards. Talk to Simon Shaw in Mage Tower 5th Floor for the last quiz question.
-QUEST_LV_0100_20150317_005794	Talk to Simon Shaw for the last quiz question.
-QUEST_LV_0100_20150317_005795	Find the page of book in Mage Tower 3rd Floor Laboratory
-QUEST_LV_0100_20150317_005796	Simon Shaw offered bringing him a page of book instead of the quiz. Find the book in Mage Tower 3rd Flood Laboratory.
-QUEST_LV_0100_20150317_005797	Give it to Simon Shaw
-QUEST_LV_0100_20150317_005798	Found all the pages. Talk to Simon Shaw.
+QUEST_LV_0100_20150317_005787	Crafted the badge of Drake. Talk to 菲莉 奧德.
+QUEST_LV_0100_20150317_005788	Make %s and give it to 菲莉 奧德
+QUEST_LV_0100_20150317_005789	和所有導師 交談。然後，和在佩帝米安的 奇術士 導師 交談。
+QUEST_LV_0100_20150317_005790	在 魔法塔 內尋找魔法師
+QUEST_LV_0100_20150317_005791	奇術士 導師 提供了個賭注。你須得找到所有在 魔法塔 的 魔法師，然後解決他們所給的測驗問題。
+QUEST_LV_0100_20150317_005792	在 魔法塔 5層 解決 西門 逍爾 的測驗問題
+QUEST_LV_0100_20150317_005793	已經解決了三位魔法師的測驗。到 5層 和 西門 逍爾 對話以獲得最後一道測驗問題.
+QUEST_LV_0100_20150317_005794	和 西門 逍爾 對話以獲得最後一道測驗問題.
+QUEST_LV_0100_20150317_005795	在魔法塔 3層 的 實驗室 尋找散落的書籍頁面
+QUEST_LV_0100_20150317_005796	西門 逍爾 提出了帶給他散落的書籍頁面，而不是回答提問。到3層的實驗室尋找書籍頁面。
+QUEST_LV_0100_20150317_005797	把它們交給 西門 逍爾
+QUEST_LV_0100_20150317_005798	找到了所有頁面。向 西門 逍爾 匯報。
 QUEST_LV_0100_20150317_005799	The Sadhu Master is looking at you with a grin. Talk to him,
 QUEST_LV_0100_20150317_005800	Collect amber with lizard in it
 QUEST_LV_0100_20150317_005801	The Sadhu Master wants you to bring him something dearly. Get him the amber with lizard in it.
@@ -6837,9 +6837,9 @@ QUEST_LV_0100_20150428_006836	$Obtained the Sealed Stone's Voices by defeating A
 QUEST_LV_0100_20150428_006837	$The Sealed Stone told you that its other spirit lost its voice and wants you to retrieve the voice. Collect the Sealed Stone's Voices from Armas.
 QUEST_LV_0100_20150428_006838	Defeat Gray Golem
 QUEST_LV_0100_20150428_006839	As a suspicious desk has told you, the Gray Golem is chasing after you. It will be better to defeat the Gray Golem first.
-QUEST_LV_0100_20150428_006840	$Furry Odd told you to meet at the 1st Machinery Room and asked you to bring Hardened Black Crystals. Obtain the Hardened Black Crystals from the monsters nearby.
-QUEST_LV_0100_20150428_006841	$Meet Furry Odd in front of the 1st Machinery Room.
-QUEST_LV_0100_20150428_006842	$You have obtained the Black Crystals. Meet Furry Odd at the 1st Machinery Room.
+QUEST_LV_0100_20150428_006840	$菲莉 奧德 told you to meet at the 1st Machinery Room and asked you to bring Hardened Black Crystals. Obtain the Hardened Black Crystals from the monsters nearby.
+QUEST_LV_0100_20150428_006841	$Meet 菲莉 奧德 in front of the 1st Machinery Room.
+QUEST_LV_0100_20150428_006842	$You have obtained the Black Crystals. Meet 菲莉 奧德 at the 1st Machinery Room.
 QUEST_LV_0100_20150428_006843	The Stone Whale that was protecting Hauberk woke up. Defeat the Stone Whale that is holding the soul.
 QUEST_LV_0100_20150428_006844	Watcher Basil told you that the Panto Wizards at Valio Mountain Cabin Hill are looking for the rope that is needed to restore the shaman doll. He told you that if words are not enough, use force.
 QUEST_LV_0100_20150428_006845	Obtain %s by defeating Panto Wizards

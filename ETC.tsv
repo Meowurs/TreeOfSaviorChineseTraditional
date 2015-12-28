@@ -2132,13 +2132,13 @@ ETC_20150317_002130	Hidden Desk
 ETC_20150317_002131	澤米娜
 ETC_20150317_002132	奧施麗涅
 ETC_20150317_002133	瓦卡麗涅
-ETC_20150317_002134	Correct! Good bye!
-ETC_20150317_002135	Wrong! Try again!
-ETC_20150317_002136	Scharffen Star
-ETC_20150317_002137	Sparkly Star
-ETC_20150317_002138	Dang, wrong. You still have plenty of chances so just try again.
-ETC_20150317_002139	Uska
-ETC_20150317_002140	Cunningham
+ETC_20150317_002134	答對了！再見！
+ETC_20150317_002135	錯了！再嘗試！
+ETC_20150317_002136	夏爾芬之星
+ETC_20150317_002137	閃光之星
+ETC_20150317_002138	該死，錯了。你還有很多機會，再試試吧。
+ETC_20150317_002139	烏斯卡
+ETC_20150317_002140	坎寧安
 ETC_20150317_002141	Is!
 ETC_20150317_002142	Wrong but it's too early to be disappointed.
 ETC_20150317_002143	Searching for a sheet of paper
@@ -3188,7 +3188,7 @@ ETC_20150317_003186	The power of just six stones is not enough
 ETC_20150317_003187	Rock Vubbe Miner
 ETC_20150317_003188	Pickaxe Vubbet Miner
 ETC_20150317_003189	Smells like some petty humans
-ETC_20150317_003190	Knight Uska
+ETC_20150317_003190	Knight 烏斯卡
 ETC_20150317_003191	Soldier
 ETC_20150317_003192	Detailed description is skipped
 ETC_20150317_003193	幹得好！
@@ -6738,7 +6738,7 @@ ETC_20150317_006736	Reading Room
 ETC_20150317_006737	Large Reading Room
 ETC_20150317_006738	Office
 ETC_20150317_006739	Place for Debate
-ETC_20150317_006740	Laboratory
+ETC_20150317_006740	實驗室
 ETC_20150317_006741	Central Control Room
 ETC_20150317_006742	1st Library
 ETC_20150317_006743	Boiling Balcony
@@ -7737,10 +7737,10 @@ ETC_20150317_007735	{memo X}Sanctum of Secrecy - Wizard type_conditions
 ETC_20150317_007736	{memo X}Sanctum of Secrecy - Archer type_conditions
 ETC_20150317_007737	{memo X}Sanctum of Secrecy - Cleric type_conditions
 ETC_20150317_007738	Purpose of the secret box
-ETC_20150317_007739	Passed Magician Owyn quiz
-ETC_20150317_007740	Answer the quiz of Dazzlementer Cordelier
-ETC_20150317_007741	Answer the quiz of Transmuter Furryode
-ETC_20150317_007742	Collect a sheet from a wizard's book inside the laboratory on Mage's Tower 3rd Floor.
+ETC_20150317_007739	通過 魔法師 歐文 的測驗
+ETC_20150317_007740	回答 科德利亞 的測驗
+ETC_20150317_007741	回答 蛻變術士 菲莉 奧德 的測驗
+ETC_20150317_007742	在魔法塔3層 的 實驗室 里收集 散落的魔法書籍頁面
 ETC_20150317_007743	For fail and success
 ETC_20150317_007744	Enter numbers to the chat window.
 ETC_20150317_007745	For Open Sesame
@@ -11245,7 +11245,7 @@ ETC_20150428_011243	Destroy the Magic Control Valve!
 ETC_20150428_011244	The Mineloader has started working!{nl}Defeat the Mineloader!
 ETC_20150428_011245	{memo X}Defeat the monsters reacting to the Spell Stabilizer {n} and guard the Jewel of Prominence!
 ETC_20150428_011246	{memo X}Defeat the Grinenter that Grita summoned {nl}and retrieve the Jewel of Prominence!
-ETC_20150428_011247	Defeat Yonazolem {nl}while Furry Ode is blocking the entrance!
+ETC_20150428_011247	Defeat Yonazolem {nl}while 菲莉 奧德 is blocking the entrance!
 ETC_20150428_011248	Defeat Helgasercle, who is occupying the Mage Tower!
 ETC_20150428_011249	Defeat Bearkaras for Simon Shaw!
 ETC_20150428_011250	The Stone Whale guarding Hauberk has woken up. {nl}Defeat the Stone Whale!
