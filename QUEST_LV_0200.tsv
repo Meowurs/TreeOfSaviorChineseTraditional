@@ -1585,6 +1585,7 @@ QUEST_LV_0200_20150317_001584	I'll get rid of the monsters
 QUEST_LV_0200_20150317_001585	Medicing Made of Spring Light Grass
 QUEST_LV_0200_20150317_001586	Don't worry, I'll get it
 QUEST_LV_0200_20150317_001587	Just ignore it
+QUEST_LV_0200_20150317_001588	失敗與成功
 QUEST_LV_0200_20150317_001589	一步一步集聚
 QUEST_LV_0200_20150317_001590	我會協助征討它們.
 QUEST_LV_0200_20150317_001590	I'll help subjugate
@@ -2617,12 +2618,12 @@ QUEST_LV_0200_20150317_002616	$Collect Spring Light Grass
 QUEST_LV_0200_20150317_002617	$Pharmacist Tiana says she needs more Spring Light Grass to make her medicine. Use bee honey jelly to find and collect the elusive Spring Light Grass.
 QUEST_LV_0200_20150317_002618	$Give the Spring Light Grass to Pharmacist Tiana
 QUEST_LV_0200_20150317_002619	$Gathered enough Spring Light Grass. Give it to Tiana.
-QUEST_LV_0200_20150317_002620	Talk to Equipment Merchant in Fedimian
-QUEST_LV_0200_20150317_002621	The Equipment Merchant seems to pity you for your failed upgrade. Talk to him.
-QUEST_LV_0200_20150317_002622	Collect the Mark of Pilgrim
-QUEST_LV_0200_20150317_002623	Equipment Merchant offered pretty good rewards in exchange for your help. Go to the Starving Demon's Way and get the Mark of Pilgrim.
-QUEST_LV_0200_20150317_002624	Give it to Fedimian Equipment Merchant
-QUEST_LV_0200_20150317_002625	Obtained all the Marks. Give it to the Equipment Merchant.
+QUEST_LV_0200_20150317_002620	與 佩帝米安 的 裝備商人 對話
+QUEST_LV_0200_20150317_002621	裝備商人 看起來對你強化失敗感到同情。與他對話。
+QUEST_LV_0200_20150317_002622	收集 朝聖者的標誌
+QUEST_LV_0200_20150317_002623	裝備商人 提供了不錯的報酬以換取你的協助。到 餓鬼之路 收集 朝聖者的標誌。
+QUEST_LV_0200_20150317_002624	把它們交給 佩帝米安 裝備商人
+QUEST_LV_0200_20150317_002625	獲得了所有標誌。把它們交給 裝備商人。
 QUEST_LV_0200_20150317_002626	Obtained %s from the monster in Way of the Big Starving Demon
 QUEST_LV_0200_20150317_002627	Meet Commander 烏斯卡
 QUEST_LV_0200_20150317_002628	Commander 烏斯卡 seems to be have some troubles. Talk to him.
@@ -9073,11 +9074,11 @@ QUEST_LV_0200_20150918_009076	{memo X}$You mean the Jar of Fire? I know about it
 QUEST_LV_0200_20150918_009077	$If you don't need it, then I also don't have a choice. {nl} I am a merchant, not a volunteer.
 QUEST_LV_0200_20150918_009078	$Oh, thank you very much. {nl} I heard that a monster called Mothstem has the Jar of Fire and it would never let go of it.
 QUEST_LV_0200_20150918_009079	$Um, I heard the Item Merchant saw it recently. You should go ask him about it.
-QUEST_LV_0200_20150918_009080	$What a disaster. It's so disappointing. {nl}A merchant like me may not fully understand what you're feeling but still...
-QUEST_LV_0200_20150918_009081	$For all that, do me a favor and I'll give you something nice. It may not be as great as the one you broke but still quite useful.
-QUEST_LV_0200_20150918_009082	$I'm not asking for a lot. {nl} You can see this in the signs the pilgrims make along Starving Demon's Way.
-QUEST_LV_0200_20150918_009083	$If no, then I've got nothing else. {nl} If we can, we will mutually profit.
-QUEST_LV_0200_20150918_009084	$You've come to want something, huh? {nl} An interesting life really depends on reckless challenges, huh?
+QUEST_LV_0200_20150918_009080	太可惜了。這真的太讓人失望了。{nl}像我這樣的商人可能無法完全明白你的感受，但...
+QUEST_LV_0200_20150918_009081	雖然如此，就幫我個忙，我會給你一些好東西。它可能不像你弄壞的那個這般好，但還是有用的。
+QUEST_LV_0200_20150918_009082	我並不要求太多。{nl} 你可以在 餓鬼之路 的路上看到 朝聖者們留下的標誌。
+QUEST_LV_0200_20150918_009083	如果沒有，那我也沒別的了。{nl}如果我們都行，那就可以互惠咯。
+QUEST_LV_0200_20150918_009084	回來得真是時候。{nl}率性的挑戰難道不就是有趣的人生嗎？
 QUEST_LV_0200_20150918_009085	{memo X}$Well, well. What have I been doing? {nl} Oh, my Liliya...{nl}
 QUEST_LV_0200_20150918_009086	$Her music box and necklace were snatched by Naktis' subordinates, and infused with Naktis' curse. {nl}It's as if they are trying to mock Maven's teachings.
 QUEST_LV_0200_20150918_009087	$Hold on, my head's ringing again from that curse. {nl} There's still so much to say... I don't know if I will be able to handle it right now.
@@ -9181,7 +9182,7 @@ QUEST_LV_0200_20151001_009184	$They're all either dead or outta here.{nl}I bet I
 QUEST_LV_0200_20151001_009185	My body... Unfortunately, it doesn't belong to me.{nl}I regret my faults that I'd committed in the past because of my greed.
 QUEST_LV_0200_20151001_009186	I hope you are okay.{nl}We are all done, but you are not.
 QUEST_LV_0200_20151001_009187	{memo X}But...{nl}It won't work with this material alone.{nl}We should also have the tools...
-QUEST_LV_0200_20151001_009188	{memo X}{nl}When you go to Orsha, there must be people who have the tools.{nl}Maybe the blacksmith or the equipment merchant...?{nl}Can you go there?
+QUEST_LV_0200_20151001_009188	{memo X}{nl}When you go to Orsha, there must be people who have the tools.{nl}Maybe the blacksmith or the 裝備商人...?{nl}Can you go there?
 QUEST_LV_0200_20151001_009189	{memo X}Be careful on your journey
 QUEST_LV_0200_20151001_009190	{memo X}The construction of the sanctum...
 QUEST_LV_0200_20151001_009191	{memo X}{nl}Hmm...
