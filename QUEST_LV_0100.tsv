@@ -1313,7 +1313,7 @@ QUEST_LV_0100_20150317_001312	I should have returned quietly after advising thos
 QUEST_LV_0100_20150317_001313	$Liaison Officer Bale
 QUEST_LV_0100_20150317_001314	We are not responsible for the safety of a person who is not registered.{nl}Please go back to a safe place.
 QUEST_LV_0100_20150317_001315	$I am sorry for not being of any help, but you are not on the list.
-QUEST_LV_0100_20150317_001316	Historian Colin
+QUEST_LV_0100_20150317_001316	史學家 柯林
 QUEST_LV_0100_20150317_001317	Well, I don't know anything.{nl}Hmm.. not at all.
 QUEST_LV_0100_20150317_001318	How can I put all these materials in order?
 QUEST_LV_0100_20150317_001319	A person who uses a demon's name.. He must be crazy.
@@ -2315,7 +2315,7 @@ QUEST_LV_0100_20150317_002314	Yes. Well done.{nl}Here you go. It's a gift to you
 QUEST_LV_0100_20150317_002315	Don't underestimate it. It was a strong animal in the old stories.{nl}In some places, one becomes an enemy to all other people just by touching that animal.
 QUEST_LV_0100_20150317_002316	{memo X}
 QUEST_LV_0100_20150317_002317	{memo X}The canyon area is like a grave for many explorers and historians. {nl} And we study to find more factual history on top of their graves.
-QUEST_LV_0100_20150317_002318	Thank you. {nl} Our academia will not forget him either. 
+QUEST_LV_0100_20150317_002318	謝謝了。我們學術界也將不會遺忘他們。 
 QUEST_LV_0100_20150317_002319	The Revelator who said such things lies at rest here.{nl}If you can survive after facing nearby monsters for 2 minutes, I'll be able to think differently from now on.
 QUEST_LV_0100_20150317_002320	Next time, be careful when using public utilities. {nl} Well that's that and you have some great power. 
 QUEST_LV_0100_20150317_002321	Oh.. It's absurdity gets me at loss for words every time I look at it. {nl} Was is really this fragile..
@@ -3301,8 +3301,8 @@ QUEST_LV_0100_20150317_003300	I'll do the errand
 QUEST_LV_0100_20150317_003301	Soldier Lindt's Favor
 QUEST_LV_0100_20150317_003302	I'll share the food
 QUEST_LV_0100_20150317_003303	Officer Liudas' Favor
-QUEST_LV_0100_20150317_003304	Historian Colin's Favor
-QUEST_LV_0100_20150317_003305	I will burn the oration and comfort the souls
+QUEST_LV_0100_20150317_003304	史學家 柯林的請求
+QUEST_LV_0100_20150317_003305	我會焚燒這祭文以慰亡靈
 QUEST_LV_0100_20150317_003306	Repair the Practice Wooden Seal (2)
 QUEST_LV_0100_20150317_003307	Learn Swordsman Attributes
 QUEST_LV_0100_20150317_003308	Learn about the attributes
@@ -5484,11 +5484,11 @@ QUEST_LV_0100_20150317_005483	Officer Liudas is looking carefully at your chick 
 QUEST_LV_0100_20150317_005484	{memo X}
 QUEST_LV_0100_20150317_005485	{memo X}
 QUEST_LV_0100_20150317_005486	{memo X}
-QUEST_LV_0100_20150317_005487	Talk to Historian Colin
-QUEST_LV_0100_20150317_005488	Colin looks lonely. Talk to Colin.
-QUEST_LV_0100_20150317_005489	Burn the oration
+QUEST_LV_0100_20150317_005487	和 史學家 柯林 交談
+QUEST_LV_0100_20150317_005488	柯林 看起來很孤單。和 柯林 交談。
+QUEST_LV_0100_20150317_005489	燃燒祭文
 QUEST_LV_0100_20150317_005490	{memo X}
-QUEST_LV_0100_20150317_005491	Report to Colin
+QUEST_LV_0100_20150317_005491	向 柯林 匯報
 QUEST_LV_0100_20150317_005492	{memo X}
 QUEST_LV_0100_20150317_005493	Repair the wooden seal for practice
 QUEST_LV_0100_20150317_005494	Gathered all materials needed for the repair. Return to the Highlander Master's practice area and repair the seal.
@@ -6547,8 +6547,8 @@ QUEST_LV_0100_20150323_006546	Defeat the monsters in Owl Burial Ground
 QUEST_LV_0100_20150323_006547	Defeat the monsters in Lemprasa Pond
 QUEST_LV_0100_20150323_006548	Officer Liudas say he'll give you an accessory if you defeat the monsters around. Defeat the monsters around Lemprasa Pond.
 QUEST_LV_0100_20150323_006549	Defeated a lot of monsters in Lemprasa Pond. Report to Offier Liudas. 
-QUEST_LV_0100_20150323_006550	Historian Collin wants to honor the explorers who died while exploring this area. Burn the oration in their honor in front of the epitaph at Rukas Plateau.
-QUEST_LV_0100_20150323_006551	Burned the oration in fron of the epitaph in Rukas Plateau. Report to Historian Collin.
+QUEST_LV_0100_20150323_006550	史學家 柯林想要祭奠在探索這區域時犧牲的探險家。到 迷霧高原在 墓志銘前燃燒祭文。
+QUEST_LV_0100_20150323_006551	已在迷霧高原的墓志銘前焚燒了祭文。向史學家 柯林 匯報。
 QUEST_LV_0100_20150323_006552	Guards in Strautas are waiting for someone's help.
 QUEST_LV_0100_20150323_006553	Unlike Molly's expectations, Capria is even angrier after seeing its babies and even attacked them. Tell Molly that peace in Srautas does not seem possible.
 QUEST_LV_0100_20150323_006554	$Knight Commander 烏斯加 thinks the high gardens in the revelation refers to an area in Gele Plateau and told you to meet the Paladin Master.
@@ -6885,7 +6885,7 @@ QUEST_LV_0100_20150511_006884	Varkis' Spirit
 QUEST_LV_0100_20150511_006885	{memo X}That is my adventure journal.. lots of my diaries are hidden at Rukas Plateau besides that..{nl}I want you to retrieve those..
 QUEST_LV_0100_20150511_006886	{memo X}That object is not useful to me anymore now..{nl}If you could find those diaries, I will make you the completed version.
 QUEST_LV_0100_20150511_006887	{memo X}Here it is..{nl}The completed version.. I will leave now..
-QUEST_LV_0100_20150511_006888	The one who fell while researching..{nl}Gone back to the Goddess by becoming a part of the canyon.{nl}Saddened mind would penetrate the gold stones, the liquor that is poured would permeate onto the ground for tears..{nl}
+QUEST_LV_0100_20150511_006888	為求知探索而倒下的英靈...{nl}成為了峽谷的一部分回到女神的懷抱。{nl}悲痛之情可貫穿峽谷之金石, 非淚下然撒酒浸濕這片土地..{nl}
 QUEST_LV_0100_20150511_006889	{memo X}Notice/Unfortunately, Varkis passed away. {nl}But, if you go to Varkis' camp, you will meet his spirit#5
 QUEST_LV_0100_20150511_006890	$The Eternal Adventure (1)
 QUEST_LV_0100_20150511_006891	{memo X}Notice/It is written that the next material is hidden on the way to the neck of the snake cliff!#5
@@ -7142,7 +7142,7 @@ QUEST_LV_0100_20150714_007141	I am so grateful since you are helping us with the
 QUEST_LV_0100_20150714_007142	I will comfort this.{nl}
 QUEST_LV_0100_20150714_007143	Their pain, resentment, wrath and sadness...{nl}I hope they all forget in the arms of the Goddess.
 QUEST_LV_0100_20150714_007144	The Chapparition in Escanciu Village took away many lives.{nl}Defeat it in the name of the Goddess.
-QUEST_LV_0100_20150714_007145	I'm sorry...but,{nl}Can you burn this oration in front of the epitaph at Nepatogu Field in Rukas Plateau? {nl}You have explored different areas of the valley. I think you are more than qualified to comfort their souls.
+QUEST_LV_0100_20150714_007145	不好意思，但...{nl}你可以到 迷霧高原的 尼泊拓谷原野 那裡的墓志銘焚燒這篇祭文嗎? {nl}你已經探索了這山谷的不同區域。我覺得你更有資格慰藉他們的英靈。
 QUEST_LV_0100_20150714_007146	{memo X}key to check the map #7
 QUEST_LV_0100_20150714_007147	{memo X}Notice/!/The box appeared!{nl}Check the box inside while avoiding monsters' attacks!#7
 QUEST_LV_0100_20150714_007148	{memo X}Notice/You failed to get the treasure of the stonemason's family!{nl}Pipoti has dissappeared, but you will meet him again in the future!
