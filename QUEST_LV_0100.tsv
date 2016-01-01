@@ -1184,12 +1184,12 @@ QUEST_LV_0100_20150317_001183	That's why I have a favor to ask you.{nl}
 QUEST_LV_0100_20150317_001184	This is the pumpkin where lizard is in. {nl}I heard it's somewhere..I am sure you will find it.
 QUEST_LV_0100_20150317_001185	Thank you. This is an amazing jewel.{nl}It is rare that a Sadhu is interested in contemporary objects.
 QUEST_LV_0100_20150317_001186	That proves that it is an important object.
-QUEST_LV_0100_20150317_001187	Unknown being.
-QUEST_LV_0100_20150317_001188	How dare someone wants to confront me.{nl}Tell me the secret number. I can't tell you unless you tell me the number.
-QUEST_LV_0100_20150317_001189	You're a brave guy. {nl} There are five clues in 1st Mine Lot . {nl} No need to hurry. It will take a long time.
-QUEST_LV_0100_20150317_001190	Found it. {nl} Then I'll start from now.
-QUEST_LV_0100_20150317_001191	I'll give you a riddle. {nl} It is something you must do, have done most, and will have to do. {nl} Show your answer in action.
-QUEST_LV_0100_20150317_001192	Good work. {nl} You will be rewarded with proper compensation.
+QUEST_LV_0100_20150317_001187	謎之聲
+QUEST_LV_0100_20150317_001188	你怎麼敢挑戰我.{nl}告訴我暗碼. 除非你告訴我暗碼，要不然我一句話都不會和你談.
+QUEST_LV_0100_20150317_001189	你很勇敢. {nl} 水晶礦山 1至2層 會有5個提示 . {nl} 慢慢來. 這將會耗上一些時間.
+QUEST_LV_0100_20150317_001190	找到了. {nl} 那現在我開始咯.
+QUEST_LV_0100_20150317_001191	我將會給你個謎題. {nl} 這將會是你需要做的, 做最多的, 和你將會需要做的. {nl} 用行動秀出你的答案.
+QUEST_LV_0100_20150317_001192	做得好. {nl} 您将獲得适当补偿予以奖励.
 QUEST_LV_0100_20150317_001193	{memo X}What do you think are the factors that affect outcomes?{nl}If you just focus on attacking, then you may receive more damages.
 QUEST_LV_0100_20150317_001194	If you ask me what the strongest weapon is, my answer to that would be faith.{nl}An ally that you can truly rely on.
 QUEST_LV_0100_20150317_001195	$A Thaumaturge does not get stronger just by learning.{nl}You should experience it yourself.
@@ -3471,10 +3471,10 @@ QUEST_LV_0100_20150317_003470	I'll make a bet
 QUEST_LV_0100_20150317_003471	$The Wizard and Mage Tower (2)
 QUEST_LV_0100_20150317_003472	I will do it
 QUEST_LV_0100_20150317_003473	Hidden, and hidden.
-QUEST_LV_0100_20150317_003474	Open Sesame (1)
-QUEST_LV_0100_20150317_003475	I'll find the clue so give me a hint
-QUEST_LV_0100_20150317_003476	Open Sesame (2)
-QUEST_LV_0100_20150317_003477	I'll solve the riddle
+QUEST_LV_0100_20150317_003474	芝麻开门 (1)
+QUEST_LV_0100_20150317_003475	我會找到線索，所以請給我一個提示
+QUEST_LV_0100_20150317_003476	芝麻开门 (2)
+QUEST_LV_0100_20150317_003477	我會解開這個謎語
 QUEST_LV_0100_20150317_003478	Unseal the broken seal of Pasaga Cliff in Pillar Canyon
 QUEST_LV_0100_20150317_003479	{memo X}Releasing/MAKING/3/TRACK_BEFORE/None
 QUEST_LV_0100_20150317_003480	{memo X}Releasing/ MAKING/3/TRACK_BEFORE/SSN_HATE_AROUND
@@ -5801,17 +5801,17 @@ QUEST_LV_0100_20150317_005800	Collect amber with lizard in it
 QUEST_LV_0100_20150317_005801	The Sadhu Master wants you to bring him something dearly. Get him the amber with lizard in it. 
 QUEST_LV_0100_20150317_005802	Got the amber with lizard. Give it to the Sadhu Master.
 QUEST_LV_0100_20150317_005803	Get %s
-QUEST_LV_0100_20150317_005804	Talk to unknown being
-QUEST_LV_0100_20150317_005805	You can hear a strange voice somewhere. Talk to the unknown being.
-QUEST_LV_0100_20150317_005806	Enter the clue
-QUEST_LV_0100_20150317_005807	The unknown being says you need to bring more clues for him to talk. Find and enter the five clues from Crustal Mines 1st Floor. 
-QUEST_LV_0100_20150317_005808	Found the glues about the unknown being. Talk to the unknown being again. 
-QUEST_LV_0100_20150317_005809	Hunting.
-QUEST_LV_0100_20150317_005810	The unknown being gave you a riddle stating,
-QUEST_LV_0100_20150317_005811	the thing to do, thing that has been done, and will keep doing.
-QUEST_LV_0100_20150317_005812	Show your answer through action.
-QUEST_LV_0100_20150317_005813	Solved the riddle. Talk to the unknown being. 
-QUEST_LV_0100_20150317_005814	Answer to the riddle
+QUEST_LV_0100_20150317_005804	和 謎之聲 交談
+QUEST_LV_0100_20150317_005805	你可以聽到從某處傳出奇怪的交談聲. 和 謎之聲 交談.
+QUEST_LV_0100_20150317_005806	輸入線索
+QUEST_LV_0100_20150317_005807	謎之聲 說你需要帶來更多的線索，他才願意和你聊天. 到 水晶礦山 1層 尋找5個線索. 
+QUEST_LV_0100_20150317_005808	找到了所有關於 謎之聲 的線索. 回去向 謎之聲 報告. 
+QUEST_LV_0100_20150317_005809	狩獵.
+QUEST_LV_0100_20150317_005810	謎之聲 給你一個提示,
+QUEST_LV_0100_20150317_005811	即將要做的事情, 已經完成的事情, 和將會繼續做.
+QUEST_LV_0100_20150317_005812	用行動證明你的答案吧.
+QUEST_LV_0100_20150317_005813	解開謎語. 向 謎之聲 報告. 
+QUEST_LV_0100_20150317_005814	回答謎語
 QUEST_LV_0100_20150317_005815	Release the seal at Pasaga Cliff.
 QUEST_LV_0100_20150317_005816	{memo X}
 QUEST_LV_0100_20150317_005817	{memo X}Monsters suddenly appeared as you tried to remove the seal. Defeat them and protect yourself. 
@@ -6964,39 +6964,39 @@ QUEST_LV_0100_20150714_006963	This place is too dangerous. {nl}Please go to a sa
 QUEST_LV_0100_20150714_006964	Clymen... I can feel its presence at the Ishpirki Access Road.{nl}Please defeat it.
 QUEST_LV_0100_20150714_006965	$Bramble..{nl}It is a pity that it went against its own fate.{nl}
 QUEST_LV_0100_20150714_006966	When I gained my conciousness, a few hundreds of years have passed.
-QUEST_LV_0100_20150714_006967	Jane's Spirit
-QUEST_LV_0100_20150714_006968	I saved nothing.{nl}Master, Mage Tower, and my peace??nl}
-QUEST_LV_0100_20150714_006969	You have no reason to help me, but it's been such a long time that I saw a man alive.{nl}Can you listen to my story if you are okay?
-QUEST_LV_0100_20150714_006970	Thanks. It's going to be a long story.
-QUEST_LV_0100_20150714_006971	It's too selfish to seek salvation now.{nl}Exhausted. It may be better to eliminate Archon with me.
-QUEST_LV_0100_20150714_006972	Salvation.. Would I be able to have hope?{nl}Then, I will count on you.{nl}
-QUEST_LV_0100_20150714_006973	You gotta find a way to block the magical power that will be injected with the magical stone of the interaction.{nl}If we could find the documents that Valius left at Beiniki Prayer's Room, it may not be a meaningless dream...
-QUEST_LV_0100_20150714_006974	Salvation. That's the word that I forgot for a long time. I thought hope was extravagant.{nl}All I could do was just depress for a long time.
-QUEST_LV_0100_20150714_006975	Okay. Was the document present?
-QUEST_LV_0100_20150714_006976	Magic generating stones.{nl}They are at the room of senses and the room of rituals.{nl}
-QUEST_LV_0100_20150714_006977	I know the basic composition. I've researched it when I was alive.{nl}But, it won't react if it's not Valius magical power.
-QUEST_LV_0100_20150714_006978	You can find the artifacts of Valius from Vebaiki Burial Chamber.{nl}The magical power would still be there since Valius was a great wizard.
-QUEST_LV_0100_20150714_006979	I am sure the magical power still remains.{nl}There's no other way so I hope it still exists.
-QUEST_LV_0100_20150714_006980	It's fortunate that the magical power still remains.{nl}First, let's stop the magic generating stone near the room of senses.
-QUEST_LV_0100_20150714_006981	I hid the magic generating stones among the fakes in the room of senses.{nl}But, with the brooch you found, you will be able to distinguish the real ones from the fakes.
-QUEST_LV_0100_20150714_006982	Keep this in mind. Pick out the real magic generating stones and stop the magical power.{nl}If you touch on the fakes, all magic generating stones will be activated again.
-QUEST_LV_0100_20150714_006983	I felt earnestness for the first time in hundreds of years.{nl}To prevent it from ending meaninglessly, I will pray to the Goddesses.
-QUEST_LV_0100_20150714_006984	The magical power that came from the room of senses has completely disappeared.{nl}Now, we just have to block the room of rituals.
-QUEST_LV_0100_20150714_006985	The room of rituals is slightly different from the room of senses.{nl}Although, they are the same that you have to shut down the magical power of all magic generating stones.{nl}
-QUEST_LV_0100_20150714_006986	You will know how to handle it when you control it yourself.{nl}But, if you feel something went wrong, use the magical power of Valius.
-QUEST_LV_0100_20150714_006987	With the warp magic circle under me, you could quickly go to the room of rituals.{nl}I hope you are successful...
-QUEST_LV_0100_20150714_006988	The magic generating stones in the room of rituals affect the other magic generating stones nearby.{nl}We could start over with Valius' magic.
-QUEST_LV_0100_20150714_006989	The magical power that was supplied to the magical stone of the interaction has been completely shut off... {nl}Do you think we can really wish for the salvation.
-QUEST_LV_0100_20150714_006990	We are all ready. But, that Archon is different from the Archon from your era. {nl}It may be better to leave it like that.
-QUEST_LV_0100_20150714_006991	We have an other way. The sealed artifact among Valius artifacts...{nl}I heard there are some of them in Uzdaromo stone chamber that were created to suppress the demons.
-QUEST_LV_0100_20150714_006992	I already gave up the hope that I would be free a few hundreds years ago.{nl}In fact, I still can't believe it.
-QUEST_LV_0100_20150714_006993	The seal that is suppressing the demonic energy... that's it.{nl}Now everything is ready.
-QUEST_LV_0100_20150714_006994	Now, when the magical stone of the interaction stops, I will be free with Archon.{nl}
-QUEST_LV_0100_20150714_006995	I will tell you one more time. You should not think of Archon that was present in your era.{nl}It will be hard without using the seal.
-QUEST_LV_0100_20150714_006996	In fact, I am okay even if I disappear like this.{nl}It's so thankful that you care for me, but I don't want you to get hurt.
-QUEST_LV_0100_20150714_006997	We are almost at the moment of being released from the restraint that was on us for hundreds of years.{nl}
-QUEST_LV_0100_20150714_006998	I can be saved. I... finally...{nl}I can't thank you enough.{nl}
-QUEST_LV_0100_20150714_006999	I will now leave to the Goddesses.{nl}Thank you. Thank you so much...
+QUEST_LV_0100_20150714_006967	簡 的孤魂
+QUEST_LV_0100_20150714_006968	我從來沒有要求任何東西.{nl}大法師, 魔法塔, 或是休息.{nl}
+QUEST_LV_0100_20150714_006969	你並沒有任何責任和理由來幫助我, 但你是我多年以來第一位見到的活人了.{nl}你願意聆聽我的過去嗎？
+QUEST_LV_0100_20150714_006970	謝謝你. 這將會是一個很長遠的故事.
+QUEST_LV_0100_20150714_006971	現在才尋求救贖是自私的行為.{nl}我已經累了. 最好把我和 Archon 一併消滅比較好.
+QUEST_LV_0100_20150714_006972	救贖嗎.. 我還可以抱有一絲希望嗎?{nl}那好, 我就靠你了.{nl}
+QUEST_LV_0100_20150714_006973	你需設法截斷 作用魔力原石 的魔力供應.{nl}如果你可以找到 Valius 留在 Beiniki Prayer's Room 的文件, 這將不會只是一個空想...
+QUEST_LV_0100_20150714_006974	救贖. 我早在很久以前就忘了這個名詞. 我也為這隻是奢望.{nl}長久以來我有的只是無期的絕望.
+QUEST_LV_0100_20150714_006975	好. 找到文件了嗎?
+QUEST_LV_0100_20150714_006976	魔力生成原石.{nl}它們都在 room of senses 和 the room of rituals.{nl}
+QUEST_LV_0100_20150714_006977	我知道它們的基本結構. 我還在世時曾研究它們.{nl}但是它們不會對 Valius 以外的魔力產生反應.
+QUEST_LV_0100_20150714_006978	你可以在 Vebaiki Burial Chamber 找到 Valius 留下的神器 .{nl}Valius 是位法力高強的法師，神器上應該還有魔力殘餘.
+QUEST_LV_0100_20150714_006979	我相信那裡還是會有魔力殘餘.{nl}我們已經沒其他法子了，我唯有這樣相信.
+QUEST_LV_0100_20150714_006980	幸虧神器上還有殘餘魔力.{nl}現在讓我們開始關閉在 room of senses 的 魔力生成原石.
+QUEST_LV_0100_20150714_006981	我以前把真正的魔力原石藏於仿製品當中一併放在 room of senses.{nl}但是，你可以使用你尋獲的 胸針 分辨出真偽.
+QUEST_LV_0100_20150714_006982	要記住. 只能截斷真正的 魔力生成原石.{nl}如果你碰觸仿製品，這將會重啟所有魔力原石.
+QUEST_LV_0100_20150714_006983	數百年來我第一次祈禱.{nl}向眾神們祈禱，這一切將不會到頭來一場空.
+QUEST_LV_0100_20150714_006984	從 room of senses 溢出的魔力已完全消失.{nl}現在我們只需要截斷 room of rituals.
+QUEST_LV_0100_20150714_006985	room of rituals 和 room of senses 相比，稍微有一些不一樣.{nl}雖然目的的本質還是截斷 魔力生成原石 的魔力，但是操作上有些不同{nl}
+QUEST_LV_0100_20150714_006986	當你實際操作時就會意識到哪裡不同.{nl}如果你發現哪裡不對勁, 就是用 Valius 魔力重置原石.
+QUEST_LV_0100_20150714_006987	你可以使用我的傳送門傳送到 room of rituals.{nl}願你成功...
+QUEST_LV_0100_20150714_006988	在 room of rituals 的 魔力生成原石 會影響其鄰接原石的狀態.{nl}必要時，我們可以使用 Valius 魔力 重新開始.
+QUEST_LV_0100_20150714_006989	作用魔力原石 的魔力供應已被完全截斷... {nl}我真心希望這是我們期待的救贖.
+QUEST_LV_0100_20150714_006990	基本準備已經大致完成. 但是這 Archon 和你時代的 Archon 不一樣 {nl}可能我們應該先讓它維持目前的樣子.
+QUEST_LV_0100_20150714_006991	我們還有一個辦法. 在眾多 Valius 封印的神器當中...{nl}我聽說有部分在 Uzdaromo stone chamber 的收藏品是製造來抑制惡魔的神器.
+QUEST_LV_0100_20150714_006992	我早已在數百年前放棄了獲得自由的想法.{nl}說實話, 到現在我還無法相信這一切.
+QUEST_LV_0100_20150714_006993	這是抑制魔力的印章... 就是這了.{nl}現在已萬事俱備.
+QUEST_LV_0100_20150714_006994	現在, 當 作用魔力原石 完全停止時, 我會釋放 Archon.{nl}
+QUEST_LV_0100_20150714_006995	我再提醒你一次. 你最好小心面對這 Archon .{nl}如果不使用印章，你可能會陷入困戰.
+QUEST_LV_0100_20150714_006996	說實話, 即使我這樣消失，我也沒關係.{nl}我非常感激你的關懷, 但我不想你受到傷害.
+QUEST_LV_0100_20150714_006997	我們即將從約束我們百年來的束縛掙脫.{nl}
+QUEST_LV_0100_20150714_006998	我是可以被救贖的. 我... 終於...{nl}我實在非常感謝你.{nl}
+QUEST_LV_0100_20150714_006999	剩下的我只能交給眾神了.{nl}謝謝. 非常感謝...
 QUEST_LV_0100_20150714_007000	How's going?{nl}We can alleviate the strange energy in this region when we enhance the magic circle.
 QUEST_LV_0100_20150714_007001	{memo X}If I only had little more time...{nl}My documents... I can't leave them...
 QUEST_LV_0100_20150714_007002	{memo X}The objects are useless to me now...{nl}Okay. Maybe you... My documents at Dykyne Fork...
@@ -7270,24 +7270,24 @@ QUEST_LV_0100_20150714_007269	{memo X}Notice/Dye completed!{nl}Obtain the dye fr
 QUEST_LV_0100_20150714_007270	Restoring Obelisk
 QUEST_LV_0100_20150714_007271	Placing the Bomb
 QUEST_LV_0100_20150714_007272	{memo X}Notice/Move to Giliai Courtyard!#5
-QUEST_LV_0100_20150714_007273	Inseparable Spirit
-QUEST_LV_0100_20150714_007274	Ask him to tell you the story
-QUEST_LV_0100_20150714_007275	There is a Way (1)
-QUEST_LV_0100_20150714_007276	Tell him to find the way to defeat Archon together
-QUEST_LV_0100_20150714_007277	I will think little more
-QUEST_LV_0100_20150714_007278	There is a Way (2)
-QUEST_LV_0100_20150714_007279	Ask him if there's a way to obtain the magical power of Valius
-QUEST_LV_0100_20150714_007280	Tell him to find another way
-QUEST_LV_0100_20150714_007281	There is a Way (3)
-QUEST_LV_0100_20150714_007282	I will go to the room of senses
-QUEST_LV_0100_20150714_007283	I need to prepare
-QUEST_LV_0100_20150714_007284	There is a Way (4)
-QUEST_LV_0100_20150714_007285	I will go to the room of rituals
-QUEST_LV_0100_20150714_007286	I need some time to think
-QUEST_LV_0100_20150714_007287	What's Bad About Being Careful (1)
-QUEST_LV_0100_20150714_007288	Ask him if there's anything else to prepare
-QUEST_LV_0100_20150714_007289	Ask him for more time to prepare
-QUEST_LV_0100_20150714_007290	What's Bad About Being Careful (2)
+QUEST_LV_0100_20150714_007273	不可分離的靈魂
+QUEST_LV_0100_20150714_007274	請她告訴你關於她的過去
+QUEST_LV_0100_20150714_007275	还有一种方法 (1)
+QUEST_LV_0100_20150714_007276	讓她想想一起打倒 Archon 的方法
+QUEST_LV_0100_20150714_007277	讓我再想想
+QUEST_LV_0100_20150714_007278	还有一种方法 (2)
+QUEST_LV_0100_20150714_007279	問她還有獲得 Valius 魔力的其他方法嗎
+QUEST_LV_0100_20150714_007280	告訴她另想它法
+QUEST_LV_0100_20150714_007281	还有一种方法 (3)
+QUEST_LV_0100_20150714_007282	我會去 room of senses
+QUEST_LV_0100_20150714_007283	我需要準備
+QUEST_LV_0100_20150714_007284	还有一种方法 (4)
+QUEST_LV_0100_20150714_007285	我會去 room of rituals
+QUEST_LV_0100_20150714_007286	我需要想一想
+QUEST_LV_0100_20150714_007287	敬小慎微 (1)
+QUEST_LV_0100_20150714_007288	問她還有什麼需要準備的
+QUEST_LV_0100_20150714_007289	告訴她還需要些時間準備
+QUEST_LV_0100_20150714_007290	敬小慎微 (2)
 QUEST_LV_0100_20150714_007291	Stopping
 QUEST_LV_0100_20150714_007292	The Hidden Sanctum's Revelation (2)
 QUEST_LV_0100_20150714_007293	{memo X}Notice/!/Some strange essence came out from the magic circle.{nl}Defeat the strange essence.#5
