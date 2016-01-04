@@ -1654,9 +1654,9 @@ ETC_20150317_001652	更多
 ETC_20150317_001653	You cannot change your 裝備 before picking up a thrown item.
 ETC_20150317_001654	{Month} {Day}
 ETC_20150317_001655	{Day}
-ETC_20150317_001656	{Hour} 小時 
-ETC_20150317_001657	{Min} 分鐘 
-ETC_20150317_001658	{Sec} 秒 
+ETC_20150317_001656	{Hour} 小時
+ETC_20150317_001657	{Min} 分鐘
+ETC_20150317_001658	{Sec} 秒
 ETC_20150317_001659	請輸入一個標題。
 ETC_20150317_001660	學習中
 ETC_20150317_001661	在轉職前你必須用完所有的技能點數。
@@ -1676,7 +1676,7 @@ ETC_20150317_001674	The customer is not a CBT user.
 ETC_20150317_001675	You have been been banned by the administrator.
 ETC_20150317_001676	{Name} ({Mapname} / Channel {ChNo})
 ETC_20150317_001677	不能製作這個技能。
-ETC_20150317_001678	{memo X}{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click 
+ETC_20150317_001678	{memo X}{gr gradation2}{s19}{ol}{b}{#bc952b}Right-click: sale / purchase button{/}{/}{nl}If you want to sell multiples item, please press and hold the right click.{nl}You can wholesale when you double click.{nl} {nl}{b}{#bc952b}Left click: Cancel / return button{/}{/}{nl}While if you want an item that was a multiple cancel down the left click
 ETC_20150317_001679	你沒有足夠的潛力值來強化這個道具
 ETC_20150317_001680	這個道具無法強化
 ETC_20150317_001681	不能再強化
@@ -1698,7 +1698,7 @@ ETC_20150317_001696	There is no empty socket that matches this type.
 ETC_20150317_001697	請放置你想強化的道具。
 ETC_20150317_001698	{memo X}卡片強化
 ETC_20150317_001699	寶石強化
-ETC_20150317_001700	你無法再裝備這個道具。 
+ETC_20150317_001700	你無法再裝備這個道具。
 ETC_20150317_001701	由於角色死亡，你的裝備已受到損傷。
 ETC_20150317_001702	強化
 ETC_20150317_001703	{memo X}{s18}{ol}如果武器、手環、項鍊強化超過了等級 {#ffffcc}+{Auto_1} 時失敗，將會消耗它的潛力值，當潛力值低於0， 這件道具會被破壞，你真的想要強化？
@@ -1798,7 +1798,7 @@ ETC_20150317_001796	騎乘
 ETC_20150317_001797	下馬
 ETC_20150317_001798	寵物
 ETC_20150317_001799	資訊
-ETC_20150317_001800	你離同伴太遠了。 
+ETC_20150317_001800	你離同伴太遠了。
 ETC_20150317_001801	{memo X}Please select the PC to take the 同伴。
 ETC_20150317_001802	You are together with your 同伴, [{Name}]。
 ETC_20150317_001803	成功雇用了同伴。
@@ -2214,10 +2214,10 @@ ETC_20150317_002212	Destroying
 ETC_20150317_002213	You are slowed by a lazy aura emanating from a Tree Root Crystal!{nl}Remove the Tree Root Crystal at Nevasingas Highway to remove this curse!
 ETC_20150317_002214	{memo X}Dismantling
 ETC_20150317_002215	{memo X}Failed to dismantle the core of crystal
-ETC_20150317_002216	{memo X}Obtained a stamina to succeed dismantling the core of crystal 
+ETC_20150317_002216	{memo X}Obtained a stamina to succeed dismantling the core of crystal
 ETC_20150317_002217	{memo X}As the side effect of the core of crystal, The old hook appeared!
 ETC_20150317_002218	Amulet pieces are combined to form one amulet!
-ETC_20150317_002219	{memo X}Succeed to dismantle Transformed Tree Root Crystal 
+ETC_20150317_002219	{memo X}Succeed to dismantle Transformed Tree Root Crystal
 ETC_20150317_002220	{memo X}Fainted from touching the wrong Tree Root Crystal!
 ETC_20150317_002221	{memo X}Fell asleep from touching the wrong Tree Root Crystal!
 ETC_20150317_002222	{memo X}Slowed from touching the wrong Tree Root Crystal!
@@ -2286,7 +2286,7 @@ ETC_20150317_002284	Preparing the Jar
 ETC_20150317_002285	Collecting sap
 ETC_20150317_002286	A patterned stone fell off from an unknown pillar!
 ETC_20150317_002287	{memo X}Obtained garbage 5ea again.
-ETC_20150317_002288	{memo X}Decoy Success 
+ETC_20150317_002288	{memo X}Decoy Success
 ETC_20150317_002289	{memo X}The other monster sensed the mold and approached!
 ETC_20150317_002290	{memo X}The movement speed has been decreased as step on the cactusvel's indolence!
 ETC_20150317_002291	{memo X}Shocked for a while after stepping on the corrupted place!
@@ -2389,7 +2389,7 @@ ETC_20150317_002387	I saw it. It's obviously not 死迎者.
 ETC_20150317_002388	It's not 死迎者.
 ETC_20150317_002389	Why would I have followed it if it is 死迎者?
 ETC_20150317_002390	死迎者 in Saltistter? That doesn't make any sense.
-ETC_20150317_002391	Prerequisite: 
+ETC_20150317_002391	Prerequisite:
 ETC_20150317_002392	級或以上
 ETC_20150317_002393	級或以下
 ETC_20150317_002394	排行
@@ -2598,7 +2598,7 @@ ETC_20150317_002596	問題
 ETC_20150317_002597	投票
 ETC_20150317_002598	Set of access rights
 ETC_20150317_002599	無法再度加入
-ETC_20150317_002600	隊伍已獲得經驗值 {Auto_1} 
+ETC_20150317_002600	隊伍已獲得經驗值 {Auto_1}
 ETC_20150317_002601	Party level has increased to {Auto_1}
 ETC_20150317_002602	{Auto_1} Party Raid has started {nl} Press the button to join
 ETC_20150317_002603	加入 {Auto_1} 的隊伍
@@ -2712,7 +2712,7 @@ ETC_20150317_002710	確認購買
 ETC_20150317_002711	價格: 低到高
 ETC_20150317_002712	價格: 高到低
 ETC_20150317_002713	最新登記
-ETC_20150317_002714	價格最低為 1 
+ETC_20150317_002714	價格最低為 1
 ETC_20150317_002715	Only skills that consume items are possible.
 ETC_20150317_002716	Keep out! The stones should be delivered as soon as possible.
 ETC_20150317_002717	出血箭
@@ -2821,7 +2821,7 @@ ETC_20150317_002819	{S22}{ol}下個任務等級： {Auto_1}
 ETC_20150317_002820	地區：
 ETC_20150317_002821	{@st45w3}{s18}{Auto_1} {Auto_2}個 {/}
 ETC_20150317_002822	{@st41}Reward(s) received:
-ETC_20150317_002823	{@st64} Approach the NPC and use 
+ETC_20150317_002823	{@st64} Approach the NPC and use
 ETC_20150317_002824	空格
 ETC_20150317_002825	與NPC對話
 ETC_20150317_002826	放棄任務
@@ -4288,7 +4288,7 @@ ETC_20150317_004286	Please enter a name for the rule one or more characters.
 ETC_20150317_004287	[{Auto_1}]: This rule name is already exists.
 ETC_20150317_004288	{s22} Do you really want to abandon this request?
 ETC_20150317_004289	{s22} This quest is not progress.
-ETC_20150317_004290	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41}[{Auto_1}]{/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest? {nl}The quest can no longer be restarted after abandoning. 
+ETC_20150317_004290	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41}[{Auto_1}]{/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest? {nl}The quest can no longer be restarted after abandoning.
 ETC_20150317_004291	{nl} {nl}{s18}{ol}{#ffffcc} Really {@st41} [{Auto_1}] {/}{s18}{ol}{#ffffcc} Do you really want to abandon this quest?
 ETC_20150317_004292	{@st59}打勾後，任務就會出現在畫面右側的任務追蹤列表。{nl}你可以追蹤最多五個任務。
 ETC_20150317_004293	Available{/}
@@ -4947,7 +4947,7 @@ ETC_20150317_004945	If you do not want to, just tell me
 ETC_20150317_004946	All right... Let's go
 ETC_20150317_004947	You are a little strange…
 ETC_20150317_004948	{memo X} persusaded!{nl}Take it to Apsaw 祭壇
-ETC_20150317_004949	 following 
+ETC_20150317_004949	 following
 ETC_20150317_004950	How far do I have to go?
 ETC_20150317_004951	Approach closer to the the 祭壇's orb
 ETC_20150317_004952	Goodbye
@@ -5711,7 +5711,7 @@ ETC_20150317_005709	Thorn poison
 ETC_20150317_005710	Life Drain
 ETC_20150317_005711	Confusion
 ETC_20150317_005712	Rewind Time
-ETC_20150317_005713	Rewind Time refreshes the remaining time of HP, SP and STA buffs. Additionally resets all cooldowns. 
+ETC_20150317_005713	Rewind Time refreshes the remaining time of HP, SP and STA buffs. Additionally resets all cooldowns.
 ETC_20150317_005714	Go back in time
 ETC_20150317_005715	Rewind monster's behavior.
 ETC_20150317_005716	String
@@ -5746,9 +5746,9 @@ ETC_20150317_005744	You cannot take action. Damage taken is decreased by 50% und
 ETC_20150317_005745	Silence
 ETC_20150317_005746	Basic attacks and skills cannot be used.
 ETC_20150317_005747	Can't distinguish between enemy and friendly forces.
-ETC_20150317_005748	Receiving continuous damage. Movement amplifies the damage additionally. 
+ETC_20150317_005748	Receiving continuous damage. Movement amplifies the damage additionally.
 ETC_20150317_005749	Massive Bleeding
-ETC_20150317_005750	Receiving continuous [Bleeding] damage. Movement amplifies the damage additionally. 
+ETC_20150317_005750	Receiving continuous [Bleeding] damage. Movement amplifies the damage additionally.
 ETC_20150317_005751	Receiving continuous [Poisoning] damage. This effect will end over time or can be cured by Cure or an antidote.
 ETC_20150317_005752	Receiving continuous [Fire] damage.
 ETC_20150317_005753	Can't recover HP and SP. Recoverable with Cure.
@@ -5896,7 +5896,7 @@ ETC_20150317_005894	基礎功能
 ETC_20150317_005895	移動
 ETC_20150317_005896	{memo X}你可以使用方向鍵移動。
 ETC_20150317_005897	方向鍵
-ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character. 
+ETC_20150317_005898	{memo X} {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} are used to move you character.
 ETC_20150317_005899	  {img arrowkey_up 40 40} {img arrowkey_down 40 40} {img arrowkey_left 40 40} {img arrowkey_right 40 40} {nl}combinations enable you to move diagonally.
 ETC_20150317_005900	{nl} {nl}角色運動時消耗耐力。
 ETC_20150317_005901	{memo X}使用跳躍跳上障礙或爬上更高的地方。
@@ -5918,7 +5918,7 @@ ETC_20150317_005916	基本資訊
 ETC_20150317_005917	背包
 ETC_20150317_005918	{memo X}Your inventory displays items and materials you own, currently equipped items and its weight.
 ETC_20150317_005919	{memo X}你可以按{img F2 40 40}來打開背包。
-ETC_20150317_005920	{memo X}{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character. 
+ETC_20150317_005920	{memo X}{nl} {nl}The upper row of your inventory displays the variety of equipped items on your character.
 ETC_20150317_005921	{memo X}{nl} {nl}The middle row of your inventory displays items.{nl}These items are sorted by category.{nl} {nl}
 ETC_20150317_005922	{memo X}{nl} {nl}The bottom row of your inventory displays the total weight of your items, obtained medals and current silver.{nl} {nl}
 ETC_20150317_005923	{memo X}You can check the information on your quests through the quest window.
@@ -6018,22 +6018,22 @@ ETC_20150317_006017	{memo X}You can check your character's abilities in the Char
 ETC_20150317_006016	{memo X}Use your Status Points gained from leveling up to make your character become stronger.
 ETC_20150317_006018	{memo X}Increase STR/CON/INT/SPR/DEX by using Status Points and make your character stronger. {nl} {nl} STR: Increase in Physical Attack and Critical Attack {nl} {nl} CON: Increase in max HP, HP Recovery, Block, Critical Resistance and max Inventory Weight {nl} {nl} INT: Increase in Magic Attack and Block Penetration {nl}{nl} SPR: Increase in max SP and SP Recovery {nl} {nl} DEX: Increase in Accuracy, Evasion and Critical Chance {nl}
 ETC_20150317_006019
-ETC_20150317_006020	{memo X}You can preview the effects of a status when you click 
+ETC_20150317_006020	{memo X}You can preview the effects of a status when you click
 ETC_20150317_006021	{memo X} in the information tab.
 ETC_20150317_006022	Convenience
 ETC_20150317_006023	{memo X}   Use warp to quickly move to your desired area.
-ETC_20150317_006024	{memo X}Activating 
+ETC_20150317_006024	{memo X}Activating
 ETC_20150317_006025	女神雕像
-ETC_20150317_006026	 or activated 
+ETC_20150317_006026	 or activated
 ETC_20150317_006027	{memo X} enables you to warp to other areas.
 ETC_20150317_006028	{memo X}Approach the Statue to activate it.
 ETC_20150317_006029	{memo X}You can warp to activated areas using the Goddess Vakarine Statue.
 ETC_20150317_006030	{memo X}You can also use the Warp Scroll to warp immediately.
-ETC_20150317_006031	{memo X}When using the Warp Scroll, you can only warp to areas with activated statues. 
+ETC_20150317_006031	{memo X}When using the Warp Scroll, you can only warp to areas with activated statues.
 ETC_20150317_006032	{memo X}By using the Warp Scroll again, you will be warped to your last location.
 ETC_20150317_006033	{memo X}Warp Scrolls can be bought from the shop or acquired from quests.
 ETC_20150317_006034	{memo X}You can use the 'Return' button to complete quests more easily and faster.
-ETC_20150317_006035	When you complete quests, in the mission window UI 
+ETC_20150317_006035	When you complete quests, in the mission window UI
 ETC_20150317_006036	 this button will be activated.
 ETC_20150317_006037	返回按鈕
 ETC_20150317_006038	你可以按 ({img questinfo_return 40 40}) 立即返回到任務NPC身旁。
@@ -6046,12 +6046,12 @@ ETC_20150317_006044	{memo X}Worshiping a Goddess Statue will benefit you.
 ETC_20150317_006045	{memo X}Each Goddess Statue will give you effects for your benefit.
 ETC_20150317_006046	{memo X}Each Goddess Statue in the world has special powers.
 ETC_20150317_006047	{memo X}is used to warp to other areas.
-ETC_20150317_006048	To use the warp function, the 
+ETC_20150317_006048	To use the warp function, the
 ETC_20150317_006049	 of the area needs to be activated
 ETC_20150317_006050	{memo X}can obtain character's Status Points
 ETC_20150317_006051	寶箱
 ETC_20150317_006052	你可以從寶箱獲得特殊道具。
-ETC_20150317_006053	Hidden in many fields, a 
+ETC_20150317_006053	Hidden in many fields, a
 ETC_20150317_006054	 can be discovered by your character.
 ETC_20150317_006055	{memo X}There are many types of treasure chests that you can obtain special items from.
 ETC_20150317_006056	{memo X}You can receive the rewards by pressing {img SPACE 40 40} without any condition for a Lv1 treasure chest.
@@ -6059,38 +6059,38 @@ ETC_20150317_006057	Keys are used to open level 2 chests and above.
 ETC_20150317_006058	{memo X}You can obtain the keys through quest progress.
 ETC_20150317_006059	道具強化
 ETC_20150317_006060	{memo X}You can enhance your 裝備 through the enhancement system.
-ETC_20150317_006061	{memo X}Use {img F2 40 40} to open your inventory and {img mouseclick_right 40 40} on the 
+ETC_20150317_006061	{memo X}Use {img F2 40 40} to open your inventory and {img mouseclick_right 40 40} on the
 ETC_20150317_006062	{memo X} to enhance item.
 ETC_20150317_006063	{memo X} can be bought from the Merchant NPC or by hunting monsters.
 ETC_20150317_006064	{memo X}After using the Anvil, select the item for the Item Enhancement window to appear.
-ETC_20150317_006065	{memo X}From the Item Enhancement window, when you click the 
-ETC_20150317_006066	{memo X} button, an  
-ETC_20150317_006067	{memo X} will appear. Hit the 
+ETC_20150317_006065	{memo X}From the Item Enhancement window, when you click the
+ETC_20150317_006066	{memo X} button, an
+ETC_20150317_006067	{memo X} will appear. Hit the
 ETC_20150317_006068	{memo X} three times to enhance your 裝備。
 ETC_20150317_006069	{memo X}
 ETC_20150317_006070	 will not decrease.
-ETC_20150317_006071	{memo X}When the item fails to enhance, its stats will be reset and 
+ETC_20150317_006071	{memo X}When the item fails to enhance, its stats will be reset and
 ETC_20150317_006072	{memo X} will decrease by 1。
 ETC_20150317_006073	收藏品
-ETC_20150317_006074	Use the Decks to complete Collections that give you beneficial effects. 
+ETC_20150317_006074	Use the Decks to complete Collections that give you beneficial effects.
 ETC_20150317_006073	關於收藏品
 ETC_20150317_006076	套組
 ETC_20150317_006077	{memo X}Can be activated through the items.
-ETC_20150317_006078	{memo X} can be acquired from various channels. Use it to add new  
+ETC_20150317_006078	{memo X} can be acquired from various channels. Use it to add new
 ETC_20150317_006079	{memo X}。
-ETC_20150317_006080	{memo X}Use {img F8 40 40} to check the registered 
+ETC_20150317_006080	{memo X}Use {img F8 40 40} to check the registered
 ETC_20150317_006081	{memo X} 。
-ETC_20150317_006082	{memo X}Select the 
+ETC_20150317_006082	{memo X}Select the
 ETC_20150317_006083	{memo X} to check for items required to complete that Collection.
-ETC_20150317_006084	{memo X} are activated when you insert the required items in the slots. 
+ETC_20150317_006084	{memo X} are activated when you insert the required items in the slots.
 ETC_20150317_006085	{memo X}If you have a collectible item in your inventory, drag the item and insert it to empty slot in the Collection.
-ETC_20150317_006086	{memo X}Character can receive 
+ETC_20150317_006086	{memo X}Character can receive
 ETC_20150317_006087	{memo X} when {nl}the Collection is complete.
-ETC_20150317_006088	{memo X}You can receive 
+ETC_20150317_006088	{memo X}You can receive
 ETC_20150317_006089	{memo X} only from the Collections that are completed.
 ETC_20150317_006090	{memo X}Use {img mouseclick_right 40 40} to remove items from their slots.
 ETC_20150317_006091	{memo X}Removing an item from its slot will also remove the Collection Effects.
-ETC_20150317_006092	Incompatibility 
+ETC_20150317_006092	Incompatibility
 ETC_20150317_006093	{memo X}Monsters have element and defense attributes.
 ETC_20150317_006094	Element attributes have the following compatibilities
 ETC_20150317_006095	{memo X}attributes are more effective when attacking monsters with
@@ -6119,8 +6119,8 @@ ETC_20150317_006117	Gem Extraction
 ETC_20150317_006118	{memo X} 。
 ETC_20150317_006119	{memo X}Caution: Potential is consumed when you remove Gems.
 ETC_20150317_006120	復活
-ETC_20150317_006121	{memo X}    This spell allows you to revive a dead character. 
-ETC_20150317_006122	{memo X}When you have 0 HP, your character dies and becomes  
+ETC_20150317_006121	{memo X}    This spell allows you to revive a dead character.
+ETC_20150317_006122	{memo X}When you have 0 HP, your character dies and becomes
 ETC_20150317_006123	{memo X}。
 ETC_20150317_006124	{memo X} status will allow you to choose a revival method.
 ETC_20150317_006125	{memo X}Magic Amulets can be attached to weapons to enhance them.
@@ -6131,7 +6131,7 @@ ETC_20150317_006129	{memo X}Magic Amulet slots may vary by piece of 裝備。
 ETC_20150317_006130	{memo X}The attached Magic Amulet can't be removed.
 ETC_20150317_006131	{memo X}A Magic Amulet cannot be enhanced.
 ETC_20150317_006132	Magic Amulets can be obtained from monsters.
-ETC_20150317_006133	{memo X}The bonfire can be used to quickly recover HP, craft items, combine gems and other various activities. 
+ETC_20150317_006133	{memo X}The bonfire can be used to quickly recover HP, craft items, combine gems and other various activities.
 ETC_20150317_006134	{memo X}During Rest Mode, select
 ETC_20150317_006135	點起篝火
 ETC_20150317_006136	{memo X}to install the bonfire.
@@ -6154,13 +6154,13 @@ ETC_20150317_006152	{memo X}You can name the 同伴s that you adopt.{nl} {nl}
 ETC_20150317_006153	{memo X}You can ride your 同伴 or have it follow you around.
 ETC_20150317_006154	{memo X}Press {img Alt 40 40} + {img arrowkey_up 40 40} near the 同伴 to ride it and {img Alt 40 40} + {img arrowkey_down 40 40} to dismount.{nl}{nl}
 ETC_20150317_006155	{memo X}Press {img F9 40 40} view 同伴 Information.
-ETC_20150317_006156	{memo X}Accumulate 同伴 EXP to increase it's level. {nl} {nl} 同伴s use its 
+ETC_20150317_006156	{memo X}Accumulate 同伴 EXP to increase it's level. {nl} {nl} 同伴s use its
 ETC_20150317_006157	{memo X} in all activities. {nl} {nl}{nl}
-ETC_20150317_006158	{memo X} button releases your 同伴.{nl} {nl}Use 
+ETC_20150317_006158	{memo X} button releases your 同伴.{nl} {nl}Use
 ETC_20150317_006159	{memo X} button to make it follow you again.{nl}{nl}
-ETC_20150317_006160	{memo X}You can 
+ETC_20150317_006160	{memo X}You can
 ETC_20150317_006161	{memo X}Train
-ETC_20150317_006162	{memo X}your 同伴s to enhance its abilities. 
+ETC_20150317_006162	{memo X}your 同伴s to enhance its abilities.
 ETC_20150317_006163	{memo X}The 同伴 merchant offers.
 ETC_20150317_006164	{memo X}Attributes of your 同伴 can be increased by using this function{nl}{nl}
 ETC_20150317_006165	{memo X}Special food can be given to your 同伴 when it runs out of stamina.
@@ -6206,7 +6206,7 @@ ETC_20150317_006204	It helps when you lose a tooth.
 ETC_20150317_006205	Iron Tooth
 ETC_20150317_006206	This kind of item was originally made for pieces.
 ETC_20150317_006207	Steel Tooth
-ETC_20150317_006208	This tooth was designed to be used only by the valiant. 
+ETC_20150317_006208	This tooth was designed to be used only by the valiant.
 ETC_20150317_006209	Silver Fang
 ETC_20150317_006210	Use only in the mouth.
 ETC_20150317_006211	Titanium Claw
@@ -6391,7 +6391,7 @@ ETC_20150317_006389	Slaptu Lowland
 ETC_20150317_006390	Paslje Rest Area
 ETC_20150317_006391	Suzadini Junction
 ETC_20150317_006392	Pieva Hill
-ETC_20150317_006393	Sevyni Yard 
+ETC_20150317_006393	Sevyni Yard
 ETC_20150317_006394	Svaigul Hill
 ETC_20150317_006395	Apsvaigy Path
 ETC_20150317_006396	Smakra Shore
@@ -6733,7 +6733,7 @@ ETC_20150317_006731	Negyvas Field
 ETC_20150317_006732	Beacon
 ETC_20150317_006733	Space Transport Magic Circle
 ETC_20150317_006734	Large Transport Magic Circle
-ETC_20150317_006735	Defense Activation Device 
+ETC_20150317_006735	Defense Activation Device
 ETC_20150317_006736	Reading Room
 ETC_20150317_006737	Large Reading Room
 ETC_20150317_006738	Office
@@ -6743,9 +6743,9 @@ ETC_20150317_006741	Central Control Room
 ETC_20150317_006742	1st Library
 ETC_20150317_006743	Boiling Balcony
 ETC_20150317_006744	{memo X}Laboratory
-ETC_20150317_006745	Melting Square 
+ETC_20150317_006745	Melting Square
 ETC_20150317_006746	Center Large Brazier
-ETC_20150317_006747	Magic Stabilizing Device 
+ETC_20150317_006747	Magic Stabilizing Device
 ETC_20150317_006748	1st Machinery Room
 ETC_20150317_006749	Rest Room
 ETC_20150317_006750	2nd Machinery Room
@@ -6759,8 +6759,8 @@ ETC_20150317_006757	Honey Wine Warehouse
 ETC_20150317_006758	Dazuina Junction
 ETC_20150317_006759	Laipta City Centre
 ETC_20150317_006760	Shirsie Sunny Place
-ETC_20150317_006761	Reserved land for Maras Bee Farm 
-ETC_20150317_006762	Gaudeji 祭壇 
+ETC_20150317_006761	Reserved land for Maras Bee Farm
+ETC_20150317_006762	Gaudeji 祭壇
 ETC_20150317_006763	Radanza Farm
 ETC_20150317_006764	Wood Watch Tower
 ETC_20150317_006765	Uola Rock
@@ -6927,9 +6927,9 @@ ETC_20150317_006925	Fallen Soldier
 ETC_20150317_006926	Crux Knights Officer (male)
 ETC_20150317_006927	Crux Knights Officer
 ETC_20150317_006928	{memo X}Crux Knights Officer(female)
-ETC_20150317_006929	{memo X}Militia General Laudrup 
+ETC_20150317_006929	{memo X}Militia General Laudrup
 ETC_20150317_006930	{memo X}Holger Danske
-ETC_20150317_006931	{memo X}Innkeeper Zenora 
+ETC_20150317_006931	{memo X}Innkeeper Zenora
 ETC_20150317_006932	{memo X}Weapons Merchant Akalabeth
 ETC_20150317_006933	{memo X}Weapons Merchant
 ETC_20150317_006934	{memo X}Knight Felix
@@ -7106,7 +7106,7 @@ ETC_20150317_007104	Revelation Slate
 ETC_20150317_007105	Stack of Skulls
 ETC_20150317_007106	灰色 傀儡 Rock
 ETC_20150317_007107	Stack of Furniture
-ETC_20150317_007108	Block the Thorn Forest Raid 1 
+ETC_20150317_007108	Block the Thorn Forest Raid 1
 ETC_20150317_007109	Block the Thorn Forest Raid 2
 ETC_20150317_007110	Bouquet 1
 ETC_20150317_007111	Bouquet 2
@@ -7281,7 +7281,7 @@ ETC_20150317_007279	Cable Car
 ETC_20150317_007280	Half-destroyed 祭壇
 ETC_20150317_007281	Sanctum Object
 ETC_20150317_007282	Pilgrim NPC Woman's tomb
-ETC_20150317_007283	黑色 Market Exclusive Object 
+ETC_20150317_007283	黑色 Market Exclusive Object
 ETC_20150317_007284	Tree Stump
 ETC_20150317_007285	Skinny Tree
 ETC_20150317_007286	Holy Tree
@@ -7457,7 +7457,7 @@ ETC_20150317_007455	There is news that Gilliam, a big merchant who did not sell 
 ETC_20150317_007456	Basic Session
 ETC_20150317_007457	Quest Hitme Reward
 ETC_20150317_007458	Run away from the monster-safe area
-ETC_20150317_007459	Make 
+ETC_20150317_007459	Make
 ETC_20150317_007460	Attached Effect
 ETC_20150317_007461	Trap Box
 ETC_20150317_007462	Crystal Mine Diary
@@ -7516,8 +7516,8 @@ ETC_20150317_007514	{memo X}Disturbance of the monster blocked the way (8)
 ETC_20150317_007515	{memo X}Search the northern areas
 ETC_20150317_007516	{memo X}Expel Sequoia
 ETC_20150317_007517	{memo X}Receive the Ghost's Essence in Kateen
-ETC_20150317_007518	{memo X}藍色 Soul Stone Acquisition 
-ETC_20150317_007519	{memo X}紅色 Soul Stone Acquisition 
+ETC_20150317_007518	{memo X}藍色 Soul Stone Acquisition
+ETC_20150317_007519	{memo X}紅色 Soul Stone Acquisition
 ETC_20150317_007520	{memo X}Help an Ardent Owl Statue
 ETC_20150317_007521	{memo X}Lost Package Collection
 ETC_20150317_007522	{memo X}Pilgrim memorial stone Writing
@@ -7560,11 +7560,11 @@ ETC_20150317_007558	Deliver the Divine Sphere to Paladin (5)
 ETC_20150317_007559	Deliver the Divine Sphere to Paladin (6)
 ETC_20150317_007560	Manipulate the demon summoning circles
 ETC_20150317_007561	Destroy the rebel force's document
-ETC_20150317_007562	{memo X}Guard Keepsake Collection 
+ETC_20150317_007562	{memo X}Guard Keepsake Collection
 ETC_20150317_007563	{memo X}Move to Katyne Forest though Descended Tree Garden
 ETC_20150317_007564	Good Quality Whetstone Collection
 ETC_20150317_007565	Use Smoke Bomb
-ETC_20150317_007566	Defeat Abomination 
+ETC_20150317_007566	Defeat Abomination
 ETC_20150317_007567	Provoke the enemy to use a provocation mine concession
 ETC_20150317_007568	Use a rope for cop
 ETC_20150317_007569	Ruklys of memorial (3)
@@ -7624,10 +7624,10 @@ ETC_20150317_007622	Achieved Lv. 6 enhancement on spear-type 裝備
 ETC_20150317_007623	{memo X}Achieved Lv. 6 enhancement on shield-type 裝備
 ETC_20150317_007624	Track
 ETC_20150317_007625	Recapture the Eastern Woods (1)
-ETC_20150317_007626	1 sheet of Magic Research Reference 
-ETC_20150317_007627	2 sheet of Magic Research Reference 
-ETC_20150317_007628	3 sheet of Magic Research Reference 
-ETC_20150317_007629	Test the bombs on monsters in East 希奧利艾 Woods 
+ETC_20150317_007626	1 sheet of Magic Research Reference
+ETC_20150317_007627	2 sheet of Magic Research Reference
+ETC_20150317_007628	3 sheet of Magic Research Reference
+ETC_20150317_007629	Test the bombs on monsters in East 希奧利艾 Woods
 ETC_20150317_007630	Boss Monster Card
 ETC_20150317_007631	{memo X}Put the sun's pot to the center of reading room
 ETC_20150317_007632	First Shield of Fedimian
@@ -7679,7 +7679,7 @@ ETC_20150317_007677	{memo X}Activate purifier in 1st Gallery passage (3)
 ETC_20150317_007678	{memo X}Problem of the circulation purifier in 2nd mine
 ETC_20150317_007679	{memo X}Problem of energy transmission device
 ETC_20150317_007680	{memo X}Destroyer of the main purifier (4)
-ETC_20150317_007681	Repair Scarecrow 
+ETC_20150317_007681	Repair Scarecrow
 ETC_20150317_007682	Repair Scarecrow (2)
 ETC_20150317_007683	Repair the Scarecrow
 ETC_20150317_007684	Pointed Sense
@@ -7702,7 +7702,7 @@ ETC_20150317_007700	{memo X}Sparnas dominated a brewery
 ETC_20150317_007701	{memo X}Lost Search Tool
 ETC_20150317_007702	Sow Seeds
 ETC_20150317_007703	Charge the orb with holy magic
-ETC_20150317_007704	{memo X}Demon Master Tautreemas Sealed 
+ETC_20150317_007704	{memo X}Demon Master Tautreemas Sealed
 ETC_20150317_007705	Treat the addled Revelators
 ETC_20150317_007706	{memo X}Suspicious Pot (1)
 ETC_20150317_007707	{memo X}Suspicious Pot (2)
@@ -7738,7 +7738,7 @@ ETC_20150317_007736	{memo X}Sanctum of Secrecy - Archer type_conditions
 ETC_20150317_007737	{memo X}Sanctum of Secrecy - Cleric type_conditions
 ETC_20150317_007738	Purpose of the secret box
 ETC_20150317_007739	Passed Magician Owyn quiz
-ETC_20150317_007740	Answer the quiz of Dazzlementer Cordelier 
+ETC_20150317_007740	Answer the quiz of Dazzlementer Cordelier
 ETC_20150317_007741	Answer the quiz of Transmuter Furryode
 ETC_20150317_007742	Collect a sheet from a wizard's book inside the laboratory on Mage's Tower 3rd Floor.
 ETC_20150317_007743	For fail and success
@@ -7761,7 +7761,7 @@ ETC_20150317_007759	{memo X}Testing Drug Experiment to scattered monsters
 ETC_20150317_007760	收集花朵
 ETC_20150317_007761	為祭壇獻上花朵，以安撫亡魂。
 ETC_20150317_007762	捐獻適當數量的銀幣給祭壇
-ETC_20150317_007763	{memo X}Defeat the monsters attracted to the 祭壇 
+ETC_20150317_007763	{memo X}Defeat the monsters attracted to the 祭壇
 ETC_20150317_007764	Collect Reed Dewdrops
 ETC_20150317_007765	{memo X}Remove the monster summon circle
 ETC_20150317_007766	{memo X}Protect an 祭壇 from monsters running
@@ -7773,9 +7773,9 @@ ETC_20150317_007771	{memo X}Collect material of drug with monster live on reed r
 ETC_20150317_007772	Prepare First Sap Pot
 ETC_20150317_007773	Prepare Second Sap Pot
 ETC_20150317_007774	Prepare Third Sap Pot
-ETC_20150317_007775	{memo X}1st Collect a sap pot 
-ETC_20150317_007776	{memo X}2st Collect a sap pot 
-ETC_20150317_007777	{memo X}3rd Collect a sap pot 
+ETC_20150317_007775	{memo X}1st Collect a sap pot
+ETC_20150317_007776	{memo X}2st Collect a sap pot
+ETC_20150317_007777	{memo X}3rd Collect a sap pot
 ETC_20150317_007778	Owl's Eternal (1)
 ETC_20150317_007779	Destroyer (1)
 ETC_20150317_007780	Protect yourself from monsters is attacking
@@ -7861,7 +7861,7 @@ ETC_20150317_007859	{memo X}Melt a thorn tunnel to use an acidity solution
 ETC_20150317_007860	Use the Magic Crystal to remove the Thorn vines
 ETC_20150317_007861	Open the front temple gate (1)
 ETC_20150317_007862	Open the front temple gate (2)
-ETC_20150317_007863	Activate Apsauga 祭壇 barrier 
+ETC_20150317_007863	Activate Apsauga 祭壇 barrier
 ETC_20150317_007864	{memo X}Deceive Pawndel to the Apsauga 祭壇
 ETC_20150317_007865	{memo X}Deceive Pawnd to the Apsauga 祭壇
 ETC_20150317_007866	Convert demons
@@ -7883,7 +7883,7 @@ ETC_20150317_007881	Collect Spiritually Enchanted Sap
 ETC_20150317_007882	{memo X}Check the charm effect to Panto spearman
 ETC_20150317_007883	Control the Pantos to defeat the Large Panto Spearman
 ETC_20150317_007884	Panto came over on our side
-ETC_20150317_007885	{memo X}Capture the suspicious movement 
+ETC_20150317_007885	{memo X}Capture the suspicious movement
 ETC_20150317_007886	{memo X}Capture the suspicious movement (1)
 ETC_20150317_007887	{memo X}Capture the suspicious movement (2)
 ETC_20150317_007888	{memo X}Capture the suspicious movement (3)
@@ -7909,7 +7909,7 @@ ETC_20150317_007907	{memo X}Stolen Mayvern's stuff
 ETC_20150317_007908	Insert the Relic of Mercy into the 祭壇
 ETC_20150317_007909	Insert the Relic of Salvation into the 祭壇
 ETC_20150317_007910	Use the Orb of Divine Detection to find Graceful Relics
-ETC_20150317_007911	{memo X}Threated Priest 
+ETC_20150317_007911	{memo X}Threated Priest
 ETC_20150317_007912	{memo X}Receive a research report with priest in Grand Corridor
 ETC_20150317_007913	{memo X}Receive a research report with priest in Penitence Route
 ETC_20150317_007914	{memo X}Receive a research report with priest in Sanctuary
@@ -7979,7 +7979,7 @@ ETC_20150317_007977	Monsters will disappear automatically if there are no player
 ETC_20150317_007978	N/A
 ETC_20150317_007979	1 hour for each mission
 ETC_20150317_007980	N/A
-ETC_20150317_007981	Set Shop Sell Count 
+ETC_20150317_007981	Set Shop Sell Count
 ETC_20150317_007982	Session Object Smart Gen
 ETC_20150317_007983	Smart Mongen
 ETC_20150317_007984	N/A
@@ -8177,9 +8177,9 @@ ETC_20150317_008175	Session's %sValue + %s  * Damage
 ETC_20150317_008176	Value + Damage *
 ETC_20150317_008177	Move to a certain coordinate after saving
 ETC_20150317_008178	Go to %s at %s% of HP
-ETC_20150317_008179	復活 HP %: 
+ETC_20150317_008179	復活 HP %:
 ETC_20150317_008180	Enter HP
-ETC_20150317_008181	Resurrection coordinates: 
+ETC_20150317_008181	Resurrection coordinates:
 ETC_20150317_008182	Enter coordinates
 ETC_20150317_008183	The Great Cathedral is closed to the emergence of the current ghost Saint Ignatius, the 7th generation bishop of the Great Cathedral, which is now used by Klaipeda.
 ETC_20150317_008184	Fidelmia
@@ -8204,7 +8204,7 @@ ETC_20150317_008202	Bartas's Daughter
 ETC_20150317_008203	Cherise
 ETC_20150317_008204	A low ranking soldier. Like most of the female soldiers, she fancies the Guard Captain, Roy.
 ETC_20150317_008205	Roy
-ETC_20150317_008206	Guard Captain. Many girls are fascinated with his beauty. 
+ETC_20150317_008206	Guard Captain. Many girls are fascinated with his beauty.
 ETC_20150317_008207	Recipe - Oak Wood
 ETC_20150317_008208	Recipe for 製作 wood used for the wooden statues
 ETC_20150317_008209	Recipe - Ash Wood
@@ -8268,7 +8268,7 @@ ETC_20150317_008266	圖紙 - 青金石鬥劍
 ETC_20150317_008267	圖紙 - 弗拉米尼
 ETC_20150317_008268	Recipe - Wizard Slayer
 ETC_20150317_008269	Recipe - Luciduce
-ETC_20150317_008270	圖紙 - 地獄與天堂 
+ETC_20150317_008270	圖紙 - 地獄與天堂
 ETC_20150317_008271	圖紙 - 紐萊斯
 ETC_20150317_008272	Recipe - Smith Two-handed Sword
 ETC_20150317_008273	Recipe - Klavis Two-handed Sword
@@ -8355,7 +8355,7 @@ ETC_20150317_008353	圖紙 - 梅迪娜之弩
 ETC_20150317_008354	Recipe - Grave Crossbow
 ETC_20150317_008355	{memo X}Recipe - Shooting Star
 ETC_20150317_008356	Recipe - Kateen Blaster
-ETC_20150317_008357	圖紙 - 月光之力(Grajus) 
+ETC_20150317_008357	圖紙 - 月光之力(Grajus)
 ETC_20150317_008358	Recipe - Isbality
 ETC_20150317_008359	Recipe - Morto
 ETC_20150317_008360	Recipe - Smith Crossbow
@@ -8401,9 +8401,9 @@ ETC_20150317_008399	圖紙 - 格拉斯(Geras)
 ETC_20150317_008400	Recipe - Doom Spear
 ETC_20150317_008401	Recipe - Firnas
 ETC_20150317_008402	Recipe - Adatag
-ETC_20150317_008403	圖紙 - 舞動(Brandish) 
+ETC_20150317_008403	圖紙 - 舞動(Brandish)
 ETC_20150317_008404	{memo X}Recipe - Pike
-ETC_20150317_008405	圖紙 - 擁戴者(Partisan) 
+ETC_20150317_008405	圖紙 - 擁戴者(Partisan)
 ETC_20150317_008406	Recipe - Trident
 ETC_20150317_008407	Recipe - Royal Partisan
 ETC_20150317_008408	Recipe - Cone Pike
@@ -8414,7 +8414,7 @@ ETC_20150317_008412	Recipe - Entra Partizan
 ETC_20150317_008413	Recipe - Galin Trident
 ETC_20150317_008414	Recipe - Pine Cone Pike
 ETC_20150317_008415	Recipe - Tracksia
-ETC_20150317_008416	圖紙 - 萊德卡(Lydeka) 
+ETC_20150317_008416	圖紙 - 萊德卡(Lydeka)
 ETC_20150317_008417	Recipe - Flame Pike
 ETC_20150317_008418	{memo X}Recipe - Wooden Wand
 ETC_20150317_008419	{memo X}Recipe - Oak Wand
@@ -8631,7 +8631,7 @@ ETC_20150317_008629	Gladiator
 ETC_20150317_008630	Only
 ETC_20150317_008631	Viking
 ETC_20150317_008632	Crusader
-ETC_20150317_008633	{memo X}Solo 
+ETC_20150317_008633	{memo X}Solo
 ETC_20150317_008634	{memo X}Find an opponent with the same level.
 ETC_20150317_008635	Play with a pre-made team with the appropriate level.
 ETC_20150317_008636	{memo X}Solo (Rank)
@@ -8696,7 +8696,7 @@ ETC_20150317_008694	Remove Invincibility
 ETC_20150317_008695	Zombie Status
 ETC_20150317_008696	Remove Zombie Status
 ETC_20150317_008697	View object state
-ETC_20150317_008698	Hide object state 
+ETC_20150317_008698	Hide object state
 ETC_20150317_008699	Navigation Camera ON (F11)
 ETC_20150317_008700	Navigation Camera OFF (F12)
 ETC_20150317_008701	HP全部回復
@@ -9258,7 +9258,7 @@ ETC_20150317_009256	循環淨化器
 ETC_20150317_009257	輔助淨化器
 ETC_20150317_009258	主淨化器
 ETC_20150317_009259	Foods left
-ETC_20150317_009260	Wine Cask 
+ETC_20150317_009260	Wine Cask
 ETC_20150317_009261	District 3 Purifier Pipe
 ETC_20150317_009262	District 2 Purifier Pipe
 ETC_20150317_009263	Magic Supply Device
@@ -9533,7 +9533,7 @@ ETC_20150323_009531	Organ
 ETC_20150323_009532	Velmoski
 ETC_20150323_009533	Veliamonkey
 ETC_20150323_009534	Silva Griffin
-ETC_20150323_009535	Gold Hairpin 
+ETC_20150323_009535	Gold Hairpin
 ETC_20150323_009536	{memo X}Bug
 ETC_20150323_009537	使魔
 ETC_20150323_009538	Squire Armor Repair Prop
@@ -9542,7 +9542,7 @@ ETC_20150323_009540	Squire Sign Board
 ETC_20150323_009541	侍從工作台
 ETC_20150323_009542	侍從鐵砧
 ETC_20150323_009543	Mass AI
-ETC_20150323_009544	Armaos 
+ETC_20150323_009544	Armaos
 ETC_20150323_009545	Glutton
 ETC_20150323_009546	Succubus
 ETC_20150323_009547	帳篷
@@ -9654,7 +9654,7 @@ ETC_20150323_009652	{memo X}I will activate the barriers now.
 ETC_20150323_009653	{memo X}Now, I am relieved.
 ETC_20150323_009654	{memo X}The Elderly Farmer
 ETC_20150323_009655	I will exact revenge for my son!
-ETC_20150323_009656	What? Why aren't they following my orders! 
+ETC_20150323_009656	What? Why aren't they following my orders!
 ETC_20150323_009657	He.. Help me!
 ETC_20150323_009658	{memo X}Druid's Student
 ETC_20150323_009659	Shaton, no!
@@ -9672,7 +9672,7 @@ ETC_20150323_009670	Son! Wake up…
 ETC_20150323_009671	{memo X}The barrier protecting Tree Root Crystal of Laziness appeared!{nl}Better destroy it all before it disappear.
 ETC_20150323_009672	{memo X}The fire looks like it would die out soon.{nl}Get more kindling from the monsters and keep the fire alive.
 ETC_20150323_009673	Defeat the soul binding Merge!
-ETC_20150323_009674	Finally.. Am I free? 
+ETC_20150323_009674	Finally.. Am I free?
 ETC_20150323_009675	No! Get me out!
 ETC_20150323_009676	The sanctuary must have been corrupted. There are no blessing and monsters are marching in!
 ETC_20150323_009677	Pilgrim Dallas
@@ -9754,7 +9754,7 @@ ETC_20150323_009752	{memo X}You've robbed 10 treasure chests.
 ETC_20150323_009753	{memo X}Treasure Hunter : Master
 ETC_20150323_009754	{memo X}You've robbed 100 treasure chests.
 ETC_20150323_009755	哈那米擊殺數
-ETC_20150323_009756	
+ETC_20150323_009756
 ETC_20150323_009757	Party Quest Count
 ETC_20150323_009758	Altar Group Buff
 ETC_20150323_009759	Purification Contribution
@@ -9905,7 +9905,7 @@ ETC_20150323_009903	{memo X}AnimNPC:Local:OPEN:0/Notice:NOTICE_Dm_!:The meats ar
 ETC_20150323_009904	{memo X}DoTimeAction:Retrieving:2:MAKING:None
 ETC_20150323_009905	According to rumors around Fedimian, when the pilgrims passed by the Pilgrim Path
 ETC_20150323_009906	According to the survivors, survivors of the Fallen City lost their belongings or their lives in the Altar Way while going to Fedimian.
-ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area. 
+ETC_20150323_009907	Revelators are exploring the different fallen parts of the world to find assignments of the Goddess. What seems to be a sanctuary was found in the Altar Way. If you can find something restore and use it again, you will be a hero to those who travel this area.
 ETC_20150323_009908	According to the scout's reports, there were spell devices found in the Forest of Prayer. They tried to activate it but there were too many monsters around so they had to run for their lives. Someone has to activate the spell device and check what powers it has.
 ETC_20150323_009909	Pass through Tenet Garden and move to the Entrance of Kateen Forest
 ETC_20150323_009909	通過 信仰花園 移動到 卡丁森林入口
@@ -9928,7 +9928,7 @@ ETC_20150323_009926	Find documents about the method of demon transformation in t
 ETC_20150323_009927	Defend against the demons while the Demon Transformation Scroll is being completed
 ETC_20150323_009928	{memo X}Obtain the 4th key of Maven from Gaule Altar
 ETC_20150323_009929	Remove demonic objects
-ETC_20150323_009930	{memo X}Unknown device 
+ETC_20150323_009930	{memo X}Unknown device
 ETC_20150323_009931	Win against the Priest of Evidence
 ETC_20150323_009932	Find Scriptural Relic
 ETC_20150323_009933	Listen to the story of Demon Lord Hauberk
@@ -10011,7 +10011,7 @@ ETC_20150323_010009	{memo X}Extract the dandelions
 ETC_20150323_010010	{memo X}Throw the stones to destroy the magic circle
 ETC_20150323_010011	Get signature of farmers on the compact
 ETC_20150323_010012	Storage use fee
-ETC_20150323_010013	Not linked node's height position control value when ride on the 同伴 
+ETC_20150323_010013	Not linked node's height position control value when ride on the 同伴
 ETC_20150323_010014	圖紙 - 解毒劑
 ETC_20150323_010015	元素使 進階
 ETC_20150323_010016	卡片合成
@@ -10026,14 +10026,14 @@ ETC_20150323_010024	Consume
 ETC_20150323_010025	{memo X}Hire as a Mercenary
 ETC_20150323_010026	{Price} iCoins will be consumed to hire for {Minute} minutes. Do you wish to continue?
 ETC_20150323_010027	{memo X}Fire the Mercenary
-ETC_20150323_010028	Hiring fee will not be refunded. Are you sure you want to dismiss? 
-ETC_20150323_010029	Wrong 裝備. Please check the title. 
+ETC_20150323_010028	Hiring fee will not be refunded. Are you sure you want to dismiss?
+ETC_20150323_010029	Wrong 裝備. Please check the title.
 ETC_20150323_010030	{memo X}{gr gradation2}{s19}{ol}{b}{#ffcc00}Right-click: Sell / Buy Button{/}{/}{nl}Press down the right-click for long to sell multiple quantities of the item.{nl}Double-click to sell all.{nl}??{nl}{b}{#ffcc00}Left-click: Cancel / Return Button{/}{/}{nl}Press down the left-click for long to cancel multiple quantities of the item.{nl} Double left-click to sell all.
 ETC_20150323_010031	Consume material should have the same or more stars that the item to combine.
-ETC_20150323_010032	This item cannot be awakened. 
+ETC_20150323_010032	This item cannot be awakened.
 ETC_20150323_010033	This item is already awakened.
 ETC_20150323_010034	Item Awakening!
-ETC_20150323_010035	Potential is consumed when you awaken an item. Do you wish to continue? 
+ETC_20150323_010035	Potential is consumed when you awaken an item. Do you wish to continue?
 ETC_20150323_010036	Buff Duration
 ETC_20150323_010037	{memo X}The distribution table can only be used near the base.
 ETC_20150323_010038	{memo X}It can be only constructed on one base.
@@ -10060,7 +10060,7 @@ ETC_20150323_010058	{memo X}There was an abnormal reaction from the Core of Crys
 ETC_20150323_010059	{memo X}Successfully destroyed Mutated Tree Root Crystal!
 ETC_20150323_010060	{memo X}Touched the wrong Tree Root Crystal and movement speed decreased!
 ETC_20150323_010061	Don't lie! I will finish you too!
-ETC_20150323_010062	You think I'll forgive you? 
+ETC_20150323_010062	You think I'll forgive you?
 ETC_20150323_010063	I will destroy you too!
 ETC_20150323_010064	You think I'll fall for that? Come on and fight!
 ETC_20150323_010065	Picking a Flower
@@ -10129,15 +10129,15 @@ ETC_20150323_010127	Picked up the small portrait again
 ETC_20150323_010128	Throwing the small portrait
 ETC_20150323_010129	Threw the small portrait in the tombstone
 ETC_20150323_010130	{memo X}Took out handkerchief from the box.
-ETC_20150323_010131	{memo X}Placed the handkerchief back in the box. You can take it out again. 
-ETC_20150323_010132	{memo X}There is no key {nl}Find the key from the monsters. 
+ETC_20150323_010131	{memo X}Placed the handkerchief back in the box. You can take it out again.
+ETC_20150323_010132	{memo X}There is no key {nl}Find the key from the monsters.
 ETC_20150323_010133	{memo X}Soul of the Pilgrim is attacking the crystal!
 ETC_20150323_010134	The monster's HP is too high!
 ETC_20150323_010135	The altar is cooled enough!
 ETC_20150323_010136	Destroying the Magic Circle
 ETC_20150323_010137	Cannot be used in the outskirts of Fedimian!
 ETC_20150323_010138	Time available to use is over
-ETC_20150323_010139	{memo X}Get the patterned stones gain entrance. 
+ETC_20150323_010139	{memo X}Get the patterned stones gain entrance.
 ETC_20150323_010140	Approach the fainted Scorpio and extract its venom!
 ETC_20150323_010141	Extracting venom
 ETC_20150323_010142	Extracted the poison!
@@ -10321,7 +10321,7 @@ ETC_20150323_010319	Successfully delivered
 ETC_20150323_010320	{memo X}Failed to deliver
 ETC_20150323_010321	The excitement has calmed down
 ETC_20150323_010322	Don't give me weird medicine like this!
-ETC_20150323_010323	{memo X}Doesn't feel good. 
+ETC_20150323_010323	{memo X}Doesn't feel good.
 ETC_20150323_010324	{memo X}You can feel something not good from the greenery
 ETC_20150323_010325	Demon Summoning Crystal
 ETC_20150323_010326	{memo X}Buff Removal Item
@@ -10337,8 +10337,8 @@ ETC_20150323_010335	{@st42b}遊戲時間：
 ETC_20150323_010336	{memo X}The people from the village were demons.{nl}Run away to portal of Veja Ravine.
 ETC_20150323_010337	Great Cathedral completion stone
 ETC_20150323_010338	Briquetting
-ETC_20150323_010339	黑色 
-ETC_20150323_010340	藍色 
+ETC_20150323_010339	黑色
+ETC_20150323_010340	藍色
 ETC_20150323_010341	粉色
 ETC_20150323_010342	長馬尾辮
 ETC_20150323_010343	長波浪雙馬尾
@@ -10366,7 +10366,7 @@ ETC_20150323_010364	{memo X}Sealed Magic Field??
 ETC_20150323_010365	{memo X}The head of the statue of the goddess??
 ETC_20150323_010366	{memo X}The wing of the statue of the goddess??
 ETC_20150323_010367	{memo X}Unstable Magic Field??
-ETC_20150323_010368	Event outside incomplete magic circle 
+ETC_20150323_010368	Event outside incomplete magic circle
 ETC_20150323_010369	[Baron Allerno family]{nl}    Asta
 ETC_20150323_010370	{memo X}Baron secretary Arunas
 ETC_20150323_010371	{memo X}Baron Areluno??
@@ -10430,7 +10430,7 @@ ETC_20150401_010428	Earth Hallowventer
 ETC_20150401_010429	Earth Temple Shooter
 ETC_20150401_010430	Earth Canceril
 ETC_20150401_010431	Earth Archon
-ETC_20150401_010432	Catacomb Candle Spider 
+ETC_20150401_010432	Catacomb Candle Spider
 ETC_20150401_010433	Confined Yonoum
 ETC_20150401_010434	Confined Long-Branched Tree
 ETC_20150401_010435	Catacomb Mushcarfung
@@ -10455,7 +10455,7 @@ ETC_20150401_010453	Secret Statue
 ETC_20150401_010454	Warehouse Farmer
 ETC_20150401_010455	{memo X}Attack and destroy the magic circle!
 ETC_20150401_010456	{memo X}Take kindling from the Orange Dandel to keep the fire alive!
-ETC_20150401_010457	{memo X}What is this taste? 
+ETC_20150401_010457	{memo X}What is this taste?
 ETC_20150401_010458	The crops suddenly dies and turns dark!
 ETC_20150401_010459	Oh.. no…
 ETC_20150401_010460	{memo X}Need the 2nd circle of Alchemist
@@ -10476,7 +10476,7 @@ ETC_20150401_010474	{memo X}Icon Image + 黑色 Hair Open
 ETC_20150401_010475	Detect force of the astral body
 ETC_20150401_010476	Eyes of seeing astral body
 ETC_20150401_010477	Get rid of the bleak shadow
-ETC_20150401_010478	Bleak aura has weakened. Monsters become weak. 
+ETC_20150401_010478	Bleak aura has weakened. Monsters become weak.
 ETC_20150401_010479	{memo X}Effect of antigravity
 ETC_20150401_010480	Feels lighter.
 ETC_20150401_010481	Trace of Starlight
@@ -10626,7 +10626,7 @@ ETC_20150401_010624	{memo X}Seal of Archon is weakened.
 ETC_20150401_010625	Archon is released from the seal!
 ETC_20150401_010626	啟動中
 ETC_20150401_010627	Evil Energy Purifier activated!
-ETC_20150401_010628	Purifying the evil energy in 
+ETC_20150401_010628	Purifying the evil energy in
 ETC_20150401_010629	{memo X}seconds.
 ETC_20150401_010630	{memo X}Completed purifying Magi. {nl}The energy of light is permeating the Royal Mausoleum Workers Lodge
 ETC_20150401_010631	{memo X}Barrier of the chapel is released!
@@ -10654,14 +10654,14 @@ ETC_20150401_010652	{memo X}You cannot use this now.
 ETC_20150401_010653	{memo X}You cannot use the skill when you are in a battle
 ETC_20150401_010654	廣播
 ETC_20150401_010655	倉庫保管員
-ETC_20150401_010656	Guidance of Star
-ETC_20150401_010657	Protection of Star
-ETC_20150401_010658	Blessing of Star
-ETC_20150401_010659	Star Tower guiding device
-ETC_20150401_010660	Statue protecting the star
-ETC_20150401_010661	Antigravity magic circle
-ETC_20150401_010662	Star lamp with spell
-ETC_20150401_010663	Giant Star Stone
+ETC_20150401_010656	星之指導
+ETC_20150401_010657	星之保護
+ETC_20150401_010658	星之祝福
+ETC_20150401_010659	星之塔守備裝置
+ETC_20150401_010660	星之守衛雕像
+ETC_20150401_010661	反重力魔法圈
+ETC_20150401_010662	星之魔力神燈
+ETC_20150401_010663	巨大的星之石
 ETC_20150401_010664	Abandoned altar
 ETC_20150401_010665	TypeD_Buff Manager
 ETC_20150401_010666	Abandoned Altar
@@ -10705,7 +10705,7 @@ ETC_20150406_010703	{memo X}Get kindlings from Orange Dandel and keep the fire a
 ETC_20150406_010704	The monsters seem to have smelled the purifying liquid. They are attacking!
 ETC_20150406_010705	Ugh.. My power…
 ETC_20150406_010706	You defeated them all!
-ETC_20150406_010707	{memo X}Did you think you can take my soul? 
+ETC_20150406_010707	{memo X}Did you think you can take my soul?
 ETC_20150406_010708	霍伯格!
 ETC_20150406_010709	{memo X}Wake up, Revelator.
 ETC_20150406_010710	{memo X}You must tell the Goddess about Hauberk running away
@@ -10781,7 +10781,7 @@ ETC_20150406_010779	Did not find suitable materials!
 ETC_20150406_010780	Dandels came out instead of usable materials!
 ETC_20150406_010781	{memo X}You need a bottle with the monster's spell.
 ETC_20150406_010782	沒有在指定的時間內破壞掉盒子！
-ETC_20150406_010783	Opening the wine cask 
+ETC_20150406_010783	Opening the wine cask
 ETC_20150406_010784	Observing the monster's reactions
 ETC_20150406_010785	{memo X}The withered crops are lively again.{nl}Tell Baras about this!
 ETC_20150406_010786	{memo X}The fire went out.
@@ -10793,7 +10793,7 @@ ETC_20150406_010791	I will do whatever it takes to get my revenge.
 ETC_20150406_010792	I will enjoy taking down every single one of the betrayers.
 ETC_20150406_010793	Nuaele? That little thing grew larger?
 ETC_20150406_010794	How insolent. To go as far as wielding my marks.
-ETC_20150406_010795	The fragment of Nuaele's seal was originally mine. I'll go too. 
+ETC_20150406_010795	The fragment of Nuaele's seal was originally mine. I'll go too.
 ETC_20150406_010796	{memo X}He betrayed? That's absurd.
 ETC_20150406_010797	I can feel it calling…
 ETC_20150406_010798	I can feel a familiar energy…
@@ -11008,7 +11008,7 @@ ETC_20150414_011006	Level limit to hide PlayEffectToGround
 ETC_20150414_011007	{memo X}Recipe - Crude Kaskara
 ETC_20150414_011008	圖紙 - 阿拉斯彎刀
 ETC_20150414_011009	圖紙 - 小冢
-ETC_20150414_011010	圖紙 - 闊刃彎刀 
+ETC_20150414_011010	圖紙 - 闊刃彎刀
 ETC_20150414_011011	Recipe - Saif
 ETC_20150414_011012	圖紙 - 大劍
 ETC_20150414_011013	Recipe - Katzbalger
@@ -11017,7 +11017,7 @@ ETC_20150414_011015	{memo X}Recipe - Crude Cane Rover
 ETC_20150414_011016	圖紙 - 阿拉斯長魔杖
 ETC_20150414_011017	圖紙 - 蛇紋魔棒
 ETC_20150414_011018	圖紙 - 變種魔棒
-ETC_20150414_011019	圖紙 - 娜德魔棒(Nald) 
+ETC_20150414_011019	圖紙 - 娜德魔棒(Nald)
 ETC_20150414_011020	{memo X}Recipe - Crude Oak Staff
 ETC_20150414_011021	Recipe - Steel Staff
 ETC_20150414_011022	Recipe - Superior Steel Staff
@@ -11037,7 +11037,7 @@ ETC_20150414_011035	Recipe - Fedimian Club
 ETC_20150414_011036	圖紙 - 符文之錘
 ETC_20150414_011037	圖紙 - 長貝矛
 ETC_20150414_011038	圖紙 - 柱槍(Alchupiz)
-ETC_20150414_011039	圖紙 - 螺旋柱槍(Gelti Alchupiz) 
+ETC_20150414_011039	圖紙 - 螺旋柱槍(Gelti Alchupiz)
 ETC_20150414_011040	Recipe - Grima Gloves
 ETC_20150414_011041	Recipe - Grima Boots
 ETC_20150414_011042	{memo X}Recipe - Regal Gloves
@@ -11401,7 +11401,7 @@ ETC_20150428_011399	Recipe - Wood Compound Bow
 ETC_20150428_011400	Recipe - Tag Bow
 ETC_20150428_011401	圖紙 - 步槍
 ETC_20150428_011402	Recipe - 黑色 Tip Bow
-ETC_20150428_011403	圖紙 - 尖十字弩(Spike) 
+ETC_20150428_011403	圖紙 - 尖十字弩(Spike)
 ETC_20150428_011404	Recipe - Spike Club
 ETC_20150428_011405	Recipe - Stirus Hammer
 ETC_20150428_011406	Recipe - Warhammer
@@ -11496,7 +11496,7 @@ ETC_20150428_011494	{memo X}{count3} enhancement
 ETC_20150428_011495	{memo X}{character1} of team obtained {count1}silver{nl} the second rank:
 ETC_20150428_011496	{memo X}{character2} of team obtained {count2}silver{nl} the third rank:
 ETC_20150428_011497	{memo X}{character3} of team obtained {count3}silver
-ETC_20150428_011498	You cannot abandon the quest unless it is in progress or on standby to complete. 
+ETC_20150428_011498	You cannot abandon the quest unless it is in progress or on standby to complete.
 ETC_20150428_011499	傳送區域排行
 ETC_20150428_011500	獵殺魔物區域排行
 ETC_20150428_011501	啟示者死亡區域排行
@@ -11534,7 +11534,7 @@ ETC_20150428_011532	{memo X}紅色 Crystal is resonating!
 ETC_20150428_011533	{memo X}藍色 Crystal is resonating!
 ETC_20150428_011534	{memo X}Yellow Crystal is resonating!
 ETC_20150428_011535	{memo X}The grapes are already withered.
-ETC_20150428_011536	{memo X}Failed to guide the soldier left behind. 
+ETC_20150428_011536	{memo X}Failed to guide the soldier left behind.
 ETC_20150428_011537	{memo X}Unable to resonate the crystal yet.
 ETC_20150428_011538	{memo X}The crystal is already resonating.
 ETC_20150428_011539	Moving to the entrance of the Royal Mausoleum
@@ -11843,7 +11843,7 @@ ETC_20150714_011841	This title is given to players who have completed the main s
 ETC_20150714_011842	Purifying Mediator
 ETC_20150714_011843	This title is given to players who have completed the main story quest of Shaton Reservoir.
 ETC_20150714_011844	Never Die
-ETC_20150714_011845	Resurrected 1,000 times 
+ETC_20150714_011845	Resurrected 1,000 times
 ETC_20150714_011846	Contribution Level
 ETC_20150714_011847	You have the fragment of the eye of the truth.
 ETC_20150714_011848	Astral Body
@@ -12076,11 +12076,11 @@ ETC_20150714_012074	There's a player who seems to be fit for your party.{nl}You 
 ETC_20150714_012075	A player who is doing the same quest is near. Invite them to the party!
 ETC_20150714_012076	This party that is doing the same quest is requesting your participation. Join the party!
 ETC_20150714_012077	There is a player of similar level nearby.{nl}You could invite this player to the party.
-ETC_20150714_012078	This party of similar level has requested that you join them. Join this party! 
+ETC_20150714_012078	This party of similar level has requested that you join them. Join this party!
 ETC_20150714_012079	You've found a fellow player who you've played with before. {nl}You could invite this player to your party again!
 ETC_20150714_012080	Players who you've played with before are inviting you to their party again. Join this party again!
 ETC_20150714_012081	組隊任務
-ETC_20150714_012082	One of the quests that satisfied the requirements will be started on a random basis for all party members. 
+ETC_20150714_012082	One of the quests that satisfied the requirements will be started on a random basis for all party members.
 ETC_20150714_012083	{memo X}NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Nothing was found!:5
 ETC_20150714_012084	{memo X}PCSelfDown:10/Notice:NOTICE_Dm_!:Niole Roots were disconnected!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead
 ETC_20150714_012085	{memo X}DoTimeAction:Collecting:2:SITGROPE:SSN_HATE_AROUND
@@ -12143,7 +12143,7 @@ ETC_20150714_012141	Put the string on the way to Siaulai Mine Village
 ETC_20150714_012142	Put the string on the lower way of Spalba Three ways
 ETC_20150714_012143	Put the string at the cliff side of Nashilaite
 ETC_20150714_012144	Put the string on the Mairunas Hill
-ETC_20150714_012145	Search the scene where disappearance occurred with the eyes of the spirit 
+ETC_20150714_012145	Search the scene where disappearance occurred with the eyes of the spirit
 ETC_20150714_012146	Fill the beads of consolation with the essences of Tini
 ETC_20150714_012147	Fill the completed beads of consolation with the wrath of the villagers in Andail
 ETC_20150714_012148	Collect the innocent chilled essences
@@ -12152,7 +12152,7 @@ ETC_20150714_012150	Search for the secret stash with Zubeck's Orb
 ETC_20150714_012151	The remaining dangerous quests Kill Count Share Session
 ETC_20150714_012152	{memo X}Obtaining the materials for 製作 explosive bullets
 ETC_20150714_012153	{memo X}Without getting caught by the guards of the kindom military, move to the next area with Amanda
-ETC_20150714_012154	Retrieve the blind shells using the bomb eliminating tools 
+ETC_20150714_012154	Retrieve the blind shells using the bomb eliminating tools
 ETC_20150714_012155	{memo X}Obtain the diluting solution from the 裝備 merchant in Fedimian
 ETC_20150714_012156	Goldspoon Life(1)
 ETC_20150714_012157	Sweep away the soil dust off from Gwiyalo tombstone
@@ -12181,19 +12181,19 @@ ETC_20150714_012179	The proportion of Recipe purchases
 ETC_20150714_012180	Shadow, Skill Effect * offset
 ETC_20150714_012181	It will disappear when it moves further away from the anvil
 ETC_20150714_012182	Warning Message will be appear when it gets far from the anvil
-ETC_20150714_012183	At Hawk Roost Ani Change Term Time 
+ETC_20150714_012183	At Hawk Roost Ani Change Term Time
 ETC_20150714_012184	The monsters that are created on the fields, lifeTlme when nothing gets input;
 ETC_20150714_012185	Field Max Pop Multiplication
 ETC_20150714_012186	The range to kill the nearby monsters when Grimm Reaper appears
 ETC_20150714_012187	{memo X}The minimum time until the next party recommendation after a recommendation(secs)
 ETC_20150714_012188	{memo X}The time that will take until the first party recommendation after log in (secs)
 ETC_20150714_012189	{memo X}The penalty points for the person who has been already recommended
-ETC_20150714_012190	{memo X}If only the parties below the point exist, I will not make recommendations. That point 
+ETC_20150714_012190	{memo X}If only the parties below the point exist, I will not make recommendations. That point
 ETC_20150714_012191	Will not match the person below this average reputation point(average relationship points). That point
 ETC_20150714_012192	{memo X}The average time until the next party recommendation(secs). About the person who has normal reputation points.
 ETC_20150714_012193	{memo X}The maximum time until the next party recommendation(secs). About the person who has bad reputation points, but who will be recommended anyways
 ETC_20150714_012194	{memo X}The shortest term (mins) to recommend a user to a party
-ETC_20150714_012195	Whenever there's a Like, additional points will be given 
+ETC_20150714_012195	Whenever there's a Like, additional points will be given
 ETC_20150714_012196	Per 1 交易
 ETC_20150714_012197	Per 1 whisper
 ETC_20150714_012198	Per 1 Group/Party Chat
@@ -12250,7 +12250,7 @@ ETC_20150714_012248	你想要把這個道具給 {PC} 嗎？
 ETC_20150714_012249	You have received the item(s)。
 ETC_20150714_012250	You are too close to the base camp.
 ETC_20150714_012251	You are far away from the refreshment table.
-ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you sure you want to extract a gem? 
+ETC_20150714_012252	{nl}The gem's level decreases upon extraction.{nl}Are you sure you want to extract a gem?
 ETC_20150714_012253	Maximum Physical Attack
 ETC_20150714_012254	Add {Value} Physical Defense to your 同伴
 ETC_20150714_012255	Add {Value} Magic Defense to your 同伴
@@ -12297,7 +12297,7 @@ ETC_20150714_012295	There are already spring sun flowers nearby
 ETC_20150714_012296	The wooden resin container is empty
 ETC_20150714_012297	You feel an unpleasant vibration! Let's go meet Cordelier
 ETC_20150714_012298	{memo X}The monster is about to be exploded
-ETC_20150714_012299	Activate the altar using the summoned subordinates of Zachariel! 
+ETC_20150714_012299	Activate the altar using the summoned subordinates of Zachariel!
 ETC_20150714_012300	{memo X}Obtain more scraps of food from the piles of food at Ishiflashi Square.
 ETC_20150714_012301	The Crystal Core Piece exploded
 ETC_20150714_012302	You saw a beautiful flower and picked it up
@@ -12330,14 +12330,14 @@ ETC_20150714_012328	It will react when you bring monsters
 ETC_20150714_012329	No reactions at all! Try bringing other monsters
 ETC_20150714_012330	Hand it over
 ETC_20150714_012331	Don't hand it over
-ETC_20150714_012332	There should be a bottle that is filled with the demonic energies of the monsters 
+ETC_20150714_012332	There should be a bottle that is filled with the demonic energies of the monsters
 ETC_20150714_012333	The crops that were withered are lively again{nl}Tell this to Varas!
 ETC_20150714_012334	The flame was extinguished
 ETC_20150714_012335	You've obtained a Dandel Wing! Put it into the flame and maintain the fire!
 ETC_20150714_012336	You have placed the pot. The monsters are gathering towards it!
 ETC_20150714_012337	You should put the sanctum back to its original position{nl}Go meet with the Priest Master
 ETC_20150714_012338	Read
-ETC_20150714_012339	You can only make the rubbing after defeating all monsters 
+ETC_20150714_012339	You can only make the rubbing after defeating all monsters
 ETC_20150714_012340	Poisonous effect is present!
 ETC_20150714_012341	It seems that the poison if ineffective!
 ETC_20150714_012342	Pulling Out Hair
@@ -12347,7 +12347,7 @@ ETC_20150714_012345	Looking for usable stone
 ETC_20150714_012346	You've found a usable stone!
 ETC_20150714_012347	Looking for a usable wood stick
 ETC_20150714_012348	You've found a usable wood stick!
-ETC_20150714_012349	Nothing seems to be usable 
+ETC_20150714_012349	Nothing seems to be usable
 ETC_20150714_012350	Making a shovel
 ETC_20150714_012351	When you exerted the force on the tombstone, the monster suddenly appeared!
 ETC_20150714_012352	The goddess of foresight, Laima
@@ -12420,7 +12420,7 @@ ETC_20150714_012418	The monster's scent is already rubbed on the supplies
 ETC_20150714_012419	You've destroyed the petrified records
 ETC_20150714_012420	Another player is collecting
 ETC_20150714_012421	You have removed the small dimensional crack
-ETC_20150714_012422	You have released the Seal of Rearda 
+ETC_20150714_012422	You have released the Seal of Rearda
 ETC_20150714_012423	You have released the Seal of Kasa
 ETC_20150714_012424	You have released the Seal of Rada
 ETC_20150714_012425	You sense some energy from the altar
@@ -12485,7 +12485,7 @@ ETC_20150714_012483	Now all pipes are working properly!{nl}Activate circulating 
 ETC_20150714_012484	You've found all materials that are needed for the repair!{nl}Go back to the main purification device and repair
 ETC_20150714_012485	It seems that the Jewel of Prominence is leaking magic power!{nl}You should find the cause and eliminate it quickly!
 ETC_20150714_012486	請在閥前操作
-ETC_20150714_012487	Defeat Bearkaras and progress 
+ETC_20150714_012487	Defeat Bearkaras and progress
 ETC_20150714_012488	You've defeated the Stone Whale that was impeding your search for the parts.{nl}Search for the other parts of the Main Purifier
 ETC_20150714_012489	魔物沒有顯示任何反應
 ETC_20150714_012490	You can't guide it when the eyes of the astral body are open
@@ -12584,7 +12584,7 @@ ETC_20150714_012582	Chevas found the herbs!
 ETC_20150714_012583	Collecting the herbs
 ETC_20150714_012584	Collecting the bee hives
 ETC_20150714_012585	Mad Chafperors appeared!
-ETC_20150714_012586	Picking up the waterweed 
+ETC_20150714_012586	Picking up the waterweed
 ETC_20150714_012587	The stem has been cut!
 ETC_20150714_012588	Let's enter from Epbas Hall!
 ETC_20150714_012589	Monsters are rushing in!
@@ -12644,7 +12644,7 @@ ETC_20150714_012642	A light from Zubeck's Orb is pointing at something!
 ETC_20150714_012643	You found Zubeck's things!
 ETC_20150714_012644	The magical power of the demons nearby are protecting the portal
 ETC_20150714_012645	The innocent essence of the chill is melting!
-ETC_20150714_012646	Use the bonfire to burn the sphere of consolation 
+ETC_20150714_012646	Use the bonfire to burn the sphere of consolation
 ETC_20150714_012647	You've collected the innocent essences of the chill!
 ETC_20150714_012648	{memo X}Looking for the liquid medicine
 ETC_20150714_012649	{memo X}Obtained the liquid medicine
@@ -12668,9 +12668,9 @@ ETC_20150714_012666	Gender Property
 ETC_20150714_012667	Lodge theme changed.
 ETC_20150714_012668	Like!
 ETC_20150714_012669	Cancel Like
-ETC_20150714_012670	The other party rejected 
+ETC_20150714_012670	The other party rejected
 ETC_20150714_012671	Not enough party members (%d/%d)
-ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join? 
+ETC_20150714_012672	{Name} invited you to {PVPName}. Would you like to join?
 ETC_20150714_012673	You've invited the party members. Wait for their responses.
 ETC_20150714_012674	{Killer} defeated {Killee}
 ETC_20150714_012675	{Killee} was defeated by {Killer}
@@ -12814,7 +12814,7 @@ ETC_20150714_012812	Search for unused NPC
 ETC_20150714_012813	GenType Check
 ETC_20150714_012814	Update Quest Classname
 ETC_20150714_012815	Treasure Box Placement
-ETC_20150714_012816	Sort unused dialogue 
+ETC_20150714_012816	Sort unused dialogue
 ETC_20150714_012817	These are all Korean particles
 ETC_20150714_012818	Deploy NPC
 ETC_20150714_012819	Create item update
@@ -12828,7 +12828,7 @@ ETC_20150714_012826	Continuing quest validation / large quest update
 ETC_20150714_012827	Quest Tree Initialization
 ETC_20150714_012828	ClassName, ClassID, Name Search
 ETC_20150714_012829	0) Search NPC Collection
-ETC_20150714_012830	9) Simultaneous List Search 
+ETC_20150714_012830	9) Simultaneous List Search
 ETC_20150714_012831	8) Search script contents
 ETC_20150714_012832	7) xml search / list
 ETC_20150714_012833	6) GenType search / list
@@ -13203,7 +13203,7 @@ ETC_20150717_013201	{memo X}As you were trying to repair the detector, the monst
 ETC_20150717_013202	Weakened Petrified Frosts
 ETC_20150717_013203	{memo X}Intensive Spirits' Device has been destroyed and lots of monsters are rushing in!
 ETC_20150717_013204	Defeat 蠑螈s that are going after Protective Shell activating the device
-ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in! 
+ETC_20150717_013205	As the magic stabilizing device activated, the monsters rushed in!
 ETC_20150717_013206	Protect Grita while she is controlling the magic of the tower!
 ETC_20150717_013207	Defeat Grinender that blocked the stairs to the 5th floor!
 ETC_20150717_013208	{memo X}Well done. Grita.
@@ -13232,37 +13232,37 @@ ETC_20150717_013230	{memo X}The blessing of the unknown crystal pole
 ETC_20150717_013231	{memo X}You can move freely using
 ETC_20150717_013232	Choose the control mode from Game Settings.
 ETC_20150717_013233	{memo X}For the joypad, use the Control Pad to move.
-ETC_20150717_013234	{memo X}For the mouse, click on an area to move your character. 
+ETC_20150717_013234	{memo X}For the mouse, click on an area to move your character.
 ETC_20150717_013235	{memo X}When using the mouse, you can also move using the {img W 40 40}, {img A 40 40}, {img S 40 40} and {img D 40 40} keys
-ETC_20150717_013236	{memo X}Press the same arrow key twice to dash when using Swordsman types. 
-ETC_20150717_013237	Using Dash increases your movement speed but also consumes Stamina faster. 
-ETC_20150717_013238	{memo X}Use jump to cross over obstacles or up higher places. 
+ETC_20150717_013236	{memo X}Press the same arrow key twice to dash when using Swordsman types.
+ETC_20150717_013237	Using Dash increases your movement speed but also consumes Stamina faster.
+ETC_20150717_013238	{memo X}Use jump to cross over obstacles or up higher places.
 ETC_20150717_013239	{memo X}Press {img X 40 40} to jump.
 ETC_20150717_013240	{memo X}When using a mouse, you can jump by using {img space 40 40}。
 ETC_20150717_013241	{memo X}When using a joypad, you can jump by using preset keys.
 ETC_20150717_013242	{memo X}Press {img Z 40 40} to use a basic attack.
-ETC_20150717_013243	{memo X}When using a mouse, you can attack by using {img Z 40 40} or by clicking on the enemy. 
-ETC_20150717_013244	{memo X}Press {img ctrl 40 40} to lock a target. 
-ETC_20150717_013245	{memo X}Press {img Alt 40 40} to immediately stop your character's movement. 
-ETC_20150717_013246	{memo X}Press {img space 40 40} to face your target. 
-ETC_20150717_013247	{memo X}When using a joypad, you can attack by using the preset key. 
-ETC_20150717_013248	{memo X}Use the Map to check your current location and other current areas. 
-ETC_20150717_013249	{memo X}Press the {img M 40 40} to check the map of your current area. 
-ETC_20150717_013250	{memo X}Press the {img N 40 40} to open the World Map. 
-ETC_20150717_013251	{memo X}Areas you haven't been to will not be shown on the World Map,{nl}while areas you have already been to will be activated. 
-ETC_20150717_013252	{memo X}Moving your mouse over the activated area will show the map that the character has completed. 
-ETC_20150717_013253	{memo X}You can check your items, 裝備s, money, and weight through the Inventory. 
-ETC_20150717_013254	{memo X}Press {img F2 40 40} to open the Inventory window. 
-ETC_20150717_013255	{memo X}Upper area of the Inventory window shows items that the character equipped. 
+ETC_20150717_013243	{memo X}When using a mouse, you can attack by using {img Z 40 40} or by clicking on the enemy.
+ETC_20150717_013244	{memo X}Press {img ctrl 40 40} to lock a target.
+ETC_20150717_013245	{memo X}Press {img Alt 40 40} to immediately stop your character's movement.
+ETC_20150717_013246	{memo X}Press {img space 40 40} to face your target.
+ETC_20150717_013247	{memo X}When using a joypad, you can attack by using the preset key.
+ETC_20150717_013248	{memo X}Use the Map to check your current location and other current areas.
+ETC_20150717_013249	{memo X}Press the {img M 40 40} to check the map of your current area.
+ETC_20150717_013250	{memo X}Press the {img N 40 40} to open the World Map.
+ETC_20150717_013251	{memo X}Areas you haven't been to will not be shown on the World Map,{nl}while areas you have already been to will be activated.
+ETC_20150717_013252	{memo X}Moving your mouse over the activated area will show the map that the character has completed.
+ETC_20150717_013253	{memo X}You can check your items, 裝備s, money, and weight through the Inventory.
+ETC_20150717_013254	{memo X}Press {img F2 40 40} to open the Inventory window.
+ETC_20150717_013255	{memo X}Upper area of the Inventory window shows items that the character equipped.
 ETC_20150717_013256	Below are the item that the character holds.
-ETC_20150717_013257	{memo X}Items in the inventory are sorted by item types. 
+ETC_20150717_013257	{memo X}Items in the inventory are sorted by item types.
 ETC_20150717_013258	{memo X}Click on Sort to sort the inventory by name.
 ETC_20150717_013259	{memo X}Use the search function to quickly find items.
 ETC_20150717_013260	{memo X}The lower area shows total carry weight of your items, funds, and iCoins.
 ETC_20150717_013261	{memo X}Available quests are found in the Quest window.
 ETC_20150717_013262	{memo X}Press {img F5 40 40} to view the quests in progress.
 ETC_20150717_013263	Select an entry from the Quests in Progress list for detailed information.
-ETC_20150717_013264	You can drop certain quests with the 
+ETC_20150717_013264	You can drop certain quests with the
 ETC_20150717_013265	 button.
 ETC_20150717_013266	{memo X}You can check abandoned quests through
 ETC_20150717_013267	 tab.
@@ -13273,12 +13273,12 @@ ETC_20150717_013271	{memo X}Press {img F3 40 40} to open your Skill window.
 ETC_20150717_013272	Learned skills will appear in your Quick Slots where you can change the keys to your own choice.
 ETC_20150717_013273	{memo X}Learn attributes by visiting the Class Master NPC of a specific Class.
 ETC_20150717_013274	{memo X}Learning attributes will cost Silver and time. {nl} {nl}
-ETC_20150717_013275	{memo X}You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning. 
+ETC_20150717_013275	{memo X}You can use the attribute after you've learned it, {nl}but other attributes cannot be learned while you are learning.
 ETC_20150717_013276	Attributes that you have already mastered can be found in the Attribute List in the Skill window.
 ETC_20150717_013277	{memo X}Attributes you have already mastered can be found at the bottom of the Skill window.
 ETC_20150717_013278	{memo X}Your character's game progress is recorded in the Adventure Journal. Press F4 to view it.
 ETC_20150717_013279	{memo X}You can complete the Adventure Index through Items, Monsters, 製作, Map, and Game Progression.
-ETC_20150717_013280	{memo X}You can receive rewards from 
+ETC_20150717_013280	{memo X}You can receive rewards from
 ETC_20150717_013281	Wings of Vibora, Lena
 ETC_20150717_013282	 in Klaipeda based on the character's Adventure Index.
 ETC_20150717_013283	{memo X}You can upgrade each ability by using Status Points.
@@ -13287,7 +13287,7 @@ ETC_20150717_013285	Advancement
 ETC_20150717_013286	{memo X}You can advance to another class when your Class Level has reached 15。
 ETC_20150717_013287	{memo X}After selecting another class to advance to, you will receive an advancement quest from the Class Master. Complete the quest to advance further.
 ETC_20150717_013288	{memo X}Once you begin the advancement quest, you cannot change your class until the next advancement.
-ETC_20150717_013289	When you reach Rank 2, you can learn the attribute 
+ETC_20150717_013289	When you reach Rank 2, you can learn the attribute
 ETC_20150717_013290	 from the Class Master.
 ETC_20150717_013291	You can quickly swap weapons by pressing {img Alt 40 40}+ {img Z 40 40} if you've learned the Weapon Swap attribute
 ETC_20150717_013292	Some classes may require you to learn Weapon Mastery before using special weapons.
@@ -13319,7 +13319,7 @@ ETC_20150717_013317	{memo X}While in Rest Mode, movement is limited but restorat
 ETC_20150717_013318	{memo X}[Bonfire] Light a Bonfire during Rest Mode to increase your restoration speed further.
 ETC_20150717_013319	使用 {img key1 40 40}~{img key9 40 40} 來確定擺放位置。{nl}點起篝火 需要使用 柴火，你可以向道具商人買到柴火。
 ETC_20150717_013320	{memo X}[Natural Recovery] :
-ETC_20150717_013321	 status influences 
+ETC_20150717_013321	 status influences
 ETC_20150717_013322	HP Recovery Speed
 ETC_20150717_013323	, recovering HP in intervals.
 ETC_20150717_013324	{memo X}Restoring Naturally is very slow compared to other methods, but does not require any control or conditions.
@@ -13339,7 +13339,7 @@ ETC_20150717_013337	{memo X}You can add names or memos on crafted items.
 ETC_20150717_013338	商店系統
 ETC_20150717_013339	You can find Merchant NPCs in your travels.
 ETC_20150717_013340	{memo X}Use the 交易 window to 交易 items with NPCs.{nl}{nl}[Buy] : Select the items you want to buy with {img mouseclick_right 40 40}, then press
-ETC_20150717_013341	確認 
+ETC_20150717_013341	確認
 ETC_20150717_013342	{memo X} button to 交易. {nl}To 交易 multiple items, use {img mouseclick_right 40 40} to set quantity. {nl}{nl}[Sell]: {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150717_013343	{memo X}button to 交易. {nl}Double {img mouseclick_right 40 40} to sell all of that item.
 ETC_20150717_013344	重設
@@ -13348,8 +13348,8 @@ ETC_20150717_013346	{memo X}{img mouseclick_right 40 40} on the item from 'My So
 ETC_20150717_013347	{memo X}You require money and an anvil to enhance 裝備。
 ETC_20150717_013348	{memo X} can be purchased from the Tools Merchant or obtained from monsters.
 ETC_20150717_013349	{memo X}Press {img mouseclick_right 40 40} on the anvil, then select an 裝備 item to open the Enhancement window. Select
-ETC_20150717_013350	 and 
-ETC_20150717_013351	 will appear. Hit the 
+ETC_20150717_013350	 and
+ETC_20150717_013351	 will appear. Hit the
 ETC_20150717_013352	 three times to enhance the item.
 ETC_20150717_013353	{memo X}When enhancing a weapon beyond +5, Potential will be consumed on failure and its effects will be reset. The item will be destroyed when Potential drops to zero.
 ETC_20150717_013354	Enhancement penalties occur beyond +2 for armors, bracelets, and necklaces.
@@ -13366,7 +13366,7 @@ ETC_20150717_013364	{memo X}Adding sockets will require a fee and reduce the ite
 ETC_20150717_013365	{memo X}Press {img mouseclick_right 40 40} on the Gem to see which items are compatible.
 ETC_20150717_013366	{memo X}Click on the item to insert the Gem.
 ETC_20150717_013367	{memo X}Hover the cursor over an item to view its current Gems.
-ETC_20150717_013368	{memo X}You can remove inserted Gems by 
+ETC_20150717_013368	{memo X}You can remove inserted Gems by
 ETC_20150717_013369	{memo X} through the 黑色smith NPC.
 ETC_20150717_013370	{memo X}The Gem's level will be lowered by 1 when removed.
 ETC_20150717_013371	{memo X}Sub-Weapons are equipped in the character's right hand.
@@ -13431,7 +13431,7 @@ ETC_20150717_013429	{memo X}[Like] Press {img mouseclick_right 40 40} on another
 ETC_20150717_013430	{memo X}to use the Like function.
 ETC_20150717_013431	 between characters will increase their closeness level causing you to meet each other more often when matching parties.
 ETC_20150717_013432	{memo X}Add Magic Amulets on weapons and shields for additional effects.
-ETC_20150717_013433	You can receive additional EXP when Overkill is triggered. 
+ETC_20150717_013433	You can receive additional EXP when Overkill is triggered.
 ETC_20150717_013434	Magic Control Room
 ETC_20150717_013435	Item Merchant Emilia
 ETC_20150717_013436	City Item Merchant
@@ -13720,19 +13720,19 @@ ETC_20150729_013718	{nl}{nl}Use the search function to find specific items{nl} i
 ETC_20150729_013719	{nl}{nl}The lower part displays the total carry weight of your items, funds, and iCoins.
 ETC_20150729_013720	Available quests can be found in the Quest window.
 ETC_20150729_013721	Press {img F5 40 40} to view available quests {nl}or quests that are in progress.
-ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing the 
+ETC_20150729_013722	{nl}{nl}You can restart abandoned quests by pressing the
 ETC_20150729_013723	 button. Some quests cannot be abandoned.
 ETC_20150729_013724	{nl}{nl}Track quests by marking the checkbox in front of the quest title.
 ETC_20150729_013725	Check your character's game progress and rankings{nl} in your Adventure Journal.
 ETC_20150729_013726	Your character's progress is recorded in the Adventure Journal. Press {img F4 40 40} to view.
 ETC_20150729_013727	You can earn Adventure Index through Items, Monsters, 製作, Map, and Game Progression.
-ETC_20150729_013728	You can receive rewards from 
+ETC_20150729_013728	You can receive rewards from
 ETC_20150729_013729	Press {img F1 40 40} to open Character Information window and choose the Achievement tab to view character's achievements.
 ETC_20150729_013730	Revive your character's death by using Resurrection.
-ETC_20150729_013731	A character will die when its HP reaches 0 and becomes 
+ETC_20150729_013731	A character will die when its HP reaches 0 and becomes
 ETC_20150729_013732	. {nl}{nl}The durability of equipped items will decrease drastically when a character becomes incapable of combat.
 ETC_20150729_013733	{nl}{nl}Gems in your inventory will be dropped when you die inside a dungeon.
-ETC_20150729_013734	A party can be created to play with other players. 
+ETC_20150729_013734	A party can be created to play with other players.
 ETC_20150729_013735	{memo X}Press {img F6 40 40} to open the Party window.{nl}{nl}Click on the 'Create' button to make a party.
 ETC_20150729_013736	{memo X}You can set up your own play style and preferences through the party settings.{nl}{nl}This information will be used when you use the Search Party Member function.
 ETC_20150729_013737	When you find players that match your set up criteria, {nl}{img mouseclick_right 40 40} to invite the player to your party.
@@ -13746,7 +13746,7 @@ ETC_20150729_013744	你可以恢復你消耗的 HP/SP/耐力。
 ETC_20150729_013745	[休息模式] 按 {img Insert 40 40} 來休息。
 ETC_20150729_013746	在休息模式點燃篝火可以加快恢復速度。
 ETC_20150729_013747	[篝火] 在休息模式點燃篝火可以加快恢復速度。
-ETC_20150729_013748	{memo $}{nl}{nl}[Natural Recovery]: The 
+ETC_20150729_013748	{memo $}{nl}{nl}[Natural Recovery]: The
 ETC_20150729_013749	{memo $}Natural Recovery is very slow compared to other methods, but does not have any requirements.
 ETC_20150729_013750	{memo $}{nl}{nl}[Recovery using Potions]: Amount of HP/SP/STA restored depends on the potion consumed.
 ETC_20150729_013751	However, potions have a cooldown before they can be re-used.
@@ -13760,11 +13760,11 @@ ETC_20150729_013758	You need to win two of three matches to win.
 ETC_20150729_013759	Craft items using special recipes.
 ETC_20150729_013760	You can obtain item recipes from monsters, shops, and through quests.
 ETC_20150729_013761	{nl}{nl}To craft, press {img Insert 40 40} and switch to Rest Mode.
-ETC_20150729_013762	{nl}{nl}If you have all required materials, press the 
+ETC_20150729_013762	{nl}{nl}If you have all required materials, press the
 ETC_20150729_013763	 button to begin 製作。
 ETC_20150729_013764	Optionally, you can add a unique name or memo on your newly crafted item.
 ETC_20150729_013765	Use the 交易 window to 交易 items with Merchant NPCs.
-ETC_20150729_013766	[Buy] : Select the item you want to buy with {img mouseclick_right 40 40}, then press 
+ETC_20150729_013766	[Buy] : Select the item you want to buy with {img mouseclick_right 40 40}, then press
 ETC_20150729_013767	button to 交易. {nl}To 交易 multiple items, use {img shift 40 40}+{img mouseclick_right 40 40} to set a quantity. {nl}{nl}[Sell] : {img mouseclick_right 40 40} on the items you want to sell from your inventory, and set quantity, then press
 ETC_20150729_013768	button to 交易. {nl}Double {img mouseclick_right 40 40} to sell all of that item. {nl}{nl}
 ETC_20150729_013769	Items sold to the shops can be purchased back.
@@ -13773,7 +13773,7 @@ ETC_20150729_013771	Enhance your 裝備 to increase its power.
 ETC_20150729_013772	You need funds and an anvil to enhance your item.
 ETC_20150729_013773	 can be purchased from the Tools Merchant or obtained from monsters.
 ETC_20150729_013774	{nl}{nl}{img mouseclick_right 40 40} on the anvil, then select an item to open Enhancement window.
-ETC_20150729_013775	{nl}{nl}When your 裝備 is enhanced, its power increases. 
+ETC_20150729_013775	{nl}{nl}When your 裝備 is enhanced, its power increases.
 ETC_20150729_013776	{nl}{nl}When enhancing a weapon beyond +5, Potential will be consumed on failure and the effects will be reset. The item will be destroyed when Potential drops to 0。
 ETC_20150729_013777	Repair items with low durability through the 黑色smith NPC.
 ETC_20150729_013778	Repair items with low durability in the Item Repair window.
@@ -13785,7 +13785,7 @@ ETC_20150729_013783	{nl}{nl}You can insert Gems in the item sockets to add addit
 ETC_20150729_013784	Some items may not have sockets. For such items, you can add sockets through the 黑色smith NPC. {nl}{nl}Adding a socket will require a fee and reduce the item's Potential by 1。
 ETC_20150729_013785	{nl}{nl} {img mouseclick_right 40 40} on the Gem to see which items are compatible.
 ETC_20150729_013786	Click on the item to insert the Gem.{nl}Hover the cursor over an item to view its Gems.
-ETC_20150729_013787	{nl}{nl}You can remove inserted Gems by 
+ETC_20150729_013787	{nl}{nl}You can remove inserted Gems by
 ETC_20150729_013788	 through the 黑色smith NPC.
 ETC_20150729_013789	The level of the Gem can possibly decrease by 1 when removed.
 ETC_20150729_013790	Sub-Weapons refer to all right-hand weapons except Shields.
@@ -13806,15 +13806,15 @@ ETC_20150729_013804	{memo X}is used to warp between Goddess Statues when activat
 ETC_20150729_013805	{nl}{nl}You can use the active Goddess Statue to teleport to other areas with an active Goddess Statue.
 ETC_20150729_013806	You can also use the Warp Scroll to warp immediately.
 ETC_20150729_013807	However, when using the Warp Scroll, you can only warp to areas with activated statues.
-ETC_20150729_013808	{memo X}By using the Warp Scroll again, you will be warped to your last location.{nl}Returning location will be shown as 
+ETC_20150729_013808	{memo X}By using the Warp Scroll again, you will be warped to your last location.{nl}Returning location will be shown as
 ETC_20150729_013809	{memo X}Warp Used Area
 ETC_20150729_013810	{memo X} and does not consume the Warp Scroll when you warp back.
 ETC_20150729_013811	Warp Scrolls can be bought from shops and can be obtained from quests.
 ETC_20150729_013812	You can use the 'Return' button to complete quests easier.
 ETC_20150729_013813	 can be activated through the items.
-ETC_20150729_013814	 can be obtained through various ways and{nl} 
+ETC_20150729_013814	 can be obtained through various ways and{nl}
 ETC_20150729_013815	 NPC activates the Collection.
-ETC_20150729_013816	{nl}{nl}If you have registered decks, 
+ETC_20150729_013816	{nl}{nl}If you have registered decks,
 ETC_20150729_013817	You can add the item to the collection by dragging the item from inventory to the Collection.
 ETC_20150729_013818	{nl}{nl}Items added can be moved back to your inventory by {img mouseclick_right 40 40}。
 ETC_20150729_013819	Removing items from a completed Collection will mark it as incomplete and remove its effect.{nl}Only completed Collections give collection effects.
@@ -13831,7 +13831,7 @@ ETC_20150729_013829	同伴 food can be purchased from 同伴 交易r NPC.
 ETC_20150729_013830	Train your 同伴 through the 同伴 交易r to increase its abilities. A training fee is required.
 ETC_20150729_013831	Monsters found in dungeons will attack players on sight.
 ETC_20150729_013832	Gems may be lost when you die in dungeons. So, be careful!
-ETC_20150729_013833	When you die in a dungeon, click 
+ETC_20150729_013833	When you die in a dungeon, click
 ETC_20150729_013834	 to revive at the entrance outside the dungeon.
 ETC_20150729_013835	 $Receive beneficial effects when worshipping a Goddess Statue.
 ETC_20150729_013836	 gives you bonus Status Points.
@@ -13843,7 +13843,7 @@ ETC_20150729_013841	與其他玩家互動。
 ETC_20150729_013842	[Friend] You can check your Friends List using {img F7 40 40}. Players should agree with each other in order to add each other into their Friends List.
 ETC_20150729_013843	Use {img mouseclick_right 40 40} to send a request to another player that you want to become friends with.
 ETC_20150729_013844	You can view the login status and location of your friends.
-ETC_20150729_013845	{nl} {nl}[Like] Use {img mouseclick_right 40 40} to 
+ETC_20150729_013845	{nl} {nl}[Like] Use {img mouseclick_right 40 40} to
 ETC_20150729_013846	 other characters!
 ETC_20150729_013847	 can be viewed from the Other Character Info window.
 ETC_20150729_013848	Add Magic Amulet on weapons and shields for additional effects.
@@ -13953,7 +13953,7 @@ ETC_20150729_013951	{UserName} has won this battle.
 ETC_20150729_013952	{UserName}'s Card
 ETC_20150729_013953	The one with the long English name
 ETC_20150729_013954	the one with the short English name
-ETC_20150729_013955	Please put a card on the table. 
+ETC_20150729_013955	Please put a card on the table.
 ETC_20150729_013956	There is no opponent.
 ETC_20150729_013957	You have not yet reached the required level to start this main quest.
 ETC_20150729_013958	{@st41}Random Reward{/}
@@ -14085,7 +14085,7 @@ ETC_20150803_014083	Being suspected
 ETC_20150803_014084	Being suspected
 ETC_20150803_014085	The curse of the magical device
 ETC_20150803_014086	{nl} {nl}The name of an item you input and the memo can be checked from Item Tooltip.
-ETC_20150803_014087	克萊佩達的 
+ETC_20150803_014087	克萊佩達的
 ETC_20150803_014088	 enables you to warp to other locations.
 ETC_20150803_014089	You can set various settings for the team which your character belongs to at the Lodge.
 ETC_20150803_014090	When you select Lodge Settings, you can change your team name
@@ -14205,7 +14205,7 @@ ETC_20150807_014203	{memo X}
 ETC_20150807_014204	{memo X}
 ETC_20150807_014205	{memo X}
 ETC_20150807_014206	Group Settings {img white_right_arrow 18 18}
-ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16} 
+ETC_20150807_014207	{@st41b}Fold {img red_up_arrow 16 16}
 ETC_20150918_014208	Cockat
 ETC_20150918_014209	Archmage Fire Lord
 ETC_20150918_014210	Guard Dog Cerberus
@@ -14275,7 +14275,7 @@ ETC_20150918_014273	Steal the liveliness
 ETC_20150918_014274	This demon is losing its vitality to the bone that is endowed with the magical power
 ETC_20150918_014275	When you catch it, you will accumulate lots of EXP points
 ETC_20150918_014276	You can check Party Information Window using {img F6 40 40}.{nl} {nl}When you don't belong to a party, press Create a Party button at the bottom of the screen to create a party.
-ETC_20150918_014277	You can put the name of your party and its description and it will also display your party members' information.{nl} {nl}When you press Party Invite Tag, a tag of your party will be displayed in the chat window. 
+ETC_20150918_014277	You can put the name of your party and its description and it will also display your party members' information.{nl} {nl}When you press Party Invite Tag, a tag of your party will be displayed in the chat window.
 ETC_20150918_014278	Each content will be exposed in the Party Event tab whenever you fulfill certain requirements, and you'll be able to participate in them with your party members.
 ETC_20150918_014279	In Settings, the rules for distributing items and EXP can be set along with Party Recruit Settings.
 ETC_20150918_014280	At the right side of Party Interface, you will be able to see Party List and Player List.
@@ -14287,11 +14287,11 @@ ETC_20150918_014285	If your class can mount on a 同伴, you can fight against t
 ETC_20150918_014286	Centurion - Move to an other location within the formation
 ETC_20150918_014287	A Centurion commands and make orders in battles using different formations.
 ETC_20150918_014288	A Centurion is able to create a formation that will bring the squad members together using its skill.
-ETC_20150918_014289	A Centurion gathers characters together that come within its formation to control them.{nl} {nl}A Centurion will be able to control the characters until they go out of the formation, and characters can always step out of the formation if they want to. 
+ETC_20150918_014289	A Centurion gathers characters together that come within its formation to control them.{nl} {nl}A Centurion will be able to control the characters until they go out of the formation, and characters can always step out of the formation if they want to.
 ETC_20150918_014290	{nl} {nl}You can change the locations of the squad members within the formation using the NumPad keys.
 ETC_20150918_014291	When you press {img key9 40 40} while pressing {img key 1 40 40}, the character at the number 1 position will be moved to the number 9 position.
 ETC_20150918_014292	{nl} {nl}The Centurion moves the locations of its squad members and uses various formations in different circumstances.
-ETC_20150918_014293	Siaulai Mission 
+ETC_20150918_014293	Siaulai Mission
 ETC_20150918_014294	Gele Plateau Mission
 ETC_20150918_014295	The size of the device at Canyon Area
 ETC_20150918_014296	The Storage Keeper at Fedimian (temporal)
@@ -14514,7 +14514,7 @@ ETC_20150918_014512	Absorbed the Guardian's energy!
 ETC_20150918_014513	You have succeeded in destroying the demon summoning circle!
 ETC_20150918_014514	The demonic power purifier has been destroyed!
 ETC_20150918_014515	You have failed to protect the altar of purification!
-ETC_20150918_014516	You have succeeded in purifying the evil aura! 
+ETC_20150918_014516	You have succeeded in purifying the evil aura!
 ETC_20150918_014517	You have failed to protect the Royal Mausoleum Stone Lantern!
 ETC_20150918_014518	You have failed to protect the Royal Mausoleum from being destroyed!
 ETC_20150918_014519	You have obtained the Spirit Essence!
@@ -14644,7 +14644,7 @@ ETC_20150918_014642	This skill can't be used in the region.
 ETC_20150918_014643	Due to an error, the client will be closed.{nl}We apologize for the inconvenience.{nl}When you press [Yes] at the bottom of the screen, the details of the error will be sent to the developer.{nl}{nl}??The information that will be sent : Error Code, CPU, VGA, Memory Driver Information
 ETC_20150918_014644	[流氓 導師]{nl}    格瑪
 ETC_20150918_014645	[道具商人]{nl}　穆拉斯
-ETC_20150918_014646	[裝備商人]{nl}    
+ETC_20150918_014646	[裝備商人]{nl}
 ETC_20150918_014647	[鐵匠]{nl}   安娜
 ETC_20150918_014648	[市場管理員]{nl}   　　莫倫
 ETC_20150918_014649	[倉庫保管員]{nl}   　　扎丹
@@ -14713,7 +14713,7 @@ ETC_20151001_014711	Demon Totem
 ETC_20151001_014712	{memo X}Goddess' Crystal Bead
 ETC_20151001_014713	{memo X}The girl disappeared with the Demon Lord!
 ETC_20151001_014714	{memo X}You are bothersome. Human!
-ETC_20151001_014715	{memo X}Defeat the jerk. 
+ETC_20151001_014715	{memo X}Defeat the jerk.
 ETC_20151001_014716	Defeat the demon pursuers!
 ETC_20151001_014717	You stubborn idiots!
 ETC_20151001_014718	Guard Aline until Irmantas is here!
@@ -14943,7 +14943,7 @@ ETC_20151001_014941	Historian (Female) 02
 ETC_20151001_014942	Rock_Pilgrims of the road
 ETC_20151001_014943	Pilgrim (Female)_02
 ETC_20151001_014944	Pilgrim (Female)_03
-ETC_20151001_014945	Monster Trap of Pilgrims of the road 
+ETC_20151001_014945	Monster Trap of Pilgrims of the road
 ETC_20151001_014946	Empty Wagon_Coastal Fortress
 ETC_20151001_014947	Plateau Magic Circle Activation Device
 ETC_20151001_014948	Production Vine2
@@ -14969,7 +14969,7 @@ ETC_20151001_014967	Lure the demons by setting the temporary flare trap
 ETC_20151001_014968	Guard Alina to Irmantas
 ETC_20151001_014969	Obtain the 黑色 and 藍色 herb from greenery
 ETC_20151001_014970	Neutralize Magic
-ETC_20151001_014971	Protect Hauberk while he's reunifying 
+ETC_20151001_014971	Protect Hauberk while he's reunifying
 ETC_20151001_014972	Soul Scent Collect
 ETC_20151001_014973	Return to Squire Wiliya
 ETC_20151001_014974	Activate on appointed Altar only
@@ -15226,7 +15226,7 @@ ETC_20151001_015224	Wizard Shaman Doll
 ETC_20151001_015225	Black Note
 ETC_20151001_015226	Hidden Sanctuary's Wall Painting
 ETC_20151001_015227	Priest Pranas
-ETC_20151001_015228	Chaser 
+ETC_20151001_015228	Chaser
 ETC_20151001_015229	Chaser Daramouse
 ETC_20151001_015230	Priest Auranas
 ETC_20151001_015231	Priest Draznie
@@ -15573,9 +15573,9 @@ ETC_20151001_015571	The strengthening of [Giant redwood] has progressed with 60%
 ETC_20151001_015572	The strengthening of [Giant redwood] has progressed with 70%!
 ETC_20151001_015573	The strengthening of [Giant redwood] has progressed with 80%!
 ETC_20151001_015574	The strengthening of [Giant redwood] has progressed with 90%!
-ETC_20151001_015575	The weakening of [Giant redwood] has progressed with 25%! 
-ETC_20151001_015576	The weakening of [Giant redwood] has progressed with 50%! 
-ETC_20151001_015577	The weakening of [Giant redwood] has progressed with 75%! 
+ETC_20151001_015575	The weakening of [Giant redwood] has progressed with 25%!
+ETC_20151001_015576	The weakening of [Giant redwood] has progressed with 50%!
+ETC_20151001_015577	The weakening of [Giant redwood] has progressed with 75%!
 ETC_20151001_015578	You will return to the original zone in 30 seconds.
 ETC_20151001_015579	The request has failed
 ETC_20151001_015580	The request to protect magic power device has started!
@@ -15615,7 +15615,7 @@ ETC_20151001_015613	When the Owl Sculpture shines,{nl}transmit the power to redu
 ETC_20151001_015614	將在 10 秒後返回區域
 ETC_20151001_015615	打敗所有 the servants of Hauberk!
 ETC_20151001_015616	打敗所有 the servants of Hauberk!{nl}Pursue Hauberk!
-ETC_20151001_015617	打敗所有 the servants of Hauberk!{nl}Find Kupole Sigita 
+ETC_20151001_015617	打敗所有 the servants of Hauberk!{nl}Find Kupole Sigita
 ETC_20151001_015618	Track down the Demon Lord Hauberk who fled through the Zinuma Passage!
 ETC_20151001_015619	Wheelens are being corrupted by Denoptic!
 ETC_20151001_015620	Bearkaras Suppressor
@@ -15794,7 +15794,7 @@ ETC_20151016_015792	在區域 A 尋找村民的蹤跡
 ETC_20151016_015793	在區域 B 尋找村民的蹤跡
 ETC_20151016_015794	在區域 C 尋找村民的蹤跡
 ETC_20151016_015795	跟著 xx 村民一路遺落下的小珠子來找到他
-ETC_20151016_015796	通過這裡發現的蹤跡來找到村民 
+ETC_20151016_015796	通過這裡發現的蹤跡來找到村民
 ETC_20151016_015797	{memo X}Retrieve the lost objects
 ETC_20151016_015798	{memo X}Use the detector to look for the place where the goods of merchants are buried and bring them back
 ETC_20151016_015799	{memo X}Ask the importance of the tombstone of Nestos
@@ -16184,7 +16184,7 @@ ETC_20151022_016182	You are already receiving the effects of the cure.
 ETC_20151022_016183	Guide the spirit
 ETC_20151022_016184	You are guiding the spirit to the altar of the spirits.
 ETC_20151022_016185	The guided spirits are gathering to the altar of the spirits.
-ETC_20151022_016186	The Guided Spirit-Cooltime 
+ETC_20151022_016186	The Guided Spirit-Cooltime
 ETC_20151022_016187	To receive the cure of the altar of the spirits, you will need more time.
 ETC_20151022_016188	Red Spirits are gathering to the pile of bones.
 ETC_20151022_016189	Blue Spirits are gathering to the pile of bones.
@@ -16193,7 +16193,7 @@ ETC_20151022_016191	Spirits are coming.
 ETC_20151022_016192	Sadhu's Energy
 ETC_20151022_016193	When you hunt for the monster that is haunted by this energy, you will be able to absorb that spirit.
 ETC_20151022_016194	The drug effects of Barbarian
-ETC_20151022_016195	The power has been reduced in half due to the training drug effects of Barbarian. 
+ETC_20151022_016195	The power has been reduced in half due to the training drug effects of Barbarian.
 ETC_20151022_016196	Chill Air Trap
 ETC_20151022_016197	You've been trapped by the Chill Air trap that protects the device
 ETC_20151022_016198
@@ -16210,7 +16210,7 @@ ETC_20151022_016208	The program was executed again.
 ETC_20151022_016209	水晶礦山 任務
 ETC_20151022_016210	Catacombs Mission
 ETC_20151022_016211	西洋劍士
-ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes. 
+ETC_20151022_016212	The Fencer class makes use of the Rapier weapon to rapidly hit successive strikes.
 ETC_20151022_016213	Nestos' Camp
 ETC_20151022_016214	Anastos' Camping Ground
 ETC_20151022_016215	Iborarul Empty Lot
@@ -16277,7 +16277,7 @@ ETC_20151022_016275	Set the blocks of woods that are casted with the spell
 ETC_20151022_016276	Spread the terrible odor
 ETC_20151022_016277	Hand over the potions that can restore HP to Roge
 ETC_20151022_016278	Look for the merchants that are scattered
-ETC_20151022_016279	Look for the herbs that can cure the wounds of Tales 
+ETC_20151022_016279	Look for the herbs that can cure the wounds of Tales
 ETC_20151022_016280	Eliminate the power source
 ETC_20151022_016281	Eliminate the device that forms the defensive layer
 ETC_20151022_016282	Eliminate the caldron
@@ -16405,38 +16405,38 @@ ETC_20151022_016403	Hand over the Small HP potion
 ETC_20151022_016404	Hand over the HP potion
 ETC_20151022_016405	Hand over the Big HP potion
 ETC_20151022_016406	Packing up
-ETC_20151022_016407	你得到了商人的行李.					
-ETC_20151022_016408	Coco. 把這個吃了.					
-ETC_20151022_016409	Coco 正在找商人					
-ETC_20151022_016410	講述商人的所在					
-ETC_20151022_016411	讓它聞聞商人的氣息					
-ETC_20151022_016412	Coco 聞到了商人的味道					
-ETC_20151022_016413	盯著那堆木頭看					
-ETC_20151022_016414	你只能找到腐爛的木頭					
-ETC_20151022_016415	把火炬點上					
-ETC_20151022_016416	治療難民					
-ETC_20151022_016417	精華魔物					
-ETC_20151022_016418	你成功淨化了魔物					
+ETC_20151022_016407	你得到了商人的行李.
+ETC_20151022_016408	Coco. 把這個吃了.
+ETC_20151022_016409	Coco 正在找商人
+ETC_20151022_016410	講述商人的所在
+ETC_20151022_016411	讓它聞聞商人的氣息
+ETC_20151022_016412	Coco 聞到了商人的味道
+ETC_20151022_016413	盯著那堆木頭看
+ETC_20151022_016414	你只能找到腐爛的木頭
+ETC_20151022_016415	把火炬點上
+ETC_20151022_016416	治療難民
+ETC_20151022_016417	精華魔物
+ETC_20151022_016418	你成功淨化了魔物
 ETC_20151022_016419	結合魔物們的靈魂
-ETC_20151022_016420	你獲得了魔物的靈魂					
-ETC_20151022_016421	你沒能吸收魔物的靈魂					
-ETC_20151022_016422	喝掉野蠻人的藥水					
-ETC_20151022_016423	因為藥水的效果ATK增加了!					
+ETC_20151022_016420	你獲得了魔物的靈魂
+ETC_20151022_016421	你沒能吸收魔物的靈魂
+ETC_20151022_016422	喝掉野蠻人的藥水
+ETC_20151022_016423	因為藥水的效果ATK增加了!
 ETC_20151022_016424	調查那本日記
-ETC_20151022_016425	你找不到任何關於巨大藤蔓的線索					
-ETC_20151022_016426	你找到了一些關於巨大藤蔓的線索					
-ETC_20151022_016427	解除防禦裝置					
-ETC_20151022_016428	防禦裝置已被解除					
-ETC_20151022_016429	你拿走了大鍋					
-ETC_20151022_016430	移除能量來源					
-ETC_20151022_016431	你移走了能量來源					
-ETC_20151022_016432	你陷入了冷氣陷阱					
-ETC_20151022_016433	這個道具被鎖住了					
-ETC_20151022_016434	裝備 西洋劍 盾牌					
-ETC_20151022_016435	裝備 西洋劍 匕首					
-ETC_20151022_016436	裝備 西洋劍 副手					
-ETC_20151022_016437	裝備 弩 手槍					
-ETC_20151022_016438	裝備 弩 加農炮					
+ETC_20151022_016425	你找不到任何關於巨大藤蔓的線索
+ETC_20151022_016426	你找到了一些關於巨大藤蔓的線索
+ETC_20151022_016427	解除防禦裝置
+ETC_20151022_016428	防禦裝置已被解除
+ETC_20151022_016429	你拿走了大鍋
+ETC_20151022_016430	移除能量來源
+ETC_20151022_016431	你移走了能量來源
+ETC_20151022_016432	你陷入了冷氣陷阱
+ETC_20151022_016433	這個道具被鎖住了
+ETC_20151022_016434	裝備 西洋劍 盾牌
+ETC_20151022_016435	裝備 西洋劍 匕首
+ETC_20151022_016436	裝備 西洋劍 副手
+ETC_20151022_016437	裝備 弩 手槍
+ETC_20151022_016438	裝備 弩 加農炮
 ETC_20151022_016439	道具商
 ETC_20151022_016440	[劍士 助教]{nl}Codill
 ETC_20151022_016441	[輕裝盾兵 助教]{nl}Nirin Dameoff
@@ -16479,7 +16479,7 @@ ETC_20151022_016477	剩下的篝火
 ETC_20151022_016478	剩下的柴火
 ETC_20151022_016479	Left Stuff
 ETC_20151022_016480	迷失的移民
-ETC_20151022_016481	任務 
+ETC_20151022_016481	任務
 ETC_20151022_016482	任務將在 5 分鐘後開始
 ETC_20151022_016483	Opend five room {nl}
 ETC_20151022_016484	Defeat all monsters!
@@ -16529,7 +16529,7 @@ ETC_20151102_016527	길로그데라
 ETC_20151102_016528	키르 성곽지
 ETC_20151102_016529	네밸랫 광산 1층
 ETC_20151102_016530	네밸랫 광산 2층
-ETC_20151102_016531	Topes Mine 1F	
+ETC_20151102_016531	Topes Mine 1F
 ETC_20151102_016532	Topes Mine 2F
 ETC_20151102_016533	Sicarius 1F
 ETC_20151102_016534	Sicarius 2F
@@ -16578,7 +16578,7 @@ ETC_20151102_016576	마군주 자우라가 소녀를 데리고 사라졌습니�
 ETC_20151102_016577	왕국군 경비병이 몬스터에게 쫓기고 있습니다!{nl}일단 구해 주는 것이 좋겠습니다!
 ETC_20151102_016578	죄송합니다. 나가주십시오
 ETC_20151102_016579	저희는 이곳을 조사하러…
-ETC_20151102_016580	나모트 
+ETC_20151102_016580	나모트
 ETC_20151102_016581	나모트 성수의 효과 : 마족에게 발각당하지 않음
 ETC_20151102_016582	얼음속성 저항력 감소
 ETC_20151102_016583	염력 스크롤의 영향
@@ -17389,7 +17389,7 @@ ETC_20151102_017387	보호 결계 수정을 설치했습니다
 ETC_20151102_017388	나모트 성수를 마셨습니다{nl}당분간 마족들에게 보이지 않습니다!
 ETC_20151102_017389	나모트 문양
 ETC_20151102_017390	[위저드 서브 마스터]{nl}데어미스
-ETC_20151102_017391	[파이로맨서 서브 마스터]{nl}캐시 나이머스 
+ETC_20151102_017391	[파이로맨서 서브 마스터]{nl}캐시 나이머스
 ETC_20151102_017392	[크리오맨서 서브 마스터]{nl}옥타비아 이프린
 ETC_20151102_017393	[사이코키노 마스터]{nl}일리 테리드
 ETC_20151102_017394	[링커 마스터]{nl}위노나 엔데
